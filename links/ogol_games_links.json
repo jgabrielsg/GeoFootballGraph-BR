@@ -1,0 +1,647 @@
+{
+  "acre": {
+    "1": {
+      "2025": "campeonato-acreano-2025/193758",
+      "2024": "campeonato-acreano-2024/181435",
+      "2023": "campeonato-acreano-2023/170727",
+      "2022": "campeonato-acreano-2022/162216",
+      "2021": "campeonato-acreano-2021/155930",
+      "2020": "campeonato-acreano-2020/141081"
+    },
+    "2": {
+      "2025": "acreano-2-divisao-2025/201597"
+    }
+  },
+  "alagoas": {
+    "1": {
+      "2025": "campeonato-alagoano-2025/193588",
+      "2024": "campeonato-alagoano-2024/180882",
+      "2023": "campeonato-alagoano-2023/170141",
+      "2022": "campeonato-alagoano-2022/161301",
+      "2021": "campeonato-alagoano-2021/149756",
+      "2020": "campeonato-alagoano-2020/140434"
+    },
+    "2": {
+      "2025": "alagoano-2-divisao-2025/202581",
+      "2024": "alagoano-2-divisao-2024/189360",
+      "2023": "alagoano-2-divisao-2022-23/174428",
+      "2022": "alagoano-2-divisao-2022/164503",
+      "2021": "alagoano-2-divisao-2021/156647",
+      "2020": "alagoano-2-divisao-2020/148865"
+    },
+    "copas": {
+      "2025": "copa-alagoas-2025/193590",
+      "2024": "copa-alagoas-2024/182887",
+      "2023": "copa-alagoas-2023/170265",
+      "2022": "copa-alagoas-2022/161273",
+      "2021": "copa-alagoas-2021/149764",
+      "2020": "copa-alagoas-2020/140376"
+    }
+  },
+  "amapa": {
+    "1": {
+      "2025": "campeonato-amapaense-2025/193761",
+      "2024": "campeonato-amapaense-2024/181267",
+      "2023": "campeonato-amapaense-2023/173410",
+      "2022": "campeonato-amapaense-2022/162918",
+      "2021": "campeonato-amapaense-2021/154252",
+      "2020": "campeonato-amapaense-2020/141275"
+    },
+    "2": {
+      "2025": "campeonato-amapaense-2-divisao-2025/197917",
+      "2024": "campeonato-amapaense-2-divisao-2024/186563"
+    }
+  },
+  "amazonas": {
+    "1": {
+      "2025": "campeonato-amazonense-2025/193621",
+      "2024": "campeonato-amazonense-2024/181240",
+      "2023": "campeonato-amazonense-2023/169611",
+      "2022": "campeonato-amazonense-2022/161124",
+      "2021": "campeonato-amazonense-2021/149954",
+      "2020": "campeonato-amazonense-2020/140104"
+    },
+    "2": {
+      "2025": "amazonense-2-divisao-2025/198855",
+      "2024": "campeonato-amazonense-serie-b-2024/188540",
+      "2023": "campeonato-amazonense-serie-b-2023/175477",
+      "2022": "campeonato-amazonense-serie-b-2022/166092",
+      "2021": "campeonato-amazonense-serie-b-2021/158154",
+      "2020": "campeonato-amazonense-serie-b-2020/147772"
+    }
+  },
+  "bahia": {
+    "1": {
+      "2025": "campeonato-baiano-2025/193566",
+      "2024": "campeonato-baiano-2024/180903",
+      "2023": "campeonato-baiano-2023/170130",
+      "2022": "campeonato-baiano-2022/161233",
+      "2021": "campeonato-baiano-2021/149730",
+      "2020": "campeonato-baiano-2020/140315"
+    },
+    "2": {
+      "2025": "baiano-2-divisao-2025/196027",
+      "2024": "baiano-2-divisao-2024/186296",
+      "2023": "baiano-2-divisao-2023/173473",
+      "2022": "baiano-2-divisao-2022/163569",
+      "2021": "baiano-2-divisao-2021/155048",
+      "2020": "baiano-2-divisao-2020/147424"
+    }
+  },
+  "ceara": {
+    "1": {
+      "2025": "campeonato-cearense-2025/193104",
+      "2024": "campeonato-cearense-2024/180602",
+      "2023": "campeonato-cearense-2023/170143",
+      "2022": "campeonato-cearense-2022/161017",
+      "2021": "campeonato-cearense-2021/149709",
+      "2020": "campeonato-cearense-2020/140084"
+    },
+    "2": {
+      "2025": "campeonato-cearense-2-divisao-2025/193706",
+      "2024": "campeonato-cearense-2-divisao-2024/183007",
+      "2023": "campeonato-cearense-2-divisao-2023/171558",
+      "2022": "campeonato-cearense-2-divisao-2022/164261",
+      "2021": "campeonato-cearense-2-divisao-2021/155933",
+      "2020": "campeonato-cearense-2-divisao-2020/148797"
+    },
+    "3": {
+      "2025": "campeonato-cearense-3-divisao-2025/199542",
+      "2024": "campeonato-cearense-3-divisao-2024/186331",
+      "2023": "campeonato-cearense-3-divisao-2023/175413",
+      "2022": "campeonato-cearense-3-divisao-2022/166615",
+      "2021": "campeonato-cearense-3-divisao-2021/159233",
+      "2020": "campeonato-cearense-3-divisao-2020/149644"
+    },
+    "copas": {
+      "2025": "taca-fares-lopes-2025/205193",
+      "2024": "taca-fares-lopes-2024/190813",
+      "2023": "copa-fares-lopes-2023/175638",
+      "2022": "copa-fares-lopes-2022/166805",
+      "2021": "copa-fares-lopes-2021/159480",
+      "2020": "copa-fares-lopes-2020/149606"
+    }
+  },
+  "distrito-federal": {
+    "1": {
+      "2025": "campeonato-brasiliense-2025/193593",
+      "2024": "campeonato-brasiliense-2024/180932",
+      "2023": "campeonato-brasiliense-2023/169714",
+      "2022": "campeonato-brasiliense-2022/161037",
+      "2021": "campeonato-brasiliense-2021/150064",
+      "2020": "campeonato-brasiliense-2020/140829"
+    },
+    "2": {
+      "2025": "brasiliense-2-divisao-2025/203163",
+      "2024": "brasiliense-2-divisao-2024/189492",
+      "2023": "brasiliense-2-divisao-2023/176512",
+      "2022": "brasiliense-2-divisao-2022/165999",
+      "2021": "brasiliense-2-divisao-2021/156050",
+      "2020": "brasiliense-2-divisao-2020/147778"
+    }
+  },
+  "espirito-santo": {
+    "1": {
+      "2025": "campeonato-capixaba-2025/193617",
+      "2024": "campeonato-capixaba-2024/180473",
+      "2023": "campeonato-capixaba-2023/170344",
+      "2022": "campeonato-capixaba-2022/161048",
+      "2021": "campeonato-capixaba-2021/149946",
+      "2020": "campeonato-capixaba-2020/140532"
+    },
+    "2": {
+      "2025": "campeonato-capixaba-serie-b-2025/202832",
+      "2024": "campeonato-capixaba-serie-b-2024/189777",
+      "2023": "campeonato-capixaba-serie-b-2023/176950",
+      "2022": "campeonato-capixaba-serie-b-2022/166959",
+      "2021": "campeonato-capixaba-serie-b-2021/155419",
+      "2020": "campeonato-capixaba-serie-b-2020/142260"
+    },
+    "copas": {
+      "2025": "copa-espirito-santo-2025/196405",
+      "2024": "copa-espirito-santo-2024/186223",
+      "2023": "copa-espirito-santo-2023/174174",
+      "2022": "copa-espirito-santo-2022/164331",
+      "2021": "copa-espirito-santo-2021/156518",
+      "2020": "copa-espirito-santo-2020/156517"
+    }
+  },
+  "goias": {
+    "1": {
+      "2025": "campeonato-goiano-2025/193170",
+      "2024": "campeonato-goiano-2024/180663",
+      "2023": "campeonato-goiano-2023/170205",
+      "2022": "campeonato-goiano-2022/160847",
+      "2021": "campeonato-goiano-2021/149879",
+      "2020": "campeonato-goiano-2020/140443"
+    },
+    "2": {
+      "2025": "goiano-2-divisao-2025/197075",
+      "2024": "goiano-2-divisao-2024/185168",
+      "2023": "goiano-2-divisao-2023/175757",
+      "2022": "goiano-2-divisao-2022/166021",
+      "2021": "goiano-2-divisao-2021/156484",
+      "2020": "goiano-2-divisao-2020/147534"
+    },
+    "3": {
+      "2025": "campeonato-goiano-3-divisao-2025/203635",
+      "2024": "campeonato-goiano-3-divisao-2024/188433",
+      "2023": "campeonato-goiano-3-divisao-2023/176858",
+      "2022": "campeonato-goiano-3-divisao-2022/166285",
+      "2021": "campeonato-goiano-3-divisao-2021/157164",
+      "2020": "campeonato-goiano-3-divisao-2020/157163"
+    }
+  },
+  "maranhao": {
+    "1": {
+      "2025": "campeonato-maranhense-2025/193619",
+      "2024": "campeonato-maranhense-2024/181094",
+      "2023": "campeonato-maranhense-2023/170346",
+      "2022": "campeonato-maranhense-2022/161200",
+      "2021": "campeonato-maranhense-2021/149942",
+      "2020": "campeonato-maranhense-2020/140086"
+    },
+    "2": {
+      "2025": "maranhense-serie-b-2025/205113",
+      "2024": "maranhense-serie-b-2024/190177",
+      "2023": "maranhense-serie-b-2023/177123",
+      "2022": "maranhense-serie-b-2022/166405",
+      "2021": "maranhense-serie-b-2021/156868",
+      "2020": "maranhense-serie-b-2020/149015"
+    }
+  },
+  "mato-grosso": {
+    "1": {
+      "2025": "campeonato-mato-grossense-2025/193596",
+      "2024": "campeonato-mato-grossense-2024/181185",
+      "2023": "campeonato-mato-grossense-2023/170252",
+      "2022": "campeonato-mato-grossense-2022/160667",
+      "2021": "campeonato-mato-grossense-2021/149833",
+      "2020": "campeonato-mato-grossense-2020/140374"
+    },
+    "2": {
+      "2024": "mato-grossense-2-divisao-2024/185433",
+      "2023": "mato-grossense-2-divisao-2023/174153",
+      "2022": "mato-grossense-2-divisao-2022/163840",
+      "2021": "mato-grossense-2-divisao-2021/155109",
+      "2020": "mato-grossense-2-divisao-2020/147773"
+    },
+    "copas": {
+      "2024": "copa-fmf-mato-grosso-2024/189427",
+      "2023": "copa-fmf-mato-grosso-2023/177000",
+      "2022": "copa-fmf-mato-grosso-2022/167217",
+      "2021": "copa-fmf-mato-grosso-2021/156520",
+      "2020": "copa-fmf-mato-grosso-2020/156519"
+    }
+  },
+  "mato-grosso-do-sul": {
+    "1": {
+      "2025": "campeonato-sul-mato-grossense-2025/193615",
+      "2024": "campeonato-sul-mato-grossense-2024/181242",
+      "2023": "campeonato-sul-mato-grossense-2023/170419",
+      "2022": "campeonato-sul-mato-grossense-2022/160505",
+      "2021": "campeonato-sul-mato-grossense-2021/150144",
+      "2020": "campeonato-sul-mato-grossense-2020/140570"
+    },
+    "2": {
+      "2025": "sul-mato-grossense-serie-b-2025/203636",
+      "2024": "sul-mato-grossense-serie-b-2024/189496",
+      "2023": "sul-mato-grossense-serie-b-2023/177876",
+      "2022": "sul-mato-grossense-serie-b-2022/168300",
+      "2021": "sul-mt-grossense-serie-b-2021/160330",
+      "2020": "sul-mt-grossense-serie-b-2020/150509"
+    }
+  },
+  "minas-gerais": {
+    "1": {
+      "2025": "campeonato-mineiro-2025/193144",
+      "2024": "campeonato-mineiro-2024/180822",
+      "2023": "campeonato-mineiro-2023/170233",
+      "2022": "campeonato-mineiro-2022/160815",
+      "2021": "campeonato-mineiro-2021/149744",
+      "2020": "campeonato-mineiro-2020/140394"
+    },
+    "2": {
+      "2025": "campeonato-mineiro-modulo-ii-2025/195821",
+      "2024": "campeonato-mineiro-modulo-ii-2024/184441",
+      "2023": "campeonato-mineiro-modulo-ii-2023/172992",
+      "2022": "campeonato-mineiro-modulo-ii-2022/162594",
+      "2021": "campeonato-mineiro-modulo-ii-2021/155054",
+      "2020": "campeonato-mineiro-modulo-ii-2020/140724"
+    },
+    "3": {
+      "2025": "campeonato-mineiro-2-divisao-2025/202380",
+      "2024": "campeonato-mineiro-2-divisao-2024/188373",
+      "2023": "campeonato-mineiro-2-divisao-2023/175825",
+      "2022": "campeonato-mineiro-2-divisao-2022/165959",
+      "2021": "campeonato-mineiro-2-divisao-2021/156648",
+      "2020": "campeonato-mineiro-2-divisao-2020/147837"
+    }
+  },
+  "para": {
+    "1": {
+      "2025": "campeonato-paraense-2025/193638",
+      "2024": "campeonato-paraense-2024/180956",
+      "2023": "campeonato-paraense-2023/170242",
+      "2022": "campeonato-paraense-2022/161525",
+      "2021": "campeonato-paraense-2021/149950",
+      "2020": "campeonato-paraense-2020/140603"
+    },
+    "2": {
+      "2025": "campeonato-paraense-serie-a2-2025/197936",
+      "2024": "campeonato-paraense-serie-b1-2024/189707",
+      "2023": "campeonato-paraense-2-divisao-2023/176130",
+      "2022": "campeonato-paraense-2-divisao-2022/167419",
+      "2021": "campeonato-paraense-2-divisao-2021/157266",
+      "2020": "campeonato-paraense-2-divisao-2020/147766"
+    },
+    "3": {
+      "2025": "campeonato-paraense-serie-a3-2025/205253",
+      "2024": "campeonato-paraense-serie-b2-2024/187172",
+      "2023": "campeonato-paraense-serie-b2-2023/175244"
+    },
+    "copas": {
+      "2025": "copa-grao-para-2025/196514",
+      "2024": "copa-grao-para-2024/185262"
+    }
+  },
+  "paraiba": {
+    "1": {
+      "2025": "campeonato-paraibano-2025/193142",
+      "2024": "campeonato-paraibano-2024/180893",
+      "2023": "campeonato-paraibano-2023/170267",
+      "2022": "campeonato-paraibano-2022/161235",
+      "2021": "campeonato-paraibano-2021/150142",
+      "2020": "campeonato-paraibano-2020/140381"
+    },
+    "2": {
+      "2025": "paraibano-2-divisao-2025/203036",
+      "2024": "paraibano-2-divisao-2024/189208",
+      "2023": "paraibano-2-divisao-2023/177351",
+      "2022": "paraibano-2-divisao-2022/166681",
+      "2021": "paraibano-2-divisao-2021/157598"
+    }
+  },
+  "parana": {
+    "1": {
+      "2025": "campeonato-paranaense-2025/193101",
+      "2024": "campeonato-paranaense-2024/180482",
+      "2023": "campeonato-paranaense-2023/170237",
+      "2022": "campeonato-paranaense-2022/160849",
+      "2021": "campeonato-paranaense-2021/149891",
+      "2020": "campeonato-paranaense-2020/140338"
+    },
+    "2": {
+      "2025": "campeonato-paranaense-2-divisao-2025/195551",
+      "2024": "campeonato-paranaense-2-divisao-2024/185127",
+      "2023": "campeonato-paranaense-2-divisao-2023/172988",
+      "2022": "campeonato-paranaense-2-divisao-2022/162351",
+      "2021": "campeonato-paranaense-2-divisao-2021/156504",
+      "2020": "campeonato-paranaense-2-divisao-2020/142430"
+    },
+    "3": {
+      "2025": "campeonato-paranaense-3-divisao-2025/202578",
+      "2024": "campeonato-paranaense-3-divisao-2024/188053",
+      "2023": "campeonato-paranaense-3-divisao-2023/176998",
+      "2022": "campeonato-paranaense-3-divisao-2022/166208",
+      "2021": "campeonato-paranaense-3-divisao-2021/157953",
+      "2020": "campeonato-paranaense-3-divisao-2020/147928"
+    },
+    "copas": {
+      "2025": "taca-federacao-paranaense-de-futebol-2025/204348"
+    }
+  },
+  "pernambuco": {
+    "1": {
+      "2025": "campeonato-pernambucano-2025/193574",
+      "2024": "campeonato-pernambucano-2024/181204",
+      "2023": "campeonato-pernambucano-2023/170519",
+      "2022": "campeonato-pernambucano-2022/161255",
+      "2021": "campeonato-pernambucano-2021/150489",
+      "2020": "campeonato-pernambucano-2020/140332"
+    },
+    "2": {
+      "2025": "campeonato-pernambucano-a2-2025/204318",
+      "2024": "campeonato-pernambucano-a2-2024/187566",
+      "2023": "campeonato-pernambucano-a2-2023/175724",
+      "2022": "campeonato-pernambucano-a2-2022/167839",
+      "2021": "campeonato-pernambucano-a2-2021/156471",
+      "2020": "campeonato-pernambucano-a2-2020/147931"
+    }
+  },
+  "piaui": {
+    "1": {
+      "2025": "campeonato-piauiense-2025/193181",
+      "2024": "campeonato-piauiense-2024/180471",
+      "2023": "campeonato-piauiense-2023/170207",
+      "2022": "campeonato-piauiense-2022/161142",
+      "2021": "campeonato-piauiense-2021/150061",
+      "2020": "campeonato-piauiense-2020/140141"
+    },
+    "2": {
+      "2025": "piauiense-serie-b-2025/205151",
+      "2024": "piauiense-serie-b-2024/189347",
+      "2023": "piauiense-serie-b-2023/177001",
+      "2022": "piauiense-serie-b-2022/166766",
+      "2021": "piauiense-serie-b-2021/156505",
+      "2020": "piauiense-serie-b-2020/147779"
+    }
+  },
+  "rio-de-janeiro": {
+    "1": {
+      "2025": "campeonato-carioca-2025/193141",
+      "2024": "campeonato-carioca-2024/180805",
+      "2023": "campeonato-carioca-2023/170183",
+      "2022": "campeonato-carioca-2022/160589",
+      "2021": "campeonato-carioca-2021/149225",
+      "2020": "campeonato-carioca-2020/140351"
+    },
+    "2": {
+      "2025": "carioca-serie-a2-2025/196651",
+      "2024": "carioca-serie-a2-2024/184984",
+      "2023": "carioca-serie-a2-2023/173409",
+      "2022": "carioca-serie-a2-2022/162473",
+      "2021": "carioca-serie-a2-2021/154516",
+      "2020": "carioca-serie-b1-2020/146660"
+    },
+    "3": {
+      "2025": "carioca-serie-b1-2025/203139",
+      "2024": "carioca-serie-b1-2024/189209",
+      "2023": "carioca-serie-b1-2023/176640",
+      "2022": "carioca-serie-b1-2022/166287",
+      "2021": "carioca-serie-b1-2021/156652",
+      "2020": "carioca-serie-b2-2020/148004"
+    },
+    "4": {
+      "2025": "carioca-serie-b2-2025/203674",
+      "2024": "carioca-serie-b2-2024/189210",
+      "2023": "carioca-serie-b2-2023/176641",
+      "2022": "carioca-serie-b2-2022/166288",
+      "2021": "carioca-serie-b2-2021/156866"
+    },
+    "5": {
+      "2025": "carioca-serie-c-2025/196744",
+      "2024": "carioca-serie-c-2024/184964",
+      "2023": "carioca-serie-c-2023/173274",
+      "2022": "carioca-serie-c-2022/163279",
+      "2021": "carioca-serie-c-2021/154263"
+    },
+    "copas": {
+      "2025": "copa-rio-2025/197985",
+      "2024": "copa-rio-2024/186759",
+      "2023": "copa-rio-2023/175403",
+      "2022": "copa-rio-2022/163999",
+      "2021": "copa-rio-2021/156284"
+    }
+  },
+  "rio-grande-do-norte": {
+    "1": {
+      "2025": "campeonato-potiguar-2025/193639",
+      "2024": "campeonato-potiguar-2024/181202",
+      "2023": "campeonato-potiguar-2023/170239",
+      "2022": "campeonato-potiguar-2022/161237",
+      "2021": "campeonato-potiguar-2021/150485",
+      "2020": "campeonato-potiguar-2020/141002"
+    },
+    "2": {
+      "2025": "potiguar-2-divisao-2025/205251",
+      "2024": "potiguar-2-divisao-2024/190325",
+      "2023": "potiguar-2-divisao-2023/177398",
+      "2022": "potiguar-2-divisao-2022/168275",
+      "2021": "potiguar-2-divisao-2021/157066",
+      "2020": "potiguar-2-divisao-2020/149708"
+    }
+  },
+  "rio-grande-do-sul": {
+    "1": {
+      "2025": "campeonato-gaucho-2025/193072",
+      "2024": "campeonato-gaucho-2024/180895",
+      "2023": "campeonato-gaucho-2023/170308",
+      "2022": "campeonato-gaucho-2022/160830",
+      "2021": "campeonato-gaucho-2021/149742",
+      "2020": "campeonato-gaucho-2020/140579"
+    },
+    "2": {
+      "2025": "campeonato-gaucho-serie-b-2025/205818",
+      "2024": "campeonato-gaucho-2-divisao-2024/189562",
+      "2023": "campeonato-gaucho-2-divisao-2023/177399",
+      "2022": "campeonato-gaucho-2-divisao-2022/165932",
+      "2021": "campeonato-gaucho-2-divisao-2021/154840",
+      "2020": "campeonato-gaucho-2-divisao-2020/148526"
+    },
+    "3": {
+      "2025": "campeonato-gaucho-serie-b-2025/205818",
+      "2024": "campeonato-gaucho-2-divisao-2024/189562",
+      "2023": "campeonato-gaucho-2-divisao-2023/177399",
+      "2022": "campeonato-gaucho-2-divisao-2022/165932",
+      "2021": "campeonato-gaucho-2-divisao-2021/154840"
+    },
+    "copas": {
+      "2025": "copa-federacao-gaucha-de-futebol-205188",
+      "2024": "copa-federacao-gaucha-de-futebol-2024/189405",
+      "2023": "copa-federacao-gaucha-de-futebol-2023/175417",
+      "2022": "copa-federacao-gaucha-de-futebol-2022/166809",
+      "2021": "copa-federacao-gaucha-de-futebol-2021/156867",
+      "2020": "copa-federacao-gaucha-de-futebol-2020/148874"
+    }
+  },
+  "rondonia": {
+    "1": {
+      "2025": "campeonato-rondoniense-2025/193762",
+      "2024": "campeonato-rondoniense-2024/181206",
+      "2023": "campeonato-rondoniense-2023/170623",
+      "2022": "campeonato-rondoniense-2022/160665",
+      "2021": "campeonato-rondoniense-2021/150119",
+      "2020": "campeonato-rondoniense-2020/140598"
+    },
+    "2": {
+      "2025": "campeonato-rondoniense-2-divisao-2025/206053",
+      "2024": "campeonato-rondoniense-2-divisao-2024/189591",
+      "2023": "campeonato-rondoniense-2-divisao-2023/177449",
+      "2022": "campeonato-rondoniense-2-divisao-2022/166953",
+      "2021": "campeonato-rondoniense-2-divisao-2021/160075"
+    }
+  },
+  "roraima": {
+    "1": {
+      "2025": "campeonato-roraimense-2025/194553",
+      "2024": "campeonato-roraimense-2024/183650",
+      "2023": "campeonato-roraimense-2023/172509",
+      "2022": "campeonato-roraimense-2022/161776",
+      "2021": "campeonato-roraimense-2021/154858",
+      "2020": "campeonato-roraimense-2020/142322"
+    }
+  },
+  "santa-catarina": {
+    "1": {
+      "2025": "campeonato-catarinense-2025/193271",
+      "2024": "campeonato-catarinense-2024/180911",
+      "2023": "campeonato-catarinense-2023/170192",
+      "2022": "campeonato-catarinense-2022/161034",
+      "2021": "campeonato-catarinense-2021/149801",
+      "2020": "campeonato-catarinense-2020/140440"
+    },
+    "2": {
+      "2025": "campeonato-catarinense-serie-b-2025/197350",
+      "2024": "campeonato-catarinense-serie-b-2024/184683",
+      "2023": "campeonato-catarinense-serie-b-2023/172991",
+      "2022": "campeonato-catarinense-serie-b-2022/164335",
+      "2021": "campeonato-catarinense-serie-b-2021/154639",
+      "2020": "campeonato-catarinense-serie-b-2020/146981"
+    },
+    "3": {
+      "2025": "catarinense-serie-c-2025/202580",
+      "2024": "catarinense-serie-c-2024/189522",
+      "2023": "catarinense-serie-c-2023/176383",
+      "2022": "catarinense-serie-c-2022/166168",
+      "2021": "catarinense-serie-c-2021/157590",
+      "2020": "catarinense-serie-c-2020/149687"
+    },
+    "copas": {
+      "2025": "copa-santa-catarina-2025/203164",
+      "2024": "copa-santa-catarina-2024/189271",
+      "2023": "copa-santa-catarina-2023/176178",
+      "2022": "copa-santa-catarina-2022/166061",
+      "2021": "copa-santa-catarina-2021/156869",
+      "2020": "copa-santa-catarina-2020/148877"
+    }
+  },
+  "sao-paulo": {
+    "1": {
+      "2025": "campeonato-paulista-2025/192776",
+      "2024": "campeonato-paulista-2024/180414",
+      "2023": "campeonato-paulista-2023/169944",
+      "2022": "campeonato-paulista-2022/160302",
+      "2021": "campeonato-paulista-2021/149641",
+      "2020": "campeonato-paulista-2020/139360"
+    },
+    "2": {
+      "2025": "campeonato-paulista-serie-a2-2025/193318",
+      "2024": "campeonato-paulista-serie-a2-2024/180969",
+      "2023": "campeonato-paulista-serie-a2-2023/170201",
+      "2022": "campeonato-paulista-serie-a2-2022/160881",
+      "2021": "campeonato-paulista-serie-a2-2021/149869",
+      "2020": "campeonato-paulista-serie-a2-2020/140413"
+    },
+    "3": {
+      "2025": "campeonato-paulista-serie-a3-2025/193633",
+      "2024": "campeonato-paulista-serie-a3-2024/181255",
+      "2023": "campeonato-paulista-serie-a3-2023/170368",
+      "2022": "campeonato-paulista-serie-a3-2022/160882",
+      "2021": "campeonato-paulista-serie-a3-2021/149996",
+      "2020": "campeonato-paulista-serie-a3-2020/140438"
+    },
+    "4": {
+      "2025": "campeonato-paulista-serie-a4-2025/193634",
+      "2024": "campeonato-paulista-serie-a4-2024/182016"
+    },
+    "5": {
+      "2025": "campeonato-paulista-segunda-divisao-2025/196046",
+      "2024": "campeonato-paulista-segunda-divisao-2024/184853",
+      "2023": "campeonato-paulista-segunda-divisao-2023/172924",
+      "2022": "campeonato-paulista-segunda-divisao-2022/162468",
+      "2021": "campeonato-paulista-segunda-divisao-2021/156072",
+      "2020": "campeonato-paulista-segunda-divisao-2020/142379"
+    }
+  },
+  "sergipe": {
+    "1": {
+      "2025": "campeonato-sergipano-2025/193481",
+      "2024": "campeonato-sergipano-2024/180906",
+      "2023": "campeonato-sergipano-2023/170124",
+      "2022": "campeonato-sergipano-2022/160659",
+      "2021": "campeonato-sergipano-2021/149747",
+      "2020": "campeonato-sergipano-2020/140360"
+    },
+    "2": {
+      "2025": "campeonato-sergipano-a2-2025/203301",
+      "2024": "campeonato-sergipano-a2-2024/189276",
+      "2023": "campeonato-sergipano-a2-2023/176999",
+      "2022": "campeonato-sergipano-a2-2022/166000",
+      "2021": "campeonato-sergipano-a2-2021/156946",
+      "2020": "campeonato-sergipano-a2-2020/147804"
+    },
+    "3": {
+      "2025": "campeonato-sergipano-a3-2025/203188"
+    },
+    "copas": {
+      "2025": "copa-governo-do-estado-de-sergipe-202827"
+    }
+  },
+  "tocantins": {
+    "1": {
+      "2025": "campeonato-tocantinense-2025/193645",
+      "2024": "campeonato-tocantinense-2024/180703",
+      "2023": "campeonato-tocantinense-2023/170416",
+      "2022": "campeonato-tocantinense-2022/161485",
+      "2021": "campeonato-tocantinense-2021/149728",
+      "2020": "campeonato-tocantinense-2020/140349"
+    },
+    "2": {
+      "2025": "campeonato-tocantinense-2-divisao-2025/206054",
+      "2024": "campeonato-tocantinense-2-divisao-2024/190612",
+      "2023": "campeonato-tocantinense-2-divisao-2023/177352",
+      "2022": "campeonato-tocantinense-2-divisao-2022/169043",
+      "2021": "campeonato-tocantinense-2-divisao-2021/161018",
+      "2020": "campeonato-tocantinense-2-divisao-2020/148888"
+    }
+  },
+  "regionais": {
+    "copa-verde": {
+      "2025": "copa-verde-2025/193646",
+      "2024": "copa-verde-2024/182000",
+      "2023": "copa-verde-2023/170593",
+      "2022": "copa-verde-2022/167478",
+      "2021": "copa-verde-2021/159131",
+      "2020": "copa-verde-2020/149653"
+    },
+    "copa-do-nordeste": {
+      "2025": "copa-do-nordeste-2025/194343",
+      "2024": "copa-do-nordeste-2024/182594",
+      "2023": "copa-do-nordeste-2023/171122",
+      "2022": "copa-do-nordeste-2022/160950",
+      "2021": "copa-do-nordeste-2021/150345",
+      "2020": "copa-do-nordeste-2020/140062"
+    }
+  }
+}

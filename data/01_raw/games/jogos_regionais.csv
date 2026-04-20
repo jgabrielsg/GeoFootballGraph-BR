@@ -1,0 +1,594 @@
+estado;divisao;ano;data;mandante;mandante_estado;visitante;visitante_estado;placar;resultado;peso_importancia;gols_mandante;gols_visitante;estado_slug
+regional;0;2025;2025-01-22;CEILÂNDIA;regional;CAPITAL CF;regional;1-1(0-3 Pen.);D;1.0;1;1;regional
+regional;0;2025;2025-01-22;GAZIN PORTO VELHO;regional;HUMAITÁ;regional;3-2;H;1.0;3;2;regional
+regional;0;2025;2025-01-22;TOCANTINÓPOLIS;regional;GAS;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-01-22;VITÓRIA;regional;RIO BRANCO;regional;1-2;A;1.0;1;2;regional
+regional;0;2025;2025-01-22;ÁGUIA;regional;INDEPENDÊNCIA;regional;1-1(3-1 Pen.);D;1.0;1;1;regional
+regional;0;2025;2025-01-22;UNIÃO RONDONÓPOLIS;regional;UNIÃO ATLÉTICO;regional;3-0;H;1.0;3;0;regional
+regional;0;2025;2025-01-22;SÃO RAIMUNDO;regional;TREM;regional;4-1;H;1.0;4;1;regional
+regional;0;2025;2025-01-22;OPERÁRIO;regional;LUVERDENSE;regional;0-1;A;1.0;0;1;regional
+regional;0;2025;2025-02-04;APARECIDENSE;regional;UNIÃO RONDONÓPOLIS;regional;2-3;A;1.0;2;3;regional
+regional;0;2025;2025-02-04;VILA NOVA;regional;LUVERDENSE;regional;1-1(9-8 Pen.);D;1.0;1;1;regional
+regional;0;2025;2025-02-05;PAYSANDU;regional;GAZIN PORTO VELHO;regional;1-1(5-4 Pen.);D;1.0;1;1;regional
+regional;0;2025;2025-02-05;AMAZONAS;regional;TOCANTINÓPOLIS;regional;5-1;H;1.0;5;1;regional
+regional;0;2025;2025-02-06;BRASILIENSE;regional;CAPITAL CF;regional;0-0(5-3 Pen.);D;1.0;0;0;regional
+regional;0;2025;2025-02-06;GOIÁS;regional;RIO BRANCO;regional;6-0;H;1.0;6;0;regional
+regional;0;2025;2025-02-06;REMO;regional;SÃO RAIMUNDO;regional;1-1(3-4 Pen.);D;1.0;1;1;regional
+regional;0;2025;2025-02-06;MANAUS;regional;ÁGUIA;regional;3-2;H;1.0;3;2;regional
+regional;0;2025;2025-02-12;UNIÃO RONDONÓPOLIS;regional;GOIÁS;regional;0-2;A;1.0;0;2;regional
+regional;0;2025;2025-02-12;SÃO RAIMUNDO;regional;AMAZONAS;regional;2-0;H;1.0;2;0;regional
+regional;0;2025;2025-02-13;PAYSANDU;regional;MANAUS;regional;0-0;D;1.0;0;0;regional
+regional;0;2025;2025-02-13;BRASILIENSE;regional;VILA NOVA;regional;1-1;D;1.0;1;1;regional
+regional;0;2025;2025-02-19;VILA NOVA;regional;BRASILIENSE;regional;1-3;A;1.0;1;3;regional
+regional;0;2025;2025-02-26;GOIÁS;regional;UNIÃO RONDONÓPOLIS;regional;3-0;H;1.0;3;0;regional
+regional;0;2025;2025-02-26;MANAUS;regional;PAYSANDU;regional;1-4;A;1.0;1;4;regional
+regional;0;2025;2025-02-27;AMAZONAS;regional;SÃO RAIMUNDO;regional;0-0;D;1.0;0;0;regional
+regional;0;2025;2025-03-12;BRASILIENSE;regional;GOIÁS;regional;3-3;D;1.0;3;3;regional
+regional;0;2025;2025-03-12;SÃO RAIMUNDO;regional;PAYSANDU;regional;2-2;D;1.0;2;2;regional
+regional;0;2025;2025-03-19;GOIÁS;regional;BRASILIENSE;regional;0-0(5-4 Pen.);D;1.0;0;0;regional
+regional;0;2025;2025-03-19;PAYSANDU;regional;SÃO RAIMUNDO;regional;3-0;H;1.0;3;0;regional
+regional;0;2025;2025-04-09;PAYSANDU;regional;GOIÁS;regional;0-0;D;1.0;0;0;regional
+regional;0;2025;2025-04-23;GOIÁS;regional;PAYSANDU;regional;1-1(4-5 Pen.);D;1.0;1;1;regional
+regional;0;2024;2024-02-22;HUMAITÁ;regional;TREM;regional;1-1(2-4 Pen.);D;1.0;1;1;regional
+regional;0;2024;2024-02-28;CEILÂNDIA;regional;REAL BRASÍLIA;regional;0-0(4-3 Pen.);D;1.0;0;0;regional
+regional;0;2024;2024-02-28;GAZIN PORTO VELHO;regional;ANÁPOLIS;regional;1-1(5-3 Pen.);D;1.0;1;1;regional
+regional;0;2024;2024-02-28;REAL NOROESTE;regional;RIO BRANCO;regional;1-2;A;1.0;1;2;regional
+regional;0;2024;2024-02-28;ÁGUIA;regional;RIO BRANCO;regional;0-2;A;1.0;0;2;regional
+regional;0;2024;2024-02-28;TOCANTINÓPOLIS;regional;MANAUARA;regional;2-1;H;1.0;2;1;regional
+regional;0;2024;2024-02-28;UNIÃO RONDONÓPOLIS;regional;COSTA RICA;regional;4-0;H;1.0;4;0;regional
+regional;0;2024;2024-02-29;SÃO RAIMUNDO;regional;CAPITAL;regional;3-3(4-4 Pen.);D;1.0;3;3;regional
+regional;0;2024;2024-03-05;MANAUS;regional;TOCANTINÓPOLIS;regional;3-2;H;1.0;3;2;regional
+regional;0;2024;2024-03-06;GOIÁS;regional;UNIÃO RONDONÓPOLIS;regional;2-0;H;1.0;2;0;regional
+regional;0;2024;2024-03-06;PAYSANDU;regional;RIO BRANCO;regional;3-0;H;1.0;3;0;regional
+regional;0;2024;2024-03-06;CUIABÁ;regional;GAZIN PORTO VELHO;regional;5-0;H;1.0;5;0;regional
+regional;0;2024;2024-03-06;AMAZONAS;regional;CAPITAL;regional;4-1;H;1.0;4;1;regional
+regional;0;2024;2024-03-07;REMO;regional;TREM;regional;3-1;H;1.0;3;1;regional
+regional;0;2024;2024-03-07;BRASILIENSE;regional;CEILÂNDIA;regional;0-0;D;1.0;0;0;regional
+regional;0;2024;2024-03-12;VILA NOVA;regional;RIO BRANCO;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-03-20;REMO;regional;AMAZONAS;regional;2-1;H;1.0;2;1;regional
+regional;0;2024;2024-03-20;VILA NOVA;regional;GOIÁS;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-03-20;BRASILIENSE;regional;CUIABÁ;regional;1-4;A;1.0;1;4;regional
+regional;0;2024;2024-03-21;MANAUS;regional;PAYSANDU;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-03-23;AMAZONAS;regional;REMO;regional;2-2;D;1.0;2;2;regional
+regional;0;2024;2024-03-24;PAYSANDU;regional;MANAUS;regional;4-1;H;1.0;4;1;regional
+regional;0;2024;2024-03-24;GOIÁS;regional;VILA NOVA;regional;1-1;D;1.0;1;1;regional
+regional;0;2024;2024-03-27;CUIABÁ;regional;BRASILIENSE;regional;4-1;H;1.0;4;1;regional
+regional;0;2024;2024-04-03;PAYSANDU;regional;REMO;regional;0-0;D;1.0;0;0;regional
+regional;0;2024;2024-04-10;REMO;regional;PAYSANDU;regional;1-1(3-4 Pen.);D;1.0;1;1;regional
+regional;0;2024;2024-04-17;VILA NOVA;regional;CUIABÁ;regional;2-0;H;1.0;2;0;regional
+regional;0;2024;2024-05-11;CUIABÁ;regional;VILA NOVA;regional;4-2(2-4 Pen.);H;1.0;4;2;regional
+regional;0;2024;2024-05-22;PAYSANDU;regional;VILA NOVA;regional;6-0;H;1.0;6;0;regional
+regional;0;2024;2024-05-29;VILA NOVA;regional;PAYSANDU;regional;0-4;A;1.0;0;4;regional
+regional;0;2023;2023-02-17;ATLÉTICO;regional;SÃO FRANCISCO;regional;3-6;A;1.0;3;6;regional
+regional;0;2023;2023-02-18;CEILÂNDIA;regional;RIO BRANCO;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-02-18;TOCANTINÓPOLIS;regional;OPERÁRIO;regional;1-1;D;1.0;1;1;regional
+regional;0;2023;2023-02-18;LUVERDENSE;regional;INTERPORTO;regional;2-1;H;1.0;2;1;regional
+regional;0;2023;2023-02-18;HUMAITÁ;regional;TREM;regional;2-0;H;1.0;2;0;regional
+regional;0;2023;2023-02-19;CASTANHAL;regional;REAL ARIQUEMES;regional;2-3;A;1.0;2;3;regional
+regional;0;2023;2023-02-19;UNIÃO RONDONÓPOLIS;regional;REAL NOROESTE;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-02-19;RIO BRANCO;regional;PRINCESA;regional;0-1;A;1.0;0;1;regional
+regional;0;2023;2023-02-22;PAYSANDU;regional;REAL ARIQUEMES;regional;3-0;H;1.0;3;0;regional
+regional;0;2023;2023-02-22;GOIÁS;regional;UNIÃO RONDONÓPOLIS;regional;3-0;H;1.0;3;0;regional
+regional;0;2023;2023-02-22;MANAUS;regional;PRINCESA;regional;0-2;A;1.0;0;2;regional
+regional;0;2023;2023-02-22;BRASILIENSE;regional;TOCANTINÓPOLIS;regional;4-2;H;1.0;4;2;regional
+regional;0;2023;2023-02-23;VILA NOVA;regional;LUVERDENSE;regional;0-0(4-3 Pen.);D;1.0;0;0;regional
+regional;0;2023;2023-03-01;REMO;regional;HUMAITÁ;regional;4-1;H;1.0;4;1;regional
+regional;0;2023;2023-03-01;SÃO RAIMUNDO;regional;SÃO FRANCISCO;regional;6-0;H;1.0;6;0;regional
+regional;0;2023;2023-03-01;CUIABÁ;regional;CEILÂNDIA;regional;3-0;H;1.0;3;0;regional
+regional;0;2023;2023-03-08;BRASILIENSE;regional;GOIÁS;regional;0-0;D;1.0;0;0;regional
+regional;0;2023;2023-03-08;PRINCESA;regional;PAYSANDU;regional;0-0;D;1.0;0;0;regional
+regional;0;2023;2023-03-15;VILA NOVA;regional;CUIABÁ;regional;0-2;A;1.0;0;2;regional
+regional;0;2023;2023-03-15;SÃO RAIMUNDO;regional;REMO;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-03-22;REMO;regional;SÃO RAIMUNDO;regional;3-0;H;1.0;3;0;regional
+regional;0;2023;2023-03-22;CUIABÁ;regional;VILA NOVA;regional;1-1;D;1.0;1;1;regional
+regional;0;2023;2023-03-23;GOIÁS;regional;BRASILIENSE;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-03-23;PAYSANDU;regional;PRINCESA;regional;0-0(5-3 Pen.);D;1.0;0;0;regional
+regional;0;2023;2023-03-26;PAYSANDU;regional;REMO;regional;0-1;A;1.0;0;1;regional
+regional;0;2023;2023-03-26;CUIABÁ;regional;GOIÁS;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-03-29;GOIÁS;regional;CUIABÁ;regional;2-0;H;1.0;2;0;regional
+regional;0;2023;2023-03-29;REMO;regional;PAYSANDU;regional;1-2(2-4 Pen.);A;1.0;1;2;regional
+regional;0;2023;2023-05-17;PAYSANDU;regional;GOIÁS;regional;0-2;A;1.0;0;2;regional
+regional;0;2023;2023-05-31;GOIÁS;regional;PAYSANDU;regional;2-1;H;1.0;2;1;regional
+regional;0;2022;2022-10-25;HUMAITÁ;regional;NÁUTICO;regional;3-0;H;1.0;3;0;regional
+regional;0;2022;2022-10-27;GOIÁS;regional;REAL NOROESTE;regional;2-2(4-5 Pen.);D;1.0;2;2;regional
+regional;0;2022;2022-10-28;SÃO RAIMUNDO;regional;SÃO RAIMUNDO;regional;1-2;A;1.0;1;2;regional
+regional;0;2022;2022-10-28;VILA NOVA;regional;CEOV OPERÁRIO;regional;2-1;H;1.0;2;1;regional
+regional;0;2022;2022-10-28;RIO BRANCO;regional;TUNA LUSO;regional;1-1(Pro.);D;1.0;1;1;regional
+regional;0;2022;2022-10-29;REAL ARIQUEMES;regional;TOCANTINÓPOLIS;regional;0-4;A;1.0;0;4;regional
+regional;0;2022;2022-10-29;CUIABÁ;regional;COSTA RICA;regional;2-0;H;1.0;2;0;regional
+regional;0;2022;2022-10-29;PAYSANDU;regional;HUMAITÁ;regional;3-0;H;1.0;3;0;regional
+regional;0;2022;2022-10-30;LUVERDENSE;regional;BRASILIENSE;regional;0-1;A;1.0;0;1;regional
+regional;0;2022;2022-11-01;VILA NOVA;regional;REAL NOROESTE;regional;0-0(3-2 Pen.);D;1.0;0;0;regional
+regional;0;2022;2022-11-01;PAYSANDU;regional;TOCANTINÓPOLIS;regional;2-0;H;1.0;2;0;regional
+regional;0;2022;2022-11-02;TUNA LUSO;regional;SÃO RAIMUNDO;regional;0-3;A;1.0;0;3;regional
+regional;0;2022;2022-11-02;CUIABÁ;regional;BRASILIENSE;regional;0-3;A;1.0;0;3;regional
+regional;0;2022;2022-11-08;SÃO RAIMUNDO;regional;PAYSANDU;regional;2-2;D;1.0;2;2;regional
+regional;0;2022;2022-11-09;BRASILIENSE;regional;VILA NOVA;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-11-12;VILA NOVA;regional;BRASILIENSE;regional;2-1;H;1.0;2;1;regional
+regional;0;2022;2022-11-12;PAYSANDU;regional;SÃO RAIMUNDO;regional;3-0;H;1.0;3;0;regional
+regional;0;2022;2022-11-15;PAYSANDU;regional;VILA NOVA;regional;0-0;D;1.0;0;0;regional
+regional;0;2022;2022-11-19;VILA NOVA;regional;PAYSANDU;regional;1-1(3-4 Pen.);D;1.0;1;1;regional
+regional;0;2021;2021-10-13;SINOP;regional;PORTO VELHO ESPORTE CLUBE;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-10-13;FAST CLUBE;regional;CASTANHAL;regional;0-2;A;1.0;0;2;regional
+regional;0;2021;2021-10-13;ÁGUIA NEGRA;regional;NOVA MUTUM;regional;1-3;A;1.0;1;3;regional
+regional;0;2021;2021-10-13;BRASILIENSE;regional;RIO BRANCO;regional;0-0(5-3 Pen.);D;1.0;0;0;regional
+regional;0;2021;2021-10-13;REAL ARIQUEMES;regional;PENAROL;regional;0-2;A;1.0;0;2;regional
+regional;0;2021;2021-10-13;GALVEZ;regional;YPIRANGA;regional;1-1(4-1 Pen.);D;1.0;1;1;regional
+regional;0;2021;2021-10-14;GAMA;regional;AQUIDAUANENSE;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-10-14;INTERPORTO;regional;RIO BRANCO DE VENDA NOVA;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-10-19;REMO;regional;GALVEZ;regional;9-0;H;1.0;9;0;regional
+regional;0;2021;2021-10-20;MANAUS;regional;PORTO VELHO ESPORTE CLUBE;regional;2-0;H;1.0;2;0;regional
+regional;0;2021;2021-10-20;SÃO RAIMUNDO;regional;CASTANHAL;regional;1-2;A;1.0;1;2;regional
+regional;0;2021;2021-10-20;RIO BRANCO;regional;NOVA MUTUM;regional;1-4;A;1.0;1;4;regional
+regional;0;2021;2021-10-20;PAYSANDU;regional;PENAROL;regional;6-0;H;1.0;6;0;regional
+regional;0;2021;2021-10-20;CUIABÁ;regional;BRASILIENSE;regional;0-0(6-7 Pen.);D;1.0;0;0;regional
+regional;0;2021;2021-10-21;ATLÉTICO;regional;AQUIDAUANENSE;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-10-21;VILA NOVA;regional;RIO BRANCO DE VENDA NOVA;regional;3-0;H;1.0;3;0;regional
+regional;0;2021;2021-10-27;PAYSANDU;regional;CASTANHAL;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-10-28;BRASILIENSE;regional;NOVA MUTUM;regional;1-0;H;1.0;1;0;regional
+regional;0;2021;2021-10-28;AQUIDAUANENSE;regional;VILA NOVA;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-11-03;NOVA MUTUM;regional;BRASILIENSE;regional;1-0(3-2 Pen.);H;1.0;1;0;regional
+regional;0;2021;2021-11-04;VILA NOVA;regional;AQUIDAUANENSE;regional;7-0;H;1.0;7;0;regional
+regional;0;2021;2021-11-10;CASTANHAL;regional;PAYSANDU;regional;1-3;A;1.0;1;3;regional
+regional;0;2021;2021-11-12;MANAUS;regional;REMO;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-11-24;VILA NOVA;regional;NOVA MUTUM;regional;3-0;H;1.0;3;0;regional
+regional;0;2021;2021-11-24;REMO;regional;MANAUS;regional;3-0;H;1.0;3;0;regional
+regional;0;2021;2021-12-01;PAYSANDU;regional;REMO;regional;2-2;D;1.0;2;2;regional
+regional;0;2021;2021-12-02;NOVA MUTUM;regional;VILA NOVA;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-12-04;REMO;regional;PAYSANDU;regional;2-0;H;1.0;2;0;regional
+regional;0;2021;2021-12-08;VILA NOVA;regional;REMO;regional;0-0;D;1.0;0;0;regional
+regional;0;2021;2021-12-11;REMO;regional;VILA NOVA;regional;0-0(4-2 Pen.);D;1.0;0;0;regional
+regional;0;2020;2021-01-20;FAST CLUBE;regional;INDEPENDENTE TUCURUÍ;regional;0-2;A;1.0;0;2;regional
+regional;0;2020;2021-01-20;BRASILIENSE;regional;VITÓRIA;regional;4-0;H;1.0;4;0;regional
+regional;0;2020;2021-01-20;PALMAS;regional;REAL NOROESTE;regional;2-0;H;1.0;2;0;regional
+regional;0;2020;2021-01-20;APARECIDENSE;regional;AQUIDAUANENSE;regional;7-0;H;1.0;7;0;regional
+regional;0;2020;2021-01-20;SINOP;regional;ÁGUIA NEGRA;regional;4-0;H;1.0;4;0;regional
+regional;0;2020;2021-01-20;SÃO RAIMUNDO;regional;GALVEZ;regional;3-4;A;1.0;3;4;regional
+regional;0;2020;2021-01-21;MANAUS;regional;JI-PARANÁ;regional;5-0;H;1.0;5;0;regional
+regional;0;2020;2021-01-24;SANTOS;regional;GAMA;regional;0-2;A;1.0;0;2;regional
+regional;0;2020;2021-01-24;LUVERDENSE;regional;BRASILIENSE;regional;1-2;A;1.0;1;2;regional
+regional;0;2020;2021-01-25;ATLÉTICO GOIANIENSE;regional;SINOP;regional;5-1;H;1.0;5;1;regional
+regional;0;2020;2021-01-25;ATLÉTICO;regional;MANAUS;regional;1-5;A;1.0;1;5;regional
+regional;0;2020;2021-01-25;CUIABÁ;regional;APARECIDENSE;regional;2-1;H;1.0;2;1;regional
+regional;0;2020;2021-01-27;REMO;regional;GAMA;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2021-01-27;RIO BRANCO;regional;INDEPENDENTE TUCURUÍ;regional;1-3;A;1.0;1;3;regional
+regional;0;2020;2021-01-28;PAYSANDU;regional;GALVEZ;regional;4-1;H;1.0;4;1;regional
+regional;0;2020;2021-02-02;VILA NOVA;regional;PALMAS;regional;3-1;H;1.0;3;1;regional
+regional;0;2020;2021-02-03;MANAUS;regional;PAYSANDU;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2021-02-03;REMO;regional;INDEPENDENTE TUCURUÍ;regional;2-0;H;1.0;2;0;regional
+regional;0;2020;2021-02-04;ATLÉTICO GOIANIENSE;regional;BRASILIENSE;regional;1-2;A;1.0;1;2;regional
+regional;0;2020;2021-02-05;CUIABÁ;regional;VILA NOVA;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2021-02-07;BRASILIENSE;regional;ATLÉTICO GOIANIENSE;regional;3-1;H;1.0;3;1;regional
+regional;0;2020;2021-02-07;PAYSANDU;regional;MANAUS;regional;1-2;A;1.0;1;2;regional
+regional;0;2020;2021-02-07;INDEPENDENTE TUCURUÍ;regional;REMO;regional;3-1(0-3 Pen.);H;1.0;3;1;regional
+regional;0;2020;2021-02-08;VILA NOVA;regional;CUIABÁ;regional;3-0;H;1.0;3;0;regional
+regional;0;2020;2021-02-13;MANAUS;regional;REMO;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2021-02-14;VILA NOVA;regional;BRASILIENSE;regional;0-2;A;1.0;0;2;regional
+regional;0;2020;2021-02-18;BRASILIENSE;regional;VILA NOVA;regional;1-3(5-3 Pen.);A;1.0;1;3;regional
+regional;0;2020;2021-02-18;REMO;regional;MANAUS;regional;6-2;H;1.0;6;2;regional
+regional;0;2020;2021-02-21;BRASILIENSE;regional;REMO;regional;2-1;H;1.0;2;1;regional
+regional;0;2020;2021-02-24;REMO;regional;BRASILIENSE;regional;2-1(4-5 Pen.);H;1.0;2;1;regional
+regional;0;2025;2025-01-21;CSA;regional;CONFIANÇA;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-01-22;AMÉRICA;regional;JUAZEIRENSE;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-01-22;FERROVIÁRIO;regional;SPORT;regional;1-2;A;1.0;1;2;regional
+regional;0;2025;2025-01-22;CRB;regional;VITÓRIA;regional;2-2;D;1.0;2;2;regional
+regional;0;2025;2025-01-22;NÁUTICO;regional;CEARÁ;regional;1-0;H;1.0;1;0;regional
+regional;0;2025;2025-01-23;FORTALEZA;regional;MOTO CLUB;regional;2-0;H;1.0;2;0;regional
+regional;0;2025;2025-01-23;SOUSA;regional;ALTOS;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-01-23;BAHIA;regional;SAMPAIO CORRÊA;regional;4-0;H;1.0;4;0;regional
+regional;0;2025;2025-02-04;SAMPAIO CORRÊA;regional;AMÉRICA;regional;2-2;D;1.0;2;2;regional
+regional;0;2025;2025-02-04;SPORT;regional;FORTALEZA;regional;0-2;A;1.0;0;2;regional
+regional;0;2025;2025-02-04;VITÓRIA;regional;SOUSA;regional;1-0;H;1.0;1;0;regional
+regional;0;2025;2025-02-05;CONFIANÇA;regional;NÁUTICO;regional;1-0;H;1.0;1;0;regional
+regional;0;2025;2025-02-05;JUAZEIRENSE;regional;BAHIA;regional;0-0;D;1.0;0;0;regional
+regional;0;2025;2025-02-05;MOTO CLUB;regional;FERROVIÁRIO;regional;1-1;D;1.0;1;1;regional
+regional;0;2025;2025-02-05;ALTOS;regional;CRB;regional;1-1;D;1.0;1;1;regional
+regional;0;2025;2025-02-05;CEARÁ;regional;CSA;regional;1-0;H;1.0;1;0;regional
+regional;0;2025;2025-02-11;CRB;regional;MOTO CLUB;regional;2-2;D;1.0;2;2;regional
+regional;0;2025;2025-02-11;VITÓRIA;regional;FERROVIÁRIO;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-02-11;ALTOS;regional;FORTALEZA;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-02-11;SOUSA;regional;SPORT;regional;1-2;A;1.0;1;2;regional
+regional;0;2025;2025-02-12;BAHIA;regional;AMÉRICA;regional;5-1;H;1.0;5;1;regional
+regional;0;2025;2025-02-12;CEARÁ;regional;CONFIANÇA;regional;1-1;D;1.0;1;1;regional
+regional;0;2025;2025-02-12;NÁUTICO;regional;JUAZEIRENSE;regional;0-0;D;1.0;0;0;regional
+regional;0;2025;2025-02-13;CSA;regional;SAMPAIO CORRÊA;regional;4-0;H;1.0;4;0;regional
+regional;0;2025;2025-02-18;AMÉRICA;regional;CONFIANÇA;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-02-18;FERROVIÁRIO;regional;ALTOS;regional;1-0;H;1.0;1;0;regional
+regional;0;2025;2025-02-19;CRB;regional;SOUSA;regional;4-1;H;1.0;4;1;regional
+regional;0;2025;2025-02-19;SPORT;regional;MOTO CLUB;regional;5-0;H;1.0;5;0;regional
+regional;0;2025;2025-02-19;FORTALEZA;regional;VITÓRIA;regional;1-2;A;1.0;1;2;regional
+regional;0;2025;2025-02-26;SAMPAIO CORRÊA;regional;JUAZEIRENSE;regional;0-1;A;1.0;0;1;regional
+regional;0;2025;2025-02-26;CSA;regional;NÁUTICO;regional;4-1;H;1.0;4;1;regional
+regional;0;2025;2025-03-05;FORTALEZA;regional;FERROVIÁRIO;regional;4-0;H;1.0;4;0;regional
+regional;0;2025;2025-03-05;MOTO CLUB;regional;SOUSA;regional;3-1;H;1.0;3;1;regional
+regional;0;2025;2025-03-05;VITÓRIA;regional;ALTOS;regional;1-1;D;1.0;1;1;regional
+regional;0;2025;2025-03-05;SPORT;regional;CRB;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-03-06;CEARÁ;regional;AMÉRICA;regional;1-0;H;1.0;1;0;regional
+regional;0;2025;2025-03-06;SAMPAIO CORRÊA;regional;NÁUTICO;regional;1-1;D;1.0;1;1;regional
+regional;0;2025;2025-03-06;JUAZEIRENSE;regional;CSA;regional;2-2;D;1.0;2;2;regional
+regional;0;2025;2025-03-18;NÁUTICO;regional;AMÉRICA;regional;1-0;H;1.0;1;0;regional
+regional;0;2025;2025-03-19;CONFIANÇA;regional;SAMPAIO CORRÊA;regional;2-0;H;1.0;2;0;regional
+regional;0;2025;2025-03-19;CSA;regional;BAHIA;regional;1-2;A;1.0;1;2;regional
+regional;0;2025;2025-03-19;CEARÁ;regional;JUAZEIRENSE;regional;2-0;H;1.0;2;0;regional
+regional;0;2025;2025-03-19;SOUSA;regional;FORTALEZA;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-03-19;VITÓRIA;regional;SPORT;regional;1-0;H;1.0;1;0;regional
+regional;0;2025;2025-03-20;ALTOS;regional;MOTO CLUB;regional;1-1;D;1.0;1;1;regional
+regional;0;2025;2025-03-21;CRB;regional;FERROVIÁRIO;regional;1-2;A;1.0;1;2;regional
+regional;0;2025;2025-03-26;BAHIA;regional;CEARÁ;regional;3-2;H;1.0;3;2;regional
+regional;0;2025;2025-03-26;FERROVIÁRIO;regional;SOUSA;regional;2-0;H;1.0;2;0;regional
+regional;0;2025;2025-03-26;SPORT;regional;ALTOS;regional;0-1;A;1.0;0;1;regional
+regional;0;2025;2025-03-26;FORTALEZA;regional;CRB;regional;0-1;A;1.0;0;1;regional
+regional;0;2025;2025-03-26;MOTO CLUB;regional;VITÓRIA;regional;1-1;D;1.0;1;1;regional
+regional;0;2025;2025-06-04;CONFIANÇA;regional;BAHIA;regional;2-0;H;1.0;2;0;regional
+regional;0;2025;2025-06-07;AMÉRICA;regional;CSA;regional;0-1;A;1.0;0;1;regional
+regional;0;2025;2025-06-07;JUAZEIRENSE;regional;CONFIANÇA;regional;0-0;D;1.0;0;0;regional
+regional;0;2025;2025-06-07;BAHIA;regional;NÁUTICO;regional;3-1;H;1.0;3;1;regional
+regional;0;2025;2025-06-07;SAMPAIO CORRÊA;regional;CEARÁ;regional;1-2;A;1.0;1;2;regional
+regional;0;2025;2025-07-08;VITÓRIA;regional;CONFIANÇA;regional;0-1;A;1.0;0;1;regional
+regional;0;2025;2025-07-09;CSA;regional;FERROVIÁRIO;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-07-09;SPORT;regional;CEARÁ;regional;0-0(2-4 Pen.);D;1.0;0;0;regional
+regional;0;2025;2025-07-09;BAHIA;regional;FORTALEZA;regional;2-1;H;1.0;2;1;regional
+regional;0;2025;2025-08-20;CSA;regional;CONFIANÇA;regional;0-1;A;1.0;0;1;regional
+regional;0;2025;2025-08-20;BAHIA;regional;CEARÁ;regional;1-0;H;1.0;1;0;regional
+regional;0;2025;2025-09-03;CONFIANÇA;regional;BAHIA;regional;1-4;A;1.0;1;4;regional
+regional;0;2025;2025-09-06;BAHIA;regional;CONFIANÇA;regional;5-0;H;1.0;5;0;regional
+regional;0;2024;2024-02-03;NÁUTICO;regional;BOTAFOGO;regional;0-1;A;1.0;0;1;regional
+regional;0;2024;2024-02-03;FORTALEZA;regional;AMÉRICA;regional;2-1;H;1.0;2;1;regional
+regional;0;2024;2024-02-03;ITABAIANA;regional;CRB;regional;0-2;A;1.0;0;2;regional
+regional;0;2024;2024-02-03;TREZE;regional;RIVER;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-02-04;ALTOS;regional;VITÓRIA;regional;0-0;D;1.0;0;0;regional
+regional;0;2024;2024-02-04;BAHIA;regional;SPORT;regional;2-1;H;1.0;2;1;regional
+regional;0;2024;2024-02-04;JUAZEIRENSE;regional;CEARÁ;regional;0-1;A;1.0;0;1;regional
+regional;0;2024;2024-02-04;ABC;regional;MARANHÃO;regional;2-2;D;1.0;2;2;regional
+regional;0;2024;2024-02-09;SPORT;regional;TREZE;regional;3-1;H;1.0;3;1;regional
+regional;0;2024;2024-02-10;RIVER;regional;BAHIA;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-02-10;BOTAFOGO;regional;JUAZEIRENSE;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-02-10;VITÓRIA;regional;ABC;regional;3-1;H;1.0;3;1;regional
+regional;0;2024;2024-02-10;MARANHÃO;regional;NÁUTICO;regional;1-3;A;1.0;1;3;regional
+regional;0;2024;2024-02-11;CRB;regional;FORTALEZA;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-02-11;CEARÁ;regional;ALTOS;regional;1-1;D;1.0;1;1;regional
+regional;0;2024;2024-02-11;AMÉRICA;regional;ITABAIANA;regional;1-2;A;1.0;1;2;regional
+regional;0;2024;2024-02-14;ITABAIANA;regional;SPORT;regional;1-2;A;1.0;1;2;regional
+regional;0;2024;2024-02-14;ALTOS;regional;MARANHÃO;regional;1-1;D;1.0;1;1;regional
+regional;0;2024;2024-02-14;FORTALEZA;regional;RIVER;regional;3-1;H;1.0;3;1;regional
+regional;0;2024;2024-02-14;NÁUTICO;regional;CEARÁ;regional;0-0;D;1.0;0;0;regional
+regional;0;2024;2024-02-14;JUAZEIRENSE;regional;VITÓRIA;regional;2-0;H;1.0;2;0;regional
+regional;0;2024;2024-02-15;TREZE;regional;CRB;regional;1-1;D;1.0;1;1;regional
+regional;0;2024;2024-02-15;ABC;regional;BOTAFOGO;regional;0-0;D;1.0;0;0;regional
+regional;0;2024;2024-02-15;BAHIA;regional;AMÉRICA;regional;3-0;H;1.0;3;0;regional
+regional;0;2024;2024-02-21;VITÓRIA;regional;NÁUTICO;regional;1-1;D;1.0;1;1;regional
+regional;0;2024;2024-02-21;MARANHÃO;regional;JUAZEIRENSE;regional;2-1;H;1.0;2;1;regional
+regional;0;2024;2024-02-21;SPORT;regional;FORTALEZA;regional;1-1;D;1.0;1;1;regional
+regional;0;2024;2024-02-22;BOTAFOGO;regional;ALTOS;regional;1-2;A;1.0;1;2;regional
+regional;0;2024;2024-02-28;AMÉRICA;regional;TREZE;regional;2-2;D;1.0;2;2;regional
+regional;0;2024;2024-02-28;RIVER;regional;ITABAIANA;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-02-28;CEARÁ;regional;ABC;regional;2-2;D;1.0;2;2;regional
+regional;0;2024;2024-02-28;CRB;regional;BAHIA;regional;0-1;A;1.0;0;1;regional
+regional;0;2024;2024-03-05;NÁUTICO;regional;RIVER;regional;0-1;A;1.0;0;1;regional
+regional;0;2024;2024-03-06;VITÓRIA;regional;ITABAIANA;regional;3-1;H;1.0;3;1;regional
+regional;0;2024;2024-03-06;JUAZEIRENSE;regional;AMÉRICA;regional;1-2;A;1.0;1;2;regional
+regional;0;2024;2024-03-06;MARANHÃO;regional;TREZE;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-03-06;CEARÁ;regional;BAHIA;regional;1-2;A;1.0;1;2;regional
+regional;0;2024;2024-03-06;ALTOS;regional;SPORT;regional;1-2;A;1.0;1;2;regional
+regional;0;2024;2024-03-06;ABC;regional;CRB;regional;2-2;D;1.0;2;2;regional
+regional;0;2024;2024-03-07;BOTAFOGO;regional;FORTALEZA;regional;1-1;D;1.0;1;1;regional
+regional;0;2024;2024-03-20;CRB;regional;JUAZEIRENSE;regional;3-1;H;1.0;3;1;regional
+regional;0;2024;2024-03-20;AMÉRICA;regional;ABC;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-03-20;RIVER;regional;ALTOS;regional;0-0;D;1.0;0;0;regional
+regional;0;2024;2024-03-20;FORTALEZA;regional;CEARÁ;regional;0-1;A;1.0;0;1;regional
+regional;0;2024;2024-03-20;SPORT;regional;NÁUTICO;regional;2-2;D;1.0;2;2;regional
+regional;0;2024;2024-03-20;BAHIA;regional;VITÓRIA;regional;2-1;H;1.0;2;1;regional
+regional;0;2024;2024-03-21;TREZE;regional;BOTAFOGO;regional;0-0;D;1.0;0;0;regional
+regional;0;2024;2024-03-21;ITABAIANA;regional;MARANHÃO;regional;3-4;A;1.0;3;4;regional
+regional;0;2024;2024-03-23;ALTOS;regional;AMÉRICA;regional;1-1;D;1.0;1;1;regional
+regional;0;2024;2024-03-23;ABC;regional;SPORT;regional;0-2;A;1.0;0;2;regional
+regional;0;2024;2024-03-23;FORTALEZA;regional;VITÓRIA;regional;0-1;A;1.0;0;1;regional
+regional;0;2024;2024-03-24;TREZE;regional;CEARÁ;regional;0-1;A;1.0;0;1;regional
+regional;0;2024;2024-03-24;ITABAIANA;regional;BOTAFOGO;regional;0-1;A;1.0;0;1;regional
+regional;0;2024;2024-03-24;BAHIA;regional;MARANHÃO;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-03-24;NÁUTICO;regional;CRB;regional;1-1;D;1.0;1;1;regional
+regional;0;2024;2024-03-24;JUAZEIRENSE;regional;RIVER;regional;4-1;H;1.0;4;1;regional
+regional;0;2024;2024-03-27;CEARÁ;regional;ITABAIANA;regional;2-1;H;1.0;2;1;regional
+regional;0;2024;2024-03-27;SPORT;regional;JUAZEIRENSE;regional;3-0;H;1.0;3;0;regional
+regional;0;2024;2024-03-27;CRB;regional;ALTOS;regional;2-0;H;1.0;2;0;regional
+regional;0;2024;2024-03-27;VITÓRIA;regional;TREZE;regional;3-0;H;1.0;3;0;regional
+regional;0;2024;2024-03-27;BOTAFOGO;regional;BAHIA;regional;4-0;H;1.0;4;0;regional
+regional;0;2024;2024-03-27;AMÉRICA;regional;NÁUTICO;regional;1-0;H;1.0;1;0;regional
+regional;0;2024;2024-03-27;RIVER;regional;ABC;regional;0-1;A;1.0;0;1;regional
+regional;0;2024;2024-03-27;MARANHÃO;regional;FORTALEZA;regional;3-2;H;1.0;3;2;regional
+regional;0;2024;2024-04-09;CRB;regional;BOTAFOGO;regional;0-0(4-3 Pen.);D;1.0;0;0;regional
+regional;0;2024;2024-04-10;SPORT;regional;CEARÁ;regional;2-1;H;1.0;2;1;regional
+regional;0;2024;2024-04-10;BAHIA;regional;NÁUTICO;regional;3-0;H;1.0;3;0;regional
+regional;0;2024;2024-04-19;FORTALEZA;regional;ALTOS;regional;5-0;H;1.0;5;0;regional
+regional;0;2024;2024-05-26;SPORT;regional;FORTALEZA;regional;1-4;A;1.0;1;4;regional
+regional;0;2024;2024-05-26;BAHIA;regional;CRB;regional;0-0(7-8 Pen.);D;1.0;0;0;regional
+regional;0;2024;2024-06-05;FORTALEZA;regional;CRB;regional;2-0;H;1.0;2;0;regional
+regional;0;2024;2024-06-09;CRB;regional;FORTALEZA;regional;2-0(4-5 Pen.);H;1.0;2;0;regional
+regional;0;2023;2023-01-21;FLUMINENSE;regional;CSA;regional;0-0;D;1.0;0;0;regional
+regional;0;2023;2023-01-21;FORTALEZA;regional;CAMPINENSE;regional;2-0;H;1.0;2;0;regional
+regional;0;2023;2023-01-21;VITÓRIA;regional;SANTA CRUZ;regional;1-1;D;1.0;1;1;regional
+regional;0;2023;2023-01-21;SPORT;regional;ABC;regional;2-0;H;1.0;2;0;regional
+regional;0;2023;2023-01-22;CRB;regional;SERGIPE;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-01-22;ATLÉTICO;regional;NÁUTICO;regional;0-1;A;1.0;0;1;regional
+regional;0;2023;2023-01-22;FERROVIÁRIO;regional;CEARÁ;regional;3-0;H;1.0;3;0;regional
+regional;0;2023;2023-01-22;SAMPAIO CORRÊA;regional;BAHIA;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-01-26;FORTALEZA;regional;SERGIPE;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-02-04;NÁUTICO;regional;CRB;regional;2-2;D;1.0;2;2;regional
+regional;0;2023;2023-02-04;CEARÁ;regional;SAMPAIO CORRÊA;regional;2-0;H;1.0;2;0;regional
+regional;0;2023;2023-02-04;ABC;regional;FORTALEZA;regional;2-0;H;1.0;2;0;regional
+regional;0;2023;2023-02-04;BAHIA;regional;FERROVIÁRIO;regional;2-2;D;1.0;2;2;regional
+regional;0;2023;2023-02-05;SERGIPE;regional;ATLÉTICO;regional;4-0;H;1.0;4;0;regional
+regional;0;2023;2023-02-05;CSA;regional;VITÓRIA;regional;3-1;H;1.0;3;1;regional
+regional;0;2023;2023-02-05;CAMPINENSE;regional;SPORT;regional;0-2;A;1.0;0;2;regional
+regional;0;2023;2023-02-08;SANTA CRUZ;regional;FLUMINENSE;regional;2-2;D;1.0;2;2;regional
+regional;0;2023;2023-02-14;CAMPINENSE;regional;CRB;regional;0-0;D;1.0;0;0;regional
+regional;0;2023;2023-02-14;SANTA CRUZ;regional;ATLÉTICO;regional;2-1;H;1.0;2;1;regional
+regional;0;2023;2023-02-14;CSA;regional;FERROVIÁRIO;regional;1-1;D;1.0;1;1;regional
+regional;0;2023;2023-02-14;CEARÁ;regional;SPORT;regional;3-2;H;1.0;3;2;regional
+regional;0;2023;2023-02-14;BAHIA;regional;FORTALEZA;regional;0-3;A;1.0;0;3;regional
+regional;0;2023;2023-02-15;SERGIPE;regional;VITÓRIA;regional;2-1;H;1.0;2;1;regional
+regional;0;2023;2023-02-15;NÁUTICO;regional;FLUMINENSE;regional;2-0;H;1.0;2;0;regional
+regional;0;2023;2023-02-15;ABC;regional;SAMPAIO CORRÊA;regional;2-0;H;1.0;2;0;regional
+regional;0;2023;2023-02-17;CRB;regional;CEARÁ;regional;1-1;D;1.0;1;1;regional
+regional;0;2023;2023-02-17;ATLÉTICO;regional;BAHIA;regional;1-2;A;1.0;1;2;regional
+regional;0;2023;2023-02-17;FORTALEZA;regional;CSA;regional;3-0;H;1.0;3;0;regional
+regional;0;2023;2023-02-18;FLUMINENSE;regional;CAMPINENSE;regional;1-2;A;1.0;1;2;regional
+regional;0;2023;2023-02-18;FERROVIÁRIO;regional;SERGIPE;regional;0-0;D;1.0;0;0;regional
+regional;0;2023;2023-02-18;VITÓRIA;regional;ABC;regional;1-1;D;1.0;1;1;regional
+regional;0;2023;2023-02-18;SAMPAIO CORRÊA;regional;NÁUTICO;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-02-22;CRB;regional;SANTA CRUZ;regional;2-1;H;1.0;2;1;regional
+regional;0;2023;2023-02-22;SAMPAIO CORRÊA;regional;CSA;regional;1-1;D;1.0;1;1;regional
+regional;0;2023;2023-02-22;FLUMINENSE;regional;CEARÁ;regional;2-5;A;1.0;2;5;regional
+regional;0;2023;2023-02-22;SPORT;regional;BAHIA;regional;6-0;H;1.0;6;0;regional
+regional;0;2023;2023-02-22;FERROVIÁRIO;regional;ABC;regional;2-2;D;1.0;2;2;regional
+regional;0;2023;2023-02-23;VITÓRIA;regional;NÁUTICO;regional;2-3;A;1.0;2;3;regional
+regional;0;2023;2023-02-23;ATLÉTICO;regional;CAMPINENSE;regional;2-1;H;1.0;2;1;regional
+regional;0;2023;2023-02-26;FORTALEZA;regional;NÁUTICO;regional;2-1;H;1.0;2;1;regional
+regional;0;2023;2023-03-04;NÁUTICO;regional;SPORT;regional;0-2;A;1.0;0;2;regional
+regional;0;2023;2023-03-04;CSA;regional;CRB;regional;0-0;D;1.0;0;0;regional
+regional;0;2023;2023-03-04;CAMPINENSE;regional;FERROVIÁRIO;regional;2-3;A;1.0;2;3;regional
+regional;0;2023;2023-03-04;ABC;regional;ATLÉTICO;regional;3-0;H;1.0;3;0;regional
+regional;0;2023;2023-03-05;SERGIPE;regional;FLUMINENSE;regional;3-1;H;1.0;3;1;regional
+regional;0;2023;2023-03-05;BAHIA;regional;VITÓRIA;regional;1-1;D;1.0;1;1;regional
+regional;0;2023;2023-03-05;CEARÁ;regional;FORTALEZA;regional;2-0;H;1.0;2;0;regional
+regional;0;2023;2023-03-05;SANTA CRUZ;regional;SAMPAIO CORRÊA;regional;3-1;H;1.0;3;1;regional
+regional;0;2023;2023-03-07;ATLÉTICO;regional;CSA;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-03-07;CRB;regional;ABC;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-03-08;SAMPAIO CORRÊA;regional;CAMPINENSE;regional;1-1;D;1.0;1;1;regional
+regional;0;2023;2023-03-08;FERROVIÁRIO;regional;SANTA CRUZ;regional;2-1;H;1.0;2;1;regional
+regional;0;2023;2023-03-08;SPORT;regional;SERGIPE;regional;2-1;H;1.0;2;1;regional
+regional;0;2023;2023-03-08;VITÓRIA;regional;CEARÁ;regional;2-0;H;1.0;2;0;regional
+regional;0;2023;2023-03-14;FLUMINENSE;regional;BAHIA;regional;1-1;D;1.0;1;1;regional
+regional;0;2023;2023-03-18;SPORT;regional;SANTA CRUZ;regional;0-0;D;1.0;0;0;regional
+regional;0;2023;2023-03-22;ABC;regional;FLUMINENSE;regional;3-0;H;1.0;3;0;regional
+regional;0;2023;2023-03-22;BAHIA;regional;CRB;regional;3-0;H;1.0;3;0;regional
+regional;0;2023;2023-03-22;SERGIPE;regional;SAMPAIO CORRÊA;regional;2-2;D;1.0;2;2;regional
+regional;0;2023;2023-03-22;CEARÁ;regional;ATLÉTICO;regional;3-1;H;1.0;3;1;regional
+regional;0;2023;2023-03-22;CAMPINENSE;regional;VITÓRIA;regional;2-1;H;1.0;2;1;regional
+regional;0;2023;2023-03-22;CSA;regional;SPORT;regional;1-3;A;1.0;1;3;regional
+regional;0;2023;2023-03-22;SANTA CRUZ;regional;FORTALEZA;regional;0-4;A;1.0;0;4;regional
+regional;0;2023;2023-03-22;NÁUTICO;regional;FERROVIÁRIO;regional;3-2;H;1.0;3;2;regional
+regional;0;2023;2023-03-25;FORTALEZA;regional;FERROVIÁRIO;regional;4-0;H;1.0;4;0;regional
+regional;0;2023;2023-03-26;ABC;regional;NÁUTICO;regional;3-1;H;1.0;3;1;regional
+regional;0;2023;2023-03-26;SPORT;regional;CRB;regional;4-0;H;1.0;4;0;regional
+regional;0;2023;2023-03-26;CEARÁ;regional;SERGIPE;regional;3-1;H;1.0;3;1;regional
+regional;0;2023;2023-03-29;SPORT;regional;ABC;regional;1-0;H;1.0;1;0;regional
+regional;0;2023;2023-03-29;FORTALEZA;regional;CEARÁ;regional;2-3;A;1.0;2;3;regional
+regional;0;2023;2023-04-19;CEARÁ;regional;SPORT;regional;2-1;H;1.0;2;1;regional
+regional;0;2023;2023-05-03;SPORT;regional;CEARÁ;regional;1-0(2-4 Pen.);H;1.0;1;0;regional
+regional;0;2022;2022-01-22;CRB;regional;SPORT;regional;1-0;H;1.0;1;0;regional
+regional;0;2022;2022-01-23;ALTOS;regional;ATLÉTICO;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-01-23;SOUSA;regional;CSA;regional;1-0;H;1.0;1;0;regional
+regional;0;2022;2022-01-25;NÁUTICO;regional;CAMPINENSE;regional;0-0;D;1.0;0;0;regional
+regional;0;2022;2022-01-29;CAMPINENSE;regional;BAHIA;regional;1-3;A;1.0;1;3;regional
+regional;0;2022;2022-01-29;SPORT;regional;NÁUTICO;regional;3-2;H;1.0;3;2;regional
+regional;0;2022;2022-01-29;GLOBO;regional;FLORESTA;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-01-30;CSA;regional;BOTAFOGO;regional;3-0;H;1.0;3;0;regional
+regional;0;2022;2022-01-30;FORTALEZA;regional;SOUSA;regional;5-0;H;1.0;5;0;regional
+regional;0;2022;2022-01-30;SAMPAIO CORRÊA;regional;ALTOS;regional;2-1;H;1.0;2;1;regional
+regional;0;2022;2022-01-31;SERGIPE;regional;CEARÁ;regional;0-1;A;1.0;0;1;regional
+regional;0;2022;2022-02-02;FLORESTA;regional;FORTALEZA;regional;0-2;A;1.0;0;2;regional
+regional;0;2022;2022-02-05;FORTALEZA;regional;CEARÁ;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-02-05;ATLÉTICO;regional;BAHIA;regional;2-1;H;1.0;2;1;regional
+regional;0;2022;2022-02-05;SAMPAIO CORRÊA;regional;NÁUTICO;regional;0-1;A;1.0;0;1;regional
+regional;0;2022;2022-02-06;SERGIPE;regional;ALTOS;regional;1-3;A;1.0;1;3;regional
+regional;0;2022;2022-02-06;GLOBO;regional;BOTAFOGO;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-02-08;SPORT;regional;SOUSA;regional;1-0;H;1.0;1;0;regional
+regional;0;2022;2022-02-08;CSA;regional;FLORESTA;regional;2-0;H;1.0;2;0;regional
+regional;0;2022;2022-02-09;CEARÁ;regional;GLOBO;regional;5-0;H;1.0;5;0;regional
+regional;0;2022;2022-02-09;CAMPINENSE;regional;CRB;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-02-12;BOTAFOGO;regional;ATLÉTICO;regional;1-0;H;1.0;1;0;regional
+regional;0;2022;2022-02-12;NÁUTICO;regional;FORTALEZA;regional;2-2;D;1.0;2;2;regional
+regional;0;2022;2022-02-12;BAHIA;regional;GLOBO;regional;5-0;H;1.0;5;0;regional
+regional;0;2022;2022-02-12;CEARÁ;regional;SAMPAIO CORRÊA;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-02-13;FLORESTA;regional;CAMPINENSE;regional;4-3;H;1.0;4;3;regional
+regional;0;2022;2022-02-13;SOUSA;regional;SERGIPE;regional;0-0;D;1.0;0;0;regional
+regional;0;2022;2022-02-13;CRB;regional;CSA;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-02-15;BOTAFOGO;regional;FORTALEZA;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-02-15;CEARÁ;regional;SPORT;regional;0-0;D;1.0;0;0;regional
+regional;0;2022;2022-02-15;NÁUTICO;regional;ATLÉTICO;regional;3-0;H;1.0;3;0;regional
+regional;0;2022;2022-02-16;SOUSA;regional;SAMPAIO CORRÊA;regional;3-2;H;1.0;3;2;regional
+regional;0;2022;2022-02-16;BAHIA;regional;CSA;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-02-16;ALTOS;regional;CAMPINENSE;regional;1-0;H;1.0;1;0;regional
+regional;0;2022;2022-02-17;FLORESTA;regional;SERGIPE;regional;1-0;H;1.0;1;0;regional
+regional;0;2022;2022-02-17;CRB;regional;GLOBO;regional;2-0;H;1.0;2;0;regional
+regional;0;2022;2022-02-19;ATLÉTICO;regional;CEARÁ;regional;0-1;A;1.0;0;1;regional
+regional;0;2022;2022-02-19;FORTALEZA;regional;BAHIA;regional;3-1;H;1.0;3;1;regional
+regional;0;2022;2022-02-19;CAMPINENSE;regional;SOUSA;regional;2-1;H;1.0;2;1;regional
+regional;0;2022;2022-02-20;CSA;regional;NÁUTICO;regional;3-1;H;1.0;3;1;regional
+regional;0;2022;2022-02-20;GLOBO;regional;ALTOS;regional;1-0;H;1.0;1;0;regional
+regional;0;2022;2022-02-20;SERGIPE;regional;CRB;regional;1-2;A;1.0;1;2;regional
+regional;0;2022;2022-02-20;SAMPAIO CORRÊA;regional;FLORESTA;regional;3-0;H;1.0;3;0;regional
+regional;0;2022;2022-02-24;BAHIA;regional;SAMPAIO CORRÊA;regional;2-0;H;1.0;2;0;regional
+regional;0;2022;2022-02-24;SPORT;regional;BOTAFOGO;regional;0-1;A;1.0;0;1;regional
+regional;0;2022;2022-02-27;ALTOS;regional;SPORT;regional;0-0;D;1.0;0;0;regional
+regional;0;2022;2022-03-02;BOTAFOGO;regional;SERGIPE;regional;3-0;H;1.0;3;0;regional
+regional;0;2022;2022-03-05;CRB;regional;SAMPAIO CORRÊA;regional;1-0;H;1.0;1;0;regional
+regional;0;2022;2022-03-05;ALTOS;regional;FORTALEZA;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-03-05;BAHIA;regional;SPORT;regional;2-3;A;1.0;2;3;regional
+regional;0;2022;2022-03-05;CEARÁ;regional;CSA;regional;2-0;H;1.0;2;0;regional
+regional;0;2022;2022-03-06;FLORESTA;regional;ATLÉTICO;regional;1-2;A;1.0;1;2;regional
+regional;0;2022;2022-03-06;BOTAFOGO;regional;CAMPINENSE;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-03-06;NÁUTICO;regional;SERGIPE;regional;3-0;H;1.0;3;0;regional
+regional;0;2022;2022-03-06;SOUSA;regional;GLOBO;regional;5-1;H;1.0;5;1;regional
+regional;0;2022;2022-03-10;ATLÉTICO;regional;CRB;regional;1-0;H;1.0;1;0;regional
+regional;0;2022;2022-03-19;FORTALEZA;regional;CRB;regional;2-0;H;1.0;2;0;regional
+regional;0;2022;2022-03-19;SPORT;regional;FLORESTA;regional;3-0;H;1.0;3;0;regional
+regional;0;2022;2022-03-19;SERGIPE;regional;BAHIA;regional;1-3;A;1.0;1;3;regional
+regional;0;2022;2022-03-19;SAMPAIO CORRÊA;regional;BOTAFOGO;regional;0-2;A;1.0;0;2;regional
+regional;0;2022;2022-03-19;CAMPINENSE;regional;CEARÁ;regional;0-1;A;1.0;0;1;regional
+regional;0;2022;2022-03-19;GLOBO;regional;NÁUTICO;regional;0-2;A;1.0;0;2;regional
+regional;0;2022;2022-03-19;ATLÉTICO;regional;SOUSA;regional;0-0;D;1.0;0;0;regional
+regional;0;2022;2022-03-19;CSA;regional;ALTOS;regional;3-0;H;1.0;3;0;regional
+regional;0;2022;2022-03-22;FORTALEZA;regional;ATLÉTICO;regional;5-1;H;1.0;5;1;regional
+regional;0;2022;2022-03-22;CSA;regional;SPORT;regional;0-0(1-3 Pen.);D;1.0;0;0;regional
+regional;0;2022;2022-03-23;BOTAFOGO;regional;NÁUTICO;regional;1-1(3-4 Pen.);D;1.0;1;1;regional
+regional;0;2022;2022-03-24;CEARÁ;regional;CRB;regional;0-0(3-4 Pen.);D;1.0;0;0;regional
+regional;0;2022;2022-03-26;FORTALEZA;regional;NÁUTICO;regional;2-0;H;1.0;2;0;regional
+regional;0;2022;2022-03-27;SPORT;regional;CRB;regional;3-1;H;1.0;3;1;regional
+regional;0;2022;2022-03-31;SPORT;regional;FORTALEZA;regional;1-1;D;1.0;1;1;regional
+regional;0;2022;2022-04-03;FORTALEZA;regional;SPORT;regional;1-0;H;1.0;1;0;regional
+regional;0;2021;2021-02-27;VITÓRIA;regional;SANTA CRUZ;regional;2-0;H;1.0;2;0;regional
+regional;0;2021;2021-02-27;BOTAFOGO;regional;4 DE JULHO;regional;0-0;D;1.0;0;0;regional
+regional;0;2021;2021-02-27;ALTOS;regional;CONFIANÇA;regional;2-1;H;1.0;2;1;regional
+regional;0;2021;2021-02-28;CSA;regional;TREZE;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-02-28;SALGUEIRO;regional;BAHIA;regional;2-3;A;1.0;2;3;regional
+regional;0;2021;2021-02-28;SPORT;regional;SAMPAIO CORRÊA;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-01;ABC;regional;CEARÁ;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-03;FORTALEZA;regional;CRB;regional;1-0;H;1.0;1;0;regional
+regional;0;2021;2021-03-06;CEARÁ;regional;VITÓRIA;regional;3-1;H;1.0;3;1;regional
+regional;0;2021;2021-03-06;CRB;regional;SPORT;regional;2-0;H;1.0;2;0;regional
+regional;0;2021;2021-03-06;BAHIA;regional;BOTAFOGO;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-06;TREZE;regional;ALTOS;regional;1-0;H;1.0;1;0;regional
+regional;0;2021;2021-03-06;SAMPAIO CORRÊA;regional;FORTALEZA;regional;0-2;A;1.0;0;2;regional
+regional;0;2021;2021-03-07;4 DE JULHO;regional;SALGUEIRO;regional;1-0;H;1.0;1;0;regional
+regional;0;2021;2021-03-07;SANTA CRUZ;regional;ABC;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-03-07;CONFIANÇA;regional;CSA;regional;2-2;D;1.0;2;2;regional
+regional;0;2021;2021-03-11;SALGUEIRO;regional;SANTA CRUZ;regional;1-0;H;1.0;1;0;regional
+regional;0;2021;2021-03-13;VITÓRIA;regional;BAHIA;regional;1-0;H;1.0;1;0;regional
+regional;0;2021;2021-03-13;ALTOS;regional;CEARÁ;regional;0-0;D;1.0;0;0;regional
+regional;0;2021;2021-03-13;FORTALEZA;regional;TREZE;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-13;ABC;regional;CONFIANÇA;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-13;BOTAFOGO;regional;SAMPAIO CORRÊA;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-14;CSA;regional;CRB;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-17;SPORT;regional;4 DE JULHO;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-20;4 DE JULHO;regional;ALTOS;regional;0-2;A;1.0;0;2;regional
+regional;0;2021;2021-03-20;CEARÁ;regional;FORTALEZA;regional;0-0;D;1.0;0;0;regional
+regional;0;2021;2021-03-20;BAHIA;regional;SPORT;regional;4-0;H;1.0;4;0;regional
+regional;0;2021;2021-03-20;CONFIANÇA;regional;SALGUEIRO;regional;0-0;D;1.0;0;0;regional
+regional;0;2021;2021-03-20;SANTA CRUZ;regional;CSA;regional;1-2;A;1.0;1;2;regional
+regional;0;2021;2021-03-20;SAMPAIO CORRÊA;regional;VITÓRIA;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-21;TREZE;regional;ABC;regional;0-2;A;1.0;0;2;regional
+regional;0;2021;2021-03-21;CRB;regional;BOTAFOGO;regional;2-1;H;1.0;2;1;regional
+regional;0;2021;2021-03-23;ALTOS;regional;SAMPAIO CORRÊA;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-03-23;SPORT;regional;CONFIANÇA;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-03-23;FORTALEZA;regional;SANTA CRUZ;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-03-23;CSA;regional;BAHIA;regional;2-0;H;1.0;2;0;regional
+regional;0;2021;2021-03-24;VITÓRIA;regional;CRB;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-24;SALGUEIRO;regional;TREZE;regional;1-0;H;1.0;1;0;regional
+regional;0;2021;2021-03-25;BOTAFOGO;regional;CEARÁ;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-03-27;4 DE JULHO;regional;FORTALEZA;regional;1-2;A;1.0;1;2;regional
+regional;0;2021;2021-03-27;CONFIANÇA;regional;VITÓRIA;regional;0-0;D;1.0;0;0;regional
+regional;0;2021;2021-03-28;BAHIA;regional;ALTOS;regional;5-0;H;1.0;5;0;regional
+regional;0;2021;2021-03-29;SAMPAIO CORRÊA;regional;SALGUEIRO;regional;3-2;H;1.0;3;2;regional
+regional;0;2021;2021-03-30;CRB;regional;ABC;regional;2-0;H;1.0;2;0;regional
+regional;0;2021;2021-03-31;CEARÁ;regional;CSA;regional;2-0;H;1.0;2;0;regional
+regional;0;2021;2021-03-31;SANTA CRUZ;regional;SPORT;regional;1-2;A;1.0;1;2;regional
+regional;0;2021;2021-04-01;TREZE;regional;BOTAFOGO;regional;1-0;H;1.0;1;0;regional
+regional;0;2021;2021-04-03;FORTALEZA;regional;BAHIA;regional;2-1;H;1.0;2;1;regional
+regional;0;2021;2021-04-03;SPORT;regional;CEARÁ;regional;0-4;A;1.0;0;4;regional
+regional;0;2021;2021-04-03;ABC;regional;SAMPAIO CORRÊA;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-04-03;CSA;regional;4 DE JULHO;regional;2-2;D;1.0;2;2;regional
+regional;0;2021;2021-04-04;ALTOS;regional;SANTA CRUZ;regional;2-0;H;1.0;2;0;regional
+regional;0;2021;2021-04-04;SALGUEIRO;regional;CRB;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-04-04;VITÓRIA;regional;TREZE;regional;3-1;H;1.0;3;1;regional
+regional;0;2021;2021-04-05;BOTAFOGO;regional;CONFIANÇA;regional;0-0;D;1.0;0;0;regional
+regional;0;2021;2021-04-07;ABC;regional;4 DE JULHO;regional;2-2;D;1.0;2;2;regional
+regional;0;2021;2021-04-10;BAHIA;regional;ABC;regional;2-1;H;1.0;2;1;regional
+regional;0;2021;2021-04-10;CEARÁ;regional;SALGUEIRO;regional;3-0;H;1.0;3;0;regional
+regional;0;2021;2021-04-10;CONFIANÇA;regional;FORTALEZA;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-04-10;TREZE;regional;SPORT;regional;2-2;D;1.0;2;2;regional
+regional;0;2021;2021-04-10;SAMPAIO CORRÊA;regional;CSA;regional;0-0;D;1.0;0;0;regional
+regional;0;2021;2021-04-10;CRB;regional;ALTOS;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-04-10;4 DE JULHO;regional;VITÓRIA;regional;1-1;D;1.0;1;1;regional
+regional;0;2021;2021-04-10;SANTA CRUZ;regional;BOTAFOGO;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-04-17;FORTALEZA;regional;CSA;regional;2-1;H;1.0;2;1;regional
+regional;0;2021;2021-04-17;BAHIA;regional;CRB;regional;4-0;H;1.0;4;0;regional
+regional;0;2021;2021-04-17;VITÓRIA;regional;ALTOS;regional;2-1;H;1.0;2;1;regional
+regional;0;2021;2021-04-18;CEARÁ;regional;SAMPAIO CORRÊA;regional;3-0;H;1.0;3;0;regional
+regional;0;2021;2021-04-24;CEARÁ;regional;VITÓRIA;regional;2-0;H;1.0;2;0;regional
+regional;0;2021;2021-04-24;FORTALEZA;regional;BAHIA;regional;0-0(2-4 Pen.);D;1.0;0;0;regional
+regional;0;2021;2021-05-01;BAHIA;regional;CEARÁ;regional;0-1;A;1.0;0;1;regional
+regional;0;2021;2021-05-08;CEARÁ;regional;BAHIA;regional;1-2(2-4 Pen.);A;1.0;1;2;regional
+regional;0;2020;2020-01-21;IMPERATRIZ;regional;CRB;regional;2-1;H;1.0;2;1;regional
+regional;0;2020;2020-01-23;NÁUTICO;regional;RIVER;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-01-25;SANTA CRUZ;regional;BAHIA;regional;0-0;D;1.0;0;0;regional
+regional;0;2020;2020-01-25;VITÓRIA;regional;FORTALEZA;regional;0-0;D;1.0;0;0;regional
+regional;0;2020;2020-01-25;CSA;regional;SPORT;regional;0-1;A;1.0;0;1;regional
+regional;0;2020;2020-01-25;AMÉRICA;regional;BOTAFOGO;regional;0-0;D;1.0;0;0;regional
+regional;0;2020;2020-01-25;CONFIANÇA;regional;ABC;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2020-01-26;CEARÁ;regional;FREI PAULISTANO;regional;2-2;D;1.0;2;2;regional
+regional;0;2020;2020-01-28;BAHIA;regional;IMPERATRIZ;regional;2-0;H;1.0;2;0;regional
+regional;0;2020;2020-01-29;CRB;regional;SANTA CRUZ;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2020-02-01;SPORT;regional;VITÓRIA;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-02-01;RIVER;regional;CSA;regional;3-1;H;1.0;3;1;regional
+regional;0;2020;2020-02-01;FORTALEZA;regional;CEARÁ;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-02-01;BOTAFOGO;regional;CONFIANÇA;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-02-01;FREI PAULISTANO;regional;NÁUTICO;regional;0-2;A;1.0;0;2;regional
+regional;0;2020;2020-02-02;ABC;regional;AMÉRICA;regional;2-1;H;1.0;2;1;regional
+regional;0;2020;2020-02-06;SPORT;regional;IMPERATRIZ;regional;2-2;D;1.0;2;2;regional
+regional;0;2020;2020-02-08;FORTALEZA;regional;SANTA CRUZ;regional;3-0;H;1.0;3;0;regional
+regional;0;2020;2020-02-08;BOTAFOGO;regional;NÁUTICO;regional;2-1;H;1.0;2;1;regional
+regional;0;2020;2020-02-08;ABC;regional;CEARÁ;regional;0-0;D;1.0;0;0;regional
+regional;0;2020;2020-02-08;BAHIA;regional;VITÓRIA;regional;0-2;A;1.0;0;2;regional
+regional;0;2020;2020-02-08;FREI PAULISTANO;regional;CONFIANÇA;regional;2-4;A;1.0;2;4;regional
+regional;0;2020;2020-02-09;CRB;regional;CSA;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-02-09;RIVER;regional;AMÉRICA;regional;2-3;A;1.0;2;3;regional
+regional;0;2020;2020-02-13;SANTA CRUZ;regional;ABC;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2020-02-15;CEARÁ;regional;BAHIA;regional;2-2;D;1.0;2;2;regional
+regional;0;2020;2020-02-15;AMÉRICA;regional;CRB;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-02-15;NÁUTICO;regional;SPORT;regional;2-0;H;1.0;2;0;regional
+regional;0;2020;2020-02-15;CONFIANÇA;regional;RIVER;regional;2-0;H;1.0;2;0;regional
+regional;0;2020;2020-02-16;VITÓRIA;regional;FREI PAULISTANO;regional;0-0;D;1.0;0;0;regional
+regional;0;2020;2020-02-16;CSA;regional;BOTAFOGO;regional;0-1;A;1.0;0;1;regional
+regional;0;2020;2020-02-17;IMPERATRIZ;regional;FORTALEZA;regional;1-2;A;1.0;1;2;regional
+regional;0;2020;2020-02-19;CSA;regional;BAHIA;regional;0-2;A;1.0;0;2;regional
+regional;0;2020;2020-02-22;CONFIANÇA;regional;FORTALEZA;regional;2-0;H;1.0;2;0;regional
+regional;0;2020;2020-02-22;IMPERATRIZ;regional;RIVER;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2020-02-22;AMÉRICA;regional;SPORT;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-02-26;CEARÁ;regional;BOTAFOGO;regional;2-2;D;1.0;2;2;regional
+regional;0;2020;2020-02-26;SANTA CRUZ;regional;FREI PAULISTANO;regional;3-1;H;1.0;3;1;regional
+regional;0;2020;2020-02-27;VITÓRIA;regional;CRB;regional;2-1;H;1.0;2;1;regional
+regional;0;2020;2020-02-27;NÁUTICO;regional;ABC;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-03-03;RIVER;regional;CEARÁ;regional;0-4;A;1.0;0;4;regional
+regional;0;2020;2020-03-04;CRB;regional;NÁUTICO;regional;2-3;A;1.0;2;3;regional
+regional;0;2020;2020-03-07;BAHIA;regional;CONFIANÇA;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2020-03-07;SPORT;regional;SANTA CRUZ;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2020-03-07;FORTALEZA;regional;CSA;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2020-03-07;BOTAFOGO;regional;IMPERATRIZ;regional;2-1;H;1.0;2;1;regional
+regional;0;2020;2020-03-08;ABC;regional;VITÓRIA;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-03-08;FREI PAULISTANO;regional;AMÉRICA;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2020-03-12;SANTA CRUZ;regional;BOTAFOGO;regional;3-0;H;1.0;3;0;regional
+regional;0;2020;2020-03-14;AMÉRICA;regional;BAHIA;regional;0-2;A;1.0;0;2;regional
+regional;0;2020;2020-03-14;CONFIANÇA;regional;CRB;regional;0-1;A;1.0;0;1;regional
+regional;0;2020;2020-03-14;NÁUTICO;regional;FORTALEZA;regional;0-3;A;1.0;0;3;regional
+regional;0;2020;2020-03-14;IMPERATRIZ;regional;ABC;regional;3-4;A;1.0;3;4;regional
+regional;0;2020;2020-03-15;CEARÁ;regional;SPORT;regional;2-1;H;1.0;2;1;regional
+regional;0;2020;2020-03-15;VITÓRIA;regional;RIVER;regional;4-1;H;1.0;4;1;regional
+regional;0;2020;2020-03-15;CSA;regional;FREI PAULISTANO;regional;4-0;H;1.0;4;0;regional
+regional;0;2020;2020-07-21;FORTALEZA;regional;AMÉRICA;regional;3-1;H;1.0;3;1;regional
+regional;0;2020;2020-07-22;SPORT;regional;CONFIANÇA;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-07-22;ABC;regional;CSA;regional;0-2;A;1.0;0;2;regional
+regional;0;2020;2020-07-22;CRB;regional;CEARÁ;regional;1-2;A;1.0;1;2;regional
+regional;0;2020;2020-07-22;BAHIA;regional;NÁUTICO;regional;4-1;H;1.0;4;1;regional
+regional;0;2020;2020-07-22;BOTAFOGO;regional;VITÓRIA;regional;1-1;D;1.0;1;1;regional
+regional;0;2020;2020-07-22;RIVER;regional;SANTA CRUZ;regional;0-1;A;1.0;0;1;regional
+regional;0;2020;2020-07-25;FORTALEZA;regional;SPORT;regional;0-0(4-1 Pen.);D;1.0;0;0;regional
+regional;0;2020;2020-07-25;CEARÁ;regional;VITÓRIA;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2020-07-25;CONFIANÇA;regional;SANTA CRUZ;regional;0-0(4-2 Pen.);D;1.0;0;0;regional
+regional;0;2020;2020-07-25;BAHIA;regional;BOTAFOGO;regional;3-1;H;1.0;3;1;regional
+regional;0;2020;2020-07-28;FORTALEZA;regional;CEARÁ;regional;0-1;A;1.0;0;1;regional
+regional;0;2020;2020-07-29;BAHIA;regional;CONFIANÇA;regional;1-0;H;1.0;1;0;regional
+regional;0;2020;2020-08-01;CEARÁ;regional;BAHIA;regional;3-1;H;1.0;3;1;regional
+regional;0;2020;2020-08-04;BAHIA;regional;CEARÁ;regional;0-1;A;1.0;0;1;regional
+nacional;0;2020;2020-02-05;RÍVER;piaui;BAHIA;bahia;1-0;H;10.0;1;0;piaui
