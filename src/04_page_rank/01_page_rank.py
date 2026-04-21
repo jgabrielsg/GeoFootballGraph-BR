@@ -1,10 +1,13 @@
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
+import os
 
 # --- CONFIGURATION ---
-INPUT_FILE = 'data/03_final/all_games_weights.csv'
+INPUT_GRAPH = 'data/03_final/graphs/teams_games.graphml'
 OUTPUT_FILE = 'data/04_results/pagerank.csv'
+PLOT_FILE = 'outputs/plots/pagerank_ranking.png'
+
 ALPHA = 0.85
 TOP_N = 40
 
@@ -19,118 +22,87 @@ UF_MAP = {
 }
 
 
+def ensure_dirs():
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+    os.makedirs(os.path.dirname(PLOT_FILE), exist_ok=True)
+
+
 def get_uf(state_slug):
-    """
-    Convert a state slug into its UF abbreviation.
-
-    Args:
-        state_slug (str): State slug.
-
-    Returns:
-        str: UF abbreviation.
-    """
+    if not state_slug:
+        return "???"
     slug = str(state_slug).lower().replace('-', '_')
     return UF_MAP.get(slug, slug.upper())
 
 
-def build_graph(df):
-    """
-    Build a directed graph representing prestige flow between teams.
-
-    Args:
-        df (pd.DataFrame): Matches dataset.
-
-    Returns:
-        networkx.DiGraph: Directed weighted graph.
-    """
-    G = nx.DiGraph()
-
-    for _, row in df.iterrows():
-        if row['fluxo_h'] > 0:
-            if G.has_edge(row['a_id'], row['h_id']):
-                G[row['a_id']][row['h_id']]['weight'] += row['fluxo_h']
-            else:
-                G.add_edge(row['a_id'], row['h_id'], weight=row['fluxo_h'])
-
-        if row['fluxo_a'] > 0:
-            if G.has_edge(row['h_id'], row['a_id']):
-                G[row['h_id']][row['a_id']]['weight'] += row['fluxo_a']
-            else:
-                G.add_edge(row['h_id'], row['a_id'], weight=row['fluxo_a'])
-
-    return G
-
-
 def compute_pagerank(G):
-    """
-    Compute PageRank scores for the graph.
-
-    Args:
-        G (networkx.DiGraph): Input graph.
-
-    Returns:
-        pd.DataFrame: Ranked nodes with scores.
-    """
     pr_scores = nx.pagerank(G, alpha=ALPHA, weight='weight')
-    df_rank = pd.DataFrame(list(pr_scores.items()), columns=['clube_uf', 'pagerank_score'])
+
+    df_rank = pd.DataFrame(
+        [(k, float(v)) for k, v in pr_scores.items()],
+        columns=['clube_estado_slug', 'pagerank_score']
+    )
+
     return df_rank.sort_values(by='pagerank_score', ascending=False).reset_index(drop=True)
 
 
+def safe_split(value):
+    """Split 'CLUBE/estado' safely."""
+    if isinstance(value, str) and '/' in value:
+        parts = value.rsplit('/', 1)
+        return parts[0], parts[1]
+    return value, None
+
+
 def format_output(df_rank):
-    """
-    Split combined identifiers into club name and UF.
+    split_cols = df_rank['clube_estado_slug'].apply(safe_split)
+    df_rank[['clube', 'estado_slug']] = pd.DataFrame(split_cols.tolist(), index=df_rank.index)
 
-    Args:
-        df_rank (pd.DataFrame): Ranking dataframe.
+    df_rank['uf'] = df_rank['estado_slug'].apply(get_uf)
+    df_rank['clube'] = df_rank['clube'].astype(str).str.title()
 
-    Returns:
-        pd.DataFrame: Formatted output.
-    """
-    df_rank[['clube', 'uf']] = df_rank['clube_uf'].str.split('/', expand=True)
-    df_rank['clube'] = df_rank['clube'].str.title()
     return df_rank[['clube', 'uf', 'pagerank_score']]
 
 
 def plot_ranking(df_rank):
-    """
-    Plot top-N PageRank results.
-
-    Args:
-        df_rank (pd.DataFrame): Ranking dataframe.
-    """
     top_clubs = df_rank.head(TOP_N)
 
+    labels = [
+        f"{row['clube']} ({row['uf']})"
+        for _, row in top_clubs.iterrows()
+    ]
+
     plt.figure(figsize=(12, 10))
-    plt.barh(top_clubs['clube'][::-1], top_clubs['pagerank_score'][::-1])
+    plt.barh(labels[::-1], top_clubs['pagerank_score'][::-1])
     plt.xlabel('PageRank Score')
-    plt.title(f'Top {TOP_N} Brazilian Clubs by PageRank')
+    plt.title(f'Top {TOP_N} Clubs by PageRank')
     plt.grid(axis='x', linestyle='--', alpha=0.6)
 
     plt.tight_layout()
-    plt.savefig('football_pagerank_ranking.png')
-    plt.show()
+    plt.savefig(PLOT_FILE)
+    plt.close()
 
 
 def main():
-    """
-    Main execution function: builds the graph, computes PageRank,
-    formats output, and saves results.
-    """
-    df = pd.read_csv(INPUT_FILE, sep=';', encoding='utf-8-sig')
+    ensure_dirs()
 
-    df['h_id'] = df['mandante'] + "/" + df['mandante_estado'].apply(get_uf)
-    df['a_id'] = df['visitante'] + "/" + df['visitante_estado'].apply(get_uf)
+    if not os.path.exists(INPUT_GRAPH):
+        raise FileNotFoundError(f"Graph not found: {INPUT_GRAPH}")
 
-    G = build_graph(df)
+    G = nx.read_graphml(INPUT_GRAPH)
 
-    df_rank = compute_pagerank(G)
-    df_output = format_output(df_rank)
+    # Ensure weights are numeric (GraphML sometimes loads as string)
+    for u, v, d in G.edges(data=True):
+        if 'weight' in d:
+            try:
+                d['weight'] = float(d['weight'])
+            except:
+                d['weight'] = 1.0
+
+    df_rank_raw = compute_pagerank(G)
+    df_output = format_output(df_rank_raw)
 
     df_output.to_csv(OUTPUT_FILE, index=False, sep=';', encoding='utf-8-sig')
-
     plot_ranking(df_output)
-
-    print(f"Saved to '{OUTPUT_FILE}'")
 
 
 if __name__ == "__main__":

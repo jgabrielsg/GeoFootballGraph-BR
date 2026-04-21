@@ -4,8 +4,9 @@ from sklearn.cluster import AgglomerativeClustering
 import matplotlib.pyplot as plt
 
 # --- CONFIGURATION ---
-INPUT_FILE = 'data/04_results/proposal_division_3.csv'
-OUTPUT_FILE = 'data/04_results/proposal_division_4.csv'
+INPUT_FILE = 'data/04_results/prop_division_3.csv'
+OUTPUT_FILE = 'data/04_results/prop_division_4.csv'
+OUTPUT_GRAPHIC = 'outputs/plots/division_serie_D.png'
 SUB_K_VALUES = [2, 3, 4]
 
 COLORS = ['#e6194b', '#3cb44b', '#ffe119', '#4363d8',
@@ -82,7 +83,7 @@ def plot_subclusters(df):
             ax.grid(True, linestyle=':', alpha=0.5)
 
     plt.tight_layout()
-    plt.savefig('analise_sub_clusters_hierarquicos.png', dpi=150)
+    plt.savefig(OUTPUT_GRAPHIC, dpi=150)
     plt.close()
 
 
