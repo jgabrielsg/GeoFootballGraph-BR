@@ -1,0 +1,40 @@
+Canário Esporte Clube, amapa, macapá
+Jacobina Esporte Clube, bahia, jacobina
+Crixás Esporte Clube, goais, crixás
+BOSTON CITY BRASIL, minas gerais, Manhuaçu
+Independente Atlético Clube, para, TUCURUÍ
+Sociedade Esportiva Caeté, para, Caeté
+Apucarana Sports, parana, Apucarana
+Club Atlético Torres Brasil, pernambuco, recife
+Santa Fé Futebol Clube, pernambuco, igarassu
+Sociedade Esportiva Paraty, rio de janeiro, paraty
+Riostrense Esporte Clube, rio de janeiro, rio das ostras
+Centro Esportivo Gramadense, rio grande do sul, gramado
+Futebol Clube Marau, rio grande do sul, marau
+Clube Atlético Votuporanguense, sao paulo, Votuporanga
+Araguacema Futebol Clube, sao paulo, araguacema
+
+2:
+Horizonte Futebol Clube é uma agremiação poliesportiva sediada na cidade de Horizonte, no Ceará,
+Aparecida Esporte Clube é um clube brasileiro de futebol, sediado na cidade de Aparecida de Goiânia, no estado de Goiás.
+O Itabirito Futebol Clube é um clube brasileiro de futebol da cidade de Itabirito, no estado de Minas Gerais.
+O Sport Club Aymorés é um clube brasileiro de futebol, sediado na cidade de Ubá, no estado de Minas Gerais.
+
+3.
+O Esporte Clube Villa Real é um clube brasileiro de futebol da cidade de Machado, no estado de Minas Gerais.
+O Clube Esportivo União Ou Simplesmente Esportivo União é um tradicional clube de futebol brasileiro da cidade de Francisco Beltrão, no estado do Paraná. 
+O Clube Atlético Cambé (conhecido como Cambé e cujo acrônimo é CAC) é um clube de futebol profissional brasileiro da cidade de Cambé, norte do Paraná.
+O Oeste Brasil Futebol Clube é um clube de futebol brasileiro, da cidade de Toledo, Paraná. 
+A Associação Acadêmica e Desportiva Vitória das Tabocas, conhecido apenas por Vitória das Tabocas e cujo acrônimo é AADVT, ou simplesmente de forma abreviada Vitória-PE, é um clube de futebol brasileiro sediado na cidade de Vitória de Santo Antão, no estado de Pernambuco,
+Águia Futebol Clube de Cumaru, conhecida popularmente como Águia de Cumaru, é uma associação esportiva brasileira da cidade de Cumaru, no agreste do estado de Pernambuco. 
+O União Central Futebol Clube é um clube de futebol brasileiro sediado no bairro da Penha, na cidade do Rio de Janeiro,
+Centro de Integração Geracional 7 de Abril é uma agremiação esportiva brasileira, fundada a 22 de agosto de 2006, sediada na cidade do Rio de Janeiro
+Ceres Futebol Clube é uma agremiação esportiva da cidade do Rio de Janeiro, fundada 10 de julho de 1933.
+A Palmeira Futebol Clube da Una é um clube brasileiro de futebol, sediado na cidade de Goianinha, no estado do Rio Grande do Norte.
+Esporte Clube Guarani é uma agremiação esportiva de Venâncio Aires, no estado do Rio Grande do Sul, fundado a 3 de setembro de 1929.
+O Esporte Clube Atlético Batistense é um clube de futebol brasileiro, sediado em São João Batista, Santa Catarina.
+O Clube Atlético Itajaí foi um clube brasileiro de futebol da cidade de Itajaí, no estado de Santa Catarina.
+O Clube Atlético Mogi das Cruzes de Futebol (mais conhecido como Atlético Mogi) é um clube brasileiro de futebol da cidade de Mogi das Cruzes, região metropolitana do estado de São Paulo. Foi fundado em 19 de abril de 2004 
+O Futebol Clube Ska Brasil é uma agremiação esportiva da cidade de Santana de Parnaíba, no estado de São Paulo.
+A Associação Desportiva Atlético Gloriense é um clube de futebol brasileiro da cidade de Nossa Senhora da Glória, no estado de Sergipe. 
+O Rio Branco Futebol Clube, mais conhecido como Rio Branco de Venda Nova ou Rio Branco-VN, é um clube de futebol brasileiro de Venda Nova do Imigrante, Espírito Santo.

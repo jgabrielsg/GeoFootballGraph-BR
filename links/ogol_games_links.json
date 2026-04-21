@@ -122,7 +122,7 @@
       "2020": "copa-fares-lopes-2020/149606"
     }
   },
-  "distrito-federal": {
+  "distrito_federal": {
     "1": {
       "2025": "campeonato-brasiliense-2025/193593",
       "2024": "campeonato-brasiliense-2024/180932",
@@ -140,7 +140,7 @@
       "2020": "brasiliense-2-divisao-2020/147778"
     }
   },
-  "espirito-santo": {
+  "espirito_santo": {
     "1": {
       "2025": "campeonato-capixaba-2025/193617",
       "2024": "campeonato-capixaba-2024/180473",
@@ -210,7 +210,7 @@
       "2020": "maranhense-serie-b-2020/149015"
     }
   },
-  "mato-grosso": {
+  "mato_grosso": {
     "1": {
       "2025": "campeonato-mato-grossense-2025/193596",
       "2024": "campeonato-mato-grossense-2024/181185",
@@ -220,6 +220,7 @@
       "2020": "campeonato-mato-grossense-2020/140374"
     },
     "2": {
+      "2025": "mato-grossense-2-divisao-2025/197962",
       "2024": "mato-grossense-2-divisao-2024/185433",
       "2023": "mato-grossense-2-divisao-2023/174153",
       "2022": "mato-grossense-2-divisao-2022/163840",
@@ -234,7 +235,7 @@
       "2020": "copa-fmf-mato-grosso-2020/156519"
     }
   },
-  "mato-grosso-do-sul": {
+  "mato_grosso_do_sul": {
     "1": {
       "2025": "campeonato-sul-mato-grossense-2025/193615",
       "2024": "campeonato-sul-mato-grossense-2024/181242",
@@ -252,7 +253,7 @@
       "2020": "sul-mt-grossense-serie-b-2020/150509"
     }
   },
-  "minas-gerais": {
+  "minas_gerais": {
     "1": {
       "2025": "campeonato-mineiro-2025/193144",
       "2024": "campeonato-mineiro-2024/180822",
@@ -387,7 +388,7 @@
       "2020": "piauiense-serie-b-2020/147779"
     }
   },
-  "rio-de-janeiro": {
+  "rio_de_janeiro": {
     "1": {
       "2025": "campeonato-carioca-2025/193141",
       "2024": "campeonato-carioca-2024/180805",
@@ -434,7 +435,7 @@
       "2021": "copa-rio-2021/156284"
     }
   },
-  "rio-grande-do-norte": {
+  "rio_grande_do_norte": {
     "1": {
       "2025": "campeonato-potiguar-2025/193639",
       "2024": "campeonato-potiguar-2024/181202",
@@ -452,7 +453,7 @@
       "2020": "potiguar-2-divisao-2020/149708"
     }
   },
-  "rio-grande-do-sul": {
+  "rio_grande_do_sul": {
     "1": {
       "2025": "campeonato-gaucho-2025/193072",
       "2024": "campeonato-gaucho-2024/180895",
@@ -512,7 +513,7 @@
       "2020": "campeonato-roraimense-2020/142322"
     }
   },
-  "santa-catarina": {
+  "santa_catarina": {
     "1": {
       "2025": "campeonato-catarinense-2025/193271",
       "2024": "campeonato-catarinense-2024/180911",
@@ -546,7 +547,7 @@
       "2020": "copa-santa-catarina-2020/148877"
     }
   },
-  "sao-paulo": {
+  "sao_paulo": {
     "1": {
       "2025": "campeonato-paulista-2025/192776",
       "2024": "campeonato-paulista-2024/180414",
@@ -627,7 +628,7 @@
     }
   },
   "regionais": {
-    "copa-verde": {
+    "copa_verde": {
       "2025": "copa-verde-2025/193646",
       "2024": "copa-verde-2024/182000",
       "2023": "copa-verde-2023/170593",
@@ -635,7 +636,7 @@
       "2021": "copa-verde-2021/159131",
       "2020": "copa-verde-2020/149653"
     },
-    "copa-do-nordeste": {
+    "copa_do_nordeste": {
       "2025": "copa-do-nordeste-2025/194343",
       "2024": "copa-do-nordeste-2024/182594",
       "2023": "copa-do-nordeste-2023/171122",

@@ -30,5 +30,5 @@ inter de bebedouro -> tá em caraguatuba, nao em bebedouro
 
 ## Outros:
 ### times que mudaram de nome:
-- xxx -> xxx
-- xxx -> xxx
+- BOLAMENSE -> RIACHO CITY (2022)
+- Aruko Sports Brasil -> Galo Maringá (2023)

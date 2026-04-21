@@ -1,0 +1,1788 @@
+﻿nome_simplificado;nome_clube;estado;uf;cidade;latitude;longitude;inception;codigo_ibge
+SÃO PAULO;São Paulo Futebol Clube;São Paulo;SP;São Paulo;-23.5329;-46.6395;1930-01-01T00:00:00Z;3550308
+CORINTHIANS PAULISTA;Sport Club Corinthians Paulista;São Paulo;SP;São Paulo;-23.5329;-46.6395;1910-01-01T00:00:00Z;3550308
+FLAMENGO;Clube de Regatas do Flamengo;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1895-11-15T00:00:00Z;3304557
+NÁUTICO CAPIBARIBE;Clube Náutico Capibaribe;Pernambuco;PE;Recife;-8.04666;-34.8771;1901-01-01T00:00:00Z;2611606
+INTERNACIONAL;Sport Club Internacional;Rio Grande do Sul;RS;Porto Alegre;-30.0318;-51.2065;1909-04-04T00:00:00Z;4314902
+INTERNACIONAL B;Sport Club Internacional;Rio Grande do Sul;RS;Porto Alegre;-30.0318;-51.2065;1909-04-04T00:00:00Z;4314902
+INTERNACIONAL SUB23;Sport Club Internacional;Rio Grande do Sul;RS;Porto Alegre;-30.0318;-51.2065;1909-04-04T00:00:00Z;4314902
+SANTOS;Santos Futebol Clube;São Paulo;SP;Santos;-23.9535;-46.335;1912-04-14T00:00:00Z;3548500
+BOTAFOGO;Botafogo de Futebol e Regatas;Rio de Janeiro;RJ;Rio de Janeiro;-22.95456749;-43.177563068;1904-08-12T00:00:00Z;3304557
+PONTE PRETA;Associação Atlética Ponte Preta;São Paulo;SP;Campinas;-22.9053;-47.0659;1900-01-01T00:00:00Z;3509502
+GRÊMIO;Grêmio Foot-Ball Porto Alegrense;Rio Grande do Sul;RS;Porto Alegre;-29.9740266;-51.1949496;1903-09-15T00:00:00Z;4314902
+GRÊMIO B;Grêmio Foot-Ball Porto Alegrense;Rio Grande do Sul;RS;Porto Alegre;-29.9740266;-51.1949496;1903-09-15T00:00:00Z;4314902
+GRÊMIO SUB23;Grêmio Foot-Ball Porto Alegrense;Rio Grande do Sul;RS;Porto Alegre;-29.9740266;-51.1949496;1903-09-15T00:00:00Z;4314902
+FORTALEZA;Fortaleza Esporte Clube;Ceará;CE;Fortaleza;-3.71664;-38.5423;1918-01-01T00:00:00Z;2304400
+BAHIA;Esporte Clube Bahia;Bahia;BA;Salvador;-12.9718;-38.5011;1931-01-01T00:00:00Z;2927408
+ATLÉTICO GOIANIENSE;Atlético Clube Goianiense;Goiás;GO;Goiânia;-16.6864;-49.2643;1937-01-01T00:00:00Z;5208707
+GRÊMIO BARUERI;Grêmio Barueri;São Paulo;SP;Barueri;-23.5057;-46.879;1989-01-01T00:00:00Z;3505708
+CRUZEIRO;Cruzeiro Esporte Clube;Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;1921-01-01T00:00:00Z;3106200
+PORTUGUESA;Associação Portuguesa de Desportos;São Paulo;SP;São Paulo;-23.5329;-46.6395;1920-01-01T00:00:00Z;3550308
+FIGUEIRENSE;Figueirense Futebol Clube;Santa Catarina;SC;Florianópolis;-27.5945;-48.5477;1921-01-01T00:00:00Z;4205407
+SPORT;Sport Club do Recife;Pernambuco;PE;Recife;-8.04666;-34.8771;1905-01-01T00:00:00Z;2611606
+RED BULL BRAGANTINO;Red Bull Bragantino;São Paulo;SP;Bragança Paulista;-22.9527;-46.5419;1928-01-01T00:00:00Z;3507605
+RED BULL BRASIL;Red Bull Bragantino;São Paulo;SP;Campinas;-22.9053;-47.0659;1900-01-01T00:00:00Z;3509502
+ATHLETICO PARANAENSE;Club Athletico Paranaense;Paraná;PR;Curitiba;-25.4195;-49.2646;1924-01-01T00:00:00Z;4106902
+SANTA CRUZ;Santa Cruz Futebol Clube;Pernambuco;PE;Recife;-8.04666;-34.8771;1914-01-01T00:00:00Z;2611606
+NACIONAL;Nacional Futebol Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;1913-01-01T00:00:00Z;1302603
+BRASILIENSE;Brasiliense Futebol Clube;Tocantins;TO;Taguatinga;-12.4026;-46.437;2000-01-01T00:00:00Z;1720903
+ENTRERRIENSE;Entrerriense Futebol Clube;Rio de Janeiro;RJ;Três Rios;-22.1165;-43.2185;1925-01-01T00:00:00Z;3306008
+JATAIENSE;Associação Esportiva Jataiense;Goiás;GO;Jataí;-17.8784;-51.7204;1952-01-01T00:00:00Z;5211909
+PARANÁ;Associação Desportiva Atlética do Paraná;Paraná;PR;Campo Mourão;-24.0463;-52.378;1999-01-01T00:00:00Z;4104303
+ATLÉTICO MINEIRO;Clube Atlético Mineiro;Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;1908-03-25T00:00:00Z;3106200
+VITÓRIA;Esporte Clube Vitória;Bahia;BA;Salvador;-12.9718;-38.5011;1899-01-01T00:00:00Z;2927408
+PALMEIRAS;Sociedade Esportiva Palmeiras;São Paulo;SP;São Paulo;-23.5329;-46.6395;1914-01-01T00:00:00Z;3550308
+FLUMINENSE;Fluminense Football Club;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1902-07-21T00:00:00Z;3304557
+IPATINGA;Ipatinga Futebol Clube;Minas Gerais;MG;Ipatinga;-19.4703;-42.5476;1998-01-01T00:00:00Z;3131307
+ATLÉTICO YPIRANGA;Clube Atlético Ypiranga;Paraíba;PB;Paulista;-6.59138;-37.6185;1906-01-01T00:00:00Z;2510907
+MANCHETE RECIFE;Manchete Futebol Clube do Recife;Pernambuco;PE;Recife;-8.04666;-34.8771;1950-01-01T00:00:00Z;2611606
+AVAÍ;Avaí Futebol Clube;Santa Catarina;SC;Florianópolis;-27.5945;-48.5477;1923-09-01T00:00:00Z;4205407
+CANTO DO RIO;Canto do Rio Foot-Ball Club;Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;1913-01-01T00:00:00Z;3303302
+CALOUROS DO AR;Calouros do Ar Futebol Clube;Ceará;CE;Fortaleza;-3.71664;-38.5423;1952-01-01T00:00:00Z;2304400
+BARRA DO GARÇAS;Barra do Garças Futebol Clube;Mato Grosso;MT;Barra do Garças;-15.8804;-52.264;1978-01-01T00:00:00Z;5101803
+PALMEIRAS;Associação Atlética das Palmeiras;Paraná;PR;Palmeira;-25.4257;-50.007;1902-01-01T00:00:00Z;4117701
+INTER DE LIMEIRA;Associação Atlética Internacional (Limeira);São Paulo;SP;Limeira;-22.566;-47.397;1913-01-01T00:00:00Z;3526902
+SÃO CAETANO;Associação Desportiva São Caetano;São Paulo;SP;São Caetano do Sul;-23.6229;-46.5548;1989-01-01T00:00:00Z;3548807
+AMÉRICA;América Futebol Clube;Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;1912-04-30T00:00:00Z;3106200
+BACABAL;Bacabal Esporte Clube;Maranhão;MA;Bacabal;-4.22447;-44.7832;1974-01-01T00:00:00Z;2101202
+AMERICA;America Football Club;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1904-09-18T00:00:00Z;3304557
+CORITIBA;Coritiba Foot Ball Club;Paraná;PR;Curitiba;-25.4195;-49.2646;1909-01-01T00:00:00Z;4106902
+AMÉRICA GOIÁS;América Futebol Clube (Goiás);Goiás;GO;Morrinhos;-17.7334;-49.1059;1937-01-01T00:00:00Z;5213806
+AMÉRICA RIO GRANDE DO NORTE;América Futebol Clube (Rio Grande do Norte);Rio Grande do Norte;RN;Natal;-5.79357;-35.1986;1915-01-01T00:00:00Z;2408102
+BRASILIS;Brasilis Futebol Clube;São Paulo;SP;Águas de Lindóia;-22.4733;-46.6314;2007-01-01T00:00:00Z;3500501
+SÃO BERNARDO;São Bernardo Futebol Clube;São Paulo;SP;São Bernardo do Campo;-23.6914;-46.5646;2004-12-20T00:00:00Z;3548708
+CRICIÚMA;Criciúma Esporte Clube;Santa Catarina;SC;Criciúma;-28.6723;-49.3729;1947-01-01T00:00:00Z;4204608
+CEILÂNDIA;Ceilândia Esporte Clube;Minas Gerais;MG;Dom Bosco;-16.652;-46.2597;1979-01-01T00:00:00Z;3122470
+CIANORTE;Cianorte Futebol Clube;Paraná;PR;Cianorte;-23.6599;-52.6054;2002-02-13T00:00:00Z;4105508
+TOMBENSE;Tombense Futebol Clube;Minas Gerais;MG;Tombos;-20.9086;-42.0228;1914-01-01T00:00:00Z;3169208
+AUDAX RIO DE JANEIRO;Audax Rio de Janeiro Esporte Clube;Rio de Janeiro;RJ;São João de Meriti;-22.8058;-43.3729;2005-01-01T00:00:00Z;3305109
+DESPORTIVO BRASIL;Desportivo Brasil;São Paulo;SP;Porto Feliz;-23.2093;-47.5251;2005-01-01T00:00:00Z;3540606
+ATLÉTICO HERMANN AICHINGER;Clube Atlético Hermann Aichinger;Santa Catarina;SC;Ibirama;-27.0547;-49.5193;1951-09-20T00:00:00Z;4206900
+BRASIL;Clube de Regatas Brasil;Alagoas;AL;Maceió;-9.66599;-35.735;1912-01-01T00:00:00Z;2704302
+MACAÉ;Macaé Esporte Futebol Clube;Rio de Janeiro;RJ;Macaé;-22.3768;-41.7848;1990-07-17T00:00:00Z;3302403
+ICASA;Associação Desportiva Recreativa Cultural Icasa;Ceará;CE;Juazeiro do Norte;-7.19621;-39.3076;1963-05-01T00:00:00Z;2307304
+LUVERDENSE;Luverdense Esporte Clube;Mato Grosso;MT;Lucas do Rio Verde;-13.0588;-55.9042;2004-01-01T00:00:00Z;5105259
+TUPI;Tupi Football Club;Minas Gerais;MG;Juiz de Fora;-21.7595;-43.3398;1912-01-01T00:00:00Z;3136702
+DUQUE DE CAXIAS;Duque de Caxias Futebol Clube;Rio de Janeiro;RJ;Duque de Caxias;-22.7858;-43.3049;1989-01-01T00:00:00Z;3301702
+CAMPINENSE;Campinense Clube;Paraíba;PB;Campina Grande;-7.22196;-35.8731;1915-01-01T00:00:00Z;2504009
+CEARÁ;Ceará Sporting Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;1914-01-01T00:00:00Z;2304400
+CEARÁ B;Ceará Sporting Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;1914-01-01T00:00:00Z;2304400
+GUARANI;Guarani Futebol Clube;São Paulo;SP;Campinas;-22.9053;-47.0659;1911-04-02T00:00:00Z;3509502
+SOBRADINHO;Sobradinho Esporte Clube;Bahia;BA;Sobradinho;-9.45024;-40.8145;1975-01-01T00:00:00Z;2930774
+ATLÉTICO JUVENTUS;Clube Atlético Juventus;São Paulo;SP;São Paulo;-23.5329;-46.6395;1924-04-20T00:00:00Z;3550308
+SINOP;Sinop Futebol Clube;Mato Grosso;MT;Sinop;-11.8604;-55.5091;1977-01-01T00:00:00Z;5107909
+OPERÁRIO;Operário Futebol Clube;Alagoas;AL;Campo Grande;-9.95542;-36.7926;1938-08-28T00:00:00Z;2701506
+YPIRANGA;Ypiranga Futebol Clube;Rio Grande do Sul;RS;Erechim;-27.6364;-52.2697;1924-01-01T00:00:00Z;4307005
+TUPAN;Sociedade Esportiva Tupan;Maranhão;MA;São Luís;-2.53874;-44.2825;1926-12-23T00:00:00Z;2111300
+ATLÉTICO VILA RICA;Clube Atlético Vila Rica;Pará;PA;Belém;-1.4554;-48.4898;1987-01-01T00:00:00Z;1501402
+CALDENSE;Associação Atlética Caldense;Minas Gerais;MG;Poços de Caldas;-21.78;-46.5692;1925-01-01T00:00:00Z;3151800
+RIO PRETO;Rio Preto Esporte Clube;São Paulo;SP;São José do Rio Preto;-20.8113;-49.3758;1919-01-01T00:00:00Z;3549805
+VILLA NOVA ATLÉTICO;Villa Nova Atlético Clube;Minas Gerais;MG;Nova Lima;-19.9758;-43.8509;1908-01-01T00:00:00Z;3144805
+CONFIANÇA;Associação Desportiva Confiança;Sergipe;SE;Aracaju;-10.9091;-37.0677;1936-01-01T00:00:00Z;2800308
+REPÚBLICA;Sport Club República;Bahia;BA;Salvador;-12.9718;-38.5011;;2927408
+SÃO JOSÉ;São José Esporte Clube;São Paulo;SP;São José dos Campos;-23.1896;-45.8841;1933-01-01T00:00:00Z;3549904
+NOVO HAMBURGO;Esporte Clube Novo Hamburgo;Rio Grande do Sul;RS;Novo Hamburgo;-29.6875;-51.1328;1911-01-01T00:00:00Z;4313409
+GUARANI;Sociedade Esportiva, Recreativa e Cultural Guarani;Santa Catarina;SC;Palhoça;-27.6455;-48.6697;1928-01-01T00:00:00Z;4211900
+ATLÉTICO DO PORTO;Clube Atlético do Porto;Pernambuco;PE;Caruaru;-8.28455;-35.9699;1983-01-01T00:00:00Z;2604106
+JUVENTUDE;Esporte Clube Juventude;Rio Grande do Sul;RS;Caxias do Sul;-29.1629;-51.1792;1913-06-29T00:00:00Z;4305108
+BOA;Boa Esporte Clube;Minas Gerais;MG;Varginha;-21.5556;-45.4364;1947-01-01T00:00:00Z;3170701
+BRITÂNIA;Britânia Sport Club;Goiás;GO;Britânia;-15.2428;-51.1602;1914-01-01T00:00:00Z;5203807
+TIGRES DO BRASIL;Esporte Clube Tigres do Brasil;Rio de Janeiro;RJ;Duque de Caxias;-22.7858;-43.3049;2004-01-01T00:00:00Z;3301702
+CENTRO SPORTIVO ALAGOANO;Centro Sportivo Alagoano;Alagoas;AL;Maceió;-9.66599;-35.735;1913-01-01T00:00:00Z;2704302
+RODOVIÁRIA;Associação Atlética Rodoviária;Amazonas;AM;Manaus;-3.11866;-60.0212;1960-01-20T00:00:00Z;1302603
+7 DE SETEMBRO;Clube Desportivo Sete de Setembro;Mato Grosso do Sul;MS;Dourados;-22.2231;-54.812;1994-01-01T00:00:00Z;5003702
+GUARÁ;Clube de Regatas Guará;São Paulo;SP;Guará;-20.4302;-47.8236;1967-01-09T00:00:00Z;3517703
+QUIXADÁ;Quixadá Futebol Clube;Ceará;CE;Quixadá;-4.9663;-39.0155;1965-10-27T00:00:00Z;2311306
+BANGU ATLÉTICO;Bangu Atlético Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1904-01-01T00:00:00Z;3304557
+GOIÁS;Goiás Esporte Clube;Goiás;GO;Goiânia;-16.6864;-49.2643;1943-04-06T00:00:00Z;5208707
+PARANÁ;Paraná Clube;Paraná;PR;Curitiba;-25.4195;-49.2646;1989-01-01T00:00:00Z;4106902
+COMERCIAL ATLÉTICO;Comercial Atlético Clube;Piauí;PI;Campo Maior;-4.8217;-42.1641;1945-04-21T00:00:00Z;2202208
+CENTRAL;Central Sport Club;Pernambuco;PE;Caruaru;-8.28455;-35.9699;1919-06-15T00:00:00Z;2604106
+SÃO JOSÉ;Esporte Clube São José;Rio Grande do Sul;RS;Porto Alegre;-30.0318;-51.2065;1913-01-01T00:00:00Z;4314902
+RIO BRANCO ATLÉTICO;Rio Branco Atlético Clube;Espírito Santo;ES;Vitória;-20.3155;-40.3128;1913-01-01T00:00:00Z;3205309
+CORINTHIANS PARANAENSE;Sport Club Corinthians Paranaense;Paraná;PR;Curitiba;-25.4195;-49.2646;1994-01-01T00:00:00Z;4106902
+CHAPECOENSE;Associação Chapecoense de Futebol;Santa Catarina;SC;Chapecó;-27.103888888;-52.606666666;1973-01-01T00:00:00Z;4204202
+MIXTO;Mixto Esporte Clube;Mato Grosso;MT;Cuiabá;-15.601;-56.0974;1934-05-20T00:00:00Z;5103403
+REMO;Clube do Remo;Pará;PA;Belém;-1.4554;-48.4898;1905-01-01T00:00:00Z;1501402
+VOLTA REDONDA;Volta Redonda Futebol Clube;Rio de Janeiro;RJ;Volta Redonda;-22.5202;-44.0996;1976-01-01T00:00:00Z;3306305
+CÉRES;Céres Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1933-07-10T00:00:00Z;3304557
+GUARANY SPORTING;Guarany Sporting Club;Ceará;CE;Sobral;-3.68913;-40.3482;1938-07-02T00:00:00Z;2312908
+CAMAÇARI;Camaçari Futebol Clube;Bahia;BA;Camaçari;-12.6996;-38.3263;1968-11-08T00:00:00Z;2905701
+ATLÉTICO METROPOLITANO;Clube Atlético Metropolitano;Santa Catarina;SC;Blumenau;-26.9155;-49.0709;2002-01-01T00:00:00Z;4202404
+POTIGUAR;Associação Cultural e Desportiva Potiguar;Rio Grande do Norte;RN;Mossoró;-5.18374;-37.3474;1945-02-11T00:00:00Z;2408003
+VILA AURORA;Sociedade Esportiva Vila Aurora;Mato Grosso;MT;Rondonópolis;-16.4673;-54.6372;1964-05-05T00:00:00Z;5107602
+OPERÁRIO FERROVIÁRIO;Operário Ferroviário Esporte Clube;Paraná;PR;Ponta Grossa;-25.0916;-50.1668;1912-01-01T00:00:00Z;4119905
+PORTUGUESA;Associação Atlética Portuguesa;São Paulo;SP;Santos;-23.9535;-46.335;1917-01-01T00:00:00Z;3548500
+RIO BRANCO;Rio Branco Football Club;Acre;AC;Rio Branco;-9.974;-67.8076;1919-01-01T00:00:00Z;5107206
+TREM;Trem Desportivo Clube;Amapá;AP;Macapá;0.034934;-51.0694;1947-01-01T00:00:00Z;1600303
+GUARATINGUETÁ LTDA;Guaratinguetá Futebol Ltda.;São Paulo;SP;Guaratinguetá;-22.8075;-45.1938;1998-01-01T00:00:00Z;3518404
+SÃO CRISTÓVÃO;São Cristóvão de Futebol e Regatas;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1909-07-05T00:00:00Z;3304557
+SPORTIVO SERGIPE;Club Sportivo Sergipe;Sergipe;SE;Aracaju;-10.9091;-37.0677;1909-01-01T00:00:00Z;2800308
+LIMOEIRO;Associação Desportiva Limoeiro Futebol Clube;Ceará;CE;Limoeiro do Norte;-5.14392;-38.0847;2001-01-01T00:00:00Z;2307601
+CABOFRIENSE;Associação Desportiva Cabofriense;Rio de Janeiro;RJ;Cabo Frio;-22.8894;-42.0286;1997-01-01T00:00:00Z;3300704
+LEÔNICO;Associação Desportiva Leônico;Bahia;BA;Salvador;-12.9718;-38.5011;1940-04-03T00:00:00Z;2927408
+ADESG;Associação Desportiva Senador Guiomard;Acre;AC;Senador Guiomard;-10.1497;-67.7362;1982-01-01T00:00:00Z;1200450
+VASCO DA GAMA;Associação Desportiva Vasco da Gama;Acre;AC;Rio Branco;-9.974;-67.8076;1952-06-28T00:00:00Z;5107206
+TIRADENTES;Associação Esportiva Tiradentes;Ceará;CE;Fortaleza;-3.71664;-38.5423;1961-09-15T00:00:00Z;2304400
+JAGUARÉ;Associação Jaguaré Esporte Clube;Espírito Santo;ES;Jaguaré;-18.907;-40.0759;2001-01-01T00:00:00Z;3203056
+OLÍMPICA DE ITABAIANA;Associação Olímpica de Itabaiana;Paraíba;PB;Itabaiana;-7.33167;-35.3317;1938-01-01T00:00:00Z;2506905
+ATLÉTICO ACREANO;Atlético Acreano;Acre;AC;Rio Branco;-9.974;-67.8076;1952-04-17T00:00:00Z;5107206
+CUIABÁ;Cuiabá Esporte Clube;Mato Grosso;MT;Cuiabá;-15.601;-56.0974;2001-01-01T00:00:00Z;5103403
+CENTRO SPORTIVO CAPELENSE;Centro Sportivo Capelense;Alagoas;AL;Capela;-9.41504;-36.0826;1945-01-01T00:00:00Z;2701704
+CENTRO DE ENSINO UNIFICADO DE BRASÍLIA;Centro de Ensino Unificado de Brasília Esporte Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;1968-01-01T00:00:00Z;5300108
+ATLÉTICO CEARENSE;Futebol Clube Atlético Cearense;Ceará;CE;Fortaleza;-3.71664;-38.5423;1982-01-01T00:00:00Z;2304400
+MINEIROS;Mineiros Esporte Clube;Goiás;GO;Mineiros;-17.5654;-52.5537;1977-01-01T00:00:00Z;5213103
+MISTO;Misto Esporte Clube;Mato Grosso do Sul;MS;Três Lagoas;-20.7849;-51.7007;1992-01-01T00:00:00Z;5008305
+LA CORUÑA BRASIL;Deportivo La Coruña Brasil Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1994-11-15T00:00:00Z;3304557
+MUNIZ FREIRE;Muniz Freire Futebol Clube;Espírito Santo;ES;Muniz Freire;-20.4652;-41.4156;1930-05-01T00:00:00Z;3203700
+MURICI;Murici Futebol Clube;Alagoas;AL;Murici;-9.30682;-35.9428;1974-09-07T00:00:00Z;2705507
+FLAMENGO PARAIBANO;Esporte Clube Flamengo Paraibano;Paraíba;PB;João Pessoa;-7.11509;-34.8641;2008-01-01T00:00:00Z;2507507
+NACIONAL FAST;Nacional Fast Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;1930-07-08T00:00:00Z;1302603
+CLIPER;Atlético Cliper Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;1952-06-01T00:00:00Z;1302603
+ATLÉTICO RIO NEGRO AMAZONAS;Atlético Rio Negro Clube (Amazonas);Amazonas;AM;Manaus;-3.11866;-60.0212;1913-01-01T00:00:00Z;1302603
+AUTO AMAZONAS;Auto Esporte Clube (Amazonas);Amazonas;AM;Manaus;-3.11866;-60.0212;;1302603
+GRÊMIO BAGÉ;Grêmio Esportivo Bagé;Rio Grande do Sul;RS;Bagé;-31.3297;-54.0999;1920-01-01T00:00:00Z;4301602
+BLUMENAU;Blumenau Esporte Clube;Santa Catarina;SC;Blumenau;-26.9155;-49.0709;1919-01-01T00:00:00Z;4202404
+BOTAFOGO;Botafogo Sport Club;Bahia;BA;Salvador;-12.9718;-38.5011;1914-01-01T00:00:00Z;2927408
+BOTAFOGO;Botafogo Futebol Clube;Paraíba;PB;João Pessoa;-7.11509;-34.8641;1931-01-01T00:00:00Z;2507507
+ESPÍRITO SANTO;Espírito Santo Sociedade Esportiva;Espírito Santo;ES;Colatina;-19.5493;-40.6269;1998-01-01T00:00:00Z;3201506
+CACERENSE;Cacerense Esporte Clube;Mato Grosso;MT;Cáceres;-16.0764;-57.6818;1996-01-01T00:00:00Z;5102504
+CACHOEIRO;Cachoeiro Futebol Clube;Espírito Santo;ES;Cachoeiro de Itapemirim;-20.8462;-41.1198;1916-01-01T00:00:00Z;3201209
+CAPITAL;Capital Clube de Futebol;São Paulo;SP;Guará;-20.4302;-47.8236;2005-01-01T00:00:00Z;3517703
+CATUENSE S A;Catuense Futebol S/A;Bahia;BA;Catu;-12.3513;-38.3791;1974-01-01T00:00:00Z;2907509
+CAXIAS;Caxias Esporte Clube;Maranhão;MA;Caxias;-4.86505;-43.3617;1940-09-06T00:00:00Z;2103000
+RIO GRANDE;Sport Club Rio Grande;Rio Grande do Sul;RS;Rio Grande;-32.0349;-52.1071;1900-01-01T00:00:00Z;4315602
+SÃO PAULO ATHLETIC;São Paulo Athletic Club;São Paulo;SP;São Paulo;-23.5329;-46.6395;1888-01-01T00:00:00Z;3550308
+CSE;Clube Sociedade Esportiva;Alagoas;AL;Palmeira dos Índios;-9.40568;-36.6328;1947-06-21T00:00:00Z;2706307
+OESTE;Oeste Futebol Clube;São Paulo;SP;Itápolis;-21.5942;-48.8149;1921-01-01T00:00:00Z;3522703
+FERRO CARRIL;Esporte Clube Ferro Carril;Rio Grande do Sul;RS;Uruguaiana;-29.7614;-57.0853;1916-01-01T00:00:00Z;4322400
+PINHEIROS PARANÁ;Esporte Clube Pinheiros (Paraná);Paraná;PR;Curitiba;-25.4195;-49.2646;1914-01-01T00:00:00Z;4106902
+SANTO ANDRÉ;Esporte Clube Santo André;São Paulo;SP;Santo André;-23.6737;-46.5432;1967-01-01T00:00:00Z;3547809
+TREZE;Treze Futebol Clube;Paraíba;PB;Campina Grande;-7.22196;-35.8731;1925-01-01T00:00:00Z;2504009
+NACIONAL LTDA;Nacional Esporte Clube Ltda;Minas Gerais;MG;Esmeraldas;-19.764;-44.3065;2008-01-01T00:00:00Z;3124104
+SOCIAL;Social Futebol Clube;Minas Gerais;MG;Coronel Fabriciano;-19.5179;-42.6276;1944-01-01T00:00:00Z;3119401
+PAULISTA;Paulista Futebol Clube;São Paulo;SP;Jundiaí;-23.1852;-46.8974;1909-01-01T00:00:00Z;3525904
+ITUANO;Ituano Futebol Clube;São Paulo;SP;Itu;-23.2544;-47.2927;1947-01-01T00:00:00Z;3523909
+ITUMBIARA;Itumbiara Esporte Clube;Goiás;GO;Itumbiara;-18.4093;-49.2158;1970-01-01T00:00:00Z;5211503
+CAXIAS DO SUL;Sociedade Esportiva e Recreativa Caxias do Sul;Rio Grande do Sul;RS;Caxias do Sul;-29.1629;-51.1792;1935-01-01T00:00:00Z;4305108
+JV LIDERAL;JV Lideral Futebol Clube;Maranhão;MA;Imperatriz;-5.51847;-47.4777;2005-01-01T00:00:00Z;2105302
+ARAGUAIA ATLÉTICO;Araguaia Atlético Clube;Mato Grosso;MT;Alto Araguaia;-17.3153;-53.2181;1978-01-01T00:00:00Z;5100300
+CERÂMICA ATLÉTICO;Cerâmica Atlético Clube;Rio Grande do Sul;RS;Gravataí;-29.9413;-50.9869;1950-01-01T00:00:00Z;4309209
+AMÉRICA;América Futebol Clube;Minas Gerais;MG;Teófilo Otoni;-17.8595;-41.5087;1936-01-01T00:00:00Z;3168606
+SÃO CARLOS;São Carlos Futebol Clube;São Paulo;SP;São Carlos;-22.0174;-47.886;2004-01-01T00:00:00Z;3548906
+MARÍLIA ATLÉTICO;Marília Atlético Clube;São Paulo;SP;Marília;-22.2171;-49.9501;1942-01-01T00:00:00Z;3529005
+BRASIL;Sport Club Brasil;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1912-01-01T00:00:00Z;3304557
+ÁGUIA DE MARABÁ;Águia de Marabá Futebol Clube;Pará;PA;Marabá;-5.38075;-49.1327;1982-01-01T00:00:00Z;1504208
+NOVA IGUAÇU;Nova Iguaçu Futebol Clube;Rio de Janeiro;RJ;Nova Iguaçu;-22.7556;-43.4603;1990-01-01T00:00:00Z;3303500
+OLÍMPICO;Olímpico Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;1938-10-17T00:00:00Z;1302603
+OLÍMPICO PIRAMBU;Olímpico Pirambu Futebol Clube;Sergipe;SE;Pirambu;-10.7215;-36.8544;1931-09-04T00:00:00Z;2805307
+OPERÁRIO LTDA;Operário Futebol Clube Ltda.;Piauí;PI;Várzea Grande;-6.54899;-42.248;2002-01-01T00:00:00Z;2211407
+ORION;Orion Futebol Clube;Ceará;CE;Fortaleza;-3.71664;-38.5423;1929-01-01T00:00:00Z;2304400
+PAISSANDU ATLÉTICO;Paissandu Atlético Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1872-01-01T00:00:00Z;3304557
+PALMAS;Palmas Futebol e Regatas;Paraná;PR;Palmas;-26.4839;-51.9888;1997-01-01T00:00:00Z;4117602
+PANTANAL;Pantanal Futebol Clube;Mato Grosso do Sul;MS;Ladário;-19.0089;-57.5973;1987-01-01T00:00:00Z;5005202
+PARANOÁ;Paranoá Esporte Clube;Rio Grande do Sul;RS;Colorado;-28.5258;-52.9928;2000-01-01T00:00:00Z;4305603
+PEDREIRA;Pedreira Esporte Clube;Pará;PA;Belém;-1.4554;-48.4898;1925-01-01T00:00:00Z;1501402
+PETROPOLITANO;Petropolitano Foot-Ball Club;Rio de Janeiro;RJ;Petrópolis;-22.52;-43.1926;;3303906
+PINHEIROS;Pinheiros Futebol Clube;Espírito Santo;ES;Pinheiros;-18.4141;-40.2171;1993-01-01T00:00:00Z;3204104
+PIONEIRA;Pioneira Futebol Clube;Tocantins;TO;Taguatinga;-12.4026;-46.437;;1720903
+PRINCESA DO SOLIMÕES;Princesa do Solimões Esporte Clube;Amazonas;AM;Manacapuru;-3.29066;-60.6216;1971-01-01T00:00:00Z;1302504
+RE;Re-Pa;Pará;PA;Belém;-1.4554;-48.4898;;1501402
+RIO BRANCO DE ANDRADAS;Rio Branco de Andradas Futebol Clube;Minas Gerais;MG;Andradas;-22.0695;-46.5724;1948-06-13T00:00:00Z;3102605
+RÍVER;River Atlético Clube;Piauí;PI;Teresina;-5.09194;-42.8034;1946-03-01T00:00:00Z;2211001
+ALECRIM;Alecrim Futebol Clube;Rio Grande do Norte;RN;Natal;-5.79357;-35.1986;1915-01-01T00:00:00Z;2408102
+GOYTACAZ;Goytacaz Futebol Clube;Rio de Janeiro;RJ;Campos dos Goytacazes;-21.7622;-41.3181;1912-01-01T00:00:00Z;3301009
+ANAPOLINA;Associação Atlética Anapolina;Goiás;GO;Anápolis;-16.3281;-48.953;1948-01-01T00:00:00Z;5201108
+BRUSQUE;Brusque Futebol Clube;Santa Catarina;SC;Brusque;-27.0977;-48.9107;1987-01-01T00:00:00Z;4202909
+FRIBURGUENSE ATLÉTICO;Friburguense Atlético Clube;Rio de Janeiro;RJ;Nova Friburgo;-22.2932;-42.5377;1980-01-01T00:00:00Z;3303401
+MOTO SÃO LUÍS;Moto Club de São Luís;Maranhão;MA;São Luís;-2.53874;-44.2825;1937-09-13T00:00:00Z;2111300
+ATLÉTICO CATALANO;Clube Recreativo e Atlético Catalano;Goiás;GO;Catalão;-18.1656;-47.944;1931-07-13T00:00:00Z;5205109
+DEMOCRATA;Esporte Clube Democrata;Minas Gerais;MG;Governador Valadares;-18.8545;-41.9555;1932-01-01T00:00:00Z;3127701
+UBERLÂNDIA;Uberlândia Esporte Clube;Minas Gerais;MG;Uberlândia;-18.9141;-48.2749;1922-01-01T00:00:00Z;3170206
+CENTRO EDUCATIVO SÃO MATEUS;Centro Educativo Recreativo Associação Atlética São Mateus;Espírito Santo;ES;São Mateus;-18.7214;-39.8579;1963-12-13T00:00:00Z;3204906
+AMÉRICA;América Futebol Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;1939-08-02T00:00:00Z;1302603
+BRASÍLIA;Brasília Futebol Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;1975-01-01T00:00:00Z;5300108
+ARAGUAÍNA;Araguaína Futebol e Regatas;Tocantins;TO;Araguaína;-7.19238;-48.2044;1997-01-01T00:00:00Z;1702109
+SÃO RAIMUNDO;São Raimundo Esporte Clube;Pará;PA;Santarém;-2.43849;-54.6996;1944-01-01T00:00:00Z;1506807
+ATLÉTICO JUVENTUS;Atlético Clube Juventus;Acre;AC;Rio Branco;-9.974;-67.8076;1966-03-01T00:00:00Z;5107206
+MIRASSOL;Mirassol Futebol Clube;São Paulo;SP;Mirassol;-20.8169;-49.5206;1925-01-01T00:00:00Z;3530300
+NOROESTE;Esporte Clube Noroeste;São Paulo;SP;Bauru;-22.3246;-49.0871;1910-01-01T00:00:00Z;3506003
+GALO MARINGÁ;ADAP/Galo Maringá Futebol Clube;Paraíba;PB;Mari;-7.05942;-35.318;2006-01-01T00:00:00Z;2509107
+XV DE PIRACICABA;Esporte Clube XV de Novembro;São Paulo;SP;Piracicaba;-22.7338;-47.6476;1913-01-01T00:00:00Z;3538709
+BOAVISTA;Boavista Sport Club;Rio de Janeiro;RJ;Saquarema;-22.9292;-42.5099;1961-01-01T00:00:00Z;3305505
+SALGUEIRO ATLÉTICO;Salgueiro Atlético Clube;Pernambuco;PE;Salgueiro;-8.07373;-39.1247;1972-05-23T00:00:00Z;2612208
+CAMPO GRANDE ATLÉTICO;Campo Grande Atlético Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1940-01-01T00:00:00Z;3304557
+GRÊMIO BRASIL;Grêmio Esportivo Brasil;Rio Grande do Sul;RS;Pelotas;-31.7649;-52.3371;1911-09-07T00:00:00Z;4314407
+PAYSANDU;Paysandu Sport Club;Pará;PA;Belém;-1.4554;-48.4898;1914-01-01T00:00:00Z;1501402
+VILA NOVA;Vila Nova Futebol Clube;Goiás;GO;Goiânia;-16.6864;-49.2643;1943-01-01T00:00:00Z;5208707
+GOIÂNIA;Goiânia Esporte Clube;Goiás;GO;Goiânia;-16.6864;-49.2643;1938-01-01T00:00:00Z;5208707
+VITÓRIA;Vitória Futebol Clube;Espírito Santo;ES;Vitória;-20.3155;-40.3128;1912-01-01T00:00:00Z;3205309
+MADUREIRA;Madureira Esporte Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1914-01-01T00:00:00Z;3304557
+CORINTHIANS ALAGOANO;Sport Club Corinthians Alagoano;Alagoas;AL;Maceió;-9.66599;-35.735;1991-01-01T00:00:00Z;2704302
+LONDRINA;Londrina Esporte Clube;Paraná;PR;Londrina;-23.304;-51.1691;1956-01-01T00:00:00Z;4113700
+RIO BRANCO;Rio Branco Esporte Clube;São Paulo;SP;Americana;-22.7374;-47.3331;1913-01-01T00:00:00Z;3501608
+GUARANY DE BAGÉ;Guarany Futebol Clube;Rio Grande do Sul;RS;Bagé;-31.3297;-54.0999;1907-01-01T00:00:00Z;4301602
+INTERNACIONAL;Sport Club Internacional;São Paulo;SP;São Paulo;-23.5329;-46.6395;1899-01-01T00:00:00Z;3550308
+OLARIA ATLÉTICO;Olaria Atlético Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.842143012;-43.26699613;1915-01-01T00:00:00Z;3304557
+JOINVILLE;Joinville Esporte Clube;Santa Catarina;SC;Joinville;-26.3045;-48.8487;1976-01-29T00:00:00Z;4209102
+PALESTRA ITÁLIA;Palestra Itália Futebol Clube;Paraná;PR;Curitiba;-25.4195;-49.2646;1921-01-01T00:00:00Z;4106902
+GRÊMIO SÃOCARLENSE;Grêmio Esportivo Sãocarlense;São Paulo;SP;São Carlos;-22.0174;-47.886;1976-01-01T00:00:00Z;3548906
+ATLÉTICO CRISTAL;Clube Atlético Cristal;Amapá;AP;Macapá;0.034934;-51.0694;1969-11-15T00:00:00Z;1600303
+ALAGOINHAS ATLÉTICO;Alagoinhas Atlético Clube;Bahia;BA;Alagoinhas;-12.1335;-38.4208;1970-01-01T00:00:00Z;2900702
+BARÉ;Baré Esporte Clube;Roraima;RR;Boa Vista;2.82384;-60.6753;1946-01-01T00:00:00Z;1400100
+ATLÉTICO CORINTIANS;Atlético Clube Corintians;Rio Grande do Norte;RN;Caicó;-6.45441;-37.1067;1968-01-25T00:00:00Z;2402006
+SANTANA;Santana Esporte Clube;Bahia;BA;Santana;-12.9792;-44.0506;1955-09-25T00:00:00Z;2928208
+UBERABA;Uberaba Sport Club;Minas Gerais;MG;Uberaba;-19.7472;-47.9381;1917-01-01T00:00:00Z;3170107
+NAVIRAIENSE;Clube Esportivo Naviraiense;Mato Grosso do Sul;MS;Naviraí;-23.0618;-54.1995;2005-01-01T00:00:00Z;5005707
+SERTÃOZINHO;Sertãozinho Futebol Clube;São Paulo;SP;Sertãozinho;-21.1316;-47.9875;1944-08-06T00:00:00Z;3551702
+ATLÉTICO RORAIMA;Atlético Roraima Clube;Roraima;RR;Boa Vista;2.82384;-60.6753;1944-10-01T00:00:00Z;1400100
+SAMPAIO CORRÊA;Sampaio Corrêa Futebol Clube;Maranhão;MA;São Luís;-2.53874;-44.2825;1923-01-01T00:00:00Z;2111300
+ATLÉTICO MATOGROSSENSE;Clube Atlético Matogrossense;Mato Grosso;MT;Cuiabá;-15.601;-56.0974;1943-01-01T00:00:00Z;5103403
+GUARANI;Guarani Esporte Clube;Minas Gerais;MG;Divinópolis;-20.1446;-44.8912;1930-09-20T00:00:00Z;3122306
+FERROVIÁRIA VALE DO RIO DOCE;Associação Desportiva Ferroviária Vale do Rio Doce;Espírito Santo;ES;Cariacica;-20.2632;-40.4165;1963-06-17T00:00:00Z;3201308
+BENTO GONÇALVES;Clube Esportivo Bento Gonçalves;Rio Grande do Sul;RS;Bento Gonçalves;-29.1662;-51.5165;1919-01-01T00:00:00Z;4302105
+GRÊMIO JUVENTUS;Grêmio Esportivo Juventus;Santa Catarina;SC;Jaraguá do Sul;-26.4851;-49.0713;1966-05-01T00:00:00Z;4208906
+NÁUAS;Náuas Esporte Clube;Acre;AC;Cruzeiro do Sul;-7.6649;-72.6504;1923-01-01T00:00:00Z;4106704
+FLUMINENSE DE FEIRA;Fluminense de Feira Futebol Clube;Bahia;BA;Feira de Santana;-12.2664;-38.9663;1941-01-01T00:00:00Z;2910800
+FERROVIÁRIO ATLÉTICO;Ferroviário Atlético Clube;Ceará;CE;Fortaleza;-3.71664;-38.5423;1933-05-09T00:00:00Z;2304400
+IRATY;Iraty Sport Club;Paraná;PR;Irati;-25.4697;-50.6493;1914-01-01T00:00:00Z;4110706
+FLAMENGO;Esporte Clube Flamengo;Piauí;PI;Teresina;-5.09194;-42.8034;1937-12-08T00:00:00Z;2211001
+NOVA ESPERANÇA;Clube Esportivo Nova Esperança;Alagoas;AL;Campo Grande;-9.95542;-36.7926;1999-01-01T00:00:00Z;2701506
+SPORTIVA UNIDA;Associação Sportiva Sociedade Unida;Rio Grande do Sul;RS;Montenegro;-29.6824;-51.4679;2002-01-01T00:00:00Z;4312401
+1º DE MAIO;1º de Maio Esporte Clube;Pernambuco;PE;Petrolina;-9.38866;-40.5027;1985-01-01T00:00:00Z;2611101
+4 DE JULHO;4 de Julho Esporte Clube;Piauí;PI;Piripiri;-4.27157;-41.7716;1987-07-04T00:00:00Z;2208403
+ALEGRENSE;Alegrense Futebol Clube;Espírito Santo;ES;Alegre;-20.758;-41.5382;1971-01-01T00:00:00Z;3200201
+AMAPÁ;Amapá Clube;Amapá;AP;Macapá;0.034934;-51.0694;1944-02-26T00:00:00Z;1600303
+GURUPI;Gurupi Esporte Clube;Tocantins;TO;Gurupi;-11.7279;-49.068;1988-01-01T00:00:00Z;1709500
+CAMETÁ;Cametá Sport Club;Pará;PA;Cametá;-2.24295;-49.4979;2007-01-01T00:00:00Z;1502103
+CENTRO ZICO DO RIO;Centro de Futebol Zico do Rio Sociedade Esportiva;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1996-01-01T00:00:00Z;3304557
+OSASCO;Osasco Futebol Clube;Piauí;PI;Brasileira;-4.1337;-41.7859;1992-01-01T00:00:00Z;2201960
+RIVER PLATE;Sociedade Esportiva River Plate;Sergipe;SE;Carmópolis;-10.6449;-36.9887;1967-01-01T00:00:00Z;2801504
+SANTA CRUZ;Sport Club Santa Cruz;Rio Grande do Norte;RN;Santa Cruz;-6.22475;-36.0193;2003-01-01T00:00:00Z;2411205
+TOCANTINS;Tocantins Futebol Clube;Paraná;PR;Palmas;-26.4839;-51.9888;1979-08-10T00:00:00Z;4117602
+BOSQUE FORMOSA;Bosque Formosa Esporte Clube;Goiás;GO;Formosa;-15.54;-47.337;1978-01-01T00:00:00Z;5208004
+PLÁCIDO DE CASTRO;Plácido de Castro Futebol Club;Acre;AC;Plácido de Castro;-10.2806;-67.1371;1979-01-01T00:00:00Z;1200385
+VERANÓPOLIS;Veranópolis Esporte Clube Recreativo e Cultural;Rio Grande do Sul;RS;Veranópolis;-28.9312;-51.5516;1992-01-01T00:00:00Z;4322806
+GALÍCIA;Galícia Esporte Clube;Bahia;BA;Salvador;-12.9718;-38.5011;1933-01-01T00:00:00Z;2927408
+PAULÍNIA;Paulínia Futebol Clube;São Paulo;SP;Paulínia;-22.7542;-47.1488;2004-01-01T00:00:00Z;3536505
+AQUIDAUANENSE;Aquidauanense Futebol Clube;Mato Grosso do Sul;MS;Aquidauana;-20.4666;-55.7868;2001-01-01T00:00:00Z;5001102
+ALEXANDRIA;Esporte Clube Alexandria;Minas Gerais;MG;Alagoa;-22.171;-44.6413;1935-11-21T00:00:00Z;3101300
+14 DE JULHO;Esporte Clube 14 de Julho;Paraíba;PB;Livramento;-7.37113;-36.9491;1902-07-14T00:00:00Z;2508505
+BARROSO;Esporte Clube Barroso;Alagoas;AL;Maceió;-9.66599;-35.735;1921-01-01T00:00:00Z;2704302
+INTER DE LAGES;Esporte Clube Internacional de Lages;Santa Catarina;SC;Lages;-27.815;-50.3259;1949-01-01T00:00:00Z;4209300
+REAL BRASÍLIA;Real Brasília Futebol Clube;Minas Gerais;MG;Bandeira;-15.8783;-40.5622;1994-01-01T00:00:00Z;3105202
+COMERCIAL;Esporte Clube Comercial;Alagoas;AL;Campo Grande;-9.95542;-36.7926;1943-03-15T00:00:00Z;2701506
+IPITANGA BAHIA;Esporte Clube Ipitanga Bahia;Bahia;BA;Senhor do Bonfim;-10.4594;-40.1865;2003-09-20T00:00:00Z;2930105
+SANTA INÊS;Sociedade Esportiva Santa Inês;Bahia;BA;Santa Inês;-13.2793;-39.814;1998-01-01T00:00:00Z;2927903
+NOVA ANDRADINA;Sociedade Esportiva Nova Andradina;Mato Grosso do Sul;MS;Nova Andradina;-22.238;-53.3437;1989-01-01T00:00:00Z;5006200
+YPIRANGA;Sociedade Esportiva Ypiranga Futebol Clube;Pernambuco;PE;Santa Cruz do Capibaribe;-7.94802;-36.2061;1938-08-03T00:00:00Z;2612505
+CHAPADÃO;Sociedade Esportiva e Recreativa Chapadão;Mato Grosso do Sul;MS;Chapadão do Sul;-18.788;-52.6263;1981-01-01T00:00:00Z;5002951
+SÃO JOSÉ;Sociedade Esportiva e Recreativa São José;Amapá;AP;Macapá;0.034934;-51.0694;1946-08-26T00:00:00Z;1600303
+IMPERATRIZ;Sociedade Imperatriz de Desportos;Maranhão;MA;Imperatriz;-5.51847;-47.4777;1962-01-04T00:00:00Z;2105302
+SORRISO;Sorriso Esporte Clube;Mato Grosso;MT;Sorriso;-12.5425;-55.7211;1985-01-01T00:00:00Z;5107925
+AMERICANO;Sport Club Americano;Espírito Santo;ES;Vitória;-20.3155;-40.3128;1935-05-09T00:00:00Z;3205309
+LUSO BRASILEIRO;Sport Club Luso Brasileiro;Maranhão;MA;São Luís;-2.53874;-44.2825;1917-02-24T00:00:00Z;2111300
+MANGUEIRA;Sport Club Mangueira;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1906-01-01T00:00:00Z;3304557
+PENEDENSE;Sport Club Penedense;Alagoas;AL;Penedo;-10.2874;-36.5819;1909-01-01T00:00:00Z;2706703
+SANTOS DUMONT;Sport Club Santos Dumont;São Paulo;SP;Dumont;-21.2324;-47.9756;1904-01-01T00:00:00Z;3514601
+BOM JESUS;Sport Club Bom Jesus;Alagoas;AL;Matriz de Camaragibe;-9.15437;-35.5243;1928-01-01T00:00:00Z;2705101
+ULBRA JI-PARANÁ;Sport Club Ulbra Ji-Paraná;Rondônia;RO;Ji-Paraná;-10.8777;-61.9322;2005-01-01T00:00:00Z;1100122
+CAMAÇARIENSE;Sport Clube Camaçariense;Bahia;BA;Camaçari;-12.6996;-38.3263;2002-11-03T00:00:00Z;2905701
+SÃO BENTO;Esporte Clube São Bento;São Paulo;SP;Sorocaba;-23.4969;-47.4451;1913-01-01T00:00:00Z;3552205
+CEA;CEA Clube;Amapá;AP;Macapá;0.034934;-51.0694;1955-01-01T00:00:00Z;1600303
+CONCÓRDIA ATLÉTICO CLUBE;Concórdia Atlético Clube;Santa Catarina;SC;Concórdia;-27.2335;-52.026;2005-01-01T00:00:00Z;4204301
+CORUMBAENSE;Corumbaense Futebol Clube;Mato Grosso do Sul;MS;Corumbá;-19.0077;-57.651;1914-01-01T00:00:00Z;5003207
+COSTA RICA;Costa Rica Esporte Clube;Mato Grosso do Sul;MS;Costa Rica;-18.5432;-53.1287;;5003256
+COXIM ATLÉTICO;Coxim Atlético Clube;Mato Grosso do Sul;MS;Coxim;-18.5013;-54.751;2002-01-01T00:00:00Z;5003306
+DEMOCRATA;Democrata Futebol Clube;Minas Gerais;MG;Sete Lagoas;-19.4569;-44.2413;1914-01-01T00:00:00Z;3167202
+SANTA CRUZ;Santa Cruz Esporte Clube;Mato Grosso;MT;Barra do Bugres;-15.0702;-57.1878;1982-01-01T00:00:00Z;5101704
+SANTA CRUZ;Santa Cruz Futebol Clube;Alagoas;AL;Maceió;-9.66599;-35.735;1931-08-25T00:00:00Z;2704302
+SANTA QUITÉRIA;Santa Quitéria Futebol Clube;Maranhão;MA;Santa Quitéria do Maranhão;-3.49308;-42.5688;2003-01-01T00:00:00Z;2110104
+SANTO ANTÔNIO;Santo Antônio Futebol Clube;Espírito Santo;ES;Vitória;-20.3155;-40.3128;1919-01-01T00:00:00Z;3205309
+SANTOS MANAUS;Santos Futebol Clube (Manaus);Amazonas;AM;Manaus;-3.11866;-60.0212;1952-01-01T00:00:00Z;1302603
+SANTOS AMAPÁ;Santos Futebol Clube Amapá;Amapá;AP;Macapá;0.034934;-51.0694;1973-01-01T00:00:00Z;1600303
+JUVENTUDE;Sociedade Esportiva Juventude;Espírito Santo;ES;São Mateus;-18.7214;-39.8579;;3204906
+SERRA;Sociedade Desportiva Serra Futebol Clube;Espírito Santo;ES;Serra;-20.121;-40.3074;1930-07-24T00:00:00Z;3205002
+COLATINA;Colatina Sociedade Esportiva;Espírito Santo;ES;Colatina;-19.5493;-40.6269;2009-01-01T00:00:00Z;3201506
+COLINAS;Colinas Esporte Clube;Tocantins;TO;Colinas do Tocantins;-8.05764;-48.4757;2001-01-01T00:00:00Z;1705508
+COLORADO;Colorado Esporte Clube;Paraná;PR;Curitiba;-25.4195;-49.2646;1971-06-29T00:00:00Z;4106902
+COMERCIAL ALAGOAS;Comercial Futebol Clube (Alagoas);Rio Grande do Norte;RN;Viçosa;-5.98253;-37.9462;1965-01-01T00:00:00Z;2414902
+CONCÓRDIA;Concórdia Futebol Clube;Ceará;CE;Catarina;-6.12291;-39.8736;2003-01-01T00:00:00Z;2303600
+CONFIANÇA;Confiança Esporte Clube;Paraíba;PB;Sapé;-7.09359;-35.228;1953-04-22T00:00:00Z;2515302
+BOTAFOGO JAGUARÉ;Botafogo Futebol Clube de Jaguaré;Espírito Santo;ES;Jaguaré;-18.907;-40.0759;2011-01-01T00:00:00Z;3203056
+HERCÍLIO LUZ;Hercílio Luz Futebol Clube;Santa Catarina;SC;Tubarão;-28.4713;-49.0144;1918-01-01T00:00:00Z;4218707
+IBIRAÇU;Ibiraçu Esporte Clube;Espírito Santo;ES;Ibiraçu;-19.8366;-40.3732;1959-10-09T00:00:00Z;3202504
+IGACI;Igaci Futebol Clube;Minas Gerais;MG;Alagoa;-22.171;-44.6413;2001-02-10T00:00:00Z;3101300
+IMBITUBA;Imbituba Futebol Clube;Santa Catarina;SC;Imbituba;-28.2284;-48.6659;2007-01-01T00:00:00Z;4207304
+INDEPENDENTE;Independente Esporte Clube;Bahia;BA;Santana;-12.9792;-44.0506;1962-01-19T00:00:00Z;2928208
+INDEPENDÊNCIA;Independência Futebol Clube;Acre;AC;Rio Branco;-9.974;-67.8076;1946-08-02T00:00:00Z;5107206
+IPANEMA ATLÉTICO;Ipanema Atlético Clube;Alagoas;AL;Santana do Ipanema;-9.36999;-37.248;1923-01-01T00:00:00Z;2708006
+ITABUNA;Itabuna Esporte Clube;Bahia;BA;Itabuna;-14.7876;-39.2781;1967-05-23T00:00:00Z;2914802
+ITAPAJÉ;Itapajé Futebol Clube;Ceará;CE;Itapajé;-3.68314;-39.5855;1998-01-01T00:00:00Z;2306306
+ITAPIPOCA;Itapipoca Esporte Clube;Ceará;CE;Itapipoca;-3.49933;-39.5836;1993-01-01T00:00:00Z;2306405
+TUNA LUSO BRASILEIRA;Tuna Luso Brasileira;Pará;PA;Belém;-1.4554;-48.4898;1903-01-01T00:00:00Z;1501402
+JUAZEIRO SOCIAL;Juazeiro Social Clube;Bahia;BA;Juazeiro;-9.41622;-40.5033;1995-01-01T00:00:00Z;2918407
+JUVENTUS;Juventus Esporte Clube;Amapá;AP;Macapá;0.034934;-51.0694;1959-01-01T00:00:00Z;1600303
+ÁLVARES CABRAL;Clube de Natação e Regatas Álvares Cabral;Espírito Santo;ES;Vitória;-20.3155;-40.3128;1902-01-01T00:00:00Z;3205309
+GRÊMIO RENNER;Grêmio Esportivo Renner;Rio Grande do Sul;RS;Porto Alegre;-30.0318;-51.2065;1931-07-27T00:00:00Z;4314902
+ÍBIS;Íbis Sport Club;Paraíba;PB;Paulista;-6.59138;-37.6185;1938-11-15T00:00:00Z;2510907
+MACKENZIE;Sport Club Mackenzie;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+PAU GRANDE;Esporte Clube Pau Grande;Rio de Janeiro;RJ;Magé;-22.6632;-43.0315;1908-01-01T00:00:00Z;3302502
+PENAROL ATLÉTICO;Penarol Atlético Clube;Amazonas;AM;Itacoatiara;-3.13861;-58.4449;1947-08-08T00:00:00Z;1301902
+JI-PARANÁ;Ji-Paraná Futebol Clube;Rondônia;RO;Ji-Paraná;-10.8777;-61.9322;1991-01-01T00:00:00Z;1100122
+SÃO PAULO;Sport Club São Paulo;Rio Grande do Sul;RS;Rio Grande;-32.0349;-52.1071;1908-01-01T00:00:00Z;4315602
+INTERNACIONAL;Esporte Clube Internacional;Rio Grande do Sul;RS;Santa Maria;-29.6868;-53.8149;1928-05-16T00:00:00Z;4316907
+AUTO;Auto Esporte Clube;Piauí;PI;Teresina;-5.09194;-42.8034;1951-01-01T00:00:00Z;2211001
+ABAETÉ;Abaeté Futebol Clube;Pará;PA;Abaetetuba;-1.72183;-48.8788;1936-01-01T00:00:00Z;1500107
+ACADEMIA MANTHIQUEIRA;Academia Desportiva Manthiqueira;São Paulo;SP;Guaratinguetá;-22.8075;-45.1938;2005-01-01T00:00:00Z;3518404
+AGREMIAÇÃO CANEDENSE;Agremiação Esportiva Canedense;Goiás;GO;Senador Canedo;-16.7084;-49.0914;2005-01-01T00:00:00Z;5220454
+BELA VISTA SÃO GONÇALO;Bela Vista Futebol Clube (São Gonçalo);Mato Grosso do Sul;MS;Bela Vista;-22.1073;-56.5263;1977-01-01T00:00:00Z;5002100
+BELO JARDIM;Belo Jardim Futebol Clube;Pernambuco;PE;Belo Jardim;-8.3313;-36.4258;2005-01-01T00:00:00Z;2601706
+BERGA;Berga Esporte Clube;Mato Grosso;MT;Cuiabá;-15.601;-56.0974;1983-01-01T00:00:00Z;5103403
+BOA VIAGEM;Boa Viagem Esporte Clube;Ceará;CE;Boa Viagem;-5.11258;-39.7337;1999-01-01T00:00:00Z;2302404
+BOTAFOGO;Botafogo Esporte Clube;Piauí;PI;Teresina;-5.09194;-42.8034;1930-01-01T00:00:00Z;2211001
+BOTAFOGO REPTILES;Botafogo Reptiles;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1999-01-01T00:00:00Z;3304557
+AMERICANO;Americano Futebol Clube;Rio de Janeiro;RJ;Campos dos Goytacazes;-21.7622;-41.3181;1914-01-01T00:00:00Z;3301009
+15 DE NOVEMBRO;Clube 15 de Novembro;Rio Grande do Sul;RS;Campo Bom;-29.6747;-51.0606;1911-01-01T00:00:00Z;4303905
+GRÊMIO TIRADENTES;Grêmio Esportivo Tiradentes;Minas Gerais;MG;Tiradentes;-21.1102;-44.1744;1967-02-03T00:00:00Z;3168804
+MOGI MIRIM;Mogi Mirim Esporte Clube;São Paulo;SP;Mogi Mirim;-22.4332;-46.9532;1932-02-01T00:00:00Z;3530805
+GRÊMIO ATLÉTICO COARIENSE;Grêmio Atlético Coariense;Amazonas;AM;Coari;-4.09412;-63.1441;1977-01-01T00:00:00Z;1301209
+GRÊMIO JACIARA;Grêmio Esportivo Jaciara;Mato Grosso;MT;Jaciara;-15.9548;-54.9733;1975-01-01T00:00:00Z;5104807
+GRÊMIO ANÁPOLIS;Grêmio Esportivo Anápolis;Goiás;GO;Anápolis;-16.3281;-48.953;1999-01-01T00:00:00Z;5201108
+GRÊMIO OLÍMPICO;Grêmio Esportivo Olímpico;Santa Catarina;SC;Blumenau;-26.9155;-49.0709;1919-01-01T00:00:00Z;4202404
+GUARANY ATLÉTICO;Guarany Atlético Clube;Amapá;AP;Macapá;0.034934;-51.0694;1961-01-01T00:00:00Z;1600303
+GUARANI DE JUAZEIRO;Guarani Esporte Clube (Ceará);Ceará;CE;Juazeiro do Norte;-7.19621;-39.3076;1941-01-01T00:00:00Z;2307304
+GUARAPARI;Guarapari Esporte Clube;Espírito Santo;ES;Guarapari;-20.6772;-40.5093;1926-06-12T00:00:00Z;3202405
+SUL AMÉRICA;Sul América Esporte Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;1932-01-01T00:00:00Z;1302603
+SÃO FRANCISCO;São Francisco Futebol Clube (Acre);Acre;AC;Rio Branco;-9.974;-67.8076;1967-10-04T00:00:00Z;5107206
+SÃO PAULO MACAPÁ;São Paulo Futebol Clube (Macapá);Amapá;AP;Macapá;0.034934;-51.0694;1988-01-01T00:00:00Z;1600303
+SÃO RAIMUNDO RORAIMA;São Raimundo Esporte Clube (Roraima);Roraima;RR;Boa Vista;2.82384;-60.6753;1963-01-01T00:00:00Z;1400100
+SÃO RAIMUNDO MANAUS;São Raimundo Esporte Clube (Manaus);Amazonas;AM;Manaus;-3.11866;-60.0212;1918-01-01T00:00:00Z;1302603
+TAGUATINGA;Taguatinga Esporte Clube;Tocantins;TO;Taguatinga;-12.4026;-46.437;1975-01-01T00:00:00Z;1720903
+TRINDADE ATLÉTICO;Trindade Atlético Clube;Goiás;GO;Trindade;-16.6517;-49.4927;2005-01-01T00:00:00Z;5221403
+CRUZEIRO;Esporte Clube Cruzeiro;Tocantins;TO;Cachoeirinha;-6.1156;-47.9234;1913-01-01T00:00:00Z;1703826
+GRÊMIO INHUMENSE;Grêmio Esportivo Inhumense;Goiás;GO;Anápolis;-16.3281;-48.953;1999-01-01T00:00:00Z;5201108
+UBIRATAN;Ubiratan Esporte Clube;Mato Grosso do Sul;MS;Dourados;-22.2231;-54.812;1947-02-05T00:00:00Z;5003702
+AMERICANO SÃO PAULO;Sport Club Americano (São Paulo);São Paulo;SP;Santos;-23.9535;-46.335;1903-01-01T00:00:00Z;3548500
+UNISUL;Unisul Esporte Clube;Santa Catarina;SC;Tubarão;-28.4713;-49.0144;2000-01-01T00:00:00Z;4218707
+ARACRUZ;Esporte Clube Aracruz;Espírito Santo;ES;Aracruz;-19.82;-40.2764;1954-01-01T00:00:00Z;3200607
+ARAPONGAS;Arapongas Esporte Clube;Paraná;PR;Arapongas;-23.4153;-51.4259;1974-01-01T00:00:00Z;4101507
+ATLÉTICO SOROCABA;Clube Atlético Sorocaba;São Paulo;SP;Sorocaba;-23.4969;-47.4451;1991-02-21T00:00:00Z;3552205
+BOTAFOGO;Associação Botafogo Futebol Clube;São Paulo;SP;Guará;-20.4302;-47.8236;2009-01-01T00:00:00Z;3517703
+VILHENA;Vilhena Esporte Clube;Rondônia;RO;Vilhena;-12.7502;-60.1488;1991-01-01T00:00:00Z;1100304
+CAIÇARA;Caiçara Esporte Clube;Piauí;PI;Campo Maior;-4.8217;-42.1641;1954-02-27T00:00:00Z;2202208
+CAMBORIÚ;Camboriú Futebol Clube;Santa Catarina;SC;Camboriú;-27.0241;-48.6503;2003-01-01T00:00:00Z;4203204
+ATLÉTICO ASSISENSE;Clube Atlético Assisense;São Paulo;SP;Assis;-22.66;-50.4183;1995-01-01T00:00:00Z;3504008
+ATLÉTICO ALTO VALE;Clube Atlético Alto Vale;Santa Catarina;SC;Rio do Sul;-27.2156;-49.643;1995-01-01T00:00:00Z;4214805
+ATLÉTICO BANDEIRANTE;Clube Atlético Bandeirante;Tocantins;TO;Taguatinga;-12.4026;-46.437;1981-01-01T00:00:00Z;1720903
+ATLÉTICO CARAZINHO;Clube Atlético Carazinho;Rio Grande do Sul;RS;Carazinho;-28.2958;-52.7933;1970-07-01T00:00:00Z;4304705
+ATLÉTICO CASTELO BRANCO;Clube Atlético Castelo Branco;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1990-01-01T00:00:00Z;3304557
+ATLÉTICO FERROVIÁRIO CURITIBA;Clube Atlético Ferroviário (Curitiba);Paraná;PR;Curitiba;-25.4195;-49.2646;1930-01-12T00:00:00Z;4106902
+ATLÉTICO GUAÇUANO;Clube Atlético Guaçuano;São Paulo;SP;Mogi Guaçu;-22.3675;-46.9428;1929-02-26T00:00:00Z;3530706
+ATLÉTICO JALESENSE;Clube Atlético Jalesense;São Paulo;SP;Jales;-20.2672;-50.5494;1960-01-03T00:00:00Z;3524808
+JACAREÍ;Jacareí Futebol Clube;São Paulo;SP;Jacareí;-23.2983;-45.9658;1998-01-01T00:00:00Z;3524402
+ATLÉTICO LENÇOENSE BARIRI;Clube Atlético Lençoense/Bariri;São Paulo;SP;Bariri;-22.073;-48.7438;1943-12-12T00:00:00Z;3505203
+ATLÉTICO LINENSE;Clube Atlético Linense;São Paulo;SP;Lins;-21.6718;-49.7526;1927-06-12T00:00:00Z;3527108
+CORDINO;Cordino Esporte Clube;Maranhão;MA;Barra do Corda;-5.49682;-45.2485;2010-01-01T00:00:00Z;2101608
+COTINGUIBA;Cotinguiba Esporte Clube;Sergipe;SE;Aracaju;-10.9091;-37.0677;1909-01-01T00:00:00Z;2800308
+CRATEÚS;Crateús Esporte Clube;Ceará;CE;Crateús;-5.16768;-40.6536;2001-01-01T00:00:00Z;2304103
+CRATO;Crato Esporte Clube;Ceará;CE;Crato;-7.2153;-39.4103;1997-01-01T00:00:00Z;2304202
+CRUZEIRO RONDÔNIA;Cruzeiro Esporte Clube (Rondônia);Rondônia;RO;Porto Velho;-8.76077;-63.8999;1963-05-01T00:00:00Z;1100205
+CRUZEIRO BAHIA;Cruzeiro Futebol Clube (Bahia);Bahia;BA;Cruz das Almas;-12.6675;-39.1008;1967-09-26T00:00:00Z;2909802
+SERRANO;Serrano Foot Ball Club;Rio de Janeiro;RJ;Petrópolis;-22.52;-43.1926;1915-01-01T00:00:00Z;3303906
+AUTO;Auto Esporte Clube;Paraíba;PB;João Pessoa;-7.11509;-34.8641;1936-01-01T00:00:00Z;2507507
+BANDEIRANTE;Bandeirante Esporte Clube;São Paulo;SP;Birigui;-21.291;-50.3432;1965-11-28T00:00:00Z;3506508
+BARCELONA;Barcelona Esporte Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1999-01-01T00:00:00Z;3304557
+BARRA;Barra Futebol Clube;Rio de Janeiro;RJ;Teresópolis;-22.4165;-42.9752;1939-06-08T00:00:00Z;3305802
+BARRA MANSA;Barra Mansa Futebol Clube;Rio de Janeiro;RJ;Barra Mansa;-22.5481;-44.1752;1908-01-01T00:00:00Z;3300407
+BARRAS;Barras Futebol Club;Piauí;PI;Barras;-4.24468;-42.2922;2004-11-15T00:00:00Z;2201200
+BARRETOS;Barretos Esporte Clube;São Paulo;SP;Barretos;-20.5531;-48.5698;1960-10-28T00:00:00Z;3505500
+BATATAIS;Batatais Futebol Clube;São Paulo;SP;Batatais;-20.8929;-47.5921;1919-01-01T00:00:00Z;3505906
+BAYER;Bayer Esporte Clube;Rio de Janeiro;RJ;Belford Roxo;-22.764;-43.3992;1962-01-01T00:00:00Z;3300456
+VASCO DA GAMA;Club de Regatas Vasco da Gama;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1898-08-21T00:00:00Z;3304557
+ITAPERUNA;Itaperuna Esporte Clube;Rio de Janeiro;RJ;Itaperuna;-21.1997;-41.8799;1989-01-01T00:00:00Z;3302205
+COMERCIAL;Comercial Futebol Clube;São Paulo;SP;Ribeirão Preto;-21.1699;-47.8099;1911-01-01T00:00:00Z;3543402
+RESENDE;Resende Futebol Clube;Rio de Janeiro;RJ;Resende;-22.4705;-44.4509;1909-01-01T00:00:00Z;3304201
+ALTO;Alto Acre Futebol Club;Acre;AC;Epitaciolândia;-11.0188;-68.7341;2009-01-01T00:00:00Z;1200252
+AMADENSE;Amadense Esporte Clube;Sergipe;SE;Tobias Barreto;-11.1798;-37.9995;1981-01-01T00:00:00Z;2807402
+AMÉRICA PARANÁ;América Futebol Clube (Paraná);Paraná;PR;Curitiba;-25.4195;-49.2646;1914-01-01T00:00:00Z;4106902
+AMÉRICA CAAPORÃ;América Futebol Clube (Caaporã);Paraíba;PB;Caaporã;-7.51351;-34.9055;1944-01-01T00:00:00Z;2503001
+AMÉRICA PERNAMBUCO;América Futebol Clube (Pernambuco);Pernambuco;PE;Recife;-8.04666;-34.8771;1914-01-01T00:00:00Z;2611606
+AMÉRICA;América Futebol Clube;Sergipe;SE;Propriá;-10.2138;-36.8442;1942-01-01T00:00:00Z;2805703
+AMÉRICA TRÊS RIOS;América Futebol Clube (Três Rios);Rio de Janeiro;RJ;Três Rios;-22.1165;-43.2185;1929-01-01T00:00:00Z;3306008
+AMÉRICO;Américo Esporte Clube;São Paulo;SP;Américo Brasiliense;-21.7288;-48.1147;2007-09-25T00:00:00Z;3501707
+ANGRA DOS REIS;Angra dos Reis Esporte Clube;Rio de Janeiro;RJ;Angra dos Reis;-23.0011;-44.3196;1999-01-01T00:00:00Z;3300100
+APERIBEENSE;Aperibeense Futebol Clube;Rio de Janeiro;RJ;Aperibé;-21.6252;-42.1017;1951-01-01T00:00:00Z;3300159
+ARARIPINA;Araripina Futebol Clube;Pernambuco;PE;Araripina;-7.57073;-40.494;2008-01-01T00:00:00Z;2601102
+ARAXÁ;Araxá Esporte Clube;Minas Gerais;MG;Araxá;-19.5902;-46.9438;1958-01-01T00:00:00Z;3104007
+ARIQUEMES;Ariquemes Futebol Clube;Rondônia;RO;Ariquemes;-9.90571;-63.0325;1996-01-01T00:00:00Z;1100023
+ARSENAL ATIVIDADES DESPORTIVAS;Arsenal Atividades Desportivas Sport Club;Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;2006-01-01T00:00:00Z;3106200
+ARTSUL;Artsul Futebol Clube;Rio de Janeiro;RJ;Nova Iguaçu;-22.7556;-43.4603;2001-01-01T00:00:00Z;3303500
+ALVORADA;Associação Atlética Alvorada;Tocantins;TO;Alvorada;-12.4785;-49.1249;1993-01-01T00:00:00Z;1700707
+BATEL;Associação Atlética Batel;Paraná;PR;Guarapuava;-25.3902;-51.4623;1951-01-01T00:00:00Z;4109401
+CARAPEBUS;Associação Atlética Carapebus;Rio de Janeiro;RJ;Carapebus;-22.1821;-41.663;2006-01-01T00:00:00Z;3300936
+CORI-SABBÁ;Associação Atlética Cori-Sabbá;Piauí;PI;Floriano;-6.77182;-43.0241;1973-01-01T00:00:00Z;2203909
+FERROVIÁRIA BOTUCATU;Associação Atlética Ferroviária (Botucatu);São Paulo;SP;Botucatu;-22.8837;-48.4437;1939-05-03T00:00:00Z;3507506
+FLAMENGO;Associação Atlética Flamengo;São Paulo;SP;Guarulhos;-23.4538;-46.5333;1954-01-01T00:00:00Z;3518800
+GUARANY;Associação Atlética Guarany;Sergipe;SE;Porto da Folha;-9.91626;-37.2842;1940-01-01T00:00:00Z;2805604
+INTER DE BEBEDOURO;Associação Atlética Internacional (Bebedouro);São Paulo;SP;Bebedouro;-20.9491;-48.4791;1906-01-01T00:00:00Z;3506102
+NOVA VENÉCIA;Associação Atlética Nova Venécia;Espírito Santo;ES;Nova Venécia;-18.715;-40.4053;1983-01-01T00:00:00Z;3203908
+SANTA RITA;Associação Atlética Santa Rita;Alagoas;AL;Boca da Mata;-9.64308;-36.2125;1974-01-03T00:00:00Z;2701001
+SÃO BENTO;Associação Atlética São Bento;São Paulo;SP;São Paulo;-23.5329;-46.6395;1914-01-01T00:00:00Z;3550308
+BOQUINHENSE;Associação Boquinhense de Desporto;Sergipe;SE;Boquim;-11.1397;-37.6195;1965-10-11T00:00:00Z;2800670
+POTYGUAR SERIDOENSE;Associação Cultural e Desportiva Potyguar Seridoense;Rio Grande do Norte;RN;Currais Novos;-6.25484;-36.5146;1989-01-01T00:00:00Z;2403103
+CABENSE;Associação Desportiva Cabense;Pernambuco;PE;Cabo de Santo Agostinho;-8.28218;-35.0253;1995-01-01T00:00:00Z;2602902
+GUARABIRA;Associação Desportiva Guarabira;Paraíba;PB;Guarabira;-6.85064;-35.485;2005-01-01T00:00:00Z;2506301
+GUARUJÁ;Associação Desportiva Guarujá;São Paulo;SP;Guarujá;-23.9888;-46.258;1992-01-01T00:00:00Z;3518701
+PERILIMA;Associação Desportiva Perilima;Paraíba;PB;Campina Grande;-7.22196;-35.8731;1992-01-01T00:00:00Z;2504009
+SOCORRENSE;Associação Desportiva Socorrense;Sergipe;SE;Nossa Senhora do Socorro;-10.8468;-37.1231;2005-01-01T00:00:00Z;2804805
+ARAÇATUBA;Associação Esportiva Araçatuba;São Paulo;SP;Araçatuba;-21.2076;-50.4401;1972-01-01T00:00:00Z;3502804
+COLORADO;Associação Esportiva Colorado;Mato Grosso do Sul;MS;Caarapó;-22.6368;-54.8209;1978-01-01T00:00:00Z;5002407
+REAL;Associação Esportiva Real;Roraima;RR;São Luiz;1.01019;-60.0419;2006-01-01T00:00:00Z;1400605
+ENGENHEIRO BELTRÃO;Associação Esportiva Recreativa Engenheiro Beltrão;Paraná;PR;Engenheiro Beltrão;-23.797;-52.2659;2003-01-01T00:00:00Z;4107504
+SANTACRUZENSE;Associação Esportiva Santacruzense;São Paulo;SP;Santa Cruz do Rio Pardo;-22.8988;-49.6354;1931-01-01T00:00:00Z;3546405
+SOCIAL RIOPARDENSE;Associação Esportiva Social e Recreativa Riopardense;Rio Grande do Sul;RS;Rio Grande;-32.0349;-52.1071;2009-01-01T00:00:00Z;4315602
+VELO RIOCLARENSE;Associação Esportiva Velo Clube Rioclarense;Rio de Janeiro;RJ;Rio Claro;-22.72;-44.1419;1910-01-01T00:00:00Z;3304409
+SANTO ÂNGELO;Associação Esportiva e Recreativa Santo Ângelo;Rio Grande do Sul;RS;Santo Ângelo;-28.3001;-54.2668;1989-01-01T00:00:00Z;4317509
+FERROVIÁRIA DE ESPORTES;Associação Ferroviária de Esportes;São Paulo;SP;Araraquara;-21.7845;-48.178;1950-01-01T00:00:00Z;3503208
+MAGA;Associação Maga Esporte Clube;Ceará;CE;Catarina;-6.12291;-39.8736;1993-01-01T00:00:00Z;2303600
+NOVA PRATA DE ESPORTES CULTURA E LAZER;Associação Nova Prata de Esportes Cultura e Lazer;Rio Grande do Sul;RS;Nova Prata;-28.7799;-51.6113;2003-01-01T00:00:00Z;4313300
+PORTUGUESA LONDRINENSE;Associação Portuguesa Londrinense;Paraná;PR;Londrina;-23.304;-51.1691;1950-01-01T00:00:00Z;4113700
+XANXERENSE;Associação Xanxerense de Futebol;Santa Catarina;SC;Xanxerê;-26.8747;-52.4036;1978-01-01T00:00:00Z;4219507
+TRAIRIENSE;Associação Trairiense de Futebol;Ceará;CE;Trairi;-3.26932;-39.2681;1999-01-01T00:00:00Z;2313500
+SPORTIVA SÃO DOMINGOS;Associação Sportiva São Domingos;Minas Gerais;MG;Alagoa;-22.171;-44.6413;1970-01-01T00:00:00Z;3101300
+ATLÉTICO DE CAJAZEIRAS;Atlético Cajazeirense de Desportos;Paraíba;PB;Cajazeiras;-6.88004;-38.5577;1948-01-01T00:00:00Z;2503704
+ATLÉTICO LAGARTENSE;Atlético Clube Lagartense;Sergipe;SE;Lagarto;-10.9136;-37.6689;1992-01-01T00:00:00Z;2803500
+ATLÉTICO PARANAVAÍ;Atlético Clube Paranavaí;Paraná;PR;Paranavaí;-23.0816;-52.4617;1946-03-14T00:00:00Z;4118402
+ATLÉTICO PROGRESSO;Atlético Progresso Clube;Roraima;RR;Mucajaí;2.43998;-60.9096;1959-07-21T00:00:00Z;1400308
+ATLÉTICO RIO NEGRO;Atlético Rio Negro Clube;Roraima;RR;Boa Vista;2.82384;-60.6753;1971-04-26T00:00:00Z;1400100
+BRAGANTINO PARÁ;Bragantino Clube do Pará;Pará;PA;Bragança;-1.06126;-46.7826;1975-01-01T00:00:00Z;1501709
+ATLÉTICO MONTE ALEGRE;Clube Atlético Monte Alegre;Espírito Santo;ES;Alegre;-20.758;-41.5382;1946-05-01T00:00:00Z;3200201
+ATLÉTICO PAULISTINHA;Clube Atlético Paulistinha;Bahia;BA;Central;-11.1376;-42.1116;1958-01-01T00:00:00Z;2907608
+ATLÉTICO PATROCINENSE;Clube Atlético Patrocinense;Minas Gerais;MG;Patrocínio;-18.9379;-46.9934;1954-03-19T00:00:00Z;3148103
+ATLÉTICO PAULISTA;Clube Atlético Paulista;Paraíba;PB;Paulista;-6.59138;-37.6185;1933-01-01T00:00:00Z;2510907
+ATLÉTICO PENAPOLENSE;Clube Atlético Penapolense;São Paulo;SP;Penápolis;-21.4148;-50.0769;1944-01-01T00:00:00Z;3537305
+ATLÉTICO PIMENTENSE;Clube Atlético Pimentense;Rondônia;RO;Pimenta Bueno;-11.672;-61.198;1987-01-01T00:00:00Z;1100189
+ATLÉTICO PIRASSUNUNGUENSE;Clube Atlético Pirassununguense;São Paulo;SP;Pirassununga;-21.996;-47.4257;1907-01-01T00:00:00Z;3539301
+ATLÉTICO PORTAL;Clube Atlético Portal;Minas Gerais;MG;Uberlândia;-18.9141;-48.2749;2010-01-01T00:00:00Z;3170206
+ATLÉTICO TAQUARITINGA;Clube Atlético Taquaritinga;São Paulo;SP;Taquaritinga;-21.4049;-48.5103;1942-03-17T00:00:00Z;3553708
+ATLÉTICO TABOÃO DA SERRA;Clube Atlético Taboão da Serra;São Paulo;SP;Taboão da Serra;-23.6019;-46.7526;1985-01-01T00:00:00Z;3552809
+ATLÉTICO VOTUPORANGUENSE;Clube Atlético Votuporanguense;Paraíba;PB;Paulista;-6.59138;-37.6185;2009-01-01T00:00:00Z;2510907
+AIMORÉ;Clube Esportivo Aimoré;Rio Grande do Sul;RS;São Leopoldo;-29.7545;-51.1498;1936-01-01T00:00:00Z;4318705
+LAJEADENSE;Clube Esportivo Lajeadense;Tocantins;TO;Lajeado;-9.74996;-48.3565;1911-01-01T00:00:00Z;1712009
+PAYSANDU;Clube Esportivo Paysandu;Santa Catarina;SC;Brusque;-27.0977;-48.9107;1918-01-01T00:00:00Z;4202909
+CLUBE ESPORTIVO DE FUTEBOL;Clube Esportivo de Futebol;Minas Gerais;MG;Passos;-20.7193;-46.609;1929-08-30T00:00:00Z;3147907
+PASSENSE CULTURA;Clube Esportivo Passense de Futebol e Cultura;Minas Gerais;MG;Passos;-20.7193;-46.609;2001-01-01T00:00:00Z;3147907
+FERROVIÁRIO DO RECIFE;Clube Ferroviário do Recife;Pernambuco;PE;Recife;-8.04666;-34.8771;1928-03-17T00:00:00Z;2611606
+ATLÉTICO CAMPOVERDENSE;Clube Atlético Campoverdense;Mato Grosso;MT;Campo Verde;-15.545;-55.1626;2005-01-01T00:00:00Z;5102678
+CENTRO AMAZÔNIA;Centro de Futebol Amazônia;Rondônia;RO;Porto Velho;-8.76077;-63.8999;2001-01-01T00:00:00Z;1100205
+FLAMENGO RO;Clube de Regatas Flamengo (RO);Rondônia;RO;Porto Velho;-8.76077;-63.8999;1955-11-15T00:00:00Z;1100205
+COIMBRA;Coimbra Esporte Clube;Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;2006-01-01T00:00:00Z;3106200
+ASA;Agremiação Sportiva Arapiraquense;Alagoas;AL;Arapiraca;-9.75487;-36.6615;1952-01-01T00:00:00Z;2700300
+UNIÃO SÃO JOÃO;União São João Esporte Clube;São Paulo;SP;Araras;-22.3572;-47.3842;1981-01-01T00:00:00Z;3503307
+BOTAFOGO;Botafogo Futebol Clube;São Paulo;SP;Ribeirão Preto;-21.1699;-47.8099;1918-01-01T00:00:00Z;3543402
+APARECIDENSE;Associação Atlética Aparecidense;Goiás;GO;Aparecida de Goiânia;-16.8198;-49.2469;1985-01-01T00:00:00Z;5201405
+BARAÚNAS;Associação Cultural Esporte Clube Baraúnas;Rio Grande do Norte;RN;Mossoró;-5.18374;-37.3474;1960-01-01T00:00:00Z;2408003
+BAURU ATLÉTICO;Bauru Atlético Clube;São Paulo;SP;Bauru;-22.3246;-49.0871;1919-05-01T00:00:00Z;3506003
+PORTUGUESA;Associação Atlética Portuguesa;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1924-01-01T00:00:00Z;3304557
+AMERICANO MARANHÃO;Americano Futebol Clube (Maranhão);Maranhão;MA;Bacabal;-4.22447;-44.7832;1978-01-01T00:00:00Z;2101202
+AMÉRICA;América Futebol Clube;Santa Catarina;SC;Joinville;-26.3045;-48.8487;1914-01-01T00:00:00Z;4209102
+AMÉRICA;América Futebol Clube (Acre);Acre;AC;Rio Branco;-9.974;-67.8076;1944-01-01T00:00:00Z;5107206
+AMÉRICA CEARÁ;América Football Club (Ceará);Ceará;CE;Fortaleza;-3.71664;-38.5423;1920-01-01T00:00:00Z;2304400
+AMÉRICA VITÓRIA;América Futebol Clube (Vitória);Espírito Santo;ES;Vila Velha;-20.3417;-40.2875;1917-01-01T00:00:00Z;3205200
+AMÉRICA SÃO PAULO;América Futebol Clube (São Paulo);São Paulo;SP;São José do Rio Preto;-20.8113;-49.3758;1946-01-28T00:00:00Z;3549805
+ANDIRÁ;Andirá Esporte Clube;Acre;AC;Rio Branco;-9.974;-67.8076;1964-01-01T00:00:00Z;5107206
+ANÁPOLIS;Anápolis Futebol Clube;Goiás;GO;Anápolis;-16.3281;-48.953;1946-05-01T00:00:00Z;5201108
+COLATINA;Associação Atlética Colatina;Espírito Santo;ES;Colatina;-19.5493;-40.6269;1978-01-01T00:00:00Z;3201506
+FRANCANA;Associação Atlética Francana;São Paulo;SP;Franca;-20.5352;-47.4039;1912-01-01T00:00:00Z;3516200
+CORURIPE;Associação Atlética Coruripe;Alagoas;AL;Coruripe;-10.1276;-36.1717;2003-01-01T00:00:00Z;2702306
+IGUAÇU;Associação Atlética Iguaçu;Paraná;PR;União da Vitória;-26.2273;-51.0873;1971-08-15T00:00:00Z;4128203
+LUZIÂNIA;Associação Atlética Luziânia;Goiás;GO;Luziânia;-16.253;-47.95;1995-01-01T00:00:00Z;5212501
+TIRADENTES;Associação Atlética Tiradentes;Pará;PA;Belém;-1.4554;-48.4898;1973-01-01T00:00:00Z;1501402
+RIOVERDENSE;Associação Atlética Rioverdense;Goiás;GO;Rio Verde;-17.7923;-50.9192;1985-01-01T00:00:00Z;5218805
+BAHIA;Associação Atlética da Bahia;Bahia;BA;Salvador;-12.9718;-38.5011;1914-01-01T00:00:00Z;2927408
+GUARANY;Associação Desportiva Guarany;Bahia;BA;Salvador;-12.9718;-38.5011;1920-01-12T00:00:00Z;2927408
+CHAPADINHA;Chapadinha Futebol Clube;Maranhão;MA;Chapadinha;-3.73875;-43.3538;1999-01-01T00:00:00Z;2103208
+ATLÉTICO ALIANÇA;Clube Atlético Aliança;Bahia;BA;Santana;-12.9792;-44.0506;1973-01-01T00:00:00Z;2928208
+ATLÉTICO CARLOS RENAUX;Clube Atlético Carlos Renaux;Santa Catarina;SC;Brusque;-27.0977;-48.9107;1913-01-01T00:00:00Z;4202909
+ATLÉTICO COLATINENSE;Clube Atlético Colatinense;Espírito Santo;ES;Colatina;-19.5493;-40.6269;2005-01-01T00:00:00Z;3201506
+UNIÃO SOCIAL OLÍMPICO;União Recreativo Social Olímpico;Bahia;BA;Mundo Novo;-11.8541;-40.4714;2000-01-01T00:00:00Z;2922102
+ATLÉTICO PARANAIBENSE;Clube Atlético Paranaibense;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;1986-09-07T00:00:00Z;2509370
+ATLÉTICO TUBARÃO;Clube Atlético Tubarão;Santa Catarina;SC;Tubarão;-28.4713;-49.0144;2005-01-01T00:00:00Z;4218707
+RIO BRANCO;Clube Esportivo Rio Branco;Rio de Janeiro;RJ;Campos dos Goytacazes;-21.7622;-41.3181;1912-01-01T00:00:00Z;3301009
+DOM BOSCO;Clube Esportivo Dom Bosco;Mato Grosso;MT;Cuiabá;-15.601;-56.0974;1925-01-01T00:00:00Z;5103403
+INTERNACIONAL DE CRICKET;Clube Internacional de Cricket;Bahia;BA;Salvador;-12.9718;-38.5011;1899-11-15T00:00:00Z;2927408
+MUNICIPAL ANANINDEUA;Clube Municipal Ananindeua;Pará;PA;Ananindeua;-1.36391;-48.3743;1978-01-01T00:00:00Z;1500800
+SÃO SALVADOR;Clube de Natação e Regatas São Salvador;Bahia;BA;Salvador;-12.9718;-38.5011;1902-01-01T00:00:00Z;2927408
+NÁUTICO MARCÍLIO DIAS;Clube Náutico Marcílio Dias;Santa Catarina;SC;Itajaí;-26.9101;-48.6705;1919-01-01T00:00:00Z;4208203
+COLO COLO;Colo Colo de Futebol e Regatas;Bahia;BA;Ilhéus;-14.793;-39.046;1948-01-01T00:00:00Z;2913606
+COMERCIÁRIO;Comerciário Futebol Clube;Maranhão;MA;São Luís;-2.53874;-44.2825;2003-01-01T00:00:00Z;2111300
+MACAPÁ;Esporte Clube Macapá;Amapá;AP;Macapá;0.034934;-51.0694;1944-01-01T00:00:00Z;1600303
+METROPOL;Esporte Clube Metropol;Santa Catarina;SC;Criciúma;-28.6723;-49.3729;1945-11-15T00:00:00Z;4204608
+POÇÕES;Esporte Clube Poções;Bahia;BA;Poções;-14.5234;-40.3634;1985-01-01T00:00:00Z;2925105
+PRIMEIRO PASSO VITÓRIA DA CONQUISTA;Esporte Clube Primeiro Passo Vitória da Conquista;Bahia;BA;Vitória da Conquista;-14.8615;-40.8442;2005-01-01T00:00:00Z;2933307
+PRÓSPERA;Esporte Clube Próspera;Santa Catarina;SC;Criciúma;-28.6723;-49.3729;1946-01-01T00:00:00Z;4204608
+SIDERÚRGICA;Esporte Clube Siderúrgica;Minas Gerais;MG;Sabará;-19.884;-43.8263;1930-05-31T00:00:00Z;3156700
+ÁGUIA NEGRA;Esporte Clube Águia Negra;Mato Grosso do Sul;MS;Rio Brilhante;-21.8033;-54.5427;1971-01-01T00:00:00Z;5007208
+YPIRANGA;Esporte Clube Ypiranga;Bahia;BA;Salvador;-12.9718;-38.5011;1906-09-07T00:00:00Z;2927408
+ESTRELA DO NORTE;Estrela do Norte Futebol Clube;Espírito Santo;ES;Cachoeiro de Itapemirim;-20.8462;-41.1198;1916-01-01T00:00:00Z;3201209
+FEIRENSE;Feirense Futebol Clube;Bahia;BA;Santo Antônio de Jesus;-12.9614;-39.2584;2007-01-01T00:00:00Z;2928703
+FERROVIÁRIO ATLÉTICO MACEIÓ;Ferroviário Atlético Clube (Maceió);Alagoas;AL;Maceió;-9.66599;-35.735;1937-05-01T00:00:00Z;2704302
+FERROVIÁRIO;Ferroviário Esporte Clube;Maranhão;MA;São Luís;-2.53874;-44.2825;1941-01-01T00:00:00Z;2111300
+MATSUBARA;Sociedade Esportiva Matsubara;Paraná;PR;Cambará;-23.0423;-50.0753;1974-01-01T00:00:00Z;4103602
+AND ATHLETIC;Football and Athletic Club;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1904-06-27T00:00:00Z;3304557
+UNIÃO AGRÍCOLA BARBARENSE;União Agrícola Barbarense Futebol Clube;São Paulo;SP;Santa Bárbara d'Oeste;-22.7553;-47.4143;1914-01-01T00:00:00Z;3545803
+RIO BRANCO;Rio Branco Sport Club;Paraná;PR;Paranaguá;-25.5161;-48.5225;1913-01-01T00:00:00Z;4118204
+JUVENTUDE;Sociedade Esportiva e Recreativa Juventude;Mato Grosso;MT;Primavera do Leste;-15.544;-54.2811;1982-01-01T00:00:00Z;5107040
+GOIATUBA;Goiatuba Esporte Clube;Goiás;GO;Goiatuba;-18.0105;-49.3658;1970-01-01T00:00:00Z;5209101
+GRÊMIO ATLÉTICO SAMPAIO;Grêmio Atlético Sampaio (Acre);Acre;AC;Rio Branco;-9.974;-67.8076;;5107206
+LIBERMORRO;Libermorro Futebol Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;1947-12-07T00:00:00Z;1302603
+LINHARES;Linhares Esporte Clube;Espírito Santo;ES;Linhares;-19.3946;-40.0643;1991-01-01T00:00:00Z;3203205
+LINHARES;Linhares Futebol Clube;Espírito Santo;ES;Linhares;-19.3946;-40.0643;2001-01-01T00:00:00Z;3203205
+MAGUARI;Sport Club Maguari;Ceará;CE;Fortaleza;-3.71664;-38.5423;1924-06-24T00:00:00Z;2304400
+XV DE JAÚ;Esporte Clube XV de Novembro;São Paulo;SP;Jaú;-22.2936;-48.5592;1924-01-01T00:00:00Z;3525300
+BAHIA DE FEIRA;Associação Desportiva Bahia de Feira;Bahia;BA;Feira de Santana;-12.2664;-38.9663;1937-01-01T00:00:00Z;2910800
+AUDAX SÃO PAULO;Audax São Paulo Esporte Clube;São Paulo;SP;Osasco;-23.5324;-46.7916;1985-01-01T00:00:00Z;3534401
+MANAOS ATHLETIC;Manaos Athletic Club;Amazonas;AM;Manaus;-3.11866;-60.0212;1913-01-01T00:00:00Z;1302603
+MARACAJU ATLÉTICO;Maracaju Atlético Clube;Mato Grosso do Sul;MS;Maracaju;-21.6105;-55.1678;1986-10-12T00:00:00Z;5005400
+MARANGUAPE;Maranguape Futebol Clube;Ceará;CE;Maranguape;-3.89143;-38.6829;1997-01-01T00:00:00Z;2307700
+MARANHÃO ATLÉTICO;Maranhão Atlético Clube;Maranhão;MA;São Luís;-2.53874;-44.2825;1932-09-24T00:00:00Z;2111300
+UNIÃO PORTUGUESA;União Esportiva Portuguesa;Amazonas;AM;Manaus;-3.11866;-60.0212;;1302603
+UNIÃO SPORTIVA;União Sportiva;Pará;PA;Belém;-1.4554;-48.4898;1906-01-01T00:00:00Z;1501402
+UNIÃO MARAMBAIA E JUVENTUDE;União Marambaia e Juventude Esporte Clube;Pernambuco;PE;Bonito;-8.47163;-35.7292;2005-01-01T00:00:00Z;2602308
+UNIÃO;União Esporte Clube;Mato Grosso;MT;Rondonópolis;-16.4673;-54.6372;1973-01-01T00:00:00Z;5107602
+VILAVELHENSE;Vilavelhense Futebol Clube;Espírito Santo;ES;Vila Velha;-20.3417;-40.2875;2003-01-01T00:00:00Z;3205200
+VÊNUS ATLÉTICO;Vênus Atlético Clube;Pará;PA;Abaetetuba;-1.72183;-48.8788;1949-01-01T00:00:00Z;1500107
+YPIRANGA;Ypiranga Clube;Amapá;AP;Macapá;0.034934;-51.0694;1963-01-01T00:00:00Z;1600303
+ATLÉTICO MONTE AZUL;Atlético Monte Azul;São Paulo;SP;Monte Azul Paulista;-20.9065;-48.6387;1920-01-01T00:00:00Z;3531506
+AVENIDA;Esporte Clube Avenida;Rio Grande do Sul;RS;Santa Cruz do Sul;-29.722;-52.4343;1944-01-06T00:00:00Z;4316808
+CAMPO GRANDE;Esporte Clube Campo Grande;Alagoas;AL;Campo Grande;-9.95542;-36.7926;1993-01-01T00:00:00Z;2701506
+COMERCIAL PARANÁ;Esporte Clube Comercial (Paraná);Paraná;PR;Cornélio Procópio;-23.1829;-50.6498;1943-03-14T00:00:00Z;4106407
+CORINTHIANS;Esporte Clube Corinthians;São Paulo;SP;Presidente Prudente;-22.1207;-51.3925;1945-02-08T00:00:00Z;3541406
+IGREJINHA;Esporte Clube Igrejinha;Rio Grande do Sul;RS;Igrejinha;-29.5693;-50.7919;1930-04-26T00:00:00Z;4310108
+ITAÚNA;Esporte Clube Itaúna;Rio Grande do Norte;RN;Itaú;-5.8363;-37.9912;1929-09-29T00:00:00Z;2404903
+JACUIPENSE;Esporte Clube Jacuipense;Bahia;BA;Riachão do Jacuípe;-11.8067;-39.3818;1965-04-21T00:00:00Z;2926301
+GUARANI;Esporte Clube Guarani;Minas Gerais;MG;Guarani;-21.3563;-43.0328;1929-09-02T00:00:00Z;3128402
+MAMORÉ;Esporte Clube Mamoré;Minas Gerais;MG;Patos de Minas;-18.5699;-46.5013;1949-06-13T00:00:00Z;3148004
+NACIONAL;Esporte Clube Nacional;Ceará;CE;Cruz;-2.91813;-40.176;1941-03-17T00:00:00Z;2304251
+MILAN;Esporte Clube Milan;São Paulo;SP;Castilho;-20.8689;-51.4884;1989-01-01T00:00:00Z;3511003
+NOVA CIDADE;Esporte Clube Nova Cidade;Rio de Janeiro;RJ;Nilópolis;-22.8057;-43.4233;1939-11-10T00:00:00Z;3303203
+OSASCO;Esporte Clube Osasco;São Paulo;SP;Osasco;-23.5324;-46.7916;1984-01-01T00:00:00Z;3534401
+PARAGUAÇUENSE;Esporte Clube Paraguaçuense;São Paulo;SP;Paraguaçu Paulista;-22.4114;-50.5732;1965-11-28T00:00:00Z;3535507
+PROPRIÁ;Esporte Clube Propriá;Sergipe;SE;Propriá;-10.2138;-36.8442;1913-01-01T00:00:00Z;2805703
+RIO VERDE;Esporte Clube Rio Verde;Goiás;GO;Rio Verde;-17.7923;-50.9192;1963-08-22T00:00:00Z;5218805
+PRIMAVERA;Esporte Clube Primavera;São Paulo;SP;Indaiatuba;-23.0816;-47.2101;1927-01-27T00:00:00Z;3520509
+SÃO JOÃO DA BARRA;Esporte Clube São João da Barra;Bahia;BA;Barra;-11.0859;-43.1459;2009-01-01T00:00:00Z;2902708
+SÃO LUIZ;Esporte Clube São Luiz;Rio Grande do Sul;RS;Ijuí;-28.388;-53.92;1938-01-01T00:00:00Z;4310207
+TAUBATÉ;Esporte Clube Taubaté;São Paulo;SP;Taubaté;-23.0104;-45.5593;1914-01-01T00:00:00Z;3554102
+TUPY;Esporte Clube Tupy;Espírito Santo;ES;Vila Velha;-20.3417;-40.2875;1938-01-01T00:00:00Z;3205200
+CANOAS;Canoas Futebol Clube;Rio Grande do Sul;RS;Canoas;-29.9128;-51.1857;1957-04-04T00:00:00Z;4304606
+CAPIVARIANO;Capivariano Futebol Clube;São Paulo;SP;Capivari;-22.9951;-47.5071;1918-01-01T00:00:00Z;3510401
+CARDOSO MOREIRA;Cardoso Moreira Futebol Clube;São Paulo;SP;Cardoso;-20.08;-49.9183;1935-01-01T00:00:00Z;3510708
+CASCAVEL;Cascavel Clube Recreativo;Paraná;PR;Cascavel;-24.9573;-53.459;2001-01-01T00:00:00Z;4104808
+CASCAVEL;Cascavel Esporte Clube;Paraná;PR;Cascavel;-24.9573;-53.459;1979-12-19T00:00:00Z;4104808
+CASIMIRO DE ABREU;Casimiro de Abreu Esporte Clube;Rio de Janeiro;RJ;Casimiro de Abreu;-22.4812;-42.2066;1975-01-01T00:00:00Z;3301306
+CASTANHAL;Castanhal Esporte Clube;Pará;PA;Castanhal;-1.29797;-47.9167;1924-01-01T00:00:00Z;1502400
+CASTELO;Castelo Futebol Clube;Espírito Santo;ES;Castelo;-20.6033;-41.2031;1939-01-01T00:00:00Z;3201407
+CAUCAIA;Caucaia Esporte Clube;Ceará;CE;Caucaia;-3.72797;-38.6619;2001-01-01T00:00:00Z;2303709
+CEO;Centro Esportivo Olhodagüense;Alagoas;AL;Olho d'Água das Flores;-9.53686;-37.2971;1953-12-02T00:00:00Z;2705705
+CENTRO LIMOEIRENSE;Centro Limoeirense de Futebol;Pernambuco;PE;Limoeiro;-7.8726;-35.4402;1913-01-01T00:00:00Z;2608909
+CENTRO SPORTIVO MARUINENSE;Centro Sportivo Maruinense;Sergipe;SE;Maruim;-10.7308;-37.0856;1917-01-01T00:00:00Z;2804003
+CENTRO SPORTIVO PARAIBANO;Centro Sportivo Paraibano;Paraíba;PB;João Pessoa;-7.11509;-34.8641;1996-01-01T00:00:00Z;2507507
+CENTRO DE DESENVOLVIMENTO COMUNITÁRIO MANICORÉ;Centro de Desenvolvimento Comunitário Manicoré;Amazonas;AM;Manaus;-3.11866;-60.0212;2007-05-30T00:00:00Z;1302603
+ROMA APUCARANA;Roma Esporte Apucarana;Paraná;PR;Apucarana;-23.55;-51.4635;2000-01-01T00:00:00Z;4101408
+ELOSPORT CAPÃO BONITO;Elosport Capão Bonito;São Paulo;SP;Capão Bonito;-24.004;-48.3393;1993-01-01T00:00:00Z;3510203
+FABRIL;Fabril Esporte Clube;Minas Gerais;MG;Lavras;-21.248;-45.0009;1932-09-02T00:00:00Z;3138203
+PORTO ALEGRE;Porto Alegre Futebol Clube;Espírito Santo;ES;Alegre;-20.758;-41.5382;2003-01-01T00:00:00Z;3200201
+INDEPENDENTE;Independente Futebol Clube;São Paulo;SP;Limeira;-22.566;-47.397;1944-01-19T00:00:00Z;3526902
+COMPENSÃO;Compensão Esporte Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;2009-01-01T00:00:00Z;1302603
+MARACANÃ;Maracanã Esporte Clube;Ceará;CE;Maracanaú;-3.86699;-38.6259;2005-01-01T00:00:00Z;2307650
+MARÍLIA;Marília Futebol Clube;Maranhão;MA;Imperatriz;-5.51847;-47.4777;1984-01-01T00:00:00Z;2105302
+MESQUITA;Mesquita Futebol Clube;Rio de Janeiro;RJ;Mesquita;-22.8028;-43.4601;1920-01-01T00:00:00Z;3302858
+URUGUAIANA;Esporte Clube Uruguaiana;Rio Grande do Sul;RS;Rio Grande;-32.0349;-52.1071;1912-01-01T00:00:00Z;4315602
+VIANA;Esporte Clube Viana;Espírito Santo;ES;Viana;-20.3825;-40.4933;1995-01-01T00:00:00Z;3205101
+XV DE NOVEMBRO CARAGUATATUBA;Esporte Clube XV de Novembro (Caraguatatuba);São Paulo;SP;Caraguatatuba;-23.6125;-45.4125;1934-02-18T00:00:00Z;3510500
+PATOS;Esporte Clube de Patos;Paraíba;PB;Patos;-7.01743;-37.2747;1953-07-07T00:00:00Z;2510808
+ESPÍRITO SANTO;Espírito Santo Futebol Clube;Espírito Santo;ES;Vitória;-20.3155;-40.3128;2007-01-01T00:00:00Z;3205309
+ESTANCIANO;Estanciano Esporte Clube;Sergipe;SE;Estância;-11.2659;-37.4484;1956-06-14T00:00:00Z;2802106
+FERNANDÓPOLIS;Fernandópolis Futebol Clube;São Paulo;SP;Fernandópolis;-20.2806;-50.2471;1961-11-15T00:00:00Z;3515509
+FERROVIÁRIO ATLÉTICO;Ferroviário Atlético Clube;Rondônia;RO;Porto Velho;-8.76077;-63.8999;1943-07-10T00:00:00Z;1100205
+FERROVIÁRIO SERRA TALHADA;Ferroviário Esporte Clube (Serra Talhada);Pernambuco;PE;Serra Talhada;-7.98178;-38.289;1979-09-15T00:00:00Z;2613909
+FLAMENGO ARCOVERDE;Flamengo Esporte Clube de Arcoverde;Pernambuco;PE;Arcoverde;-8.41519;-37.0577;1959-05-01T00:00:00Z;2601201
+FONSECA ATLÉTICO;Fonseca Atlético Clube;Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;1917-01-01T00:00:00Z;3303302
+FORMIGA;Formiga Esporte Clube;Minas Gerais;MG;Formiga;-20.4618;-45.4268;1929-05-07T00:00:00Z;3126109
+GRÊMIO MARINGÁ;Grêmio de Esportes Maringá;Paraná;PR;Maringá;-23.4205;-51.9333;1961-01-01T00:00:00Z;4115200
+FRANCISCO BELTRÃO;Francisco Beltrão Futebol Clube;Paraná;PR;Francisco Beltrão;-26.0817;-53.0535;1993-01-01T00:00:00Z;4108403
+CASCAVEL;Futebol Clube Cascavel;Paraná;PR;Cascavel;-24.9573;-53.459;2008-01-01T00:00:00Z;4104808
+PRIMEIRA CAMISA;Futebol Clube Primeira Camisa;Santa Catarina;SC;São José;-27.6136;-48.6366;2007-03-03T00:00:00Z;4216602
+SANTA CRUZ;Futebol Clube Santa Cruz;Rio Grande do Sul;RS;Santa Cruz do Sul;-29.722;-52.4343;1913-01-01T00:00:00Z;4316808
+PORTO PORTO UNIÃO;Futebol Clube do Porto (Porto União);Santa Catarina;SC;Porto União;-26.2451;-51.0759;1897-01-01T00:00:00Z;4213609
+FÉNIX 2005;Fénix 2005 Futebol Clube;Rio de Janeiro;RJ;Barra Mansa;-22.5481;-44.1752;2005-01-01T00:00:00Z;3300407
+GAVIÃO KYIKATEJÊ;Gavião Kyikatejê Futebol Clube;Pará;PA;Bom Jesus do Tocantins;-5.0424;-48.6047;2009-01-01T00:00:00Z;1501576
+INSTITUTO DE ADMINISTRAÇÃO DE PROJETOS EDUCACIONAIS;Instituto de Administração de Projetos Educacionais Futebol Clube;Maranhão;MA;São Luís;-2.53874;-44.2825;2008-01-01T00:00:00Z;2111300
+INTERNACIONAL;Internacional Futebol Clube;Paraná;PR;Curitiba;-25.4195;-49.2646;1912-01-01T00:00:00Z;4106902
+INTERPORTO;Interporto Futebol Clube;Tocantins;TO;Porto Nacional;-10.7027;-48.408;1990-01-01T00:00:00Z;1718204
+ITACURUBA;Itacuruba Sport Club;Pernambuco;PE;Itacuruba;-8.82231;-38.6975;1987-01-01T00:00:00Z;2607406
+IVINHEMA;Ivinhema Futebol Clube;Mato Grosso do Sul;MS;Ivinhema;-22.3046;-53.8184;2006-01-01T00:00:00Z;5004700
+JABAQUARA ATLÉTICO;Jabaquara Atlético Clube;São Paulo;SP;Santos;-23.9535;-46.335;1914-11-15T00:00:00Z;3548500
+JABOTICABAL ATLÉTICO;Jaboticabal Atlético;São Paulo;SP;Jaboticabal;-21.252;-48.3252;1911-01-01T00:00:00Z;3524303
+JACAREÍ ATLÉTICO;Jacareí Atlético Clube;São Paulo;SP;Jacareí;-23.2983;-45.9658;1980-01-01T00:00:00Z;3524402
+PARANÁ SOCCER TECHNICAL CENTER;Paraná Soccer Technical Center;Paraná;PR;Cornélio Procópio;-23.1829;-50.6498;1994-01-01T00:00:00Z;4106407
+JACUTINGA ATLÉTICO;Jacutinga Atlético Clube;Rio Grande do Sul;RS;Jacutinga;-27.7291;-52.5372;2005-01-01T00:00:00Z;4310900
+MIRAMAR;Miramar Esporte Clube;Paraíba;PB;Cabedelo;-6.98731;-34.8284;1928-03-28T00:00:00Z;2503209
+MORRINHOS;Morrinhos Futebol Clube;Goiás;GO;Goiás;-15.9333;-50.14;1982-01-01T00:00:00Z;5208905
+MOTO;Moto Esporte Clube;Rondônia;RO;Porto Velho;-8.76077;-63.8999;1952-05-13T00:00:00Z;1100205
+NACIONAL ATLÉTICO CABEDELO;Nacional Atlético Clube (Cabedelo);Paraíba;PB;Cabedelo;-6.98731;-34.8284;1973-01-01T00:00:00Z;2503209
+NACIONAL ATL. MURIAÉ;Nacional Atlético Clube (Muriaé);Minas Gerais;MG;Muriaé;-21.13;-42.3693;1927-12-25T00:00:00Z;3143906
+NACIONAL ATLÉTICO;Nacional Atlético Clube;Paraíba;PB;Patos;-7.01743;-37.2747;1961-01-01T00:00:00Z;2510808
+NACIONAL ATLÉTICO;Nacional Atlético Clube;São Paulo;SP;São Paulo;-23.5329;-46.6395;1919-01-01T00:00:00Z;3550308
+NACIONAL UBERABA;Nacional Futebol Clube (Uberaba);Minas Gerais;MG;Uberaba;-19.7472;-47.9381;1944-08-01T00:00:00Z;3170107
+ÁGUA SANTA;Esporte Clube Água Santa;São Paulo;SP;Diadema;-23.6813;-46.6205;1981-01-01T00:00:00Z;3513801
+JUNIOR TEAM;Junior Team Futebol;Paraná;PR;Londrina;-23.304;-51.1691;2001-01-01T00:00:00Z;4113700
+JUVENTUS;Juventus Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;2006-01-01T00:00:00Z;3304557
+NOVA XAVANTINA;Nova Xavantina Esporte Clube;Mato Grosso;MT;Nova Xavantina;-14.6771;-52.3502;1986-03-20T00:00:00Z;5106257
+NOVO HORIZONTE;Novo Horizonte Futebol Clube;Goiás;GO;Ipameri;-17.7215;-48.1581;1968-02-27T00:00:00Z;5210109
+NÁUTICO;Náutico Futebol Clube;Roraima;RR;Caracaraí;1.82766;-61.1304;1962-01-01T00:00:00Z;1400209
+OLÉ BRASIL;Olé Brasil Futebol Clube;São Paulo;SP;Ribeirão Preto;-21.1699;-47.8099;2006-01-01T00:00:00Z;3543402
+OLÍMPICO;Olímpico Esporte Clube;Sergipe;SE;Itabaianinha;-11.2693;-37.7875;1958-08-18T00:00:00Z;2803005
+OPERÁRIO ATLÉTICO;Operário Atlético Clube;São Paulo;SP;Dourado;-22.1044;-48.3178;1952-05-03T00:00:00Z;3514304
+OPERÁRIO;Operário Esporte Clube;Amazonas;AM;Manacapuru;-3.29066;-60.6216;1982-01-01T00:00:00Z;1302504
+OSVALDO CRUZ;Osvaldo Cruz Futebol Clube;Ceará;CE;Cruz;-2.91813;-40.176;2004-02-17T00:00:00Z;2304251
+PALESTRA DE SÃO BERNARDO;Palestra de São Bernardo;Maranhão;MA;São Bernardo;-3.37223;-42.4191;1935-09-01T00:00:00Z;2110609
+PALMEIRA UNA;Palmeira Futebol Clube da Una;Rio Grande do Norte;RN;Goianinha;-6.26486;-35.1943;1959-06-23T00:00:00Z;2404200
+PALMEIRAS NORDESTE LTDA;Palmeiras Nordeste Futebol Ltda.;Bahia;BA;Feira de Santana;-12.2664;-38.9663;2000-01-01T00:00:00Z;2910800
+PARAUAPEBAS;Parauapebas Futebol Clube;Pará;PA;Parauapebas;-6.06781;-49.9037;1989-01-01T00:00:00Z;1505536
+PARNAHYBA;Parnahyba Sport Club;Piauí;PI;Parnaíba;-2.90585;-41.7754;1913-01-01T00:00:00Z;2207702
+PATO BRANCO;Pato Branco Esporte Clube;Rio Grande do Norte;RN;Paraná;-6.47565;-38.3057;1979-11-05T00:00:00Z;2408607
+PAULA RAMOS;Paula Ramos Esporte Clube;Ceará;CE;Catarina;-6.12291;-39.8736;1937-12-15T00:00:00Z;2303600
+PATROCINENSE;Sociedade Esportiva Patrocinense;Minas Gerais;MG;Patrocínio;-18.9379;-46.9934;2010-01-01T00:00:00Z;3148103
+PETROLINA SOCIAL;Petrolina Social Futebol Clube;Pernambuco;PE;Petrolina;-9.38866;-40.5027;1998-01-01T00:00:00Z;2611101
+PIAUÍ;Piauí Esporte Clube;Piauí;PI;Teresina;-5.09194;-42.8034;1948-08-15T00:00:00Z;2211001
+PLANALTINA;Planaltina Esporte Clube;Distrito Federal;DF;Planaltina;-15.452;-47.6089;1963-05-30T00:00:00Z;5217609
+AURITÂNIA FOZ DO IGUAÇU;Auritânia Foz do Iguaçu Futebol Clube;Paraná;PR;Foz do Iguaçu;-25.5427;-54.5827;1996-01-01T00:00:00Z;4108304
+TOCANTINÓPOLIS;Tocantinópolis Esporte Clube;Tocantins;TO;Tocantinópolis;-6.32447;-47.4224;1989-01-01T00:00:00Z;1721208
+TOLEDO COLÔNIA WORK;Toledo Colônia Work;Minas Gerais;MG;Toledo;-22.7421;-46.3728;2004-02-10T00:00:00Z;3169109
+TOMAZINHO;Tomazinho Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1930-01-02T00:00:00Z;3304557
+TORRE;Torre Sport Club;São Paulo;SP;Guararapes;-21.2544;-50.6453;1915-01-01T00:00:00Z;3518206
+TRÊS PASSOS ATLÉTICO;Três Passos Atlético Clube;Rio Grande do Sul;RS;Três Passos;-27.4555;-53.9296;1966-02-09T00:00:00Z;4321907
+TUBARÃO;Tubarão Futebol Clube;Santa Catarina;SC;Tubarão;-28.4713;-49.0144;1992-01-01T00:00:00Z;4218707
+TUPY;Tupy Futebol Clube;Rio Grande do Sul;RS;Crissiumal;-27.4999;-54.0994;1949-01-01T00:00:00Z;4306007
+TUPYNAMBÁS;Tupynambás Futebol Clube;Minas Gerais;MG;Juiz de Fora;-21.7595;-43.3398;1911-01-01T00:00:00Z;3136702
+TUPÃ;Tupã Futebol Clube;Paraíba;PB;Paulista;-6.59138;-37.6185;1936-02-08T00:00:00Z;2510907
+GOIANÉSIA;Goianésia Esporte Clube;Goiás;GO;Goianésia;-15.3118;-49.1162;1955-03-28T00:00:00Z;5208608
+GRANDE RIO BRÉSCIA;Grande Rio Bréscia Clube;Rio de Janeiro;RJ;Magé;-22.6632;-43.0315;1982-01-01T00:00:00Z;3302502
+GRAPIÚNA ATLÉTICO;Grapiúna Atlético Clube;Bahia;BA;Itabuna;-14.7876;-39.2781;1998-01-01T00:00:00Z;2914802
+GRÊMIO ATLÉTICO SAMPAIO;Grêmio Atlético Sampaio;Roraima;RR;Boa Vista;2.82384;-60.6753;1965-01-01T00:00:00Z;1400100
+GRÊMIO CATANDUVENSE;Grêmio Catanduvense de Futebol;São Paulo;SP;Catanduva;-21.1314;-48.977;1999-01-01T00:00:00Z;3511102
+GRÊMIO ATLÉTICO FARROUPILHA;Grêmio Atlético Farroupilha;Rio Grande do Sul;RS;Pelotas;-31.7649;-52.3371;1926-04-26T00:00:00Z;4314407
+GRÊMIO GLÓRIA;Grêmio Esportivo Glória;Rio Grande do Sul;RS;Vacaria;-28.5079;-50.9418;1956-11-15T00:00:00Z;4322509
+GRÊMIO CATANDUVENSE;Grêmio Esportivo Catanduvense;São Paulo;SP;Catanduva;-21.1314;-48.977;1970-01-01T00:00:00Z;3511102
+GRÊMIO MAUAENSE;Grêmio Esportivo Mauaense;São Paulo;SP;Mauá;-23.6677;-46.4613;1981-01-01T00:00:00Z;3529401
+GRÊMIO OSASCO;Grêmio Esportivo Osasco;São Paulo;SP;Osasco;-23.5324;-46.7916;2007-01-01T00:00:00Z;3534401
+GRÊMIO SAPUCAIENSE;Grêmio Esportivo Sapucaiense;Rio Grande do Sul;RS;Sapucaia do Sul;-29.8276;-51.145;1941-01-01T00:00:00Z;4320008
+GUANABARA;Guanabara Esporte Clube;Rio de Janeiro;RJ;Araruama;-22.8697;-42.3326;2004-01-01T00:00:00Z;3300209
+GUANAMBI ATLÉTICO;Guanambi Atlético Clube;Bahia;BA;Guanambi;-14.2231;-42.7799;1983-01-01T00:00:00Z;2911709
+GUARANY CAMAQUÃ;Guarany Futebol Clube (Camaquã);Rio Grande do Sul;RS;Camaquã;-30.8489;-51.8043;1946-02-12T00:00:00Z;4303509
+KABURÉ;Kaburé Esporte Clube;Tocantins;TO;Colinas do Tocantins;-8.05764;-48.4757;1985-01-01T00:00:00Z;1705508
+RIACHUELO;Riachuelo Futebol Clube;Rio Grande do Norte;RN;Riachuelo;-5.82156;-35.8215;1933-06-11T00:00:00Z;2410900
+RIO BANANAL;Rio Bananal Futebol Clube;São Paulo;SP;Bananal;-22.6819;-44.3281;2007-01-17T00:00:00Z;3504909
+RIOGRANDENSE;Riograndense Futebol Clube;Rio Grande do Sul;RS;Santa Maria;-29.6868;-53.8149;1912-01-01T00:00:00Z;4316907
+RIVER;River Esporte Clube;Roraima;RR;Boa Vista;2.82384;-60.6753;1962-12-22T00:00:00Z;1400100
+RODOVIÁRIO PIRAÍ;Rodoviário Piraí Futebol Clube;Rio de Janeiro;RJ;Piraí;-22.6215;-43.9081;1956-06-06T00:00:00Z;3304003
+ROLIM DE MOURA;Rolim de Moura Esporte Clube;Rondônia;RO;Rolim de Moura;-11.7271;-61.7714;2002-01-01T00:00:00Z;1100288
+RONDONÓPOLIS;Rondonópolis Esporte Clube;Mato Grosso;MT;Rondonópolis;-16.4673;-54.6372;2006-01-01T00:00:00Z;5107602
+RUBRO SOCIAL;Rubro Social Esporte Clube;Rio de Janeiro;RJ;Araruama;-22.8697;-42.3326;1991-01-01T00:00:00Z;3300209
+LAGARTO;Lagarto Futebol Clube;Sergipe;SE;Lagarto;-10.9136;-37.6689;2009-01-01T00:00:00Z;2803500
+LARANJEIRAS;Laranjeiras Esporte Clube;Sergipe;SE;Laranjeiras;-10.7981;-37.1731;2008-01-01T00:00:00Z;2803609
+LAURO MÜLLER;Lauro Müller Futebol Clube;Ceará;CE;Catarina;-6.12291;-39.8736;1924-01-01T00:00:00Z;2303600
+YALE ATLÉTICO;Yale Atlético Clube;Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;1910-01-01T00:00:00Z;3106200
+BARREIRAS;Barreiras Esporte Clube;Bahia;BA;Barreiras;-12.1439;-44.9968;;2903201
+BELA VISTA SETE LAGOAS;Bela Vista Futebol Clube (Sete Lagoas);Mato Grosso do Sul;MS;Bela Vista;-22.1073;-56.5263;;5002100
+BELFORD ROXO;Belford Roxo Futebol Clube;Rio de Janeiro;RJ;Belford Roxo;-22.764;-43.3992;;3300456
+BETIM;Betim Futebol Clube;Minas Gerais;MG;Betim;-19.9668;-44.2008;;3106705
+BONITTO ATLÉTICO;Bonitto Atlético Clube;Pernambuco;PE;Bonito;-8.47163;-35.7292;2004-02-01T00:00:00Z;2602308
+BOTAFOGO PORTO VELHO;Botafogo Futebol Clube (Porto Velho);Rondônia;RO;Porto Velho;-8.76077;-63.8999;;1100205
+BRASIL INDUSTRIAL;Brasil Industrial Esporte Clube;Rio de Janeiro;RJ;Paracambi;-22.6078;-43.7108;1912-01-01T00:00:00Z;3303609
+CACHOEIRA;Cachoeira Futebol Clube;Ceará;CE;Barro;-7.17188;-38.7741;1914-02-24T00:00:00Z;2302008
+CARAPEBUS;Carapebus Esporte Clube;Rio de Janeiro;RJ;Carapebus;-22.1821;-41.663;;3300936
+CARPINENSE;Carpinense Esporte Clube;Pernambuco;PE;Carpina;-7.84566;-35.2514;1998-01-06T00:00:00Z;2604007
+CARPINA;Carpina Sport Club;Pernambuco;PE;Carpina;-7.84566;-35.2514;;2604007
+CENTRO ACADEMIA DO GOL;Centro Esportivo Academia do Gol;Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;;3303302
+CENTRO UNIÃO;Centro Esportivo União;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+CHÃ GRANDE;Chã Grande Futebol Clube;Pernambuco;PE;Chã Grande;-8.23827;-35.4571;;2604502
+ATHLETICO SOROCABANO;Club Athletico Sorocabano;Paraíba;PB;São Bento;-6.48529;-37.4488;1902-12-25T00:00:00Z;2513901
+VASCO DA GAMA;Club Vasco da Gama;Amazonas;AM;Manaus;-3.11866;-60.0212;1913-10-11T00:00:00Z;1302603
+ATLÉTICO BABAÇU;Clube Atlético Babaçu;Maranhão;MA;Bacabal;-4.22447;-44.7832;;2101202
+ATLÉTICO COMERCIAL;Clube Atlético Comercial;São Paulo;SP;Lins;-21.6718;-49.7526;1938-03-25T00:00:00Z;3527108
+ATLÉTICO EMBU-GUAÇU;Clube Atlético Embu-Guaçu;São Paulo;SP;Embu-Guaçu;-23.8297;-46.8136;1934-07-07T00:00:00Z;3515103
+AT. ITAPEMIRIM;Clube Atlético Itapemirim;Espírito Santo;ES;Itapemirim;-21.0095;-40.8307;1965-01-01T00:00:00Z;3202801
+ATLÉTICO PARQUE DA MOÓCA;Clube Atlético Parque da Moóca;São Paulo;SP;São Paulo;-23.5329;-46.6395;;3550308
+ATLÉTICO PAULISTANO SÃO ROQUE;Clube Atlético Paulistano (São Roque);Paraíba;PB;Aguiar;-7.0918;-38.1681;;2500205
+ATLÉTICO POTENGI;Clube Atlético Potengi;Ceará;CE;Potengi;-7.09154;-40.0233;;2311207
+ATLÉTICO SANTISTA;Clube Atlético Santista;São Paulo;SP;Santos;-23.9535;-46.335;1913-09-07T00:00:00Z;3548500
+GUAICURUS;Clube Esportivo Guaicurus;Alagoas;AL;Campo Grande;-9.95542;-36.7926;;2701506
+NOVA ANDRADINA;Clube Esportivo Nova Andradina;São Paulo;SP;Andradina;-20.8948;-51.3786;;3502101
+SÃO JOÃO;Clube São João;São Paulo;SP;Jundiaí;-23.1852;-46.8974;;3525904
+CAMPO GUAPIRA;Clube de Campo Associação Atlética Guapira;São Paulo;SP;São Paulo;-23.5329;-46.6395;1918-10-20T00:00:00Z;3550308
+RIO DE JANEIRO;Clube de Futebol Rio de Janeiro;Paraíba;PB;Mari;-7.05942;-35.318;;2509107
+TRINTA TOCANTINS;Clube dos Trinta (Tocantins);Tocantins;TO;Araguaína;-7.19238;-48.2044;;1702109
+COLÉGIO;Colégio Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+COMERCIAL TRÊS LAGOAS;Comercial Esporte Clube (Três Lagoas);Mato Grosso do Sul;MS;Três Lagoas;-20.7849;-51.7007;1931-02-03T00:00:00Z;5008305
+COMERCIAL;Comercial Futebol Clube;São Paulo;SP;São Paulo;-23.5329;-46.6395;1939-01-01T00:00:00Z;3550308
+COPACABANA TITÃS;Copacabana Titãs;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;2004-10-02T00:00:00Z;3304557
+CORINTHIANS;Corinthians Futebol Clube;São Paulo;SP;Santo André;-23.6737;-46.5432;1912-01-01T00:00:00Z;3547809
+CORINTHIANS JUNDIAIENSE;Corinthians Jundiaiense Foot-Ball Club;São Paulo;SP;Jundiaí;-23.1852;-46.8974;;3525904
+COROATÁ;Coroatá Futebol Clube;Maranhão;MA;Coroatá;-4.13442;-44.1244;1986-04-08T00:00:00Z;2103604
+COSMOS SOCIAL;Cosmos Social Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+COTIA;Cotia Futebol Clube;São Paulo;SP;Campo Limpo Paulista;-23.2078;-46.7889;;3509601
+CRISTALINA ATLÉTICO;Cristalina Atlético Clube;Goiás;GO;Cristalina;-16.7676;-47.6131;;5206206
+CRUZEIRO PARAÍBA;Cruzeiro Esporte Clube (Paraíba);São Paulo;SP;Itaporanga;-23.7043;-49.4819;1969-10-28T00:00:00Z;3522802
+CRUZEIRO DISTRITO FEDERAL;Cruzeiro Futebol Clube (Distrito Federal);São Paulo;SP;Cruzeiro;-22.5728;-44.969;2000-05-10T00:00:00Z;3513405
+CRUZEIRO SÃO PAULO;Cruzeiro Futebol Clube (São Paulo);São Paulo;SP;Cruzeiro;-22.5728;-44.969;1914-09-03T00:00:00Z;3513405
+CURITIBA BROWN SPIDERS;Curitiba Brown Spiders;Paraná;PR;Curitiba;-25.4195;-49.2646;2001-01-01T00:00:00Z;4106902
+CURITIBA HURRICANES;Curitiba Hurricanes;Paraná;PR;Curitiba;-25.4195;-49.2646;2013-01-01T00:00:00Z;4106902
+CURITIBA PREDADORES;Curitiba Predadores;Paraná;PR;Curitiba;-25.4195;-49.2646;2010-08-27T00:00:00Z;4106902
+CÁCERES;Cáceres Esporte Clube;Mato Grosso;MT;Cáceres;-16.0764;-57.6818;;5102504
+DEPARTAMENTO DE ESTRADAS DE RODAGEM ATLÉTICO;Departamento de Estradas de Rodagem Atlético Clube;São Paulo;SP;Itapetininga;-23.5886;-48.0483;;3522307
+DESTILARIA;Destilaria Esporte Clube;Pernambuco;PE;Cabo de Santo Agostinho;-8.28218;-35.0253;;2602902
+DORENSE;Dorense Futebol Clube;Sergipe;SE;Nossa Senhora das Dores;-10.4854;-37.1963;1948-01-01T00:00:00Z;2804607
+DRACENA;Dracena Futebol Clube;São Paulo;SP;Dracena;-21.4843;-51.535;1948-07-02T00:00:00Z;3514403
+DUARTINA;Duartina Futebol Clube;São Paulo;SP;Duartina;-22.4146;-49.4084;;3514502
+DUQUE DE CAXIAS;Duque de Caxias Foot-Ball Club;Maranhão;MA;Caxias;-4.86505;-43.3617;;2103000
+E C ARANÃS;E.C. Aranãs;Minas Gerais;MG;Capelinha;-17.6888;-42.5147;;3112307
+ELITE;Elite Clube Desportivo;Rio Grande do Sul;RS;Rio Grande;-32.0349;-52.1071;;4315602
+ENERGIA CIRCULAR;Energia Circular Sport Clube;Bahia;BA;Salvador;-12.9718;-38.5011;;2927408
+EQUADOR;Equador Futebol Clube;Pernambuco;PE;Recife;-8.04666;-34.8771;;2611606
+PONTA GROSSA;Ponta Grossa Esporte Clube;Paraná;PR;Ponta Grossa;-25.0916;-50.1668;1994-01-01T00:00:00Z;4119905
+PONTA PORÃ;Ponta Porã Sociedade Esportiva;Mato Grosso do Sul;MS;Ponta Porã;-22.5296;-55.7203;1998-01-01T00:00:00Z;5006606
+PONTE PRETA SUMARÉ;Ponte Preta Sumaré Futebol Clube;Rio Grande do Sul;RS;Ponte Preta;-27.6587;-52.4848;2001-01-01T00:00:00Z;4314787
+PRUDENTÓPOLIS;Prudentópolis Esporte Clube;Paraná;PR;Prudentópolis;-25.2111;-50.9754;1968-01-01T00:00:00Z;4120606
+QUISSAMÃ;Quissamã Futebol Clube;Rio de Janeiro;RJ;Quissamã;-22.1031;-41.4693;1919-01-01T00:00:00Z;3304151
+RADIUM;Radium Futebol Clube;São Paulo;SP;Mococa;-21.4647;-47.0024;1919-01-01T00:00:00Z;3530508
+REAL NOROESTE CAPIXABA;Real Noroeste Capixaba Futebol Clube;Espírito Santo;ES;Águia Branca;-18.9846;-40.7437;2008-01-01T00:00:00Z;3200136
+SABIÁ;Sabiá Futebol Clube;Maranhão;MA;Caxias;-4.86505;-43.3617;2011-01-01T00:00:00Z;2103000
+SAMPAIO CORRÊA;Sampaio Corrêa Futebol e Esporte;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;2006-01-01T00:00:00Z;3304557
+SANTA CRUZ;Santa Cruz Futebol Clube (Rio de Janeiro);Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;2007-10-01T00:00:00Z;3304557
+SANTA CRUZ;Santa Cruz Recreativo Esporte Clube;Maranhão;MA;Santa Rita;-3.14241;-44.3211;1939-04-15T00:00:00Z;2110203
+SANTA HELENA;Santa Helena Esporte Clube;Goiás;GO;Santa Helena de Goiás;-17.8115;-50.5977;1965-11-17T00:00:00Z;5219308
+SANTA ROSA;Santa Rosa Esporte Clube;Pará;PA;Belém;-1.4554;-48.4898;1924-01-01T00:00:00Z;1501402
+SANTOS JOÃO PESSOA;Santos Futebol Clube (João Pessoa);Paraíba;PB;João Pessoa;-7.11509;-34.8641;1949-09-09T00:00:00Z;2507507
+SCOTTISH WANDERERS;Scottish Wanderers Football Club;São Paulo;SP;São Paulo;-23.5329;-46.6395;;3550308
+SERRA MACAENSE;Serra Macaense Futebol Clube;Rio de Janeiro;RJ;Macaé;-22.3768;-41.7848;1992-01-01T00:00:00Z;3302403
+SERRA TALHADA;Serra Talhada Futebol Clube;Pernambuco;PE;Serra Talhada;-7.98178;-38.289;2011-01-01T00:00:00Z;2613909
+SERRANO CENTRO-SUL;Serrano Centro-Sul Esporte Clube;Paraná;PR;Prudentópolis;-25.2111;-50.9754;2007-01-01T00:00:00Z;4120606
+SERRANO;Serrano Sport Club;Bahia;BA;Porto Seguro;-16.4435;-39.0643;1979-01-01T00:00:00Z;2925303
+SETE DE JUNHO;Sete de Junho Esporte Clube;Sergipe;SE;Tobias Barreto;-11.1798;-37.9995;1983-01-01T00:00:00Z;2807402
+SETE DE SETEMBRO;Sete de Setembro Esporte Clube;Pernambuco;PE;Garanhuns;-8.88243;-36.4966;1950-01-01T00:00:00Z;2606002
+SERRA BRANCA;Serra Branca Esporte Clube;Paraíba;PB;Cajazeiras;-6.88004;-38.5577;2007-07-13T00:00:00Z;2503704
+ARIQUEMES;Sociedade Esportiva Ariquemes;Rondônia;RO;Ariquemes;-9.90571;-63.0325;1981-01-01T00:00:00Z;1100023
+BRAZLÂNDIA;Sociedade Esportiva Brazlândia;Maranhão;MA;Chapadinha;-3.73875;-43.3538;1996-01-01T00:00:00Z;2103208
+ITAPIRENSE;Sociedade Esportiva Itapirense;São Paulo;SP;Itapira;-22.4357;-46.8224;1947-03-24T00:00:00Z;3522604
+PALMEIRAS B;Sociedade Esportiva Palmeiras B;São Paulo;SP;São Paulo;-23.5329;-46.6395;2000-01-01T00:00:00Z;3550308
+MATONENSE;Sociedade Esportiva Matonense;São Paulo;SP;Matão;-21.6025;-48.364;1976-01-01T00:00:00Z;3529302
+PALMEIRINHA;Sociedade Esportiva Palmeirinha;Piauí;PI;Porto;-3.88815;-42.6998;1955-04-03T00:00:00Z;2208502
+BRASIL;Sociedade Esportiva Recreativa e Cultural Brasil;Rio Grande do Sul;RS;Farroupilha;-29.2227;-51.3419;1939-01-01T00:00:00Z;4307906
+UNIÃO CACOALENSE;Sociedade Esportiva União Cacoalense;Rondônia;RO;Cacoal;-11.4343;-61.4562;1982-01-01T00:00:00Z;1100049
+VENECIANO;Sociedade Esportiva Veneciano;Rio Grande do Norte;RN;Espírito Santo;-6.33563;-35.3052;2001-01-01T00:00:00Z;2403509
+TERRA E MAR;Sociedade Esportiva e Cultural Terra e Mar Clube;Ceará;CE;Fortaleza;-3.71664;-38.5423;1938-06-01T00:00:00Z;2304400
+OPERÁRIOS MAFRENSES;Sociedade Esportiva e Recreativa Operários Mafrenses;Ceará;CE;Catarina;-6.12291;-39.8736;1897-01-01T00:00:00Z;2303600
+SOUSA;Sousa Esporte Clube;Paraíba;PB;Sousa;-6.75148;-38.2311;1991-01-01T00:00:00Z;2516201
+ATIBAIA;Sport Club Atibaia;São Paulo;SP;Atibaia;-23.1171;-46.5563;2005-01-01T00:00:00Z;3504107
+BARUERI;Sport Club Barueri;São Paulo;SP;Barueri;-23.5057;-46.879;1998-01-01T00:00:00Z;3505708
+BELÉM;Sport Club Belém;Pará;PA;Belém;-1.4554;-48.4898;1965-12-02T00:00:00Z;1501402
+FLAMENGO;Sport Club Flamengo;Pernambuco;PE;Recife;-8.04666;-34.8771;1914-01-01T00:00:00Z;2611606
+GARARU;Sport Club Gararu;Sergipe;SE;Gararu;-9.9722;-37.0869;1989-01-01T00:00:00Z;2802403
+GAÚCHO;Sport Club Gaúcho;Rio Grande do Sul;RS;Passo Fundo;-28.2576;-52.4091;1918-01-01T00:00:00Z;4314100
+GUARANY;Sport Club Guarany;Rio Grande do Sul;RS;Cruz Alta;-28.645;-53.6048;1913-01-01T00:00:00Z;4306106
+GUARAÍ;Sport Club Guaraí;Tocantins;TO;Guaraí;-8.83543;-48.5114;1983-01-01T00:00:00Z;1709302
+MAGUARY;Sport Club Maguary;Ceará;CE;Fortaleza;-3.71664;-38.5423;2009-01-01T00:00:00Z;2304400
+SANTO ANTÔNIO;Sport Clube Santo Antônio;Paraná;PR;Atalaia;-23.1517;-52.0551;2007-07-13T00:00:00Z;4102208
+SHALLON;Sport Clube Shallon;Rondônia;RO;Porto Velho;-8.76077;-63.8999;2000-01-01T00:00:00Z;1100205
+TERESÓPOLIS;Teresópolis Futebol Clube;Rio de Janeiro;RJ;Teresópolis;-22.4165;-42.9752;1915-01-01T00:00:00Z;3305802
+TIMBAÚBA;Timbaúba Futebol Clube;Pernambuco;PE;Timbaúba;-7.50484;-35.3119;;2615300
+TOCANTINS MARANHÃO;Tocantins Esporte Clube (Maranhão);Maranhão;MA;Imperatriz;-5.51847;-47.4777;1975-01-01T00:00:00Z;2105302
+TOCANTINS;Tocantins Esporte Clube;Tocantins;TO;Miracema do Tocantins;-9.56556;-48.393;1993-01-01T00:00:00Z;1713205
+ESPERANÇA;Esperança Futebol Clube;Paraíba;PB;Esperança;-7.02278;-35.8597;;2506004
+21 DE ABRIL;Esporte Clube 21 de Abril;Tocantins;TO;Fátima;-10.7603;-48.9076;1962-04-21T00:00:00Z;1707553
+ATHLETICO CORNÉLIO PROCÓPIO;Club Athletico Cornélio Procópio;Paraná;PR;Cornélio Procópio;-23.1829;-50.6498;;4106407
+ASA DA AMAZÔNIA;Esporte Clube ASA da Amazônia;Amazonas;AM;Manaus;-3.11866;-60.0212;2009-09-08T00:00:00Z;1302603
+BIGUAÇU;Esporte Clube Biguaçu;Santa Catarina;SC;Biguaçu;-27.496;-48.6598;;4202305
+CASCATINHA;Esporte Clube Cascatinha;Rio de Janeiro;RJ;Petrópolis;-22.52;-43.1926;;3303906
+CORINTIANS;Esporte Clube Corintians;São Paulo;SP;Presidente Venceslau;-21.8732;-51.8447;1946-11-26T00:00:00Z;3541505
+CORINTHIANS DE VOTORANTIM;Esporte Clube Corinthians de Votorantim;São Paulo;SP;São Paulo;-23.5329;-46.6395;1944-06-01T00:00:00Z;3550308
+CORINTIANS CASA BRANCA;Esporte Clube Corintians (Casa Branca);São Paulo;SP;Casa Branca;-21.7708;-47.0852;;3510807
+ESTRELA;Esporte Clube Estrela;Rio Grande do Sul;RS;Estrela;-29.5002;-51.9495;1914-12-14T00:00:00Z;4307807
+ESTRELA DE MARÇO;Esporte Clube Estrela de Março;Rio Grande do Sul;RS;Estrela;-29.5002;-51.9495;;4307807
+FALCÃO;Esporte Clube Falcão;Maranhão;MA;São Luís;-2.53874;-44.2825;2002-10-20T00:00:00Z;2111300
+GAZETA;Esporte Clube Gazeta;São Paulo;SP;Ourinhos;-22.9797;-49.8697;;3534708
+GOLFINHO;Esporte Clube Golfinho;São Paulo;SP;Guarulhos;-23.4538;-46.5333;1970-12-12T00:00:00Z;3518800
+HEPACARÉ;Esporte Clube Hepacaré;São Paulo;SP;Lorena;-22.7334;-45.1197;;3527207
+IGUAÇU;Esporte Clube Iguaçu;Rio de Janeiro;RJ;Nova Iguaçu;-22.7556;-43.4603;1912-01-01T00:00:00Z;3303500
+LAGEADO;Esporte Clube Lageado;Espírito Santo;ES;Alegre;-20.758;-41.5382;;3200201
+JARDIM;Esporte Clube Jardim;Ceará;CE;Jardim;-7.57599;-39.2826;;2307106
+LEMENSE;Esporte Clube Lemense;São Paulo;SP;Leme;-22.1809;-47.3841;;3526704
+LIMOEIRO;Esporte Clube Limoeiro;Pernambuco;PE;Limoeiro;-7.8726;-35.4402;;2608909
+GUARANY BELO HORIZONTE;Guarany Foot-Ball Club (Belo Horizonte);Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;;3106200
+GUARULHOS RHYNOS;Guarulhos Rhynos;São Paulo;SP;São Paulo;-23.5329;-46.6395;;3550308
+ORIENTE ATLÉTICO;Oriente Atlético Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1927-06-13T00:00:00Z;3304557
+HELIÓPOLIS ATLÉTICO;Heliópolis Atlético Clube;Rio de Janeiro;RJ;Belford Roxo;-22.764;-43.3992;;3300456
+MINAS BRASIL;Minas Futebol Brasil;Paraíba;PB;Lagoa;-6.58572;-37.9127;;2508109
+MINISTER;Minister Clube;São Paulo;SP;São Paulo;-23.5329;-46.6395;1964-01-01T00:00:00Z;3550308
+MIRACEMA;Miracema Esporte Clube;Tocantins;TO;Miracema do Tocantins;-9.56556;-48.393;;1713205
+MIRANDÓPOLIS;Mirandópolis Esporte Clube;São Paulo;SP;Mirandópolis;-21.1313;-51.1035;1962-01-01T00:00:00Z;3530102
+MONTE CRISTO;Monte Cristo Esporte Clube;Goiás;GO;Goiânia;-16.6864;-49.2643;1970-01-01T00:00:00Z;5208707
+MONTE REY;Monte Rey Futebol Clube;Rio Grande do Norte;RN;Vera Cruz;-6.04399;-35.428;;2414803
+MONTES CLAROS;Montes Claros Futebol Clube;Minas Gerais;MG;Montes Claros;-16.7282;-43.8578;;3143302
+MOSSORÓ;Mossoró Esporte Clube;Rio Grande do Norte;RN;Mossoró;-5.18374;-37.3474;;2408003
+MUNICIPAL;Municipal Futebol Clube;Piauí;PI;Paquetá;-7.10303;-41.7;;2207553
+NACIONAL ATLÉTICO PORTO ALEGRE;Nacional Atlético Clube (Porto Alegre);Rio Grande do Sul;RS;Porto Alegre;-30.0318;-51.2065;1937-04-16T00:00:00Z;4314902
+NACIONAL;Nacional Esporte Clube;Goiás;GO;Itumbiara;-18.4093;-49.2158;;5211503
+NACIONAL;Nacional FootBall Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;1926-08-01T00:00:00Z;2304400
+NAVEGANTES;Navegantes Esporte Clube;Santa Catarina;SC;Navegantes;-26.8943;-48.6546;;4211306
+NERÓPOLIS;Nerópolis Esporte Clube;Goiás;GO;Itauçu;-16.2029;-49.6109;;5211404
+NITEROIENSE;Niteroiense Futebol Clube;Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;1913-05-11T00:00:00Z;3303302
+NOVA FRIBURGO;Nova Friburgo Futebol Clube;Rio de Janeiro;RJ;Nova Friburgo;-22.2932;-42.5377;;3303401
+NOVO;Novo Futebol Clube;Alagoas;AL;Campo Grande;-9.95542;-36.7926;2010-10-11T00:00:00Z;2701506
+OEIRAS ATLÉTICO;Oeiras Atlético Clube;Piauí;PI;Oeiras;-7.01915;-42.1283;1997-09-08T00:00:00Z;2207009
+OESTE CHAPECÓ;Oeste Futebol Clube (Chapecó);Ceará;CE;Catarina;-6.12291;-39.8736;;2303600
+OLINDA;Olinda Futebol Clube;Pernambuco;PE;Olinda;-8.01017;-34.8545;;2609600
+OLYMPICO BELO HORIZONTE;Olympico Club (Belo Horizonte);Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;1940-02-04T00:00:00Z;3106200
+SÃO DOMINGOS;São Domingos Futebol Clube;Bahia;BA;São Domingos;-11.4649;-39.5268;2004-01-01T00:00:00Z;2928950
+SÃO GABRIEL;São Gabriel Futebol Clube;Rio Grande do Sul;RS;São Gabriel;-30.3337;-54.3217;2000-01-01T00:00:00Z;4318309
+SÃO VICENTE ATLÉTICO;São Vicente Atlético Clube;São Paulo;SP;Santos;-23.9535;-46.335;1928-04-21T00:00:00Z;3548500
+TANABI;Tanabi Esporte Clube;São Paulo;SP;Tanabi;-20.6228;-49.6563;1942-01-01T00:00:00Z;3553401
+TANGARÁ;Tangará Esporte Clube;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;1991-01-01T00:00:00Z;2509370
+UNIBOL PERNAMBUCO;Unibol Pernambuco Futebol Clube;Paraíba;PB;Paulista;-6.59138;-37.6185;1996-01-01T00:00:00Z;2510907
+UNIÃO CENTRAL;União Central Futebol Clube;Bahia;BA;Central;-11.1376;-42.1116;1986-04-14T00:00:00Z;2907608
+UNIÃO FREDERIQUENSE;União Frederiquense de Futebol;Rio Grande do Sul;RS;Frederico Westphalen;-27.3586;-53.3958;2010-01-01T00:00:00Z;4308508
+UNIÃO;União Futebol Clube;São Paulo;SP;Mogi das Cruzes;-23.5208;-46.1854;1913-01-01T00:00:00Z;3530607
+UNIÃO TRABALHADORES;União Recreativa dos Trabalhadores;Minas Gerais;MG;Patos de Minas;-18.5699;-46.5013;1939-01-01T00:00:00Z;3148004
+UNIÃO SUZANO ATLÉTICO;União Suzano Atlético Clube;São Paulo;SP;Suzano;-23.5448;-46.3112;1969-01-25T00:00:00Z;3552502
+UNIÃO DE MARECHAL HERMES;União de Marechal Hermes Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1915-01-01T00:00:00Z;3304557
+VALERIODOCE;Valeriodoce Esporte Clube;Minas Gerais;MG;Itabira;-19.6239;-43.2312;1942-11-22T00:00:00Z;3131703
+VASCO;Vasco Esporte Clube;Sergipe;SE;Aracaju;-10.9091;-37.0677;1931-08-15T00:00:00Z;2800308
+VERA CRUZ VITÓRIA DE SANTO ANTÃO;Vera Cruz Futebol Clube (Vitória de Santo Antão);Pernambuco;PE;Vitória de Santo Antão;-8.12819;-35.2976;1960-02-03T00:00:00Z;2616407
+VILA ISABEL;Vila Isabel Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1912-01-01T00:00:00Z;3304557
+VILLA RIO;Villa Rio Esporte Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;2004-01-01T00:00:00Z;3304557
+VOTORATY;Votoraty Futebol Clube;São Paulo;SP;Votorantim;-23.5446;-47.4388;2005-01-01T00:00:00Z;3557006
+ACRIANO;Acriano Futebol Clube;Acre;AC;Rodrigues Alves;-7.73864;-72.661;;1200427
+ADOLFO KONDER;Adolfo Konder Futebol Clube;Santa Catarina;SC;Florianópolis;-27.5945;-48.5477;;4205407
+AFOGADENSE;Afogadense Futebol Clube;Pernambuco;PE;Afogados da Ingazeira;-7.74312;-37.631;2005-01-01T00:00:00Z;2600104
+AGROCERES;Agroceres Futebol Clube;Paraná;PR;Santo Antônio da Platina;-23.2959;-50.0815;;4124103
+ALTO SANTO;Alto Santo Esporte Clube;Ceará;CE;Alto Santo;-5.50894;-38.2743;;2300705
+AMAPÁ;Amapá Futebol Clube;Amapá;AP;Amapá;2.05267;-50.7957;;1600105
+AMAX;Amax Esporte Clube;Acre;AC;Xapuri;-10.6516;-68.4969;2009-01-01T00:00:00Z;1200708
+AMPARO ATHLÉTICO;Amparo Athlético Club;Paraíba;PB;Amparo;-7.55502;-37.0628;;2500734
+ANDARAHY ATHLETICO;Andarahy Athletico Club;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1909-01-01T00:00:00Z;3304557
+ANTARCTICA;Antarctica Futebol Clube;São Paulo;SP;São Paulo;-23.5329;-46.6395;1915-01-01T00:00:00Z;3550308
+ARACAJU;Aracaju Futebol Clube;Sergipe;SE;Aracaju;-10.9091;-37.0677;2005-01-01T00:00:00Z;2800308
+ARAGUARI ATLÉTICO;Araguari Atlético Clube;Minas Gerais;MG;Araguari;-18.6456;-48.1934;1944-01-01T00:00:00Z;3103504
+ASAS;Asas Futebol Clube;Pernambuco;PE;Jaboatão dos Guararapes;-8.11298;-35.015;;2607901
+ATHLETICA INTERNACIONAL;Associação Athletica Internacional;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+LUZITANO;Luzitano Futebol Clube;Minas Gerais;MG;Luz;-19.7911;-45.6794;1920-01-01T00:00:00Z;3138807
+MACAU;Macau Esporte Clube;Rio Grande do Norte;RN;Macau;-5.10795;-36.6318;1978-01-01T00:00:00Z;2407203
+SUMARÉ ATLÉTICO;Sumaré Atlético Clube;São Paulo;SP;Paulínia;-22.7542;-47.1488;2005-01-01T00:00:00Z;3536505
+CAICÓ;Caicó Esporte Clube;Rio Grande do Norte;RN;Caicó;-6.45441;-37.1067;1933-01-01T00:00:00Z;2402006
+TRÊS RIOS;Três Rios Futebol Clube;Rio de Janeiro;RJ;Três Rios;-22.1165;-43.2185;;3306008
+PICUIENSE;Associação Desportiva Picuiense;Paraíba;PB;Picuí;-6.50845;-36.3497;2008-06-08T00:00:00Z;2511400
+HUMAITÁ;Humaitá Sport Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+ICASA;Icasa Esporte Clube;Ceará;CE;Juazeiro do Norte;-7.19621;-39.3076;1963-01-01T00:00:00Z;2307304
+IDEAL;Ideal Club;Paraíba;PB;Paulista;-6.59138;-37.6185;1912-01-01T00:00:00Z;2510907
+IDEAL;Ideal Esporte Clube;Bahia;BA;Santo Amaro;-12.5472;-38.7137;1955-01-01T00:00:00Z;2928604
+IGARAPAVA;Igarapava Esporte Clube;São Paulo;SP;Igarapava;-20.0407;-47.7466;1919-08-21T00:00:00Z;3520103
+IMAGINE LTDA;Imagine Futebol Clube Ltda.;Paraná;PR;Palmas;-26.4839;-51.9888;;4117602
+IMPERIAL PACIÊNCIA;Imperial Futebol Clube Paciência;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1979-01-01T00:00:00Z;3304557
+IMPÉRIO TOLEDO;Império Toledo de Futebol;Minas Gerais;MG;Toledo;-22.7421;-46.3728;;3169109
+INDEPENDENTE SÃO PAULO;Independente Esporte Clube (São Paulo);São Paulo;SP;São Paulo;-23.5329;-46.6395;;3550308
+INDEPENDÊNCIA OSASCO;Independência Esporte Clube (Osasco);Rio Grande do Sul;RS;Independência;-27.8354;-54.1886;;4310405
+INDUSTRIAL;Industrial Futebol Clube;Sergipe;SE;Aracaju;-10.9091;-37.0677;;2800308
+INHUMAS;Inhumas Esporte Clube;Goiás;GO;Inhumas;-16.3611;-49.5001;;5210000
+INOVE;Inove Esporte Clube;Paraná;PR;Palmas;-26.4839;-51.9888;;4117602
+INTERNACIONAL;Sport Club Internacional;Espírito Santo;ES;Alegre;-20.758;-41.5382;;3200201
+INTERCONTINENTAL RECIFE;Intercontinental Futebol Clube do Recife;Pernambuco;PE;Ipojuca;-8.39303;-35.0609;;2607208
+INTERNACIONAL RIO DE JANEIRO;Internacional Futebol Clube (Rio de Janeiro);Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+INTERNACIONAL;Internacional Sport Club;Acre;AC;Rio Branco;-9.974;-67.8076;;5107206
+INTERNATO;Internato Futebol Clube;Santa Catarina;SC;Florianópolis;-27.5945;-48.5477;1910-01-01T00:00:00Z;4205407
+IPANEMA TATUÍS;Ipanema Tatuís;Minas Gerais;MG;Ipanema;-19.7992;-41.7164;2005-01-01T00:00:00Z;3131208
+IPIRANGA DE ALIANÇA;Ipiranga de Aliança Esporte Clube;Tocantins;TO;Aliança do Tocantins;-11.3056;-48.9361;;1700350
+IPOJUCA ATLÉTICO;Ipojuca Atlético Clube;Pernambuco;PE;Ipojuca;-8.39303;-35.0609;2005-01-01T00:00:00Z;2607208
+IPOJUCA;Ipojuca Futebol Clube;Pernambuco;PE;Ipojuca;-8.39303;-35.0609;;2607208
+IPORÁ;Iporá Esporte Clube;Goiás;GO;Iporá;-16.4398;-51.118;2000-01-01T00:00:00Z;5210208
+IRAJÁ ATLÉTICO;Irajá Atlético Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1912-01-01T00:00:00Z;3304557
+ITABORAÍ;Itaboraí Futebol Clube;Rio de Janeiro;RJ;Itaboraí;-22.7565;-42.8639;;3301900
+ITABORAÍ PROFUTE;Itaboraí Profute Futebol Clube;Rio de Janeiro;RJ;Itaboraí;-22.7565;-42.8639;;3301900
+ITAPEBA ATLÉTICO;Itapeba Atlético Clube;Rio de Janeiro;RJ;Maricá;-22.9354;-42.8246;;3302700
+ITAPEVI;Itapevi Futebol Clube;São Paulo;SP;Alumínio;-23.5306;-47.2546;2004-04-09T00:00:00Z;3501152
+ITAQUAQUECETUBA ATLÉTICO;Itaquaquecetuba Atlético Clube;São Paulo;SP;Itaquaquecetuba;-23.4835;-46.3457;;3523107
+ITATIBA;Itatiba Esporte Clube;Rio Grande do Sul;RS;Itati;-29.4974;-50.1016;;4310652
+IVINHEMA;Ivinhema Esporte Clube;Mato Grosso do Sul;MS;Ivinhema;-22.3046;-53.8184;1986-01-01T00:00:00Z;5004700
+JACIOBÁ ATLÉTICO;Jaciobá Atlético Clube;Minas Gerais;MG;Alagoa;-22.171;-44.6413;;3101300
+JAPERI;Japeri Esporte Clube;Rio de Janeiro;RJ;Japeri;-22.6435;-43.6602;;3302270
+JARAGUÁ;Jaraguá Esporte Clube;Goiás;GO;Jaraguá;-15.7529;-49.3344;;5211800
+JARDIM;Jardim Sport Clube;Ceará;CE;Jardim;-7.57599;-39.2826;;2307106
+JEQUIÁ IATE;Jequiá Iate Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+JOAÇABA ATLÉTICO;Joaçaba Atlético Clube;Ceará;CE;Catarina;-6.12291;-39.8736;;2303600
+JOINVILLE GLADIATORS;Joinville Gladiators;Ceará;CE;Catarina;-6.12291;-39.8736;;2303600
+JOSÉ BONIFÁCIO;José Bonifácio Esporte Clube;São Paulo;SP;José Bonifácio;-21.0551;-49.6892;1961-01-01T00:00:00Z;3525706
+JOSÉ DE ALENCAR;José de Alencar Foot-Ball Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+KAISERBURG;Kaiserburg Futebol Clube;Rio de Janeiro;RJ;Petrópolis;-22.52;-43.1926;;3303906
+LAGARTO;Lagarto Esporte Clube;Sergipe;SE;Lagarto;-10.9136;-37.6689;;2803500
+LAGOA;Lagoa Esporte Clube;Amapá;AP;Macapá;0.034934;-51.0694;;1600303
+LAVRAS;Lavras Futebol Clube;Minas Gerais;MG;Lavras;-21.248;-45.0009;;3138203
+LEME ZONA SUL;Leme Futebol Clube Zona Sul;São Paulo;SP;Leme;-22.1809;-47.3841;;3526704
+LEÃO DE SÃO MARCOS;Leão de São Marcos Esporte Clube;Espírito Santo;ES;Nova Venécia;-18.715;-40.4053;1955-02-09T00:00:00Z;3203908
+LIGA SÃOCARLENSE;Liga Sãocarlense de Futebol;Amazonas;AM;Benjamin Constant;-4.37768;-70.0342;;1300607
+LUSO SPORTING;Luso Sporting Club;Amazonas;AM;Manaus;-3.11866;-60.0212;;1302603
+LUZIÂNIA;Luziânia Futebol Clube;Goiás;GO;Goiás;-15.9333;-50.14;;5208905
+LUÍS CORREIA;Luís Correia Esporte Clube;Piauí;PI;Luís Correia;-2.88438;-41.6641;2003-01-01T00:00:00Z;2205706
+MACAMBIRA;Macambira Futebol Clube;Sergipe;SE;Macambira;-10.6619;-37.5413;;2803708
+MADRE DE DEUS;Madre de Deus Sport Clube;Bahia;BA;Madre de Deus;-12.7446;-38.6153;;2919926
+MADRUGADA;Madrugada Esporte Clube;São Paulo;SP;São Carlos;-22.0174;-47.886;;3548906
+MARANGUAPE;Maranguape Sport Club;Ceará;CE;Maranguape;-3.89143;-38.6829;;2307700
+MARINGÁ IGUATEMI;Maringá Esporte Iguatemi;Mato Grosso do Sul;MS;Iguatemi;-23.6736;-54.5637;;5004304
+MATO GROSSO;Mato Grosso Esporte Clube;Mato Grosso;MT;Cuiabá;-15.601;-56.0974;1948-01-01T00:00:00Z;5103403
+MIL RÉIS;Mil Réis Futebol Clube;São Paulo;SP;Itaporanga;-23.7043;-49.4819;;3522802
+BARRA BONITA;Associação Atlética Barra Bonita;Bahia;BA;Barra;-11.0859;-43.1459;1923-04-21T00:00:00Z;2902708
+CAMPO LIMPO PAULISTA;Associação Atlética Campo Limpo Paulista;São Paulo;SP;Campo Limpo Paulista;-23.2078;-46.7889;1980-01-01T00:00:00Z;3509601
+CAMPOS ELÍSEOS;Associação Atlética Campos Elíseos;São Paulo;SP;São Paulo;-23.5329;-46.6395;;3550308
+CENTRAL BRASILEIRA;Associação Atlética Central Brasileira;Piauí;PI;Brasileira;-4.1337;-41.7859;1980-12-15T00:00:00Z;2201960
+COLÚMBIA;Associação Atlética Colúmbia;Maranhão;MA;Caxias;-4.86505;-43.3617;1979-01-01T00:00:00Z;2103000
+COMERCIAL CASCAVEL;Associação Atlética Comercial (Cascavel);Paraná;PR;Cascavel;-24.9573;-53.459;1964-04-09T00:00:00Z;4104808
+GOIATUBA;Associação Atlética Goiatuba;Goiás;GO;Goiás;-15.9333;-50.14;1970-01-01T00:00:00Z;5208905
+GUAIRENSE;Associação Atlética Guairense;São Paulo;SP;Guaíra;-20.3196;-48.312;1969-06-16T00:00:00Z;3517406
+ORDEM E PROGRESSO;Associação Atlética Ordem e Progresso;Rio Grande do Sul;RS;Progresso;-29.2441;-52.3197;1916-01-01T00:00:00Z;4315156
+PARAISENSE;Associação Atlética Paraisense;Minas Gerais;MG;São Sebastião do Paraíso;-20.9167;-46.9837;1919-01-01T00:00:00Z;3164704
+PORTOFELICENSE;Associação Atlética Portofelicense;Rio Grande do Sul;RS;Feliz;-29.4527;-51.3032;;4308102
+SANTA CRUZ;Associação Atlética Santa Cruz;Ceará;CE;Cruz;-2.91813;-40.176;2001-01-01T00:00:00Z;2304251
+SERRA;Associação Atlética Serra;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;2009-06-05T00:00:00Z;2509370
+SÃO BENTO MARÍLIA;Associação Atlética São Bento (Marília);São Paulo;SP;Marília;-22.2171;-49.9501;1931-01-01T00:00:00Z;3529005
+SÃO BENTO SÃO CAETANO DO SUL;Associação Atlética São Bento (São Caetano do Sul);São Paulo;SP;São Caetano do Sul;-23.6229;-46.5548;1954-02-17T00:00:00Z;3548807
+TEIXEIRA DE FREITAS;Associação Atlética Teixeira de Freitas;Bahia;BA;Teixeira de Freitas;-17.5399;-39.74;;2931350
+UNIVERSIDADE NILTON LINS;Associação Atlética da Universidade Nilton Lins;São Paulo;SP;Lins;-21.6718;-49.7526;2007-01-01T00:00:00Z;3527108
+CARAZINHENSE;Associação Carazinhense de Futebol;Rio Grande do Sul;RS;Carazinho;-28.2958;-52.7933;;4304705
+CAÇADORENSE;Associação Caçadorense de Desportos;Santa Catarina;SC;Caçador;-26.7757;-51.012;1978-01-15T00:00:00Z;4203006
+ARARAQUARA;Associação Desportiva Araraquara;Paraíba;PB;Arara;-6.82813;-35.7552;1952-01-09T00:00:00Z;2500908
+ARSENAL DE CARIDADE;Associação Desportiva Arsenal de Caridade;Ceará;CE;Caridade;-4.22514;-39.1912;;2303006
+CLASSISTA RIGESA;Associação Desportiva Classista Rigesa;São Paulo;SP;São Paulo;-23.5329;-46.6395;;3550308
+IGUATU;Associação Desportiva Iguatu;Ceará;CE;Iguatu;-6.36281;-39.2892;2010-01-01T00:00:00Z;2305506
+JAGUARIÚNA;Associação Desportiva Jaguariúna;Rio Grande do Sul;RS;Jaguari;-29.4936;-54.703;2005-01-01T00:00:00Z;4311106
+JARUENSE;Associação Desportiva Jaruense;Rondônia;RO;Jaru;-10.4318;-62.4788;1995-01-01T00:00:00Z;1100114
+PITU;Associação Desportiva Pitu;Espírito Santo;ES;Vitória;-20.3155;-40.3128;;3205309
+SÃO BENEDITO;Associação Desportiva São Benedito;Ceará;CE;São Benedito;-4.04713;-40.8596;2005-01-01T00:00:00Z;2312304
+TAUÁ;Associação Desportiva Tauá;Pernambuco;PE;São Caetano;-8.33763;-36.2869;2007-04-16T00:00:00Z;2613107
+UNITRI;Associação Desportiva Unitri;Minas Gerais;MG;Uberlândia;-18.9141;-48.2749;2003-08-03T00:00:00Z;3170206
+EVANGÉLICA;Associação Esportiva Evangélica;Goiás;GO;Guapó;-16.8297;-49.5345;;5209200
+ILHA SOLTEIRA;Associação Esportiva Ilha Solteira;São Paulo;SP;Ilha Solteira;-20.4326;-51.3426;;3520442
+INTERNACIONAL;Associação Esportiva Internacional;Bahia;BA;Santa Bárbara;-11.9515;-38.9681;1947-03-03T00:00:00Z;2927507
+JACAREZINHO;Associação Esportiva Jacarezinho;Paraná;PR;Jacarezinho;-23.1591;-49.9739;1938-11-18T00:00:00Z;4111803
+SAPIRANGA;Associação Esportiva Sapiranga;Rio Grande do Sul;RS;Rio Grande;-32.0349;-52.1071;;4315602
+GARANHUENSE DE ATLETISMO;Associação Garanhuense de Atletismo;Pernambuco;PE;Garanhuns;-8.88243;-36.4966;;2606002
+PONTAGROSSENSE;Associação Pontagrossense de Desportos;Rio Grande do Norte;RN;Paraná;-6.47565;-38.3057;1970-01-01T00:00:00Z;2408607
+PRUDENTINA DE ESPORTES ATLÉTICOS;Associação Prudentina de Esportes Atléticos;Paraíba;PB;Paulista;-6.59138;-37.6185;1936-10-26T00:00:00Z;2510907
+DESPORTISTAS DE PACATUBA;Associação dos Desportistas de Pacatuba;Ceará;CE;Pacatuba;-3.9784;-38.6183;;2309706
+ATHLETIC;Athletic Club;Paraná;PR;São João;-25.8214;-52.7252;;4124806
+ATLÉTICO APOLLO;Atlético Clube Apollo;Rio de Janeiro;RJ;Arraial do Cabo;-22.9774;-42.0267;;3300258
+ATLÉTICO DIANA;Atlético Clube Diana;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1958-01-01T00:00:00Z;3304557
+ATL. TRÊS CORAÇÕES;Atlético Clube Três Corações;Minas Gerais;MG;Barbacena;-21.2214;-43.7703;1913-01-01T00:00:00Z;3105608
+ATLÉTICO ARAÇATUBA;Atlético Esportivo Araçatuba;São Paulo;SP;Andradina;-20.8948;-51.3786;;3502101
+AÇAILÂNDIA;Açailândia Futebol Clube;Maranhão;MA;Açailândia;-4.94714;-47.5004;;2100055
+BALSAS;Balsas Esporte Clube;Maranhão;MA;Balsas;-7.53214;-46.0372;1999-01-01T00:00:00Z;2101400
+BANGU ATHLETIC;Bangu Athletic Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+BARCELONA CAPELA;Barcelona Esportivo Capela;São Paulo;SP;São Paulo;-23.5329;-46.6395;2004-01-01T00:00:00Z;3550308
+FUSSBALL PORTO ALEGRE;Fussball Club Porto Alegre;Rio Grande do Sul;RS;Porto Alegre;-30.0318;-51.2065;;4314902
+FUSSBALL MANNSCHAFT FRISCH AUF;Fussball Mannschaft Frisch Auf;Rio Grande do Sul;RS;Porto Alegre;-30.0318;-51.2065;1909-05-31T00:00:00Z;4314902
+RIO PARDO;Futebol Clube Rio Pardo;Rio Grande do Sul;RS;Rio Grande;-32.0349;-52.1071;;4315602
+GALVEZ;Galvez Esporte Clube;Acre;AC;Rio Branco;-9.974;-67.8076;2011-01-01T00:00:00Z;5107206
+GARÇA;Garça Futebol Clube;São Paulo;SP;Garça;-22.2125;-49.6546;;3516705
+GINÁSIO PINHALENSE DE ESPORTES ATLÉTICOS;Ginásio Pinhalense de Esportes Atléticos;São Paulo;SP;Espírito Santo do Pinhal;-22.1909;-46.7477;;3515186
+GINÁSIO SÃO JOÃO;Ginásio São João;São Paulo;SP;Adolfo;-21.2325;-49.6451;;3500204
+GLÓRIA DE DOURADOS;Glória de Dourados Esporte Clube;Mato Grosso do Sul;MS;Glória de Dourados;-22.4136;-54.2335;2009-01-01T00:00:00Z;5004007
+GRÊMIO ATLÉTICO GUARANY;Grêmio Atlético Guarany;Rio Grande do Sul;RS;Garibaldi;-29.259;-51.5352;;4308607
+GRÊMIO ACREANO;Grêmio Esportivo Acreano;Acre;AC;Sena Madureira;-9.06596;-68.6571;;1200500
+GRÊMIO PRUDENTE;Grêmio Desportivo Prudente;São Paulo;SP;Presidente Prudente;-22.1207;-51.3925;2005-01-01T00:00:00Z;3541406
+GRÊMIO FORÇA E LUZ;Grêmio Esportivo Força e Luz;Espírito Santo;ES;Alegre;-20.758;-41.5382;;3200201
+GRÊMIO FÁBRICA DA ESTRELA;Grêmio Esportivo Fábrica da Estrela;Rio Grande do Sul;RS;Estrela;-29.5002;-51.9495;;4307807
+GRÊMIO GUAÇUANO;Grêmio Esportivo Guaçuano;São Paulo;SP;Mogi Guaçu;-22.3675;-46.9428;1960-01-01T00:00:00Z;3530706
+GRÊMIO KM 49;Grêmio Esportivo Km 49;Rio de Janeiro;RJ;Seropédica;-22.7526;-43.7155;;3305554
+GRÊMIO LARANJEIRAS;Grêmio Esportivo Laranjeiras;Espírito Santo;ES;Serra;-20.121;-40.3074;;3205002
+GRÊMIO SÃO JOSÉ;Grêmio Esportivo São José;Rio Grande do Sul;RS;Cachoeira do Sul;-30.033;-52.8928;1968-01-01T00:00:00Z;4303004
+GRÊMIO TORRENSE;Grêmio Esportivo Torrense;Rio Grande do Sul;RS;Torres;-29.3334;-49.7333;;4321501
+GRÊMIO 14 DE JULHO;Grêmio Esportivo e Recreativo 14 de Julho;Rio Grande do Sul;RS;Passo Fundo;-28.2576;-52.4091;;4314100
+GRÊMIO MANGARATIBENSE;Grêmio Mangaratibense;Minas Gerais;MG;Manga;-14.7529;-43.9391;2009-01-01T00:00:00Z;3139300
+GRÊMIO OLÍMPICO MANGARATIBA;Grêmio Olímpico Mangaratiba;Rio de Janeiro;RJ;Mangaratiba;-22.9594;-44.0409;;3302601
+GRÊMIO CAMPO LARGO;Grêmio Recreativo Esportivo Campo Largo;Paraná;PR;Campo Largo;-25.4525;-49.529;;4104204
+GRÊMIO SERRANO;Grêmio Recreativo Serrano;Paraíba;PB;Campina Grande;-7.22196;-35.8731;;2504009
+GRÊMIO UNIDOS DO ALVORADA;Grêmio Recreativo Unidos do Alvorada;Amazonas;AM;Manaus;-3.11866;-60.0212;;1302603
+GUARANI ALEGRETE;Guarani Futebol Clube (Alegrete);Rio Grande do Sul;RS;Alegrete;-29.7902;-55.7949;1912-01-01T00:00:00Z;4300406
+GUARANI SALTENSE ATLÉTICO;Guarani Saltense Atlético Clube;Minas Gerais;MG;Guarani;-21.3563;-43.0328;;3128402
+GUARANI;Guarani Sport Club;Minas Gerais;MG;Guarani;-21.3563;-43.0328;1914-01-01T00:00:00Z;3128402
+GUARANY;Guarany Foot-Ball Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;1919-06-15T00:00:00Z;2304400
+PICOS;Sociedade Esportiva de Picos;Piauí;PI;Picos;-7.07721;-41.467;1976-01-01T00:00:00Z;2208007
+NILÓPOLIS;Nilópolis Futebol Clube;Rio de Janeiro;RJ;Nilópolis;-22.8057;-43.4233;1977-01-01T00:00:00Z;3303203
+MAZAGÃO ATLÉTICO;Mazagão Atlético Clube;Amapá;AP;Mazagão;-0.11336;-51.2891;1979-01-23T00:00:00Z;1600402
+SERRANO;Serrano Futebol Clube;Pernambuco;PE;Serra Talhada;-7.98178;-38.289;1983-01-01T00:00:00Z;2613909
+HOLANDA;Holanda Esporte Clube;Amazonas;AM;Rio Preto da Eva;-2.7045;-59.6858;1984-01-01T00:00:00Z;1303569
+PASSO FUNDO;Esporte Clube Passo Fundo;Rio Grande do Sul;RS;Passo Fundo;-28.2576;-52.4091;1986-01-10T00:00:00Z;4314100
+DUQUECAXIENSE;Duquecaxiense Futebol Clube;Maranhão;MA;Caxias;-4.86505;-43.3617;1997-01-01T00:00:00Z;2103000
+CORINTHIANS PAULISTA B;Sport Club Corinthians Paulista B;São Paulo;SP;São Paulo;-23.5329;-46.6395;2000-01-01T00:00:00Z;3550308
+BARBALHA;Barbalha Futebol Clube;Ceará;CE;Barbalha;-7.2982;-39.3021;2002-01-01T00:00:00Z;2301901
+IMPERIAL;Imperial Futebol Clube;Rio de Janeiro;RJ;Petrópolis;-22.52;-43.1926;2004-04-02T00:00:00Z;3303906
+JUAZEIRENSE;Sociedade Desportiva Juazeirense;Bahia;BA;Juazeiro;-9.41622;-40.5033;2006-01-01T00:00:00Z;2918407
+LEGIÃO;Legião Futebol Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;2006-05-11T00:00:00Z;5300108
+POÇOS DE CALDAS;Poços de Caldas Futebol Clube;Minas Gerais;MG;Caldas;-21.9183;-46.3843;2007-01-01T00:00:00Z;3110301
+SÃO JOSÉ DE RIBAMAR;São José de Ribamar Esporte Clube;Santa Catarina;SC;São José;-27.6136;-48.6366;2007-06-14T00:00:00Z;4216602
+RIBEIRÃO BONITO;Ribeirão Bonito Esporte Clube;Pernambuco;PE;Bonito;-8.47163;-35.7292;1960-01-01T00:00:00Z;2602308
+RIO BRANCO DE VENDA NOVA;Rio Branco Futebol Clube (Espírito Santo);Espírito Santo;ES;Venda Nova do Imigrante;-20.327;-41.1355;1945-01-01T00:00:00Z;3205069
+RIO BRANCO SERGIPE;Rio Branco Esporte Clube (Sergipe);Alagoas;AL;Capela;-9.41504;-36.0826;;2701704
+RIO BRANCO DE BAGÉ;Rio Branco de Bagé;Rio Grande do Sul;RS;Bagé;-31.3297;-54.0999;1910-01-01T00:00:00Z;4301602
+RIO CRICKET;Rio Cricket e Associação Atlética;Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;;3303302
+RIO PARDO;Rio Pardo Futebol Clube;Espírito Santo;ES;Iúna;-20.3531;-41.5334;;3203007
+RIO DAS OSTRAS;Rio das Ostras Futebol Clube;Rio de Janeiro;RJ;Rio das Ostras;-22.5174;-41.9475;1960-01-01T00:00:00Z;3304524
+RIO DE JANEIRO SHARKS;Rio de Janeiro Sharks;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;2001-01-01T00:00:00Z;3304557
+RIO DE JANEIRO MINOTAUROS;Rio de Janeiro Minotauros;Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;2010-10-10T00:00:00Z;3303302
+RIOSTRENSE;Riostrense Esporte Clube;Ceará;CE;Jardim;-7.57599;-39.2826;;2307106
+RIVER;River Football Club;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+RIVER ILHEENSE;River Ilheense Esporte Clube;Bahia;BA;Ilhéus;-14.793;-39.046;1977-08-14T00:00:00Z;2913606
+ROMA;Roma Esporte Clube;Paraná;PR;Apucarana;-23.55;-51.4635;2000-01-22T00:00:00Z;4101408
+RUY BARBOSA;Ruy Barbosa Futebol Clube;São Paulo;SP;Barbosa;-21.2657;-49.9518;1929-01-01T00:00:00Z;3505104
+SABUGY;Sabugy Futebol Clube;Maranhão;MA;Santa Luzia;-4.06873;-45.69;;2110005
+SACRAMENTA BENEFICENTE;Sacramenta Esporte Clube Beneficente;Pará;PA;Belém;-1.4554;-48.4898;;1501402
+SALVADOR;Salvador Futebol Clube;Bahia;BA;Salvador;-12.9718;-38.5011;2007-01-01T00:00:00Z;2927408
+SANTA CATARINA;Santa Catarina Clube;Santa Catarina;SC;Rio do Sul;-27.2156;-49.643;;4214805
+SANTA CRUZ;Santa Cruz Futebol Clube (Fortaleza);Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+SANTA CRUZ;Santa Cruz Futebol Clube (Minas Gerais);Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;1951-05-03T00:00:00Z;3106200
+SANTA CRUZ DO SUL CHACAIS;Santa Cruz do Sul Chacais;Rio Grande do Sul;RS;Santa Cruz do Sul;-29.722;-52.4343;2007-01-01T00:00:00Z;4316808
+SANTA RITA;Santa Rita Esporte Clube;São Paulo;SP;Campinas;-22.9053;-47.0659;1959-01-01T00:00:00Z;3509502
+SANTARRITENSE;Santarritense Futebol Clube;Minas Gerais;MG;Santa Rita do Sapucaí;-22.2461;-45.7034;;3159605
+SAQUAREMA;Saquarema Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+SAVÓIA;Savóia Futebol Clube;Paraná;PR;Curitiba;-25.4195;-49.2646;1914-07-14T00:00:00Z;4106902
+SEM RIVAL;Sem Rival Sport Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+ZUMBI;Zumbi Esporte Clube;Alagoas;AL;União dos Palmares;-9.15921;-36.0223;1954-11-15T00:00:00Z;2709301
+AMERICANO;Americano Football Club;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1907-10-01T00:00:00Z;3304557
+BONSUCESSO;Bonsucesso Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;1913-01-01T00:00:00Z;3304557
+MARICÁ;Esporte Clube Maricá;Rio de Janeiro;RJ;Maricá;-22.9354;-42.8246;;3302700
+MARINHO;Esporte Clube Marinho;Paraíba;PB;Mari;-7.05942;-35.318;;2509107
+MIGUEL COUTO;Esporte Clube Miguel Couto;Rio de Janeiro;RJ;Nova Iguaçu;-22.7556;-43.4603;;3303500
+MIRANORTE;Esporte Clube Miranorte;Tocantins;TO;Miranorte;-9.52907;-48.5922;;1713304
+MOGIANA RIBEIRÃO PRETO;Esporte Clube Mogiana (Ribeirão Preto);São Paulo;SP;Ribeirão Preto;-21.1699;-47.8099;1938-07-27T00:00:00Z;3543402
+MOGIANA;Esporte Clube Mogiana;São Paulo;SP;Campinas;-22.9053;-47.0659;1933-06-07T00:00:00Z;3509502
+MUNDO NOVO;Esporte Clube Mundo Novo;Rio Grande do Sul;RS;Três Coroas;-29.5137;-50.7739;1934-08-24T00:00:00Z;4321709
+PALMEIRENSE RIO GRANDE DO SUL;Esporte Clube Palmeirense (Rio Grande do Sul);Rio Grande do Sul;RS;Palmeira das Missões;-27.9007;-53.3134;1919-01-01T00:00:00Z;4313706
+PALMEIRENSE SÃO PAULO;Esporte Clube Palmeirense (São Paulo);São Paulo;SP;Santa Cruz das Palmeiras;-21.8235;-47.248;1908-09-07T00:00:00Z;3546306
+PRODUTOS CACHOEIRA;Esporte Clube Produtos Cachoeira;Bahia;BA;Cachoeira;-12.5994;-38.9587;1961-01-01T00:00:00Z;2904902
+FERROVIÁRIO;Esporte Clube Recreativo Ferroviário;Paraná;PR;Jaguariaíva;-24.2439;-49.7066;;4112009
+RENASCENÇA;Esporte Clube Renascença;Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;;3106200
+RESENDE;Esporte Clube Resende;Rio de Janeiro;RJ;Resende;-22.4705;-44.4509;;3304201
+RIBEIRO JUNQUEIRA;Esporte Clube Ribeiro Junqueira;Minas Gerais;MG;Leopoldina;-21.5296;-42.6421;;3138401
+RIO BRANCO;Esporte Clube Rio Branco;São Paulo;SP;Ibitinga;-21.7562;-48.8319;;3519600
+RIO PARDO;Esporte Clube Rio Pardo;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;1998-01-01T00:00:00Z;2509370
+RIO SÃO PAULO;Esporte Clube Rio São Paulo;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+SÃO BERNARDO;Esporte Clube São Bernardo;Bahia;BA;Itagi;-14.1615;-40.0131;;2915106
+SÃO JOSÉ RIO DE JANEIRO;Esporte Clube São José (Rio de Janeiro);São Paulo;SP;Bastos;-21.921;-50.7357;;3505807
+SÃO JOSÉ SÃO JOSÉ DO RIO CLARO;Esporte Clube São José (São José do Rio Claro);Mato Grosso;MT;São José do Rio Claro;-13.4398;-56.7218;;5107305
+TAQUARAL;Esporte Clube Taquaral;Rio de Janeiro;RJ;Maricá;-22.9354;-42.8246;;3302700
+TARUMÃ;Esporte Clube Tarumã;Amazonas;AM;Manaus;-3.11866;-60.0212;1974-01-01T00:00:00Z;1302603
+VILA SÃO LUIZ;Esporte Clube Vila São Luiz;Maranhão;MA;Caxias;-4.86505;-43.3617;;2103000
+ÁGUA VERDE;Esporte Clube Água Verde;Paraná;PR;Curitiba;-25.4195;-49.2646;1914-12-17T00:00:00Z;4106902
+ESPROF ATLÉTICO;Esprof Atlético de Futebol e Clube;Rio de Janeiro;RJ;Cabo Frio;-22.8894;-42.0286;;3300704
+ESTRADA DE FERRO SOROCABANA;Estrada de Ferro Sorocabana Futebol Clube;São Paulo;SP;São Paulo;-23.5329;-46.6395;1930-11-25T00:00:00Z;3550308
+ESTRELA;Estrela Esporte Clube;Rio Grande do Sul;RS;Estrela;-29.5002;-51.9495;1976-01-10T00:00:00Z;4307807
+ESTRELA RIO GRANDE DO SUL;Estrela Futebol Clube (Rio Grande do Sul);Rio Grande do Sul;RS;Estrela;-29.5002;-51.9495;;4307807
+ESTRELA DA BELA VISTA;Estrela da Bela Vista Esporte Clube;Mato Grosso do Sul;MS;Bela Vista;-22.1073;-56.5263;;5002100
+ESTRELA DA SAÚDE;Estrela da Saúde Futebol Clube;Rio Grande do Sul;RS;Estrela;-29.5002;-51.9495;;4307807
+ESTRELA DA SERRA;Estrela da Serra Futebol Clube;Rio de Janeiro;RJ;Magé;-22.6632;-43.0315;;3302502
+ESTRELA DO MAR;Estrela do Mar Esporte Clube;Rio Grande do Sul;RS;Estrela;-29.5002;-51.9495;;4307807
+ESTRELA DO MAR;Estrela do Mar Foot-Ball Club;Rio Grande do Sul;RS;Estrela;-29.5002;-51.9495;1939-12-23T00:00:00Z;4307807
+ESTRELA DO NORTE;Estrela do Norte Esporte Clube;Rio de Janeiro;RJ;São Fidélis;-21.6551;-41.756;;3304805
+EUSÉBIO;Eusébio Esporte Clube;Paraíba;PB;Arara;-6.82813;-35.7552;2005-01-01T00:00:00Z;2500908
+EXPRESSINHO;Expressinho Futebol Clube;Maranhão;MA;São Luís;-2.53874;-44.2825;;2111300
+EXPRESSO SÃO CARLOS;Expresso São Carlos Esporte Clube;Rio Grande do Sul;RS;Ponte Preta;-27.6587;-52.4848;1953-01-01T00:00:00Z;4314787
+EXTERNATO;Externato Futebol Clube;Santa Catarina;SC;Florianópolis;-27.5945;-48.5477;1910-08-14T00:00:00Z;4205407
+FADA;Fada Futebol Clube;Mato Grosso do Sul;MS;Anastácio;-20.4823;-55.8104;1940-05-10T00:00:00Z;5000708
+FERROVIÁRIO CABO;Ferroviário Esporte Clube do Cabo;Pernambuco;PE;Bezerros;-8.2328;-35.796;1961-01-01T00:00:00Z;2601904
+FIGUEIRENSE;Figueirense Esporte Clube;Ceará;CE;Catarina;-6.12291;-39.8736;;2303600
+FLAMENGO AMERICANA;Flamengo Futebol Clube (Americana);São Paulo;SP;Americana;-22.7374;-47.3331;;3501608
+FLAMENGO PIRAJUÍ;Flamengo Futebol Clube (Pirajuí);São Paulo;SP;Pirajuí;-21.999;-49.4608;1972-01-01T00:00:00Z;3538907
+FLORESTA;Floresta Esporte Clube;Ceará;CE;Fortaleza;-3.71664;-38.5423;1954-01-01T00:00:00Z;2304400
+FLORESTA;Floresta Futebol Clube;Pernambuco;PE;Flores;-7.85842;-37.9715;1965-01-01T00:00:00Z;2605608
+FLUMINENSE ATLÉTICO NITERÓI;Fluminense Atlético Clube (Niterói);Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;1913-09-07T00:00:00Z;3303302
+FLUMINENSE;Fluminense Esporte Clube;Piauí;PI;Teresina;-5.09194;-42.8034;1938-01-31T00:00:00Z;2211001
+FLUMINENSE SANTANA DO LIVRAMENTO;Fluminense Futebol Clube (Santana do Livramento);Paraíba;PB;Livramento;-7.37113;-36.9491;;2508505
+RIO-GRANDENSE;Football Club Rio-Grandense;Rio Grande do Sul;RS;Rio Grande;-32.0349;-52.1071;;4315602
+FORTALEZA;Fortaleza Clube;Ceará;CE;Fortaleza;-3.71664;-38.5423;1903-06-24T00:00:00Z;2304400
+FORÇA;Força Esporte Clube;São Paulo;SP;São Paulo;-23.5329;-46.6395;;3550308
+FRANCISCO FERRO;Francisco Ferro Sport Futebol Club;Rio Grande do Norte;RN;Viçosa;-5.98253;-37.9462;;2414902
+FRIGORÍFICO ATLÉTICO;Frigorífico Atlético Clube;Rio de Janeiro;RJ;Mendes;-22.5245;-43.7312;;3302809
+SEMEANDO CIDADANIA;Semeando Cidadania Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+SENZALA;Senzala Futebol Clube;Bahia;BA;Camamu;-13.9398;-39.1071;;2905800
+SERGIPE BRAVOS;Sergipe Bravos;Sergipe;SE;Aracaju;-10.9091;-37.0677;2004-01-01T00:00:00Z;2800308
+SETE DE SETEMBRO;Sete de Setembro Futebol Clube;Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;;3106200
+SOCIAL VITÓRIA;Social Esportiva Vitória;São Paulo;SP;Hortolândia;-22.8529;-47.2143;;3519071
+AÇÃO;Sociedade Ação Futebol;Piauí;PI;Várzea Grande;-6.54899;-42.248;;2211407
+BORBOREMA;Sociedade Desportiva Borborema;Paraíba;PB;Campina Grande;-7.22196;-35.8731;1975-10-11T00:00:00Z;2504009
+SETE DE SETEMBRO DE CUPIRA;Sociedade Desportiva Sete de Setembro de Cupira;Pernambuco;PE;Cupira;-8.62432;-35.9518;;2605004
+UNIÃO;Sociedade Desportiva e Recreativa União;Santa Catarina;SC;Timbó;-26.8246;-49.269;1972-01-01T00:00:00Z;4218202
+EGIPCIENSE;Sociedade Egipciense;Pernambuco;PE;São José do Egito;-7.46945;-37.274;;2613602
+ALECRINENSE;Sociedade Esportiva Alecrinense;Rio Grande do Sul;RS;Alecrim;-27.6579;-54.7649;;4300307
+ALVORADA;Sociedade Esportiva Alvorada Club;Paraná;PR;Maringá;-23.4205;-51.9333;2010-01-01T00:00:00Z;4115200
+AURENY III;Sociedade Esportiva Aureny III;Paraná;PR;Palmas;-26.4839;-51.9888;;4117602
+DECISÃO;Sociedade Esportiva Decisão Futebol Clube;Pernambuco;PE;Bonito;-8.47163;-35.7292;;2602308
+GUAXUPÉ;Sociedade Esportiva Guaxupé;Minas Gerais;MG;Guaxupé;-21.305;-46.7081;;3128709
+ILHA SOLTEIRA;Sociedade Esportiva Ilha Solteira;São Paulo;SP;Ilha Solteira;-20.4326;-51.3426;1970-09-15T00:00:00Z;3520442
+JATEIENSE;Sociedade Esportiva Jateiense;Mato Grosso do Sul;MS;Jateí;-22.4806;-54.3079;;5005103
+PALMEIRAS USINA FURLAN;Sociedade Esportiva Palmeiras Usina Furlan;Rio Grande do Norte;RN;Açu;-5.58362;-36.914;1960-01-01T00:00:00Z;2400208
+PALMEIRAS PATO BRANCO;Sociedade Esportiva Palmeiras (Pato Branco);Paraná;PR;Palmeira;-25.4257;-50.007;1949-01-01T00:00:00Z;4117701
+PLANALTINA;Sociedade Esportiva Planaltina;Goiás;GO;Goiás;-15.9333;-50.14;;5208905
+PLATINENSE;Sociedade Esportiva Platinense;Rio Grande do Norte;RN;Paraná;-6.47565;-38.3057;;2408607
+PONTAPORANENSE;Sociedade Esportiva Pontaporanense;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;1953-10-08T00:00:00Z;2509370
+QUEIMADENSE;Sociedade Esportiva Queimadense;Rio Grande do Sul;RS;Paraí;-28.5964;-51.7896;;4314001
+PERDIGÃO;Sociedade Esportiva Recreativa Perdigão;Santa Catarina;SC;Videira;-27.0086;-51.1543;1964-01-01T00:00:00Z;4219309
+SANJOANENSE;Sociedade Esportiva Sanjoanense;Roraima;RR;Boa Vista;2.82384;-60.6753;1916-07-01T00:00:00Z;1400100
+SANTA MARIA;Sociedade Esportiva Santa Maria;Rio Grande do Sul;RS;Santa Maria;-29.6868;-53.8149;;4316907
+SIDROLÂNDIA;Sociedade Esportiva Sidrolândia;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;2008-01-30T00:00:00Z;2509370
+SÃO BORJA;Sociedade Esportiva São Borja;Rio Grande do Sul;RS;São Borja;-28.6578;-56.0036;1977-01-01T00:00:00Z;4318002
+FLAMENGO;Sociedade Esportiva e Cultural Flamengo;Rio Grande do Sul;RS;Bento Gonçalves;-29.1662;-51.5165;;4302105
+CASTELENSE;Sociedade Esportiva e Recreativa Castelense;Espírito Santo;ES;Castelo;-20.6033;-41.2031;;3201407
+VINTE DE SETEMBRO;Sociedade Esportiva e Recreativa Vinte de Setembro;Rio Grande do Sul;RS;Rio Grande;-32.0349;-52.1071;;4315602
+OPERÁRIA BENEFICENTE IGUAÇU;Sociedade Operária Beneficente Iguaçu;Paraná;PR;Curitiba;-25.4195;-49.2646;1919-01-01T00:00:00Z;4106902
+SPORTIVA SETE DE SETEMBRO;Sociedade Sportiva Sete de Setembro;Alagoas;AL;Maceió;-9.66599;-35.735;1945-01-01T00:00:00Z;2704302
+SOROCABA VIPERS;Sorocaba Vipers;São Paulo;SP;Sorocaba;-23.4969;-47.4451;;3552205
+BAGÉ;Sport Club Bagé;Rio Grande do Sul;RS;Bagé;-31.3297;-54.0999;;4301602
+BAHIANO;Sport Club Bahiano;Bahia;BA;Salvador;-12.9718;-38.5011;1903-09-07T00:00:00Z;2927408
+CAMPO MOURÃO;Sport Club Campo Mourão;Paraná;PR;Campo Mourão;-24.0463;-52.378;;4104303
+CAMPINA GRANDE;Sport Club Campina Grande;Paraíba;PB;Lagoa Seca;-7.15535;-35.8491;2010-01-01T00:00:00Z;2508307
+CAPIXABA;Sport Club Capixaba;Espírito Santo;ES;Nova Venécia;-18.715;-40.4053;1917-09-30T00:00:00Z;3203908
+BELO HORIZONTE;Sport Club Foot-Ball (Belo Horizonte);Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;;3106200
+GUARANY ROSÁRIO DO SUL;Sport Club Guarany (Rosário do Sul);Rio Grande do Sul;RS;Rosário do Sul;-30.2515;-54.9221;1909-01-01T00:00:00Z;4316402
+JARAGUÁ;Sport Club Jaraguá;Santa Catarina;SC;Jaraguá do Sul;-26.4851;-49.0713;;4208906
+JUIZ DE FORA;Sport Club Juiz de Fora;Minas Gerais;MG;Juiz de Fora;-21.7595;-43.3398;;3136702
+PARAHYBA;Parahyba Foot Ball Club;Paraíba;PB;João Pessoa;-7.11509;-34.8641;;2507507
+PARAHYBA UNITED;Parahyba United;Paraíba;PB;João Pessoa;-7.11509;-34.8641;;2507507
+PARAÍBA DO SUL;Paraíba do Sul Futebol Clube;Rio de Janeiro;RJ;Paraíba do Sul;-22.1585;-43.304;2005-01-01T00:00:00Z;3303708
+PARECIS;Parecis Sociedade Esportiva;Mato Grosso;MT;Campo Novo do Parecis;-13.6587;-57.8907;;5102637
+PARQUINHO;Parquinho Futebol Clube;São Paulo;SP;Bauru;-22.3246;-49.0871;;3506003
+PASSAGEM;Passagem Futebol Clube;Sergipe;SE;Neópolis;-10.3215;-36.585;1948-02-06T00:00:00Z;2804409
+PASSOS;Passos Futebol Clube;Minas Gerais;MG;Passos;-20.7193;-46.609;;3147907
+PAULISTA;Paulista Esporte Clube;Paraíba;PB;Paulista;-6.59138;-37.6185;;2510907
+PAULISTA ARARAQUARA;Paulista Futebol Clube (Araraquara);São Paulo;SP;Araraquara;-21.7845;-48.178;1930-12-03T00:00:00Z;3503208
+PAVUNENSE;Pavunense Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+PAYSSANDU;Payssandu Futebol Clube;Paraíba;PB;Paulista;-6.59138;-37.6185;1916-01-01T00:00:00Z;2510907
+PERY FERROVIÁRIO;Pery Ferroviário Esporte Clube;Ceará;CE;Catarina;-6.12291;-39.8736;;2303600
+PESQUEIRA;Pesqueira Futebol Clube;Pernambuco;PE;Pesqueira;-8.35797;-36.6978;;2610905
+PEÑAROL;Peñarol Sport Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+PICUÍ;Picuí Club;Paraíba;PB;Picuí;-6.50845;-36.3497;2005-01-01T00:00:00Z;2511400
+PINHEIRENSE;Pinheirense Esporte Clube;Pará;PA;Belém;-1.4554;-48.4898;1925-01-01T00:00:00Z;1501402
+PINHEIRO ATLÉTICO;Pinheiro Atlético Clube;Maranhão;MA;Pinheiro;-2.52224;-45.0788;;2108603
+PIRACANJUBA;Piracanjuba Esporte Clube;Goiás;GO;Piracanjuba;-17.302;-49.017;1979-01-01T00:00:00Z;5217104
+PIRAPORA;Pirapora Futebol Clube;Minas Gerais;MG;Pirapora;-17.3392;-44.934;;3151206
+PIRATAS DE COPACABANA AMERICANO;Piratas de Copacabana Futebol Americano;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;2003-01-01T00:00:00Z;3304557
+PIRES DO RIO;Pires do Rio Futebol Clube;Goiás;GO;Pires do Rio;-17.3019;-48.2768;;5217401
+POMPEIA;Pompeia Futebol Clube;Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;;3106200
+PORTO ALEGRE PUMPKINS;Porto Alegre Pumpkins;Espírito Santo;ES;Alegre;-20.758;-41.5382;2005-01-01T00:00:00Z;3200201
+PORTO VELHO;Porto Velho Futebol Clube;Rondônia;RO;Porto Velho;-8.76077;-63.8999;;1100205
+PORTUGUESA;Portuguesa Futebol Clube;Ceará;CE;Crato;-7.2153;-39.4103;;2304202
+POUSO ALEGRE;Pouso Alegre Futebol Clube;Minas Gerais;MG;Pouso Alegre;-22.2266;-45.9389;1913-01-01T00:00:00Z;3152501
+PRESIDENTE PRUDENTE;Presidente Prudente Futebol Clube;São Paulo;SP;Presidente Prudente;-22.1207;-51.3925;2006-01-03T00:00:00Z;3541406
+PROFESSORADO CAMPESTRE;Professorado Campestre Clube;Minas Gerais;MG;Campestre;-21.7079;-46.2381;;3111002
+PROGRESSO;Progresso Foot-Ball Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;1926-09-07T00:00:00Z;2304400
+PRUDENTINO;Prudentino Futebol Clube;Paraíba;PB;Paulista;-6.59138;-37.6185;2001-01-29T00:00:00Z;2510907
+RAIZ DA GÁVEA;Raiz da Gávea Esporte Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+RAMALAT;Ramalat Sport Club;Pernambuco;PE;Ouricuri;-7.87918;-40.08;;2609907
+RATRANS;Ratrans Esporte Clube;Bahia;BA;São Sebastião do Passé;-12.5123;-38.4905;;2929503
+REAL BRASIL;Real Brasil Clube de Futebol;Distrito Federal;DF;Brasília;-15.7795;-47.9297;2005-01-01T00:00:00Z;5300108
+REAL;Real Esporte Clube;Rio de Janeiro;RJ;Angra dos Reis;-23.0011;-44.3196;;3300100
+REAL BELTRONENSE;Real Esportivo e Recreativo Beltronense;Paraná;PR;Francisco Beltrão;-26.0817;-53.0535;;4108403
+REAL INDEPENDENTE;Real Sociedade Independente;Ceará;CE;Jardim;-7.57599;-39.2826;;2307106
+REAL ARTE;Real Sport Arte Clube;Santa Catarina;SC;Gaspar;-26.9336;-48.9534;;4205902
+NOVA ESTRELA;Recreativo Nova Estrela;Paraná;PR;Fazenda Rio Grande;-25.6624;-49.3073;;4107652
+REDENÇÃO;Redenção Esporte Clube;Pará;PA;Redenção;-8.02529;-50.0317;;1506138
+REDENÇÃO;Redenção Futebol Clube;Bahia;BA;Salvador;-12.9718;-38.5011;;2927408
+RIACHUELO ATLÉTICO;Riachuelo Atlético Clube;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+RIACHUELO ATLÉTICO NATAL;Riachuelo Atlético Clube (Natal);Rio Grande do Norte;RN;Natal;-5.79357;-35.1986;1948-08-16T00:00:00Z;2408102
+RIACHUELO CORUMBÁ;Riachuelo Futebol Clube (Corumbá);Mato Grosso do Sul;MS;Corumbá;-19.0077;-57.651;;5003207
+RIACHÃO;Riachão Esporte Clube;Sergipe;SE;Riachão do Dantas;-11.0729;-37.731;;2805802
+ALIANÇA;Aliança Futebol Clube;Goiás;GO;Goiânia;-16.6864;-49.2643;1958-10-24T00:00:00Z;5208707
+DEPORTIVO ALIANÇA; Desportivo Aliança;Alagoas;AL;Barra de Santo Antônio;-9.40500;-35.50694;;2700508
+AMERICANO PORTO ALEGRE;Sport Club Americano (Porto Alegre);Rio Grande do Sul;RS;Porto Alegre;-30.0318;-51.2065;1912-01-01T00:00:00Z;4314902
+GRÊMIO SANTANENSE;Grêmio Santanense;Paraíba;PB;Livramento;-7.37113;-36.9491;1913-01-01T00:00:00Z;2508505
+ATLÉTICO LEMENSE;Clube Atlético Lemense;São Paulo;SP;Leme;-22.1809;-47.3841;2005-01-01T00:00:00Z;3526704
+CAXIAS;Caxias Futebol Clube;Santa Catarina;SC;Joinville;-26.3045;-48.8487;1920-01-01T00:00:00Z;4209102
+ATLÉTICO IZABELENSE;Atlético Clube Izabelense;Pará;PA;Santa Izabel do Pará;-1.29686;-48.1606;1924-01-01T00:00:00Z;1506500
+TAVEIRÓPOLIS;Esporte Clube Taveirópolis;Alagoas;AL;Campo Grande;-9.95542;-36.7926;1938-06-30T00:00:00Z;2701506
+OLÍMPIA;Olímpia Futebol Clube;São Paulo;SP;Olímpia;-20.7366;-48.9106;1946-12-05T00:00:00Z;3533908
+NACIONAL ATLÉTICO CIVIL;Nacional Atlético Clube Sociedade Civil;Paraná;PR;Rolândia;-23.3101;-51.3659;1947-04-28T00:00:00Z;4122404
+GUAJARÁ;Guajará Esporte Clube;Rondônia;RO;Guajará-Mirim;-10.7889;-65.3296;1952-10-31T00:00:00Z;1100106
+ESTUDANTES;Estudantes Sport Club;Pernambuco;PE;Timbaúba;-7.50484;-35.3119;1958-05-01T00:00:00Z;2615300
+GUARULHOS;Associação Desportiva Guarulhos;São Paulo;SP;Guarulhos;-23.4538;-46.5333;1964-01-01T00:00:00Z;3518800
+UNIÃO BANDEIRANTE;União Bandeirante Futebol Clube;Mato Grosso do Sul;MS;Bandeirantes;-19.9275;-54.3585;1964-01-01T00:00:00Z;5001508
+CRUZEIRO ARAPIRACA;Esporte Clube Cruzeiro (Arapiraca);Minas Gerais;MG;Alagoa;-22.171;-44.6413;1983-09-07T00:00:00Z;3101300
+INTERCAP;Intercap Esporte Clube;Tocantins;TO;Paraíso do Tocantins;-10.175;-48.8823;1972-01-01T00:00:00Z;1716109
+ORDEM E PROGRESSO;Ordem e Progresso Futebol Clube;Espírito Santo;ES;Bom Jesus do Norte;-21.1173;-41.6731;;3201100
+ORIENTE;Oriente Foot-Ball Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+OURO PRETO;Ouro Preto Esporte Clube;Santa Catarina;SC;Ouro;-27.3379;-51.6194;;4211801
+OURO VELHO;Ouro Velho Esporte Clube;Paraíba;PB;Monteiro;-7.88363;-37.1184;;2509701
+PADUANO;Paduano Esporte Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+PALADINO;Paladino Foot-Ball Club;Minas Gerais;MG;João Pinheiro;-17.7398;-46.1715;;3136306
+PALESTRA SERGIPE;Palestra Futebol Clube (Sergipe);Sergipe;SE;Aracaju;-10.9091;-37.0677;;2800308
+PALESTRA ITÁLIA DE SÃO CARLOS;Palestra Itália de São Carlos;Santa Catarina;SC;Itá;-27.2907;-52.3212;1921-12-08T00:00:00Z;4208005
+PALMEIRAS ATLÉTICO;Palmeiras Atlético Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+PALMEIRAS;Palmeiras Foot Ball Club;Minas Gerais;MG;Belo Horizonte;-19.9102;-43.9266;1919-01-01T00:00:00Z;3106200
+PALMEIRAS;Palmeiras Futebol Clube;São Paulo;SP;São João da Boa Vista;-21.9707;-46.7944;1924-01-12T00:00:00Z;3549102
+PALMEIRAS LOCOMOTIVES;Palmeiras Locomotives;São Paulo;SP;São Paulo;-23.5329;-46.6395;2006-02-18T00:00:00Z;3550308
+PALMÁCIA;Palmácia Esporte Clube;Ceará;CE;Horizonte;-4.1209;-38.4707;2005-01-01T00:00:00Z;2305233
+PARACURU ATLÉTICO;Paracuru Atlético Clube;Sergipe;SE;Lagarto;-10.9136;-37.6689;2008-06-12T00:00:00Z;2803500
+PARAGOMINAS;Paragominas Futebol Clube;Pará;PA;Paragominas;-3.00212;-47.3527;2012-01-01T00:00:00Z;1505502
+OURICURI;Sport Club Ouricuri;Minas Gerais;MG;Alagoa;-22.171;-44.6413;;3101300
+SOROCABANO;Sport Club Sorocabano;São Paulo;SP;São Paulo;-23.5329;-46.6395;1903-09-07T00:00:00Z;3550308
+TANGARÁ;Sport Club Tangará;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;;2509370
+PARANÁ;Sport Clube Paraná;Paraná;PR;Formosa do Oeste;-24.2951;-53.3114;;4108205
+SANTA CRUZ;Sport Clube Santa Cruz (Estância);Sergipe;SE;Estância;-11.2659;-37.4484;;2802106
+SÃO JOSÉ;Sport Clube São José;Paraná;PR;Curitiba;-25.4195;-49.2646;;4106902
+STELLA;Stella Foot-Ball Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+SÁ VIANA;Sá Viana Futebol Clube;Rio Grande do Sul;RS;Rio Grande;-32.0349;-52.1071;;4315602
+SÃO DOMINGOS;São Domingos Esporte Clube;Piauí;PI;Porto;-3.88815;-42.6998;1962-05-06T00:00:00Z;2208502
+SÃO FRANCISCO RORAIMA;São Francisco Futebol Clube (Roraima);Roraima;RR;Boa Vista;2.82384;-60.6753;;1400100
+SÃO FRANCISCO SANTARÉM;São Francisco Futebol Clube (Santarém);Pará;PA;Santarém;-2.43849;-54.6996;1929-10-30T00:00:00Z;1506807
+SÃO GONÇALO;São Gonçalo Esporte Clube;Rio de Janeiro;RJ;São Gonçalo;-22.8268;-43.0634;;3304904
+SÃO GONÇALO RIO DE JANEIRO;São Gonçalo Futebol Clube (Rio de Janeiro);Rio de Janeiro;RJ;São Gonçalo;-22.8268;-43.0634;;3304904
+SÃO JOÃO DE MERITI;São João de Meriti Futebol Clube;Rio de Janeiro;RJ;São João de Meriti;-22.8058;-43.3729;;3305109
+SÃO PAULO ARARAQUARA;São Paulo Futebol Clube (Araraquara);São Paulo;SP;Araraquara;-21.7845;-48.178;1937-02-04T00:00:00Z;3503208
+SÃO PAULO ARAÇATUBA;São Paulo Futebol Clube (Araçatuba);São Paulo;SP;Araçatuba;-21.2076;-50.4401;1948-11-11T00:00:00Z;3502804
+SÃO PAULO SÃO JOÃO DE MERITI;São Paulo Futebol Clube (São João de Meriti);Rio de Janeiro;RJ;São João de Meriti;-22.8058;-43.3729;;3305109
+SÃO PAULO STORM;São Paulo Storm;São Paulo;SP;São Paulo;-23.5329;-46.6395;2006-01-01T00:00:00Z;3550308
+SÃO PAULO RAILWAY ATHLETIC;São Paulo Railway Athletic Club;São Paulo;SP;São Paulo;-23.5329;-46.6395;;3550308
+SÃO PAULO DA FLORESTA;São Paulo da Floresta;São Paulo;SP;São Paulo;-23.5329;-46.6395;1930-01-25T00:00:00Z;3550308
+SÃO PEDRO ATLÉTICO;São Pedro Atlético Clube;Rio de Janeiro;RJ;São Pedro da Aldeia;-22.8429;-42.1026;;3305208
+TABAJARA-GUAÍBA;Tabajara-Guaíba Futebol Clube;Rio Grande do Sul;RS;Getúlio Vargas;-27.8911;-52.2294;;4308904
+TAMANDARÉ;Tamandaré Esporte Clube;Paraná;PR;Almirante Tamandaré;-25.3188;-49.3037;;4100400
+TANGUÁ CULTURA;Tanguá Esporte e Cultura;Rio de Janeiro;RJ;São Gonçalo;-22.8268;-43.0634;;3304904
+TARUMÃ;Tarumã Esporte Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;1974-01-01T00:00:00Z;1302603
+TELÊMACO BORBA;Telêmaco Borba Esporte Clube;Paraná;PR;Telêmaco Borba;-24.3245;-50.6176;;4127106
+TEOTÔNIO;Teotônio Esporte Clube;Alagoas;AL;Teotônio Vilela;-9.91656;-36.3492;;2709152
+THERESINENSE;Theresinense Foot-Ball Club;Piauí;PI;Teresina;-5.09194;-42.8034;;2211001
+TIANGUÁ;Tianguá Esporte Clube;Ceará;CE;Tianguá;-3.72965;-40.9923;;2313401
+TIME NEGRA CARAJÁS;Time Negra Carajás Clube;Pará;PA;Parauapebas;-6.06781;-49.9037;1997-01-01T00:00:00Z;1505536
+TIMON;Timon Esporte Clube;Maranhão;MA;Timon;-5.09769;-42.8329;2005-01-01T00:00:00Z;2112209
+TIRADENTES;Tiradentes Esporte Clube;Ceará;CE;Catarina;-6.12291;-39.8736;;2303600
+TRABALHISTA;Trabalhista Futebol Clube;Santa Catarina;SC;Florianópolis;-27.5945;-48.5477;;4205407
+TRAMWAYS;Tramways Sport Club;Pernambuco;PE;Recife;-8.04666;-34.8771;1934-03-09T00:00:00Z;2611606
+TREMEMBÉ;Tremembé Futebol Clube;São Paulo;SP;São Paulo;-23.5329;-46.6395;1914-01-01T00:00:00Z;3550308
+TUBARÃO;Tubarão Esporte Clube;Paraná;PR;Palmas;-26.4839;-51.9888;;4117602
+TUBARÕES DO CERRADO;Tubarões do Cerrado;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+TUIUTI;Tuiuti Esporte Clube;Rio Grande do Sul;RS;Casca;-28.5605;-51.9815;1949-01-01T00:00:00Z;4304903
+TUPY;Tupy Sport Club;Rio de Janeiro;RJ;Paracambi;-22.6078;-43.7108;;3303609
+UCHOA;Uchoa Futebol Clube;São Paulo;SP;São Paulo;-23.5329;-46.6395;1940-01-03T00:00:00Z;3550308
+UMUARAMA;Umuarama Esporte Clube;Goiás;GO;Iporá;-16.4398;-51.118;;5210208
+UNIDOS DO IV CENTENÁRIO;Unidos do IV Centenário Futebol Clube;Rio Grande do Sul;RS;Centenário;-27.7615;-51.9984;;4305116
+UNIVERSAL;Universal Futebol Clube;Alagoas;AL;Porto Real do Colégio;-10.1849;-36.8376;;2707503
+UNIÃO ARAGUAINENSE;União Atlética Araguainense;Tocantins;TO;Araguaína;-7.19238;-48.2044;;1702109
+UNIÃO CRUZEIRENSE DE ESPORTES;União Cruzeirense de Esportes;Ceará;CE;Cruz;-2.91813;-40.176;;2304251
+UNIÃO COELHO DA ROCHA;União Esportiva Coelho da Rocha;Rio de Janeiro;RJ;São João de Meriti;-22.8058;-43.3729;;3305109
+UNIÃO ITABERAÍ;União Esportiva Itaberaí;Goiás;GO;Goiás;-15.9333;-50.14;;5208905
+UNIÃO ROCHDALE;União Esportiva Rochdale;São Paulo;SP;Osasco;-23.5324;-46.7916;;3534401
+UNIÃO FLUMINENSE;União Fluminense Futebol Clube;Paraíba;PB;Paulista;-6.59138;-37.6185;1913-05-10T00:00:00Z;2510907
+UNIÃO ALAGOAS;União Futebol Clube (Alagoas);Alagoas;AL;União dos Palmares;-9.15921;-36.0223;;2709301
+UNIÃO LAPA;União Lapa Futebol Clube;Paraná;PR;Lapa;-25.7671;-49.7168;1910-09-01T00:00:00Z;4113205
+UNIÃO LUZIENSE;União Luziense Esporte Clube;Ceará;CE;Cruz;-2.91813;-40.176;;2304251
+UNIÃO NACIONAL;União Nacional Futebol Clube;Rio de Janeiro;RJ;Macaé;-22.3768;-41.7848;;3302403
+UNIÃO OPERÁRIO;União Operário Esportivo e Recreativo;Paraná;PR;Laranjeiras do Sul;-25.4077;-52.4109;1975-01-01T00:00:00Z;4113304
+UNIÃO PLATINENSE DE ESPORTES;União Platinense de Esportes;Paraná;PR;Santo Antônio da Platina;-23.2959;-50.0815;;4124103
+URUAÇU;Uruaçu Futebol Clube;Goiás;GO;Uruaçu;-14.5238;-49.1396;;5221601
+URUBURETAMA;Uruburetama Futebol Clube;Ceará;CE;Uruburetama;-3.62316;-39.5107;;2313807
+VARGINHA;Varginha Esporte Clube;Rio Grande do Norte;RN;Barcelona;-5.94284;-35.9247;1915-01-01T00:00:00Z;2401503
+VASCO BIG RIDERS;Vasco Big Riders;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+VASCO DA GAMA MARANHÃO;Vasco da Gama Futebol Clube (Maranhão);Rio Grande do Sul;RS;Caxias do Sul;-29.1629;-51.1792;;4305108
+VASCO DA GAMA PATRIOTAS;Vasco da Gama Patriotas;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+VILA NOVA ESPÍRITO SANTO;Vila Nova Futebol Clube (Espírito Santo);Espírito Santo;ES;Vila Velha;-20.3417;-40.2875;2007-01-01T00:00:00Z;3205200
+VILA OPERÁRIA MARIANO;Vila Operária Clube Esporte Mariano;São Paulo;SP;Assis;-22.66;-50.4183;;3504008
+VILA PASSAGEM;Vila Passagem;Sergipe;SE;Neópolis;-10.3215;-36.585;;2804409
+VILA SÃO JOÃO;Vila São João Futebol Clube;Bahia;BA;Glória;-9.34382;-38.2544;;2911402
+VILA VELHA TRITÕES;Vila Velha Tritões;Rio Grande do Norte;RN;Espírito Santo;-6.33563;-35.3052;2004-12-21T00:00:00Z;2403509
+VISÃO CELESTE;Visão Celeste Esporte Clube;Rio Grande do Norte;RN;Natal;-5.79357;-35.1986;;2408102
+VITÓRIA ANTARES;Vitória Antares;Rio Grande do Norte;RN;Espírito Santo;-6.33563;-35.3052;;2403509
+VOLANTE ATLÉTICO;Volante Atlético Clube;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+VOLUNTÁRIOS DA PÁTRIA;Voluntários da Pátria Football Club;São Paulo;SP;São Paulo;-23.5329;-46.6395;1914-01-25T00:00:00Z;3550308
+VÁRZEA;Várzea Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+XV DE ARARUAMA;XV de Araruama Futebol e Regatas;Rio de Janeiro;RJ;Araruama;-22.8697;-42.3326;;3300209
+YAMADA BELÉM;Yamada Clube de Belém;Pará;PA;Belém;-1.4554;-48.4898;;1501402
+YPIRANGA;Ypiranga Esporte Clube;Piauí;PI;Porto;-3.88815;-42.6998;1919-01-01T00:00:00Z;2208502
+YPIRANGA;Ypiranga Football Club;Rio Grande do Sul;RS;Porto Alegre;-30.0318;-51.2065;1917-03-15T00:00:00Z;4314902
+YPIRANGA NITERÓI;Ypiranga Futebol Clube (Niterói);Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;1912-01-01T00:00:00Z;3303302
+YPIRANGA MACAÉ;Ypiranga Futebol Clube (Macaé);Rio de Janeiro;RJ;Macaé;-22.3768;-41.7848;;3302403
+ÁGUIA S S LTDA;Águia Futebol S/S Ltda.;Paraná;PR;Mandaguari;-23.5446;-51.671;2000-01-01T00:00:00Z;4114203
+ALFENENSE;Alfenense Futebol Clube;Minas Gerais;MG;Alfenas;-21.4256;-45.9477;;3101607
+CENTRO ARRAIAL DO CABO;Centro Esportivo Arraial do Cabo;Rio de Janeiro;RJ;Araruama;-22.8697;-42.3326;;3300209
+ASAS;Associação Atlética Asas;Goiás;GO;Lagoa Santa;-19.1832;-51.3998;;5212253
+CAMBARAENSE;Associação Atlética Cambaraense;Paraná;PR;Cambará;-23.0423;-50.0753;1947-05-30T00:00:00Z;4103602
+CASSIMIRO DE ABREU;Associação Atlética Cassimiro de Abreu;Minas Gerais;MG;Montes Claros;-16.7282;-43.8578;;3143302
+JUVENTUS DE MINAS NOVAS;Associação Atlética Juventus Minasnovense;Minas Gerais;MG;Minas Novas;-17.2156;-42.5884;;3141801
+ITABORAÍ;Associação Desportiva Itaboraí;Rio de Janeiro;RJ;Itaboraí;-22.7565;-42.8639;1976-01-01T00:00:00Z;3301900
+BARRA DA TIJUCA;Barra da Tijuca Futebol Clube;Bahia;BA;Barra;-11.0859;-43.1459;;2902708
+BOTAFOGO;Botafogo Futebol Clube;Rio de Janeiro;RJ;Macaé;-22.3768;-41.7848;;3302403
+REPÚBLICA;Associação Atlética República;Paraíba;PB;Paulista;-6.59138;-37.6185;;2510907
+CENTRO SOCIAL ARTURZINHO;Centro Esportivo Social Arturzinho;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+OPERÁRIO PRESIDENTE PRUDENTE;Operário Futebol Clube de Presidente Prudente;São Paulo;SP;Presidente Prudente;-22.1207;-51.3925;;3541406
+RIO DE JANEIRO;Sport Club Rio de Janeiro;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+LEÕES DA GEOLÂNDIA;Leões da Geolândia;Minas Gerais;MG;Medeiros;-19.9865;-46.2181;;3141306
+ALTOS;Associação Atlética de Altos;Piauí;PI;Altos;-5.03888;-42.4612;2013-01-01T00:00:00Z;2200400
+INSTITUTO LUSITÂNIA;Instituto Lusitânia Sport Club;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+PROJETO KARANBA;Projeto Karanba de Futebol;Rio de Janeiro;RJ;São Gonçalo;-22.8268;-43.0634;;3304904
+ITAÚ;Itaú Esporte Clube;Minas Gerais;MG;Itaú de Minas;-20.7375;-46.7525;;3133758
+TRIO;Trio Futebol Clube;Minas Gerais;MG;Coronel Fabriciano;-19.5179;-42.6276;2013-01-01T00:00:00Z;3119401
+ATLÉTICO DA BARRA DA TIJUCA;Clube Atlético da Barra da Tijuca;Bahia;BA;Barra;-11.0859;-43.1459;2010-07-08T00:00:00Z;2902708
+ATLÉTICO ESTUDANTES DE SÃO PAULO;Clube Atlético Estudantes de São Paulo;Paraíba;PB;Paulista;-6.59138;-37.6185;1935-01-01T00:00:00Z;2510907
+ATLÉTICO SÃO JOSÉ;Clube Atlético São José;Rio de Janeiro;RJ;São José do Vale do Rio Preto;-22.1525;-42.9327;;3305158
+SÃO JOSÉ;Clube de Futebol São José;Rio de Janeiro;RJ;Itaperuna;-21.1997;-41.8799;2005-01-01T00:00:00Z;3302205
+ICARAÍ;Clube de Regatas Icaraí;Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;1895-01-01T00:00:00Z;3303302
+MAUÁ;Clube Esportivo Mauá;Rio de Janeiro;RJ;São Gonçalo;-22.8268;-43.0634;;3304904
+NACIONAL BORBENSE;Clube Nacional Borbense;Amazonas;AM;Borba;-4.39154;-59.5874;;1300805
+LUCENA;Lucena Sport Clube;Paraíba;PB;Cruz do Espírito Santo;-7.13902;-35.0857;;2504900
+AFOGADOS DA INGAZEIRA;Afogados da Ingazeira Futebol Clube;Pernambuco;PE;Afogados da Ingazeira;-7.74312;-37.631;;2600104
+CAMPOS ATLÉTICO;Campos Atlético Associação;Rio de Janeiro;RJ;Campos dos Goytacazes;-21.7622;-41.3181;1912-01-01T00:00:00Z;3301009
+GLOBO;Globo Futebol Clube;Rio Grande do Norte;RN;Ceará-Mirim;-5.64323;-35.4247;2012-01-01T00:00:00Z;2402600
+PARAÍSO;Paraíso Futebol Clube;Rio de Janeiro;RJ;Campos dos Goytacazes;-21.7622;-41.3181;;3301009
+GRÊMIO QUINTINO BOCAIUVA;Grêmio Esportivo Quintino Bocaiuva;Minas Gerais;MG;Bocaiúva;-17.1135;-43.8104;;3107307
+GUARANI;Guarani Futebol Clube;Espírito Santo;ES;Alegre;-20.758;-41.5382;;3200201
+ATLÉTICO SUL AMÉRICA;Atlético Sul América Clube;Amazonas;AM;Parintins;-2.63741;-56.729;1948-10-05T00:00:00Z;1303403
+BYRON;Byron Football Club;Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;1912-01-01T00:00:00Z;3303302
+TAPAJÓS;Tapajós Futebol Clube;Pará;PA;Santarém;-2.43849;-54.6996;2012-01-01T00:00:00Z;1506807
+HUMAITÁ;Sport Clube Humaitá;Acre;AC;Porto Acre;-9.58138;-67.5478;2005-01-01T00:00:00Z;1200807
+RONDONIENSE SOCIAL;Rondoniense Social Clube;Rondônia;RO;Porto Velho;-8.76077;-63.8999;2010-01-01T00:00:00Z;1100205
+REAL ARIQUEMES;Real Desportivo Ariquemes Futebol Clube;Rondônia;RO;Ariquemes;-9.90571;-63.0325;2011-01-01T00:00:00Z;1100023
+PONTE NOVA;Ponte Nova Futebol Clube;Minas Gerais;MG;Governador Valadares;-18.8545;-41.9555;;3127701
+ATLÉTICO SERRANENSE;Clube Atlético Serranense;Minas Gerais;MG;Betim;-19.9668;-44.2008;;3106705
+RIO BRANCO;Rio Branco Esporte Clube;Roraima;RR;Boa Vista;2.82384;-60.6753;;1400100
+GUARANI;Guarani Futebol Club;Minas Gerais;MG;Pouso Alegre;-22.2266;-45.9389;;3152501
+HENRIQUE LAGE;Henrique Lage Futebol Clube;Ceará;CE;Catarina;-6.12291;-39.8736;1924-01-01T00:00:00Z;2303600
+CRESSPOM;CRESSPOM;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+BOTAFOGO SERGIPANA;Botafogo Associação Sergipana de Futebol;Sergipe;SE;Cristinápolis;-11.4668;-37.7585;;2801702
+FREI PAULISTANO;Associação Desportiva Frei Paulistano;Sergipe;SE;Frei Paulo;-10.5513;-37.5279;;2802304
+SANTA CRUZ;Santa Cruz Futebol Clube;Minas Gerais;MG;Alagoa;-22.171;-44.6413;;3101300
+SANTA CRUZ;Santa Cruz Acre Esporte Clube;Acre;AC;Rio Branco;-9.974;-67.8076;;3101300
+GRÊMIO INTERLAGOS;Grêmio Interlagos;São Paulo;SP;São Paulo;-23.5329;-46.6395;;3550308
+NAVIRAIENSE;Sociedade Esportiva Naviraiense;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;1983-11-11T00:00:00Z;2509370
+OPERÁRIO VÁRZEA-GRANDENSE;Clube Esportivo Operário Várzea-Grandense;Piauí;PI;Várzea Grande;-6.54899;-42.248;1949-05-01T00:00:00Z;2211407
+CAMPINAS;Campinas Futebol Clube;São Paulo;SP;Campinas;-22.9053;-47.0659;1998-01-01T00:00:00Z;3509502
+INDEPENDENTE;Independente Futebol Clube;São Paulo;SP;Mogi Guaçu;-22.3675;-46.9428;;3530706
+BETIS;Betis Futebol Clube;Minas Gerais;MG;Ouro Branco;-20.5263;-43.6962;1999-01-01T00:00:00Z;3145901
+ALTAMIRA;Altamira Esporte Clube;Pará;PA;Altamira;-3.20407;-52.21;;1500602
+INTER DE MINAS;Associação Desportiva Internacional de Minas;Minas Gerais;MG;Itaúna;-20.0818;-44.5801;;3133808
+REAL;Real Sport Club;Rio Grande do Sul;RS;Capão da Canoa;-29.7642;-50.0282;2005-01-01T00:00:00Z;4304630
+ROLÂNDIA;Rolândia Esporte Clube;Paraná;PR;Rolândia;-23.3101;-51.3659;1973-01-01T00:00:00Z;4122404
+VERÊ;Futebol Clube Verê;Paraná;PR;Verê;-25.8772;-52.9051;;4128609
+AGRIMAQ PILARENSE;Sport Club Agrimaq Pilarense;Minas Gerais;MG;Alagoa;-22.171;-44.6413;;3101300
+BENEFICENTE CATALANA E OUVIDORENSE;Associação Beneficente e Esportiva Catalana e Ouvidorense;Goiás;GO;Ouvidor;-18.2277;-47.8355;;5215504
+PACAJUS;Pacajus Esporte Clube;Ceará;CE;Pacajus;-4.17107;-38.465;;2309607
+EMBUGUAÇUANO;Embuguaçuano Esporte Clube;Tocantins;TO;Colméia;-8.72463;-48.7638;;1716703
+ACADEMIA;Academia Futebol Clube;Mato Grosso;MT;Rondonópolis;-16.4673;-54.6372;2016-01-01T00:00:00Z;5107602
+PARAENSE;Paraense Sport Club;Pará;PA;Marituba;-1.36002;-48.3421;;1504422
+SANTARÉM;Esporte Clube Santarém;Pará;PA;Santarém;-2.43849;-54.6996;1970-01-01T00:00:00Z;1506807
+EUTERPE;Euterpe Football Club;Amazonas;AM;Manaus;-3.11866;-60.0212;;1302603
+ATLÉTICO CARIOCA;Esporte Clube Atlético Carioca;Rio de Janeiro;RJ;São Gonçalo;-22.8268;-43.0634;;3304904
+VILHENENSE;Vilhenense Esportivo Clube;Rondônia;RO;Vilhena;-12.7502;-60.1488;;1100304
+UNIVERSIDADE DE BRASÍLIA;Clube Desportivo Futebol Universidade de Brasília;Distrito Federal;DF;Brasília;-15.7795;-47.9297;2011-01-01T00:00:00Z;5300108
+CATANDUVA;Catanduva Futebol Clube;São Paulo;SP;Catanduva;-21.1314;-48.977;;3511102
+OCEANO;Oceano Football Club;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+PALMEIRAS;Sociedade Esportiva Palmeiras;São Paulo;SP;Vinhedo;-23.0302;-46.9833;1997-01-01T00:00:00Z;3556701
+ITUPIRANGA;Sport Clube Itupiranga;Pará;PA;Itupiranga;-5.13272;-49.3358;;1503705
+CRUZ ALTA;Sociedade Esportiva e Recreativa Cruz Alta;Rio Grande do Sul;RS;Cruz Alta;-28.645;-53.6048;;4306106
+3B DA AMAZÔNIA;Associação Esportiva 3B da Amazônia;Amazonas;AM;Manaus;-3.11866;-60.0212;2017-01-01T00:00:00Z;1302603
+REALENGO;Realengo Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+NEVES ATLÉTICO;Neves Atlético Clube;Rio de Janeiro;RJ;São Gonçalo;-22.8268;-43.0634;;3304904
+BARRETO;Barreto Football Club;Rio de Janeiro;RJ;Niterói;-22.8832;-43.1034;;3303302
+ORLEANS;Associação Atlética Orleans;Santa Catarina;SC;Orleans;-28.3487;-49.2986;;4211702
+ARSENAL;Arsenal Esporte Clube;Tocantins;TO;Tocantinópolis;-6.32447;-47.4224;;1721208
+TAQUARUSSÚ;Associação Taquarussú Esporte Clube;Paraná;PR;Palmas;-26.4839;-51.9888;;4117602
+FLAMENGO;Clube de Regatas do Flamengo;Rio de Janeiro;RJ;Volta Redonda;-22.5202;-44.0996;;3306305
+SAM CHRISTOVAM;Sam Christovam Sport Club;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+AABEC;AABEC;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+AFAGU RUSSAS;AFAGU Russas;Ceará;CE;Russas;-4.92673;-37.9721;;2311801
+JAQUEIRENSE;Jaqueirense Sport Club;Paraná;PR;Atalaia;-23.1517;-52.0551;;4102208
+MENINA OLÍMPICA;Associação Menina Olímpica;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+UNIRB;UNIRB Futebol Clube;Bahia;BA;Alagoinhas;-12.1335;-38.4208;;2900702
+VILA;Vila Esporte Clube;Minas Gerais;MG;Formiga;-20.4618;-45.4268;;3126109
+PORTO VELHO;Porto Velho Esporte Clube;Rondônia;RO;Porto Velho;-8.76077;-63.8999;2014-01-01T00:00:00Z;1100205
+CANAÃ;Canaã Esporte Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+ESPERANÇA;Esperança Futebol Clube;Rio de Janeiro;RJ;Nova Friburgo;-22.2932;-42.5377;;3303401
+AMAZONAS;Amazonas Futebol Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;;1302603
+BOTAFOGO;Botafogo Futebol Clube;Acre;AC;Rio Branco;-9.974;-67.8076;;5107206
+ALTO CAMARAGIBE;Alto Camaragibe Esporte Clube;Alagoas;AL;Passo de Camaragibe;-9.24511;-35.4745;1960-06-19T00:00:00Z;2706505
+ALLIANÇA;Alliança Football Club;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+ATLÉTICO CATARINENSE SÃO JOSÉ;Clube Atlético Catarinense (São José);Santa Catarina;SC;São José;-27.6136;-48.6366;;4216602
+GUANABARA CITY;Guanabara City Futebol Clube;Goiás;GO;Goiânia;-16.6864;-49.2643;;5208707
+NAÇÃO ESPORTES;Nação Esportes;Santa Catarina;SC;Joinville;-26.3045;-48.8487;;4209102
+TELENÁUTICO;Telenáutico Futebol Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+ECONOMIÁRIOS DE BRASÍLIA;Associação dos Economiários de Brasília Futebol Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+FLAMENGO ATLÉTICO;Flamengo Atlético Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+ASA NORTE;Associação Atlética Asa Norte;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+WAGNER REFRIGERAÇÃO;Wagner Refrigeração Esporte Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+DOM PEDRO;Esporte Clube Dom Pedro;Maranhão;MA;Dom Pedro;-5.03518;-44.4409;;2103802
+FLAMA ATLÉTICO;Flama Atlético Clube;Tocantins;TO;Taguatinga;-12.4026;-46.437;;1720903
+VILA;Vila Esporte Clube;Goiás;GO;Planaltina;-15.452;-47.6089;;5217609
+HOSPITAL DOS SERVIDORES DA UNIÃO;Associação Desportiva do Hospital dos Servidores da União;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+BARCELONA;Barcelona Futebol Clube;Rio Grande do Norte;RN;Barcelona;-5.94284;-35.9247;;2401503
+BANGU ATLÉTICO;Bangu Atlético Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+UNIDOS DO CRUZEIRO;Futebol da Associação Recreativa Cultural Unidos do Cruzeiro;Ceará;CE;Cruz;-2.91813;-40.176;;2304251
+ATLÉTICO AMAZONENSE;Atlético Amazonense;Amazonas;AM;Manaus;-3.11866;-60.0212;;1302603
+DEMOCRÁTICO;Democrático Esporte Clube;Pernambuco;PE;Arcoverde;-8.41519;-37.0577;;2601201
+JUVENTUDE ATLÉTICO;Juventude Atlético Clube;Minas Gerais;MG;Dom Bosco;-16.652;-46.2597;;3122470
+ATLÉTICO DE BRASÍLIA;Clube Atlético de Brasília;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+SAÚDE;Clube da Saúde;Bahia;BA;Saúde;-10.9428;-40.4155;;2929800
+DIMENSÃO SAÚDE;Associação Atlética Dimensão Saúde;Alagoas;AL;Capela;-9.41122;-36.0736;;2701309
+PRATÃO;Pratão Futebol Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+CANDANGO;Associação Atlética Candango;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+VILA PLANALTO;Vila Planalto Futebol Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+RACISA;Racisa Esporte Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+DEPARTAMENTO DE ÁGUAS E ESGOTOS;Departamento de Águas e Esgotos Esporte Clube;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+SPORTING FONTE NOVA;Sporting Fonte Nova;Pará;PA;Augusto Corrêa;-1.05109;-46.6147;;1500909
+CARIRI;Cariri Football Club;Bahia;BA;Juazeiro;-9.41622;-40.5033;;2918407
+ATLÉTICO BATISTENSE;Esporte Clube Atlético Batistense;Ceará;CE;Catarina;-6.12291;-39.8736;;2303600
+TRÊS LAGOAS;Três Lagoas Sport Club;Paraíba;PB;Lagoa;-6.58572;-37.9127;;2508109
+GUANABARA;Esporte Clube Guanabara;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+CARIOCAS;Clube dos Cariocas;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+IRMÃOS GOULART;Irmãos Goulart Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+HIGH LIFE;High Life Club;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+CRATEÚS ATLÉTICO;Crateús Atlético Clube;Ceará;CE;Crateús;-5.16768;-40.6536;;2304103
+DOURADOS ATLÉTICO;Dourados Atlético Clube;Mato Grosso do Sul;MS;Dourados;-22.2231;-54.812;;5003702
+IMPÉRIO SERRANO;Império Serrano Esporte Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+FALCON;Falcon Futebol Clube;Sergipe;SE;Aracaju;-10.9091;-37.0677;;2800308
+NOVA MUTUM;Nova Mutum Esporte Clube;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;;2509370
+AZURIZ;Azuriz Futebol Clube;Paraná;PR;Pato Branco;-26.2292;-52.6706;;4118501
+CAMPINAS;Campinas Esporte Clube;Mato Grosso;MT;Cuiabá;-15.601;-56.0974;;5103403
+GARÇA ATLÉTICO;Garça Atlético Clube;São Paulo;SP;Garça;-22.2125;-49.6546;;3516705
+MOTO;Moto Esporte Clube;Mato Grosso;MT;Cuiabá;-15.601;-56.0974;;5103403
+ARAPONGAS;Sociedade Esportiva e Recreativa Arapongas;Paraná;PR;Arapongas;-23.4153;-51.4259;;4101507
+LUSO BRASILEIRO;Sport Club Luso Brasileiro;Pará;PA;Belém;-1.4554;-48.4898;;1501402
+YOLE PARÁ;Yole Club do Pará;Pará;PA;Belém;-1.4554;-48.4898;;1501402
+CARAMURU;Caramuru Esporte Clube;Paraná;PR;Castro;-24.7891;-50.0108;;4104907
+CIANORTE FÍSICA EDUCATIVA;Cianorte Associação Física Educativa;Paraná;PR;Cianorte;-23.6599;-52.6054;;4105508
+GUARANY;Guarany Futebol Clube;Alagoas;AL;Maceió;-9.66599;-35.735;;2704302
+RACING AMAZONENSE;Racing Club Amazonense;Amazonas;AM;Manaus;-3.11866;-60.0212;;1302603
+SOCORRO;Socorro Sport Club;Sergipe;SE;Nossa Senhora do Socorro;-10.8468;-37.1231;;2804805
+SPORTH CORINTHIANS;Sporth Clube Corinthians;São Paulo;SP;Guará;-20.4302;-47.8236;;3517703
+MACEIÓ;Esporte Clube Maceió;Alagoas;AL;Maceió;-9.66599;-35.735;;2704302
+INTERNACIONAL;Internacional Esporte Clube;São Paulo;SP;Franca;-20.5352;-47.4039;;3516200
+RETRÔ BRASIL;Retrô Futebol Clube Brasil;Pernambuco;PE;Camaragibe;-8.02351;-34.9782;;2603454
+BETIM;Betim Futebol;Minas Gerais;MG;Betim;-19.9668;-44.2008;2019-01-01T00:00:00Z;3106705
+REAL DE BRASÍLIA;Esporte Clube Real de Brasília;Distrito Federal;DF;Brasília;-15.7795;-47.9297;;5300108
+TAGUATINGA;Associação Desportiva Taguatinga;Tocantins;TO;Taguatinga;-12.4026;-46.437;;1720903
+ERECHIM COROADOS;Erechim Coroados;Rio Grande do Sul;RS;Erechim;-27.6364;-52.2697;2015-09-20T00:00:00Z;4307005
+BRASÍLIA TEMPLÁRIOS;Brasília Templários;Distrito Federal;DF;Brasília;-15.7795;-47.9297;2014-01-01T00:00:00Z;5300108
+XV DE NOVEMBRO;XV de Novembro Esporte Clube;Minas Gerais;MG;Uberlândia;-18.9141;-48.2749;;3170206
+GRÊMIO MADERIT;Grêmio Recreativo Esportivo Maderit;Paraná;PR;Guarapuava;-25.3902;-51.4623;;4109401
+RIBEIRÃO PRETO CHALLENGERS;Ribeirão Preto Challengers;Pernambuco;PE;Ribeirão;-8.50957;-35.3698;2007-01-01T00:00:00Z;2611804
+SORRISO HORNETS;Sorriso Hornets;Mato Grosso;MT;Sorriso;-12.5425;-55.7211;2013-01-01T00:00:00Z;5107925
+ATHLETICA COLLEGIO LATINO-AMERICANO;Associação Athletica Collegio Latino-Americano;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+GUAPORÉ;Guaporé Futebol Clube;Rondônia;RO;Rolim de Moura;-11.7271;-61.7714;;1100288
+FLAMENGO;Associação Esportiva Flamengo;Sergipe;SE;Nossa Senhora das Dores;-10.4854;-37.1963;1960-10-21T00:00:00Z;2804607
+ESCOLA SUPERIOR MADRE CELESTE;Associação Atlética Escola Superior Madre Celeste;Pará;PA;Ananindeua;-1.36391;-48.3743;;1500800
+NOVA VENÉCIA;Nova Venécia Futebol Clube;Espírito Santo;ES;Nova Venécia;-18.715;-40.4053;;3203908
+SINOP;Clube Sport Sinop;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;;2509370
+COLORADO CAIEIRAS;Colorado Caieiras Futebol Clube;Minas Gerais;MG;Bandeira;-15.8783;-40.5622;;3105202
+CRUZEIRO;Esporte Clube Cruzeiro;Minas Gerais;MG;Alagoa;-22.171;-44.6413;;3101300
+CRUZEIRO;Esporte Clube Cruzeiro (Alagoas);Alagoas;AL;Arapiraca;-9.75164;-36.6604;;2700300
+VERA CRUZ;Vera Cruz Futebol Clube;Rio de Janeiro;RJ;Angra dos Reis;-23.0011;-44.3196;;3300100
+CARUARU CITY;Caruaru City Sport Club;Pernambuco;PE;Caruaru;-8.28455;-35.9699;;2604106
+PORTO VITÓRIA;Porto Vitória Futebol Clube;Acre;AC;Capixaba;-10.566;-67.686;;1200179
+CAPITÃO POÇO;Capitão Poço Esporte Clube;Rio Grande do Sul;RS;Capitão;-29.2674;-51.9853;;4304697
+CERRADO;Cerrado Esporte Clube;Goiás;GO;Aparecida de Goiânia;-16.8198;-49.2469;2020-10-05T00:00:00Z;5201405
+ABD;ABD Futebol Clube;Goiás;GO;Goiás;-15.9333;-50.14;;5208905
+PATRIOTAS;Patriotas Futebol Clube;Paraná;PR;Curitiba;-25.4195;-49.2646;;4106902
+UNIÃO CARMOLANDENSE;União Atlética Carmolandense;Tocantins;TO;Araguaína;-7.19238;-48.2044;1992-05-27T00:00:00Z;1702109
+GRÊMIO PAGUE MENOS;Grêmio Recreativo Pague Menos;Ceará;CE;Fortaleza;-3.71664;-38.5423;;2304400
+GUARABIRA;Guarabira Esporte Clube;Paraíba;PB;Guarabira;-6.85064;-35.485;;2506301
+MONSOON;Monsoon Futebol Clube;Espírito Santo;ES;Alegre;-20.758;-41.5382;;3200201
+PRIMAVERA ATLÉTICO;Primavera Atlético Clube;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;;2509370
+JACOBINENSE;Jacobinense Esporte Clube;Bahia;BA;Jacobina;-11.1812;-40.5117;;2917508
+MANAUARA;Manauara Esporte Clube;Amazonas;AM;Manaus;-3.11866;-60.0212;;1302603
+AMAZÔNIA INDEPENDENTE;Amazônia Independente Futebol Clube;Pará;PA;Belterra;-2.63609;-54.9374;;1501451
+TUNTUM;Tuntum Esporte Clube;Maranhão;MA;Tuntum;-5.25476;-44.6444;;2112308
+ARUKO SPORTS BRASIL;Aruko Sports Brasil;Paraná;PR;Maringá;-23.4205;-51.9333;2020-12-18T00:00:00Z;4115200
+FLAMENGO CATEGORIAS DE BASE;Clube de Regatas do Flamengo (categorias de base);Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+CENTRO OESTE;Centro Oeste Futebol Clube;Goiás;GO;Goiás;-15.9333;-50.14;;5208905
+JABOATÃO DOS GUARARAPES;Associação Desportiva Jaboatão dos Guararapes;São Paulo;SP;Guararapes;-21.2544;-50.6453;2012-02-13T00:00:00Z;3518206
+ITABIRITO;Itabirito Futebol Clube;Sergipe;SE;Itabi;-10.1248;-37.1056;;2803104
+VF4;Associação Esportiva VF4;Paraíba;PB;João Pessoa;-7.11509;-34.8641;2017-11-09T00:00:00Z;2507507
+ITARARÉ;Associação Atlética Itararé;Minas Gerais;MG;Bandeira;-15.8783;-40.5622;;3105202
+AD CARMÓPOLIS;Associação Deportiva Carmópolis;Sergipe;SE;Carmópolis;-10.6449;-36.9887;2022-06-01T00:00:00Z;2801504
+PORTUGUESA;Associação Atlética Portuguesa;Alagoas;AL;Campo Grande;-9.95542;-36.7926;;2701506
+ZINZANE SAF;Zinzane Futebol Clube SAF;Rio de Janeiro;RJ;Rio de Janeiro;-22.9129;-43.2003;;3304557
+BATALHÃO;Batalhão Futebol Clube;Minas Gerais;MG;Palma;-21.3748;-42.3123;;3146701
+MONTE RORAIMA;Monte Roraima Futebol Clube;Roraima;RR;Boa Vista;2.82384;-60.6753;;1400100
+SSA;SSA Futebol Clube;Bahia;BA;Salvador;-12.9718;-38.5011;;2927408
+FEIRA;Feira Futebol Clube;Bahia;BA;Feira de Santana;-12.2664;-38.9663;2026-02-05T00:00:00Z;2910800
+SANTO ANTÔNIO;Santo Antônio Esporte Clube;Paraíba;PB;Mato Grosso;-6.54018;-37.7279;1932-01-01T00:00:00Z;2509370
+BELMONTE;Clube Esportivo Belmonte;Paraná;PR;Curitiba;-25.4195;-49.2646;1939-01-01T00:00:00Z;4106902
+IMPERIAL;Imperial Futebol Clube;Paraná;PR;Curitiba;-25.4195;-49.2646;1955-04-24T00:00:00Z;4106902
+COM VIDA SAF;Clube Futebol com Vida SAF;Rio Grande do Sul;RS;Viamão;-30.0819;-51.0194;2022-02-03T00:00:00Z;4323002
+ATLÉTICO PIAUIENSE;Clube Atlético Piauiense;Piauí;PI;Teresina;-5.09194;-42.8034;1946-03-01T00:00:00Z;2211001
+MIGUELENSE;Miguelense Futebol Clube;Alagoas;AL;São Miguel dos Campos;-9.7826;-36.0886;1995-02-15T00:00:00Z;2708600
+AGRIMAQ JEQUIAENSE;Associação Agrimaq Jequiaense;Alagoas;AL;Jequiá da Praia;-10.0039;-36.021;2008-01-01T00:00:00Z;2703759
+JACIOBÁ;Jaciobá Atlético Clube;Alagoas;AL;Pão de Açúcar;-9.7497;-37.4375;1964-01-25T00:00:00Z;2706307
+SÃO DOMINGOS;São Domingos Futebol Clube;Alagoas;AL;Marechal Deodoro;-9.711;-35.8953;1999-01-24T00:00:00Z;2704708
+IGACI;Igaci Futebol Clube;Alagoas;AL;Igaci;-9.5372;-36.6321;2001-08-20T00:00:00Z;2703106
+FF SPORT;FF Sport;Alagoas;AL;Viçosa;-9.3697;-36.2417;2009-01-01T00:00:00Z;2709400
+DÍNAMO;Dínamo Esporte Clube;Alagoas;AL;Maceió;-9.6658;-35.735;2005-01-01T00:00:00Z;2704302
+CRB;Clube de Regatas Brasil;Alagoas;AL;Maceió;-9.6658;-35.735;1912-09-20T00:00:00Z;2704302
+CRB B;Clube de Regatas Brasil B;Alagoas;AL;Maceió;-9.6658;-35.735;1912-09-20T00:00:00Z;2704302
+CSA B;Centro Sportivo Alagoano B;Alagoas;AL;Maceió;-9.6658;-35.735;1913-09-07T00:00:00Z;2704302
+RENOVAÇÃO;Renovação Esporte Clube;Amapá;AP;Macapá;-0.0383;-51.0632;1934-08-20T00:00:00Z;1600303
+BARE;Baré Esporte Clube;Amapá;AP;Macapá;-0.0383;-51.0632;1944-01-01T00:00:00Z;1600303
+LATITUDE ZERO;Latitude Zero Esporte Clube;Amapá;AP;Macapá;-0.0383;-51.0632;2005-02-14T00:00:00Z;1600303
+CRUZEIRO;Cruzeiro Esporte Clube;Amapá;AP;Macapá;-0.0383;-51.0632;1963-04-20T00:00:00Z;1600303
+ADEC;Associação Desportiva de Calçoene;Amapá;AP;Calçoene;2.49804;-50.9496;;
+PORTUGUESA;Associação Portuguesa de Desportos;Amapá;AP;Macapá;-0.0383;-51.0632;2014-01-01T00:00:00Z;1600303
+INDEPENDENTE;Independente Esporte Clube;Amapá;AP;Santana;-0.0583;-51.1817;1962-01-19T00:00:00Z;1600600
+ORATÓRIO;Oratório Recreativo Clube;Amapá;AP;Macapá;-0.0383;-51.0632;1969-08-15T00:00:00Z;1600303
+SANTANA;Santana Esporte Clube;Amapá;AP;Santana;-0.0583;-51.1817;1955-09-25T00:00:00Z;1600600
+ITACOATIARA;Itacoatiara Futebol Clube;Amazonas;AM;Itacoatiara;-3.1417;-58.4444;1947-08-08T00:00:00Z;1301902
+FAST CLUBE;Nacional Fast Clube;Amazonas;AM;Manaus;-3.1190;-60.0217;1930-07-08T00:00:00Z;1302603
+SETE;Sete de Setembro Futebol Clube;Amazonas;AM;Manaus;-3.1190;-60.0217;1947-09-07T00:00:00Z;1302603
+JC FUTEBOL CLUBE;JC Futebol Clube;Amazonas;AM;Itacoatiara;-3.1417;-58.4444;2020-02-14T00:00:00Z;1301902
+LIBRADE;Clube Desportivo Librade;Amazonas;AM;Manaus;-3.1190;-60.0217;2017-09-04T00:00:00Z;1302603
+PARINTINS;Parintins Futebol Clube;Amazonas;AM;Parintins;-2.6283;-56.7358;2021-07-08T00:00:00Z;1303403
+IRANDUBA;Esporte Clube Iranduba da Amazônia;Amazonas;AM;Iranduba;-3.2847;-60.1858;2011-01-18T00:00:00Z;1301852
+PORTELA;Esporte Clube Portela;Bahia;BA;Teixeira de Freitas;-17.5348;-39.7424;2011-01-01T00:00:00Z;2931350
+PORTO;Porto Sport Club;Bahia;BA;Porto Seguro;-16.4497;-39.0641;2024-01-01T00:00:00Z;2925303
+JEQUIÉ;Associação Desportiva Jequié;Bahia;BA;Jequié;-13.8583;-40.0825;1969-11-20T00:00:00Z;2918001
+CANAÃ;Canaã Esporte Clube;Bahia;BA;Irecê;-11.3039;-41.8569;2018-11-20T00:00:00Z;2914604
+BARCELONA DE ILHÉUS;Barcelona de Ilhéus Futebol Clube;Bahia;BA;Ilhéus;-14.7935;-39.0331;2019-09-17T00:00:00Z;2913606
+DOCE MEL;Doce Mel Esporte Clube;Bahia;BA;Ipiaú;-14.1375;-39.7375;1984-03-02T00:00:00Z;2913903
+ITAREMA;Itarema Esporte Clube;Ceara;CE;Itarema;-2.9231;-39.9161;2021-01-01T00:00:00Z;2306253
+ALIANÇA;Aliança Atlética Futebol Clube;Ceara;CE;Pacatuba;-3.9842;-38.6203;2007-03-27T00:00:00Z;2310107
+CARIRI;Cariri Football Club;Ceara;CE;Juazeiro do Norte;-7.2372;-39.4121;2019-11-01T00:00:00Z;2307301
+CAMPO GRANDE;Campo Grande Futebol Clube;Ceara;CE;Juazeiro do Norte;-7.2372;-39.4121;1983-05-15T00:00:00Z;2307301
+TIROL;Centro Esportivo Tirol;Ceara;CE;Fortaleza;-3.7319;-38.5267;2011-11-01T00:00:00Z;2304400
+LUZIÂNIA;Associação Atlética Luziânia;Goiás;GO;Luziânia;-16.2524;-47.9504;1926-12-13T00:00:00Z;5212501
+GRÊMIO VALPARAÍSO;Grêmio Esportivo Valparaíso;Goiás;GO;Valparaíso de Goiás;-16.0683;-47.9767;2009-02-09T00:00:00Z;5221858
+RIACHO CITY;Riacho City Futebol Clube;Distrito Federal;DF;Riacho Fundo;-15.8821;-48.0163;2005-02-14T00:00:00Z;5300108
+ARUC;Associação Recreativa Unidos do Cruzeiro;Distrito Federal;DF;Cruzeiro;-15.7934;-47.9406;1961-10-21T00:00:00Z;5300108
+CRUZEIRO;Cruzeiro Futebol Clube;Distrito Federal;DF;Cruzeiro;-15.7934;-47.9406;2000-05-15T00:00:00Z;5300108
+BOTAFOGO;Associação Botafogo Futebol Clube;Goiás;GO;Cristalina;-16.7686;-47.6136;1999-11-20T00:00:00Z;5206206
+SOBRADINHO;Sobradinho Esporte Clube;Distrito Federal;DF;Sobradinho;-15.6517;-47.7853;1975-01-01T00:00:00Z;5300108
+SESP SAMAMBAENSE;Sociedade Esportiva Samambaense;Distrito Federal;DF;Samambaia;-15.8778;-48.0833;1995-03-24T00:00:00Z;5300108
+TAGUATINGA;Taguatinga Esporte Clube;Distrito Federal;DF;Taguatinga;-15.8333;-48.0569;1974-07-01T00:00:00Z;5300108
+BRAZLÂNDIA;Sociedade Esportiva Brazlândia;Distrito Federal;DF;Brasília;-15.6667;-48.1961;1995-06-27T00:00:00Z;5300108
+CEILANDENSE;Sociedade Atlético Ceilandense;Distrito Federal;DF;Brasília;-15.8208;-48.1122;1977-10-23T00:00:00Z;5300108
+SAMAMBAIA;Samambaia Futebol Clube;Distrito Federal;DF;Brasília;-15.8778;-48.0833;1975-01-29T00:00:00Z;5300108
+BOLAMENSE;Bolamense Futebol Clube;Distrito Federal;DF;Brasília;-15.9083;-48.0667;2011-04-10T00:00:00Z;5300108
+PARANOÁ;Paranoá Esporte Clube;Distrito Federal;DF;Brasília;-15.7744;-47.7817;2000-04-30T00:00:00Z;5300108
+SANTA MARIA;Sociedade Esportiva Santa Maria;Distrito Federal;DF;Brasília;-16.0167;-48.0167;2000-01-26T00:00:00Z;5300108
+CEILÂNDIA;Ceilândia Esporte Clube;Distrito Federal;DF;Brasília;-15.8208;-48.1122;1978-08-23T00:00:00Z;5300108
+GAMA;Sociedade Esportiva do Gama;Distrito Federal;DF;Brasília;-16.0183;-48.0667;1975-11-15T00:00:00Z;5300108
+CAPITAL CF;Capital Clube de Futebol;Distrito Federal;DF;Brasília;-15.8222;-47.9781;2005-07-05T00:00:00Z;5300108
+BRASILIENSE;Brasiliense Futebol Clube;Distrito Federal;DF;Brasília;-15.8333;-48.0569;2000-08-01T00:00:00Z;5300108
+UNAÍ;Unaí Esporte Clube;Minas Gerais;MG;Unaí;-16.3578;-46.9061;1966-06-05T00:00:00Z;3170404
+FORMOSA;Formosa Esporte Clube;Goiás;GO;Formosa;-15.5333;-47.3333;1978-09-21T00:00:00Z;5208004
+GÁLATAS;Gálatas Futebol Clube;Espirito Santo;ES;Itaguaçu;-19.8033;-40.8550;2021-01-01T00:00:00Z;3202700
+GEL;Grêmio Esportivo Laranjeiras;Espirito Santo;ES;Serra;-20.1286;-40.3078;1981-12-11T00:00:00Z;3205000
+ASTER BRASIL;Aster Brasil Futebol Clube;Espirito Santo;ES;Vitória;-20.3155;-40.3128;2018-09-01T00:00:00Z;3205309
+DESPORTIVA FERROVIÁRIA;Associação Desportiva Ferroviária Vale do Rio Doce;Espirito Santo;ES;Cariacica;-20.3375;-40.3847;1963-06-17T00:00:00Z;3201308
+BOM JESUS;Bom Jesus Esporte Clube;Goiás;GO;Bom Jesus de Goiás;-18.2153;-49.9419;1983-05-13T00:00:00Z;5203500
+ASEEV;Associação Esportiva Evangélica;Goiás;GO;Guapó;-16.8317;-49.5317;2005-09-20T00:00:00Z;5209101
+BELA VISTA;Bela Vista Futebol Clube;Goiás;GO;Bela Vista de Goiás;-16.9733;-48.9525;1989-11-20T00:00:00Z;5203302
+TUPY;Associação Tupy de Esportes;Goiás;GO;Jussara;-15.8653;-50.8678;1963-04-20T00:00:00Z;5212204
+ROYAL;Royal Futebol Clube;Goiás;GO;Luziânia;-16.2524;-47.9504;1958-05-01T00:00:00Z;5212501
+CRAC;Clube Recreativo e Atlético Catalano;Goiás;GO;Catalão;-18.1658;-47.9461;1931-07-13T00:00:00Z;5205108
+LAGO VERDE;Lago Verde Esporte Clube;Maranhao;MA;Lago Verde;-3.9572;-44.8317;2017-01-01T00:00:00Z;2105908
+LUMINENSE;Sociedade Esportiva Luminense;Maranhao;MA;Paço do Lumiar;-2.5283;-44.1133;2000-01-01T00:00:00Z;2107508
+ITZ SPORT;ITZ Sport;Maranhao;MA;Imperatriz;-5.5264;-47.4819;2017-06-10T00:00:00Z;2105304
+VIANA;Esporte Clube Viana;Maranhao;MA;Viana;-3.2208;-45.0022;1995-07-28T00:00:00Z;2112805
+IAPE;IAPE Futebol Clube;Maranhao;MA;São Luís;-2.5307;-44.3068;2008-04-10T00:00:00Z;2111300
+ARAIOSES;Araioses Futebol Clube;Maranhao;MA;Araioses;-2.8942;-41.9058;2012-01-14T00:00:00Z;2100909
+MOTO CLUB;Moto Club de São Luís;Maranhao;MA;São Luís;-2.5307;-44.3068;1937-09-13T00:00:00Z;2111300
+JUVENTUDE;Sociedade Esportiva Juventude;Maranhao;MA;São Mateus do Maranhão;-4.0417;-44.4717;1979-07-14T00:00:00Z;2111102
+POCONÉ;Chapada Futebol Clube;Mato Grosso;MT;Chapada dos Guimarães;-15.4608;-55.7497;1943-03-01T00:00:00Z;5103007
+AÇÃO;Sociedade Ação Futebol;Mato Grosso;MT;Santo Antônio de Leverger;-15.8656;-56.0767;2007-02-15T00:00:00Z;5107802
+CAMPO NOVO;Campo Novo do Parecis Futebol Clube;Mato Grosso;MT;Campo Novo do Parecis;-13.6744;-57.8869;2023-01-01T00:00:00Z;5102637
+JUARA;Juara Atlético Clube;Mato Grosso;MT;Juara;-11.4194;-57.5186;2005-02-14T00:00:00Z;5105150
+OPERÁRIO;Operário Futebol Clube;Mato Grosso do Sul;MS;Campo Grande;-20.4697;-54.6201;1938-08-21T00:00:00Z;5002704
+PRIMAVERA;Primavera Atlético Clube;Mato Grosso;MT;Primavera do Leste;-15.5591;-54.2982;2012-05-13T00:00:00Z;5107042
+PAULISTANO;Paulistano Futebol Clube;Mato Grosso;MT;Nortelândia;-14.4539;-56.8028;1980-01-25T00:00:00Z;5106208
+NOVA MUTUM;Nova Mutum Esporte Clube;Mato Grosso;MT;Nova Mutum;-13.8344;-56.0728;1988-08-14T00:00:00Z;5106224
+CEOV OPERÁRIO;Clube Esportivo Operário Várzea-Grandense;Mato Grosso;MT;Várzea Grande;-15.65;-56.1325;1949-05-01T00:00:00Z;5108402
+BATAGUASSU;Associação Atlética Bataguassu;Mato Grosso do Sul;MS;Bataguassu;-21.7144;-52.4228;2006-01-26T00:00:00Z;5001904
+CR AQUIDAUANA;Clube de Regatas Aquidauana;Mato Grosso do Sul;MS;Aquidauana;-20.4714;-55.7872;1999-02-11T00:00:00Z;5001102
+TAVEIRÓPOLIS;Taveirópolis Futebol Clube;Mato Grosso do Sul;MS;Campo Grande;-20.4697;-54.6201;1974-06-30T00:00:00Z;5002704
+OPERÁRIO;Operário Atlético Clube;Mato Grosso do Sul;MS;Dourados;-22.2239;-54.8064;1952-01-01T00:00:00Z;5003702
+NÁUTICO;Náutico Futebol Clube;Mato Grosso do Sul;MS;Campo Grande;-20.4697;-54.6201;2014-08-10T00:00:00Z;5002704
+PORTUGUESA;Associação Atlética Portuguesa;Mato Grosso do Sul;MS;Campo Grande;-20.4697;-54.6201;2010-09-02T00:00:00Z;5002704
+CEART;Centro Educacional Antonio Raposo Tavares;Mato Grosso do Sul;MS;Dourados;-22.2239;-54.8064;2002-12-05T00:00:00Z;5003702
+NOVOPERÁRIO;Novo Futebol Clube;Mato Grosso do Sul;MS;Sidrolândia;-20.9317;-54.9614;2010-10-11T00:00:00Z;5007901
+MORENINHAS;Associação Atlética Moreninhas;Mato Grosso do Sul;MS;Campo Grande;-20.4697;-54.6201;1989-10-12T00:00:00Z;5002704
+PONTAPORANENSE;Sociedade Esportiva Pontaporanense;Mato Grosso do Sul;MS;Ponta Porã;-22.5361;-55.7256;1950-10-12T00:00:00Z;5006606
+SERC;Sociedade Esportiva Recreativa Chapadão;Mato Grosso do Sul;MS;Chapadão do Sul;-18.7836;-52.6178;1981-08-28T00:00:00Z;5002951
+ESSUBE;Esporte Social Uberlândia;Minas Gerais;MG;Uberlândia;-18.9113;-48.2622;2014-09-02T00:00:00Z;3170206
+UNIÃO LUZIENSE;União Luziense Esporte Clube;Minas Gerais;MG;Santa Luzia;-19.7697;-43.8514;1973-11-27T00:00:00Z;3157807
+NOVO ESPORTE;Novo Esporte Clube Itabirinha;Minas Gerais;MG;Itabirinha;-18.5131;-41.3417;2012-12-11T00:00:00Z;3131701
+AE PARACATU;Associação Esportiva Paracatu;Minas Gerais;MG;Paracatu;-17.2222;-46.8744;2021-04-12T00:00:00Z;3147006
+CONTAGEM;Contagem Esporte Clube;Minas Gerais;MG;Contagem;-19.9391;-44.0531;2006-12-01T00:00:00Z;3118601
+NORTH ESPORTE CLUBE;North Esporte Clube;Minas Gerais;MG;Montes Claros;-16.7244;-43.8617;2022-06-27T00:00:00Z;3143302
+INTER de SÃO GOTARDO;Inter de São Gotardo;Minas Gerais;MG;São Gotardo;-19.3117;-46.0492;2001-10-04T00:00:00Z;3162104
+FIGUEIRENSE;Figueirense Esporte Clube;Minas Gerais;MG;São João del-Rei;-21.1353;-44.2614;1975-10-19T00:00:00Z;3162500
+VARGINHA;Varginha Esporte Clube;Minas Gerais;MG;Varginha;-21.5597;-45.4389;1985-02-12T00:00:00Z;3170701
+MANCHESTER FUTEBOL;Manchester Futebol;Minas Gerais;MG;Juiz de Fora;-21.7642;-43.3503;2021-07-01T00:00:00Z;3136702
+URT;União Recreativa dos Trabalhadores;Minas Gerais;MG;Patos de Minas;-18.5853;-46.5181;1939-07-09T00:00:00Z;3148004
+TESLA;Tesla Futebol Clube;Para;PA;Belém;-1.4558;-48.4902;2022-05-03T00:00:00Z;1501402
+URUMAJÓ;Urumajó Futebol Clube;Para;PA;Augusto Corrêa;-1.0217;-46.6347;2017-04-14T00:00:00Z;1500909
+CANAÃ;Canaã Futebol Clube;Para;PA;Canaã dos Carajás;-6.4950;-49.8731;2018-09-01T00:00:00Z;1502152
+ESMAC;Associação Atlética Escola Superior Madre Celeste;Para;PA;Ananindeua;-1.3653;-48.3725;1991-01-01T00:00:00Z;1500800
+MARAJÓ;Clube Atlético Marajó;Para;PA;Breves;-1.6821;-50.4802;2024-02-23T00:00:00Z;1501808
+CAPITÃO POÇO;Capitão Poço Esporte Clube;Para;PA;Capitão Poço;-1.7456;-47.0575;2021-02-14T00:00:00Z;1502202
+SPORTING MARACANÃ;Sporting Maracanã (Urumajó FC);Para;PA;Augusto Corrêa;-1.0217;-46.6347;2017-04-14T00:00:00Z;1500909
+GRÊMIO CARAJÁS;Grêmio Carajás Esporte Clube;Para;PA;Belém;-1.4558;-48.4902;2004-10-14T00:00:00Z;1501402
+SABUGY;Sabugy Futebol Clube;Paraiba;PB;Santa Luzia;-9.8475;-36.9189;1915-04-20T00:00:00Z;2513903
+SPARTAX;Spartax João Pessoa Futebol Clube;Paraiba;PB;João Pessoa;-7.1150;-34.8631;2011-06-25T00:00:00Z;2507507
+QUEIMADENSE;Sociedade Esportiva Queimadense;Paraiba;PB;Queimadas;-7.3583;-35.8953;2003-11-15T00:00:00Z;2512509
+CRUZEIRO;Cruzeiro Esporte Clube;Paraiba;PB;Itaporanga;-7.3039;-38.1506;1969-10-28T00:00:00Z;2507002
+SPORT LAGOA SECA;Sport Club Lucena;Paraiba;PB;Lucena;-6.8928;-34.8647;2010-06-26T00:00:00Z;2508604
+POMBAL;Pombal Esporte Clube;Paraiba;PB;Pombal;-6.7725;-37.8011;2022-06-03T00:00:00Z;2512103
+FEMAR;Femar Futebol Clube;Paraiba;PB;Alagoinha;-6.9533;-35.5414;2008-01-20T00:00:00Z;2500601
+INTERNACIONAL;Internacional Esporte Clube;Paraiba;PB;Caaporã;-7.4289;-34.8967;1938-12-14T00:00:00Z;2504001
+CSP;Centro Sportivo Paraibano;Paraiba;PB;João Pessoa;-7.1150;-34.8631;1996-04-08T00:00:00Z;2507507
+CITY LONDON;City London Futebol Clube;Parana;PR;Londrina;-23.3103;-51.1628;1937-05-29T00:00:00Z;4113700
+ARAUCÁRIA;Araucária Esporte Clube;Parana;PR;Araucária;-25.5917;-49.4103;2018-08-06T00:00:00Z;4101804
+TOLEDO;Toledo Esporte Clube;Parana;PR;Toledo;-24.7122;-53.7431;2004-02-10T00:00:00Z;4127700
+LARANJA MECÂNICA;Esporte Clube Laranja Mecânica;Parana;PR;Arapongas;-23.4144;-51.4233;2007-07-26T00:00:00Z;4101507
+PSTC;PSTC (Paraná Soccer Technical Center);Parana;PR;Cornélio Procópio;-23.1811;-50.6467;1994-08-15T00:00:00Z;4106407
+ANDRAUS;Clube Andraus Brasil;Parana;PR;Campo Largo;-25.4578;-49.5297;2003-05-14T00:00:00Z;4104204
+ÍBIS;Íbis Sport Club;Pernambuco;PE;Paulista;-7.9408;-34.8722;1938-11-15T00:00:00Z;2610707
+JAGUAR;Associação Desportiva Jaboatão dos Guararapes;Pernambuco;PE;Jaboatão dos Guararapes;-8.1139;-35.0153;2012-02-13T00:00:00Z;2607901
+MAGUARY;Associação Atlética Maguary;Pernambuco;PE;Bonito;-8.4719;-35.7272;1971-05-01T00:00:00Z;2602308
+BARREIROS;Barreiros Futebol Clube;Pernambuco;PE;Barreiros;-8.8153;-35.1878;2005-12-15T00:00:00Z;2601409
+OEIRENSE;Associação Atlética Oeirense;Piaui;PI;Oeiras;-7.0253;-42.1311;2018-11-05T00:00:00Z;2207008
+TIRADENTES;Sociedade Esportiva Tiradentes;Piaui;PI;Teresina;-5.0919;-42.8033;1959-06-30T00:00:00Z;2211001
+FERROVIÁRIO;Ferroviário Atlético Clube;Piaui;PI;Parnaíba;-2.9031;-41.7761;1975-11-17T00:00:00Z;2207701
+TIMON;Esporte Clube Timon;Maranhao;MA;Timon;-5.0944;-42.8364;2015-08-01T00:00:00Z;2112201
+BÚZIOS;Sociedade Esportiva de Búzios;Rio de Janeiro;RJ;Armação dos Búzios;-22.7481;-41.8817;1971-05-15T00:00:00Z;3300233
+UNI SOUZA;Uni Souza Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.8669;-43.3458;1987-12-30T00:00:00Z;3304557
+INDEPENDENTE;Associação Esportiva Independente;Rio de Janeiro;RJ;Macaé;-22.3708;-41.7869;1992-12-29T00:00:00Z;3302403
+MAGEENSE;Mageense Futebol Clube;Rio de Janeiro;RJ;Magé;-22.6517;-43.0425;1917-09-07T00:00:00Z;3302502
+QUEIMADOS;Queimados Futebol Clube;Rio de Janeiro;RJ;Queimados;-22.7153;-43.5558;1922-03-26T00:00:00Z;3304144
+PÉROLAS NEGRAS;Academia Pérolas Negras;Rio de Janeiro;RJ;Piraí;-22.6289;-43.8972;2016-01-01T00:00:00Z;3304003
+GONÇALENSE;Petrópolis Futebol Clube;Rio de Janeiro;RJ;Petrópolis;-22.5047;-43.1814;2006-06-13T00:00:00Z;3303906
+QFC;Quinho Futebol Clube;Rio Grande do Norte;RN;Parnamirim;-5.9158;-35.2628;2023-11-18T00:00:00Z;2403251
+LAGUNA;Clube Laguna SAF;Rio Grande do Norte;RN;Tibau do Sul;-6.2344;-35.0911;2022-01-20T00:00:00Z;2414309
+PARNAMIRIM;Potiguar Esporte Clube;Rio Grande do Norte;RN;Parnamirim;-5.9158;-35.2628;1945-03-10T00:00:00Z;2403251
+UNIVAP APODI;Apodi Esporte Club;Rio Grande do Norte;RN;Apodi;-5.6606;-37.7972;2003-03-23T00:00:00Z;2401009
+POTENGI;Clube Atlético Potengi;Rio Grande do Norte;RN;Natal;-5.7945;-35.2119;2014-02-11T00:00:00Z;2408102
+ABC;ABC Futebol Clube;Rio Grande do Norte;RN;Natal;-5.7945;-35.2119;1915-06-29T00:00:00Z;2408102
+FORÇA E LUZ;Centro Esportivo Força e Luz;Rio Grande do Norte;RN;Natal;-5.7945;-35.2119;1966-07-20T00:00:00Z;2408102
+ASSU;Associação Sportiva Sociedade Unida;Rio Grande do Norte;RN;Assu;-5.5772;-36.9114;2002-01-10T00:00:00Z;2400209
+CLUBE 1992;Futebol Clube 1992 União;Rio Grande do Sul;RS;Carazinho;-28.2839;-52.7844;1992-01-01T00:00:00Z;4304705
+APAFUT;Associação de Pais e Amigos do Futebol;Rio Grande do Sul;RS;Caxias do Sul;-29.1678;-51.1794;2011-08-15T00:00:00Z;4305108
+NOVO HORIZONTE;Esporte Clube Novo Horizonte;Rio Grande do Sul;RS;Esteio;-29.8519;-51.1825;1968-01-01T00:00:00Z;4307708
+CRUZEIRO;Esporte Clube Cruzeiro;Rio Grande do Sul;RS;Cachoeirinha;-29.9500;-51.0833;1913-07-14T00:00:00Z;4303103
+GARIBALDI;Associação Garibaldi de Esportes;Rio Grande do Sul;RS;Garibaldi;-29.2564;-51.5239;1998-08-14T00:00:00Z;4308607
+MONSOON;Monsoon Futebol Clube;Rio Grande do Sul;RS;Capão da Canoa;-29.7500;-50.0167;2021-11-23T00:00:00Z;4304630
+PRS;Players RS Futebol Clube;Rio Grande do Sul;RS;Porto Alegre;-30.0331;-51.2300;2015-08-01T00:00:00Z;4314902
+UNIÃO HARMONIA;União Harmonia Futebol Clube;Rio Grande do Sul;RS;Canoas;-29.9189;-51.1767;1954-05-23T00:00:00Z;4304606
+12 HORAS;Sport Clube 12 Horas;Rio Grande do Sul;RS;Porto Alegre;-30.0331;-51.2300;2005-01-01T00:00:00Z;4314902
+PELOTAS;Esporte Clube Pelotas;Rio Grande do Sul;RS;Pelotas;-31.7653;-52.3375;1908-10-11T00:00:00Z;4314407
+INTER SM;Esporte Clube Internacional;Rio Grande do Sul;RS;Santa Maria;-29.6842;-53.8069;1928-05-16T00:00:00Z;4316907
+LAJEADENSE;Clube Esportivo Lajeadense;Rio Grande do Sul;RS;Lajeado;-29.4675;-51.9614;1911-04-14T00:00:00Z;4311403
+BARCELONA;Barcelona Futebol Clube;Rondonia;RO;Porto Velho;-8.7619;-63.9039;2016-10-07T00:00:00Z;1100205
+GENUS;Sport Club Genus de Porto Velho;Rondonia;RO;Porto Velho;-8.7619;-63.9039;1991-11-15T00:00:00Z;1100205
+GAS;Grêmio Atlético Sampaio;Roraima;RR;Boa Vista;2.8233;-60.6750;1965-06-11T00:00:00Z;1400100
+PEDRA BRANCA;Pedra Branca Esporte Clube;Santa Catarina;SC;Palhoça;-27.6419;-48.6667;2004-03-01T00:00:00Z;4211900
+CANOINHAS;Canoinhas Atlético Clube;Santa Catarina;SC;Canoinhas;-26.1772;-50.3900;2011-09-02T00:00:00Z;4203808
+CARAVAGGIO;Caravaggio Futebol Clube;Santa Catarina;SC;Nova Veneza;-28.6364;-49.4978;1970-05-10T00:00:00Z;4211603
+BARRA;Barra Futebol Clube;Santa Catarina;SC;Balneário Camboriú;-26.9922;-48.6353;2013-01-18T00:00:00Z;4202008
+MAUÁ;Mauá Futebol Clube;Sao Paulo;SP;Mauá;-23.6678;-46.4614;2017-10-23T00:00:00Z;3529401
+TUPÃ;Tupã Futebol Clube;Sao Paulo;SP;Tupã;-21.9347;-50.5136;1942-02-08T00:00:00Z;3555000
+ECUS;Esporte Clube União Suzano;Sao Paulo;SP;Suzano;-23.5333;-46.3106;1993-10-25T00:00:00Z;3552502
+BARCELONA ESPORTIVO;Barcelona Esportivo Capela;Sao Paulo;SP;São Paulo;-23.5505;-46.6333;2004-01-20T00:00:00Z;3550308
+COLORADO CAIEIRAS;Colorado Caieiras Futebol Clube;Sao Paulo;SP;Caieiras;-23.3639;-46.7411;2019-10-04T00:00:00Z;3509007
+JOSEENSE;Jacareí Futebol Clube;Sao Paulo;SP;Jacareí;-23.3053;-45.9658;1998-10-01T00:00:00Z;3524402
+VOCEM;Vila Operária Clube Esporte Mariano;Sao Paulo;SP;Assis;-22.6622;-50.4181;1954-07-21T00:00:00Z;3504008
+AMPARO;Amparo Athlético Club;Sao Paulo;SP;Amparo;-22.7033;-46.7644;1919-04-28T00:00:00Z;3501905
+OSVALDO CRUZ;Osvaldo Cruz Futebol Clube;Sao Paulo;SP;Osvaldo Cruz;-21.7961;-50.8839;2004-02-17T00:00:00Z;3534401
+ITARARÉ;Associação Atlética Itararé;Sao Paulo;SP;Itararé;-24.1114;-49.3331;1950-10-20T00:00:00Z;3523206
+VELO CLUBE;Associação Esportiva Velo Clube Rio-clarense;Sao Paulo;SP;Rio Claro;-22.4114;-47.5614;1910-01-10T00:00:00Z;3543907
+CORITIBA;Coritiba Foot Ball Club;Sergipe;SE;Itabaiana;-10.6853;-37.4253;1972-09-14T00:00:00Z;2802908
+FORÇA JOVEM AQUIDABÃ;Associação Esportiva Força Jovem Aquidabã;Sergipe;SE;Aquidabã;-10.2817;-37.0194;2006-05-25T00:00:00Z;2800100
+ATLÉTICO CENTRAL;Clube Atlético Central;Sergipe;SE;Barra dos Coqueiros;-10.9100;-37.0317;2016-04-03T00:00:00Z;2800605
+INDEPENDENTE;Associação Desportiva Independente Futebol Clube;Sergipe;SE;Simão Dias;-10.7417;-37.8108;2007-05-25T00:00:00Z;2807105
+CANINDÉ;Clube Desportivo de Canindé do São Francisco;Sergipe;SE;Canindé de São Francisco;-9.6436;-37.7886;2000-02-22T00:00:00Z;2801207
+BOCA JÚNIOR;Sociedade Boca Júnior Futebol Clube;Sergipe;SE;Cristinápolis;-11.4744;-37.7553;1993-10-25T00:00:00Z;2801900
+BARRA;Associação Desportiva Barra dos Coqueiros;Sergipe;SE;Barra dos Coqueiros;-10.9100;-37.0317;2014-03-21T00:00:00Z;2800605
+ITABAIANA;Associação Olímpica de Itabaiana;Sergipe;SE;Itabaiana;-10.6853;-37.4253;1938-07-10T00:00:00Z;2802908
+UNIÃO DE PALMAS;Associação Recreativa União Esporte Clube;Tocantins;TO;Palmas;-10.1844;-48.3336;1993-01-12T00:00:00Z;1721000
+TAQUARUSSÚ;Associação Taquarussu Esporte Clube;Tocantins;TO;Palmas;-10.1844;-48.3336;1991-02-08T00:00:00Z;1721000
+PARAÍSO;Paraíso Esporte Clube;Tocantins;TO;Paraíso do Tocantins;-10.1753;-48.8839;2006-01-01T00:00:00Z;1716109
+PALMAS;Palmas Futebol e Regatas;Tocantins;TO;Palmas;-10.1844;-48.3336;1997-01-31T00:00:00Z;1721000
+CENTRAL PARAÍSO;Central Atlético Paraíso;Tocantins;TO;Paraíso do Tocantins;-10.1753;-48.8839;1990-12-18T00:00:00Z;1716109
+SÃO JOSÉ;Associação Desportiva e Recreativa São José;Tocantins;TO;Palmas;-10.1844;-48.3336;1997-02-14T00:00:00Z;1721000
+BATALHÃO;Batalhão Futebol Clube;Tocantins;TO;Palmas;-10.1844;-48.3336;2009-07-31T00:00:00Z;1721000
+SPARTA;Sociedade Desportiva Sparta;Tocantins;TO;Araguaína;-7.1925;-48.2078;2006-01-01T00:00:00Z;1702109
+BELA VISTA;Bela Vista Futebol Cachoeirense;Tocantins;TO;Cachoeirinha;-6.1219;-47.9211;1992-02-07T00:00:00Z;1703842
+ATLÉTICO CERRADO;Clube Atlético Cerrado;Tocantins;TO;Paraíso do Tocantins;-10.1753;-48.8839;2006-09-30T00:00:00Z;1716109
+UNIÃO ATLÉTICO;União Atlético Clube;Tocantins;TO;Araguaína;-7.1925;-48.2078;1992-05-27T00:00:00Z;1702109
+CAPITAL;Capital Futebol Clube;Tocantins;TO;Palmas;-10.1844;-48.3336;2012-05-21T00:00:00Z;1721000
+NOVA CONQUISTA;NC/Paraíso Futebol Clube;Tocantins;TO;Paraíso do Tocantins;-10.1753;-48.8839;2005-02-06T00:00:00Z;1716109
+GRÊMIO NOVORIZONTINO;Grêmio Novorizontino;Sao Paulo;SP;Novo Horizonte;-21.4681;-49.2211;2010-03-11T00:00:00Z;3533502
+ATLHETIC;Athletic Club;Minas Gerais;MG;São João del-Rei;-21.1353;-44.2614;1909-06-27T00:00:00Z;3162500
+SÃOJOSEENSE;Independente Futebol São Joseense;Parana;PR;São José dos Pinhais;-25.5347;-49.2064;2015-05-20T00:00:00Z;4125506
+UIRAPURU;Associação Atlética Uirapuru;Mato Grosso;MT;Cuiabá;-15.601;-56.0974;1934-05-20T00:00:00Z;5103403
+CHAPADA;Chapada Futebol Clube;Mato Grosso;MT;Chapada dos Guimarães;-15.4608;-55.7497;1943-03-01T00:00:00Z;5103007
+CANÁRIO;Canário Esporte Clube;Amapá;AP;Macapá;-0.0389;-51.0664;2005-01-01T00:00:00Z;1600303
+JACOBINA;Jacobina Esporte Clube;Bahia;BA;Jacobina;-11.1811;-40.5181;1993-12-01T00:00:00Z;2917508
+CRIXÁS;Crixás Esporte Clube;Goiás;GO;Crixás;-14.5489;-49.9692;1988-06-20T00:00:00Z;5206206
+BOSTON CITY BRASIL;Boston City Futebol Clube Brasil;Minas Gerais;MG;Manhuaçu;-20.2575;-42.0336;2017-12-01T00:00:00Z;3139409
+INDEPENDENTE TUCURUÍ;Independente Atlético Clube;Pará;PA;Tucuruí;-3.7664;-49.6725;1972-11-28T00:00:00Z;1508106
+CAETÉ;Sociedade Esportiva Caeté;Pará;PA;Bragança;-1.0536;-46.7656;2019-12-05T00:00:00Z;1501705
+APUCARANA SPORTS;Apucarana Sports Clube;Paraná;PR;Apucarana;-23.5511;-51.4614;2014-01-01T00:00:00Z;4101408
+TORRES BRASIL;Club Atlético Torres Brasil;Pernambuco;PE;Recife;-8.0578;-34.8778;2019-01-01T00:00:00Z;2611606
+SANTA FÉ;Santa Fé Futebol Clube;Pernambuco;PE;Igarassu;-7.8342;-34.9061;2021-01-01T00:00:00Z;2606804
+PARATY;Sociedade Esportiva Paraty;Rio de Janeiro;RJ;Paraty;-23.2178;-44.7131;2010-01-01T00:00:00Z;3303807
+RIOSTRENSE;Riostrense Esporte Clube;Rio de Janeiro;RJ;Rio das Ostras;-22.5269;-41.9425;2006-05-01T00:00:00Z;3304524
+GRAMADENSE;Centro Esportivo Gramadense;Rio Grande do Sul;RS;Gramado;-29.3791;-50.8764;1929-12-10T00:00:00Z;4309100
+MARAU;Futebol Clube Marau;Rio Grande do Sul;RS;Marau;-28.4492;-52.2000;2013-01-01T00:00:00Z;4311809
+CA VOTUPORANGUENSE;Clube Atlético Votuporanguense;São Paulo;SP;Votuporanga;-20.4222;-49.9725;2009-12-23T00:00:00Z;3557105
+ARAGUACEMA;Araguacema Futebol Clube;Tocantins;TO;Araguacema;-9.1131;-49.5636;1990-01-01T00:00:00Z;1701903
+GRECAL;Grêmio Recreativo Esportivo Campo Largo;Paraná;PR;Curitiba;-25.4195;-49.2646;1924-01-01T00:00:00Z;4106902
+HORIZONTE;Horizonte Futebol Clube;Ceará;CE;Horizonte;-4.1025;-38.4875;2004-03-27T00:00:00Z;2305233
+APARECIDA;Aparecida Esporte Clube;Goiás;GO;Aparecida de Goiânia;-16.8228;-49.2436;1995-01-01T00:00:00Z;5201405
+ITABIRITO;Itabirito Futebol Clube;Minas Gerais;MG;Itabirito;-20.2528;-43.8053;2022-05-20T00:00:00Z;3131901
+AYMORÉS;Sport Club Aymorés;Minas Gerais;MG;Ubá;-21.1206;-42.9422;1926-05-29T00:00:00Z;3169901
+BELENENSE;Belenense Futebol Clube;Pará;PA;Belém;-1.2947;-48.4558;2011-01-01T00:00:00Z;1501408
+SANTOS;Santos Futebol Clube;Pará;PA;Moju;-1.8842;-48.7686;2021-01-01T00:00:00Z;1504705
+ATLÉTICO PERNAMBUCANO;Clube Atlético Pernambucano;Pernambuco;PE;Carpina;-7.8489;-35.2444;2006-03-03T00:00:00Z;2604106
+TERESINA;Teresina Esporte Clube;Piauí;PI;Teresina;-5.0892;-42.8019;2023-01-01T00:00:00Z;2211001
+DUQUE CAXIENSE;Duque Caxiense Futebol Clube;Rio de Janeiro;RJ;Duque de Caxias;-22.7856;-43.3117;2017-01-01T00:00:00Z;3301702
+BELA VISTA;Bela Vista Futebol Clube;Rio de Janeiro;RJ;São Gonçalo;-22.8269;-43.0539;1977-05-10T00:00:00Z;3304904
+PETRÓPOLIS;Petrópolis Futebol Clube;Rio de Janeiro;RJ;Petrópolis;-22.5050;-43.1789;2006-05-12T00:00:00Z;3303906
+FUTEBOL COM VIDA;Futebol Com Vida SAF;Rio Grande do Sul;RS;Viamão;-30.0822;-51.0189;2022-01-01T00:00:00Z;4323002
+ESPORTIVO;Clube Esportivo Bento Gonçalves;Rio Grande do Sul;RS;Bento Gonçalves;-29.1706;-51.5200;1919-08-28T00:00:00Z;4302105
+G.A.S;Grêmio Atlético Sampaio;Roraima;RR;Caracaraí;1.8153;-61.1272;1965-06-11T00:00:00Z;1400209
+ATHLETIC CLUB;Athletic Club;Minas Gerais;MG;São João del-Rei;-21.1356;-44.2611;1909-06-27T00:00:00Z;3162500
+CDC DA AMAZÔNIA;Centro Recreativo e Detonativo da Amazônia;Amazonas;AM;Novo Airão;-2.6214;-60.9431;2008-01-01T00:00:00Z;1303107
+RB DO NORTE;Recreativo Brasileiro do Norte;Amazonas;AM;Manaus;-3.1190;-60.0217;2021-01-01T00:00:00Z;1302603
+FLAMENGO DE GUANAMBI;Clube de Regatas do Flamengo;Bahia;BA;Guanambi;-14.2256;-42.7811;2009-09-15T00:00:00Z;2911709
+VILA REAL;Vila Real Futebol Clube;Ceará;CE;Fortaleza;-3.7172;-38.5433;2021-01-01T00:00:00Z;2304400
+ANJOS DO CÉU;Anjos do Céu Futebol Clube;Ceará;CE;Fortaleza;-3.7172;-38.5433;2017-01-01T00:00:00Z;2304400
+FORTE;Forte Rio Bananal Futebol Clube;Espírito Santo;ES;Rio Bananal;-19.2631;-40.3325;2019-01-01T00:00:00Z;3204351
+ABECAT OUVIDORENSE;Associação Bem Estar e Cultura de Ouvidor;Goiás;GO;Ouvidor;-18.2367;-47.8389;2007-11-05T00:00:00Z;5215603
+SÃO JOSÉ;São José de Ribamar Esporte Clube;Maranhão;MA;São José de Ribamar;-2.5622;-44.0531;1954-01-01T00:00:00Z;2111300
+SÃO GABRIEL;Associação Esportiva São Gabriel;Mato Grosso do Sul;MS;São Gabriel do Oeste;-19.3950;-54.5658;2011-01-01T00:00:00Z;5007695
+VILLA REAL;Esporte Clube Villa Real;Minas Gerais;MG;Machado;-21.6747;-45.9197;2020-01-01T00:00:00Z;3139003
+SÃO PAULO CRYSTAL;São Paulo Crystal Futebol Clube;Paraíba;PB;Cruz do Espírito Santo;-7.1517;-35.0847;2008-02-10T00:00:00Z;2505203
+UNIÃO BELTRÃO;Clube Esportivo União;Paraná;PR;Francisco Beltrão;-26.0778;-53.0514;1956-02-17T00:00:00Z;4108403
+CAMBÉ;Clube Atlético Cambé;Paraná;PR;Cambé;-23.2756;-51.2781;1989-02-13T00:00:00Z;4103701
+OESTE BRASIL;Oeste Brasil Futebol Clube;Paraná;PR;Toledo;-24.7119;-53.7431;2024-01-01T00:00:00Z;4127700
+VITÓRIA DAS TABOCAS;Associação Acadêmica e Desportiva Vitória das Tabocas;Pernambuco;PE;Vitória de Santo Antão;-8.1136;-35.2956;1945-05-06T00:00:00Z;2616407
+ÁGUIA DE CUMARU;Águia Futebol Clube de Cumaru;Pernambuco;PE;Cumaru;-8.0069;-35.7003;2022-01-01T00:00:00Z;2605202
+UNIÃO CENTRAL;União Central Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.8461;-43.2778;1986-03-14T00:00:00Z;3304557
+7 DE ABRIL;Centro de Integração Geracional 7 de Abril;Rio de Janeiro;RJ;Rio de Janeiro;-22.9068;-43.1729;2006-08-22T00:00:00Z;3304557
+CERES;Ceres Futebol Clube;Rio de Janeiro;RJ;Rio de Janeiro;-22.8753;-43.4681;1933-07-10T00:00:00Z;3304557
+PALMEIRA DE GOIANINHA;Palmeira Futebol Clube da Una;Rio Grande do Norte;RN;Goianinha;-6.2675;-35.2117;1959-06-23T00:00:00Z;2404201
+GUARANI V. AIRES;Esporte Clube Guarani;Rio Grande do Sul;RS;Venâncio Aires;-29.6103;-52.1906;1929-09-03T00:00:00Z;4322608
+ATLÉTICO BATISTENSE;Esporte Clube Atlético Batistense;Santa Catarina;SC;São João Batista;-27.2764;-48.8497;2020-01-01T00:00:00Z;4216301
+ATLÉTICO ITAJAÍ;Clube Atlético Itajaí;Santa Catarina;SC;Itajaí;-26.9061;-48.6617;2016-04-19T00:00:00Z;4208209
+ATLÉTICO MOGI;Clube Atlético Mogi das Cruzes;São Paulo;SP;Mogi das Cruzes;-23.5233;-46.1883;2004-04-19T00:00:00Z;3530607
+SKA BRASIL;Futebol Clube Ska Brasil;São Paulo;SP;Santana de Parnaíba;-23.4447;-46.9189;2019-06-13T00:00:00Z;3549102
+RIO CLARO;Rio Claro Futebol Clube;São Paulo;SP;Rio Claro;-22.4114;-47.5614;1909-01-18T00:00:00Z;3543907
+ATLÉTICO GLORIENSE;Associação Desportiva Atlético Gloriense;Sergipe;SE;Nossa Senhora da Glória;-10.1172;-37.4528;2008-01-01T00:00:00Z;2804508
+UNIÃO ATLÉTICA ARAGUAINENSE;União Atlética Araguainense;Tocantins;TO;Araguína;-7.1908;-48.2078;1992-05-27T00:00:00Z;1702109
+RIO BRANCO - VN;Rio Branco Futebol Clube;Espírito Santo;ES;Venda Nova do Imigrante;-20.3344;-41.1342;1945-06-29T00:00:00Z;3205069
+GALO MARINGÁ;Galo Maringá;Paraná;PR;Maringá;-23.4205;-51.9333;2020-12-18T00:00:00Z;4115200
