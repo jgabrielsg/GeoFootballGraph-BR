@@ -1,0 +1,56 @@
+{
+    "k2": {
+        "sizes": {
+            "0": 504,
+            "1": 386
+        },
+        "splits": [
+            {
+                "axis": "Latitude",
+                "threshold": -13.015299797058105
+            }
+        ],
+        "imbalance": 1.305699481865285
+    },
+    "k3": {
+        "sizes": {
+            "0": 504,
+            "2": 230,
+            "1": 156
+        },
+        "splits": [
+            {
+                "axis": "Latitude",
+                "threshold": -13.015299797058105
+            },
+            {
+                "axis": "Longitude",
+                "threshold": -46.325950622558594
+            }
+        ],
+        "imbalance": 3.230769230769231
+    },
+    "k4": {
+        "sizes": {
+            "2": 255,
+            "3": 249,
+            "1": 230,
+            "0": 156
+        },
+        "splits": [
+            {
+                "axis": "Latitude",
+                "threshold": -13.015299797058105
+            },
+            {
+                "axis": "Longitude",
+                "threshold": -48.308048248291016
+            },
+            {
+                "axis": "Longitude",
+                "threshold": -46.325950622558594
+            }
+        ],
+        "imbalance": 1.6346153846153846
+    }
+}

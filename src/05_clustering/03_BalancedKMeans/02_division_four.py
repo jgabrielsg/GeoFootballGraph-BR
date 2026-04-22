@@ -8,7 +8,7 @@ import os
 INPUT_FILE = 'data/04_results/balanced_kmeans_prop_division_3.csv'
 OUTPUT_FILE = 'data/04_results/balanced_kmeans_prop_division_4.csv'
 OUTPUT_GRID = 'outputs/plots/balanced_kmeans_subclusters_3x3.png'
-MACRO_COL = 'cluster_k3' # Usamos K=3 como base
+MACRO_COL = 'cluster_k4' # Usamos K=4 como base
 SUB_K_VALUES = [2, 3, 4]
 COLORS = ['#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4']
 
@@ -32,8 +32,8 @@ def main():
 
         for col_idx, k_sub in enumerate(SUB_K_VALUES):
             # Restrições locais para a Série D
-            s_min = int((n_sub / k_sub) * 0.85)
-            s_max = int((n_sub / k_sub) * 1.15)
+            s_min = int((n_sub / k_sub) * 0.8)
+            s_max = int((n_sub / k_sub) * 1.2)
             
             model = KMeansConstrained(n_clusters=k_sub, size_min=s_min, size_max=s_max, random_state=42)
             labels = model.fit_predict(X)

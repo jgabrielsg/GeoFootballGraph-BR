@@ -1,0 +1,73 @@
+clube_id;lat;lon;score;cluster_k2;cluster_k3;cluster_k4;clube;uf_slug;uf;pos
+AMAZONAS/amazonas;-3.11866;-60.0212;0.0034799504344874;0;2;0;Amazonas;amazonas;AM;1
+MANAUS/amazonas;-3.11866;-60.0212;0.0029533129381487;0;2;0;Manaus;amazonas;AM;2
+TOCANTINÓPOLIS/tocantins;-6.32447;-47.4224;0.0024813729197834;0;2;0;Tocantinópolis;tocantins;TO;3
+SÃO RAIMUNDO/roraima;2.82384;-60.6753;0.0020700873317;0;2;0;São Raimundo;roraima;RR;4
+TUNA LUSO/para;-1.4554;-48.4898;0.0016942886399057;0;2;0;Tuna Luso;para;PA;5
+TREM/amapa;0.034934;-51.0694;0.001496425377611;0;2;0;Trem;amapa;AP;6
+MANAUARA/amazonas;-3.11866;-60.0212;0.0014163437175831;0;2;0;Manauara;amazonas;AM;7
+NOVA MUTUM/mato_grosso;-13.8344;-56.0728;0.0012747324045686;1;2;0;Nova Mutum;mato_grosso;MT;8
+MIXTO/mato_grosso;-15.601;-56.0974;0.0012560204845007;1;2;0;Mixto;mato_grosso;MT;9
+CAPITAL/tocantins;-10.1844;-48.3336;0.0012364581226745;0;2;0;Capital;tocantins;TO;10
+CASTANHAL/para;-1.29797;-47.9167;0.0012179083782513;0;2;0;Castanhal;para;PA;11
+INTERPORTO/tocantins;-10.7027;-48.408;0.0011871335055572;0;2;0;Interporto;tocantins;TO;12
+CEOV OPERÁRIO/mato_grosso;-15.65;-56.1325;0.0011759193022777;1;2;0;Ceov Operário;mato_grosso;MT;13
+LUVERDENSE/mato_grosso;-13.0588;-55.9042;0.0011669855614398;1;2;0;Luverdense;mato_grosso;MT;14
+IMPERATRIZ/maranhao;-5.51847;-47.4777;0.0011437373483458;0;2;0;Imperatriz;maranhao;MA;15
+BELA VISTA/tocantins;-6.1219;-47.9211;0.0011135512713906;0;2;0;Bela Vista;tocantins;TO;16
+NACIONAL/amazonas;-3.11866;-60.0212;0.0011113281456736;0;2;0;Nacional;amazonas;AM;17
+HUMAITÁ/acre;-9.58138;-67.5478;0.001109031321404;1;2;0;Humaitá;acre;AC;18
+LONDRINA/parana;-23.304;-51.1691;0.0037468519333551;1;1;1;Londrina;parana;PR;1
+ITUANO/sao_paulo;-23.2544;-47.2927;0.0035741476145849;1;1;1;Ituano;sao_paulo;SP;2
+SÃO BERNARDO/sao_paulo;-23.6914;-46.5646;0.0032954357338471;1;1;1;São Bernardo;sao_paulo;SP;3
+FIGUEIRENSE/santa_catarina;-27.5945;-48.5477;0.0032253488350467;1;1;1;Figueirense;santa_catarina;SC;4
+YPIRANGA/rio_grande_do_sul;-27.6364;-52.2697;0.0030734386005353;1;1;1;Ypiranga;rio_grande_do_sul;RS;5
+SÃO JOSÉ/rio_grande_do_sul;-30.0318;-51.2065;0.0030043031907027;1;1;1;São José;rio_grande_do_sul;RS;6
+FERROVIÁRIA/sao_paulo;-22.8837;-48.4437;0.0029416406389744;1;1;1;Ferroviária;sao_paulo;SP;7
+GRÊMIO NOVORIZONTINO/sao_paulo;-21.4681;-49.2211;0.0027849095602254;1;1;1;Grêmio Novorizontino;sao_paulo;SP;8
+CAXIAS/rio_grande_do_sul;-29.1629;-51.1792;0.0026549370888003;1;1;1;Caxias;rio_grande_do_sul;RS;9
+MARINGÁ/parana;-23.4205;-51.9333;0.0025788423592059;1;1;1;Maringá;parana;PR;10
+OPERÁRIO/mato_grosso_do_sul;-20.4697;-54.6201;0.0023382571509852;1;2;1;Operário;mato_grosso_do_sul;MS;11
+BRASIL/rio_grande_do_sul;-29.2227;-51.3419;0.0021943704389579;1;1;1;Brasil;rio_grande_do_sul;RS;12
+CASCAVEL/parana;-24.9573;-53.459;0.0021413055715812;1;1;1;Cascavel;parana;PR;13
+NOVORIZONTINO/sao_paulo;-21.4681;-49.2211;0.0021272065613656;1;1;1;Novorizontino;sao_paulo;SP;14
+COSTA RICA/mato_grosso_do_sul;-18.5432;-53.1287;0.0018405619094225;1;2;1;Costa Rica;mato_grosso_do_sul;MS;15
+PARANÁ/parana;-24.0463;-52.378;0.0018043252596468;1;1;1;Paraná;parana;PR;16
+OESTE/sao_paulo;-21.5942;-48.8149;0.0016367434403168;1;1;1;Oeste;sao_paulo;SP;17
+MARCÍLIO DIAS/santa_catarina;-26.9101;-48.6705;0.0016286689294381;1;1;1;Marcílio Dias;santa_catarina;SC;18
+ABC/rio_grande_do_norte;-5.7945;-35.2119;0.0037048591331053;0;0;2;Abc;rio_grande_do_norte;RN;1
+CONFIANÇA/sergipe;-10.9091;-37.0677;0.003637034306389;0;0;2;Confiança;sergipe;SE;2
+AMÉRICA/rio_grande_do_norte;-5.79357;-35.1986;0.0030505174092406;0;0;2;América;rio_grande_do_norte;RN;3
+BOTAFOGO/paraiba;-7.11509;-34.8641;0.0029295921000792;0;0;2;Botafogo;paraiba;PB;4
+RETRÔ/pernambuco;-8.02351;-34.9782;0.0027967180996647;0;0;2;Retrô;pernambuco;PE;5
+FERROVIÁRIO/ceara;-6.12291;-39.8736;0.0027933078655836;0;0;2;Ferroviário;ceara;CE;6
+ALTOS/piaui;-5.03888;-42.4612;0.0026123272617818;0;0;2;Altos;piaui;PI;7
+SANTA CRUZ/pernambuco;-8.04666;-34.8771;0.0024487430585053;0;0;2;Santa Cruz;pernambuco;PE;8
+FLORESTA/ceara;-3.71664;-38.5423;0.0022026285183247;0;0;2;Floresta;ceara;CE;9
+SOUSA/paraiba;-6.75148;-38.2311;0.0021248619170207;0;0;2;Sousa;paraiba;PB;10
+SERGIPE/sergipe;-10.9091;-37.0677;0.0020264922369049;0;0;2;Sergipe;sergipe;SE;11
+ITABAIANA/sergipe;-10.6853;-37.4253;0.0019098788170711;0;0;2;Itabaiana;sergipe;SE;12
+ASA/alagoas;-9.75487;-36.6615;0.0017938306194787;0;0;2;Asa;alagoas;AL;13
+JUAZEIRENSE/bahia;-9.41622;-40.5033;0.0017508242834471;0;0;2;Juazeirense;bahia;BA;14
+JACUIPENSE/bahia;-11.8067;-39.3818;0.0017477150264343;0;0;2;Jacuipense;bahia;BA;15
+CAMPINENSE/paraiba;-7.22196;-35.8731;0.0017348897926868;0;0;2;Campinense;paraiba;PB;16
+TREZE/paraiba;-7.22196;-35.8731;0.0016749139717173;0;0;2;Treze;paraiba;PB;17
+BAHIA DE FEIRA/bahia;-12.2664;-38.9663;0.0016700393822807;0;0;2;Bahia De Feira;bahia;BA;18
+BOTAFOGO/sao_paulo;-20.4302;-47.8236;0.0040428906347017;1;1;3;Botafogo;sao_paulo;SP;1
+VOLTA REDONDA/rio_de_janeiro;-22.5202;-44.0996;0.0037120688940116;1;1;3;Volta Redonda;rio_de_janeiro;RJ;2
+TOMBENSE/minas_gerais;-20.9086;-42.0228;0.0035508259475733;1;1;3;Tombense;minas_gerais;MG;3
+BRASILIENSE/distrito_federal;-15.8333;-48.0569;0.0034517549690828;1;2;3;Brasiliense;distrito_federal;DF;4
+NOVA IGUAÇU/rio_de_janeiro;-22.7556;-43.4603;0.0027745494021211;1;1;3;Nova Iguaçu;rio_de_janeiro;RJ;5
+APARECIDENSE/goias;-16.8198;-49.2469;0.0024971386396225;1;2;3;Aparecidense;goias;GO;6
+PORTUGUESA/rio_de_janeiro;-22.9129;-43.2003;0.0022376078031118;1;1;3;Portuguesa;rio_de_janeiro;RJ;7
+CEILÂNDIA/distrito_federal;-15.8208;-48.1122;0.0022072465927052;1;2;3;Ceilândia;distrito_federal;DF;8
+ATHLETIC/minas_gerais;-21.1356;-44.2611;0.0021936093993989;1;1;3;Athletic;minas_gerais;MG;9
+REAL NOROESTE/espirito_santo;-18.9846;-40.7437;0.0019614613898254;1;0;3;Real Noroeste;espirito_santo;ES;10
+ANÁPOLIS/goias;-16.3281;-48.953;0.0019536576766654;1;2;3;Anápolis;goias;GO;11
+DEMOCRATA/minas_gerais;-18.8545;-41.9555;0.001930087978871;1;0;3;Democrata;minas_gerais;MG;12
+RIO BRANCO/espirito_santo;-20.3155;-40.3128;0.0016942324063227;1;0;3;Rio Branco;espirito_santo;ES;13
+GAMA/distrito_federal;-16.0183;-48.0667;0.0016691336618936;1;2;3;Gama;distrito_federal;DF;14
+INTER DE LIMEIRA/sao_paulo;-22.566;-47.397;0.0015700585493262;1;1;3;Inter De Limeira;sao_paulo;SP;15
+VITÓRIA/espirito_santo;-20.3155;-40.3128;0.0015137530192976;1;0;3;Vitória;espirito_santo;ES;16
+POUSO ALEGRE/minas_gerais;-22.2266;-45.9389;0.0014897197660467;1;1;3;Pouso Alegre;minas_gerais;MG;17
+OLARIA/rio_de_janeiro;-22.842143012;-43.26699613;0.0014535006704495;1;1;3;Olaria;rio_de_janeiro;RJ;18

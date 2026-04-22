@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import webbrowser
 import os
 
-INPUT_FILE = 'active_clubs_geodata.csv'
-OUTPUT_FILE = 'football_clubs_map.html'
+INPUT_FILE = 'data/03_final/active_clubs_geodata.csv'
+OUTPUT_FILE = 'outputs/maps/football_clubs_map.html'
 
 def main():
     """
