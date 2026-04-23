@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+    <style>
+    .leaflet-interactive {
+        transition: stroke-width 0.2s, r 0.2s;
+    }
+    .leaflet-interactive:hover {
+        stroke-width: 4;
+        r: 12 !important;
+    }
+    </style>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_18d0113567f97a4d605f420d5f46c499 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdn.jsdelivr.net/gh/ljagis/leaflet-measure@2.1.7/dist/leaflet-measure.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ljagis/leaflet-measure@2.1.7/dist/leaflet-measure.min.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_18d0113567f97a4d605f420d5f46c499" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_18d0113567f97a4d605f420d5f46c499 = L.map(
+                "map_18d0113567f97a4d605f420d5f46c499",
+                {
+                    center: [-15.78, -47.93],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_bbcf67502d39232eb88e70bfc689cbc9 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_bbcf67502d39232eb88e70bfc689cbc9.addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+            var measure_control_2608f196caab8df640da20631a051e09 = new L.Control.Measure(
+                {
+  "position": "topleft",
+  "primaryLengthUnit": "kilometers",
+  "secondaryLengthUnit": "miles",
+  "primaryAreaUnit": "sqmeters",
+  "secondaryAreaUnit": "acres",
+});
+            map_18d0113567f97a4d605f420d5f46c499.addControl(measure_control_2608f196caab8df640da20631a051e09);
+
+            // Workaround for using this plugin with Leaflet>=1.8.0
+            // https://github.com/ljagis/leaflet-measure/issues/171
+            L.Control.Measure.include({
+                _setCaptureMarkerIcon: function () {
+                    // disable autopan
+                    this._captureMarker.options.autoPanOnFocus = false;
+                    // default function
+                    this._captureMarker.setIcon(
+                        L.divIcon({
+                            iconSize: this._map.getSize().multiplyBy(2)
+                        })
+                    );
+                },
+            });
+
+        
+    
+            var circle_marker_bf07da6c3bb44f145264e7be54125afb = L.circleMarker(
+                [-10.18342490933106, -48.33259380335005],
+                {"bubblingMouseEvents": true, "color": "#00008B", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#00008B", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_586811e357959a40b7c58bd61cfff10d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_df37bbc377771004223231f95a747514 = $(`<div id="html_df37bbc377771004223231f95a747514" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Palmas</h4>             <b>Estado:</b> TO<br>             <b>Rank Global:</b> 131º<br>             <b>Posição na Liga:</b> 1º<br>             <b>Score PR:</b> 0.00097         </div>         </div>`)[0];
+                popup_586811e357959a40b7c58bd61cfff10d.setContent(html_df37bbc377771004223231f95a747514);
+            
+        
+
+        circle_marker_bf07da6c3bb44f145264e7be54125afb.bindPopup(popup_586811e357959a40b7c58bd61cfff10d)
+        ;
+
+        
+    
+    
+            circle_marker_bf07da6c3bb44f145264e7be54125afb.bindTooltip(
+                `<div>
+                     Palmas (TO) - Rank: 131º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b943ac2433136e77cd98ab29cb56722c = L.circleMarker(
+                [-5.3813765714520265, -49.13274254493312],
+                {"bubblingMouseEvents": true, "color": "#00008B", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#00008B", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_be0dcd4fee4e404a12a2af77531baa38 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7c6cbb1ba804fe800efe4070e9d5dd38 = $(`<div id="html_7c6cbb1ba804fe800efe4070e9d5dd38" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Aguia De Maraba</h4>             <b>Estado:</b> PA<br>             <b>Rank Global:</b> 138º<br>             <b>Posição na Liga:</b> 2º<br>             <b>Score PR:</b> 0.00095         </div>         </div>`)[0];
+                popup_be0dcd4fee4e404a12a2af77531baa38.setContent(html_7c6cbb1ba804fe800efe4070e9d5dd38);
+            
+        
+
+        circle_marker_b943ac2433136e77cd98ab29cb56722c.bindPopup(popup_be0dcd4fee4e404a12a2af77531baa38)
+        ;
+
+        
+    
+    
+            circle_marker_b943ac2433136e77cd98ab29cb56722c.bindTooltip(
+                `<div>
+                     Aguia De Maraba (PA) - Rank: 138º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_471c63ea1556074f50ee5171d1c77506 = L.circleMarker(
+                [-6.494849496205976, -49.87288663873208],
+                {"bubblingMouseEvents": true, "color": "#ADD8E6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ADD8E6", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_ceba077578a1341f8393c26620042cae = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_93102d4009db2dfa5ee25829fdbb406d = $(`<div id="html_93102d4009db2dfa5ee25829fdbb406d" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Canaã</h4>             <b>Estado:</b> PA<br>             <b>Rank Global:</b> 153º<br>             <b>Posição na Liga:</b> 3º<br>             <b>Score PR:</b> 0.00093         </div>         </div>`)[0];
+                popup_ceba077578a1341f8393c26620042cae.setContent(html_93102d4009db2dfa5ee25829fdbb406d);
+            
+        
+
+        circle_marker_471c63ea1556074f50ee5171d1c77506.bindPopup(popup_ceba077578a1341f8393c26620042cae)
+        ;
+
+        
+    
+    
+            circle_marker_471c63ea1556074f50ee5171d1c77506.bindTooltip(
+                `<div>
+                     Canaã (PA) - Rank: 153º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f31da4a0f8ecf7019f25700265fc791f = L.circleMarker(
+                [-5.38128610923387, -49.13306374804733],
+                {"bubblingMouseEvents": true, "color": "#ADD8E6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ADD8E6", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_5c97b7d9e962f023e967f5fd2f734175 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7d5b59b0725c92d7d86dccd9b2aec2b8 = $(`<div id="html_7d5b59b0725c92d7d86dccd9b2aec2b8" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Águia</h4>             <b>Estado:</b> PA<br>             <b>Rank Global:</b> 162º<br>             <b>Posição na Liga:</b> 4º<br>             <b>Score PR:</b> 0.00091         </div>         </div>`)[0];
+                popup_5c97b7d9e962f023e967f5fd2f734175.setContent(html_7d5b59b0725c92d7d86dccd9b2aec2b8);
+            
+        
+
+        circle_marker_f31da4a0f8ecf7019f25700265fc791f.bindPopup(popup_5c97b7d9e962f023e967f5fd2f734175)
+        ;
+
+        
+    
+    
+            circle_marker_f31da4a0f8ecf7019f25700265fc791f.bindTooltip(
+                `<div>
+                     Águia (PA) - Rank: 162º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9d58d9e89dfab0e992b22120e2c8bdd0 = L.circleMarker(
+                [-11.72789319876102, -49.06876051828547],
+                {"bubblingMouseEvents": true, "color": "#ADD8E6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ADD8E6", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_97ba428d4d7e4986cdfae5197d7d6e0a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_2a8ab91dae6e76930cf04ed462d12337 = $(`<div id="html_2a8ab91dae6e76930cf04ed462d12337" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Gurupi</h4>             <b>Estado:</b> TO<br>             <b>Rank Global:</b> 173º<br>             <b>Posição na Liga:</b> 5º<br>             <b>Score PR:</b> 0.00088         </div>         </div>`)[0];
+                popup_97ba428d4d7e4986cdfae5197d7d6e0a.setContent(html_2a8ab91dae6e76930cf04ed462d12337);
+            
+        
+
+        circle_marker_9d58d9e89dfab0e992b22120e2c8bdd0.bindPopup(popup_97ba428d4d7e4986cdfae5197d7d6e0a)
+        ;
+
+        
+    
+    
+            circle_marker_9d58d9e89dfab0e992b22120e2c8bdd0.bindTooltip(
+                `<div>
+                     Gurupi (TO) - Rank: 173º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f58b8076f9fe1c1eb5f14fa28a6e15e1 = L.circleMarker(
+                [-7.193104567908717, -48.207793367770094],
+                {"bubblingMouseEvents": true, "color": "#ADD8E6", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ADD8E6", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_2ab0be55e52fce0336a546a84485269d = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ff72fc2809f71db3fc70ace26037a547 = $(`<div id="html_ff72fc2809f71db3fc70ace26037a547" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>União Atlético</h4>             <b>Estado:</b> TO<br>             <b>Rank Global:</b> 175º<br>             <b>Posição na Liga:</b> 6º<br>             <b>Score PR:</b> 0.00088         </div>         </div>`)[0];
+                popup_2ab0be55e52fce0336a546a84485269d.setContent(html_ff72fc2809f71db3fc70ace26037a547);
+            
+        
+
+        circle_marker_f58b8076f9fe1c1eb5f14fa28a6e15e1.bindPopup(popup_2ab0be55e52fce0336a546a84485269d)
+        ;
+
+        
+    
+    
+            circle_marker_f58b8076f9fe1c1eb5f14fa28a6e15e1.bindTooltip(
+                `<div>
+                     União Atlético (TO) - Rank: 175º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_89f44cd23dbe0584b9f3048ce2ada387 = L.circleMarker(
+                [-6.067902244356738, -49.903130159385164],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_02a6a2fcbbc8c74d994032050adbfc75 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_6f9e6a3d2449f23759809115001ee62e = $(`<div id="html_6f9e6a3d2449f23759809115001ee62e" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Parauapebas</h4>             <b>Estado:</b> PA<br>             <b>Rank Global:</b> 238º<br>             <b>Posição na Liga:</b> 7º<br>             <b>Score PR:</b> 0.00074         </div>         </div>`)[0];
+                popup_02a6a2fcbbc8c74d994032050adbfc75.setContent(html_6f9e6a3d2449f23759809115001ee62e);
+            
+        
+
+        circle_marker_89f44cd23dbe0584b9f3048ce2ada387.bindPopup(popup_02a6a2fcbbc8c74d994032050adbfc75)
+        ;
+
+        
+    
+    
+            circle_marker_89f44cd23dbe0584b9f3048ce2ada387.bindTooltip(
+                `<div>
+                     Parauapebas (PA) - Rank: 238º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c42bdfb86b5a601fd2e7baf9ea0fadd6 = L.circleMarker(
+                [-10.185766436344853, -48.332030207549764],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_27d84d07d7d07840cf8e1ae514c222a8 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_ff9029b0bd7d1821b7e8fc36a8cb8e0c = $(`<div id="html_ff9029b0bd7d1821b7e8fc36a8cb8e0c" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Batalhão</h4>             <b>Estado:</b> TO<br>             <b>Rank Global:</b> 249º<br>             <b>Posição na Liga:</b> 8º<br>             <b>Score PR:</b> 0.00071         </div>         </div>`)[0];
+                popup_27d84d07d7d07840cf8e1ae514c222a8.setContent(html_ff9029b0bd7d1821b7e8fc36a8cb8e0c);
+            
+        
+
+        circle_marker_c42bdfb86b5a601fd2e7baf9ea0fadd6.bindPopup(popup_27d84d07d7d07840cf8e1ae514c222a8)
+        ;
+
+        
+    
+    
+            circle_marker_c42bdfb86b5a601fd2e7baf9ea0fadd6.bindTooltip(
+                `<div>
+                     Batalhão (TO) - Rank: 249º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7f2cfc1bb8fd16a440c3ec7bcd634811 = L.circleMarker(
+                [-7.19252310840936, -48.20377844083287],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_7ca49177bddc8a3a880262073f4e6c2f = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_7ccf0e13c5e1039edbab55345141767f = $(`<div id="html_7ccf0e13c5e1039edbab55345141767f" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Araguaína</h4>             <b>Estado:</b> TO<br>             <b>Rank Global:</b> 253º<br>             <b>Posição na Liga:</b> 9º<br>             <b>Score PR:</b> 0.00070         </div>         </div>`)[0];
+                popup_7ca49177bddc8a3a880262073f4e6c2f.setContent(html_7ccf0e13c5e1039edbab55345141767f);
+            
+        
+
+        circle_marker_7f2cfc1bb8fd16a440c3ec7bcd634811.bindPopup(popup_7ca49177bddc8a3a880262073f4e6c2f)
+        ;
+
+        
+    
+    
+            circle_marker_7f2cfc1bb8fd16a440c3ec7bcd634811.bindTooltip(
+                `<div>
+                     Araguaína (TO) - Rank: 253º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_95a69f7e963e641a5eb90e732410638f = L.circleMarker(
+                [-9.565490212910465, -48.39316804700989],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_833e1eb1ebf2f7d96bf2f4f1be2548d3 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_87045485e5cf116a02a4c4fb3d3923eb = $(`<div id="html_87045485e5cf116a02a4c4fb3d3923eb" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Tocantins Miracema</h4>             <b>Estado:</b> TO<br>             <b>Rank Global:</b> 255º<br>             <b>Posição na Liga:</b> 10º<br>             <b>Score PR:</b> 0.00069         </div>         </div>`)[0];
+                popup_833e1eb1ebf2f7d96bf2f4f1be2548d3.setContent(html_87045485e5cf116a02a4c4fb3d3923eb);
+            
+        
+
+        circle_marker_95a69f7e963e641a5eb90e732410638f.bindPopup(popup_833e1eb1ebf2f7d96bf2f4f1be2548d3)
+        ;
+
+        
+    
+    
+            circle_marker_95a69f7e963e641a5eb90e732410638f.bindTooltip(
+                `<div>
+                     Tocantins Miracema (TO) - Rank: 255º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_90d024566324b37de096966e69c0cb59 = L.circleMarker(
+                [-5.524764313945965, -47.48046723918516],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_00b9661736ad9f0984f773b9f05a4161 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_242fe3625ad4ca58f3ff23467078110d = $(`<div id="html_242fe3625ad4ca58f3ff23467078110d" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Itz Sport</h4>             <b>Estado:</b> MA<br>             <b>Rank Global:</b> 276º<br>             <b>Posição na Liga:</b> 11º<br>             <b>Score PR:</b> 0.00061         </div>         </div>`)[0];
+                popup_00b9661736ad9f0984f773b9f05a4161.setContent(html_242fe3625ad4ca58f3ff23467078110d);
+            
+        
+
+        circle_marker_90d024566324b37de096966e69c0cb59.bindPopup(popup_00b9661736ad9f0984f773b9f05a4161)
+        ;
+
+        
+    
+    
+            circle_marker_90d024566324b37de096966e69c0cb59.bindTooltip(
+                `<div>
+                     Itz Sport (MA) - Rank: 276º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_da52e5ca40434703143c6b828890acaa = L.circleMarker(
+                [-9.11268196745557, -49.563909672336585],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_cc0c0ca91ba8a267dc0db05d59415954 = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_0151f5a6aadf9f83cb624757cbef0ecd = $(`<div id="html_0151f5a6aadf9f83cb624757cbef0ecd" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Araguacema</h4>             <b>Estado:</b> TO<br>             <b>Rank Global:</b> 279º<br>             <b>Posição na Liga:</b> 12º<br>             <b>Score PR:</b> 0.00059         </div>         </div>`)[0];
+                popup_cc0c0ca91ba8a267dc0db05d59415954.setContent(html_0151f5a6aadf9f83cb624757cbef0ecd);
+            
+        
+
+        circle_marker_da52e5ca40434703143c6b828890acaa.bindPopup(popup_cc0c0ca91ba8a267dc0db05d59415954)
+        ;
+
+        
+    
+    
+            circle_marker_da52e5ca40434703143c6b828890acaa.bindTooltip(
+                `<div>
+                     Araguacema (TO) - Rank: 279º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d6d5164c3459aa0df767a65cf66476bb = L.circleMarker(
+                [-8.83375739265738, -48.510649132301936],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_cee966625577cc92ab79ed5e934904eb = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_096695b8c68e17f1eaf6bfcf57727a35 = $(`<div id="html_096695b8c68e17f1eaf6bfcf57727a35" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Guaraí</h4>             <b>Estado:</b> TO<br>             <b>Rank Global:</b> 282º<br>             <b>Posição na Liga:</b> 13º<br>             <b>Score PR:</b> 0.00056         </div>         </div>`)[0];
+                popup_cee966625577cc92ab79ed5e934904eb.setContent(html_096695b8c68e17f1eaf6bfcf57727a35);
+            
+        
+
+        circle_marker_d6d5164c3459aa0df767a65cf66476bb.bindPopup(popup_cee966625577cc92ab79ed5e934904eb)
+        ;
+
+        
+    
+    
+            circle_marker_d6d5164c3459aa0df767a65cf66476bb.bindTooltip(
+                `<div>
+                     Guaraí (TO) - Rank: 282º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b4ee1ebb150a7ac6a49258fd43866db6 = L.circleMarker(
+                [-5.132340435095854, -49.33611804929668],
+                {"bubblingMouseEvents": true, "color": "gray", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "gray", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7, "stroke": true, "weight": 1}
+            ).addTo(map_18d0113567f97a4d605f420d5f46c499);
+        
+    
+        var popup_32f930e6a1c8d0f4d17294187a00a88a = L.popup({
+  "maxWidth": 250,
+});
+
+        
+            
+                var html_15f386617c00dcda3121da4be5043295 = $(`<div id="html_15f386617c00dcda3121da4be5043295" style="width: 100.0%; height: 100.0%;">         <div style='font-family: Arial; width: 200px;'>             <h4 style='margin-bottom:5px;'>Itupiranga</h4>             <b>Estado:</b> PA<br>             <b>Rank Global:</b> 283º<br>             <b>Posição na Liga:</b> 14º<br>             <b>Score PR:</b> 0.00054         </div>         </div>`)[0];
+                popup_32f930e6a1c8d0f4d17294187a00a88a.setContent(html_15f386617c00dcda3121da4be5043295);
+            
+        
+
+        circle_marker_b4ee1ebb150a7ac6a49258fd43866db6.bindPopup(popup_32f930e6a1c8d0f4d17294187a00a88a)
+        ;
+
+        
+    
+    
+            circle_marker_b4ee1ebb150a7ac6a49258fd43866db6.bindTooltip(
+                `<div>
+                     Itupiranga (PA) - Rank: 283º
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
