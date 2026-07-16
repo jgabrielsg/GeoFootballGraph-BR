@@ -1,0 +1,931 @@
+﻿estado;clube;clube_canonical;cidade;latitude;longitude;estadio
+acre;ADESG;ADESG;Senador Guiomard;-10.1475;-67.7364;Estádio Naborzão
+acre;ANDIRÁ;Andirá Esporte Clube;Rio Branco;-9.9749;-67.8243;Estádio Arena da Floresta
+acre;ATLÉTICO;Atlético Acreano;Rio Branco;-9.9749;-67.8243;Estádio Arena da Floresta
+acre;GALVEZ;Galvez Esporte Clube;Rio Branco;-9.9749;-67.8243;Estádio Arena da Floresta
+acre;HUMAITÁ;Sport Club Humaitá;Porto Acre;-9.5833;-67.6333;Estádio Arena da Floresta
+acre;INDEPENDÊNCIA;Independência Futebol Clube;Rio Branco;-9.9749;-67.8243;Estádio Arena da Floresta
+acre;NÁUAS;Náuas Esporte Clube;Cruzeiro do Sul;-7.6319;-72.6764;Estádio Arena do Juruá
+acre;PLÁCIDO DE CASTRO;Plácido de Castro Futebol Clube;Plácido de Castro;-10.2736;-67.1736;Estádio Municipal Aluízio Ferreira
+acre;RIO BRANCO;Rio Branco Football Club;Rio Branco;-9.9747;-67.8076;Estádio José de Melo
+acre;SANTA CRUZ;Santa Cruz Futebol Clube;Rio Branco;-9.9747;-67.8076;Estádio Arena da Floresta
+acre;SÃO FRANCISCO;São Francisco Futebol Clube;Rio Branco;-9.9747;-67.8076;Estádio Arena da Floresta
+acre;VASCO DA GAMA;Vasco da Gama Futebol Clube;Rio Branco;-9.9747;-67.8076;Estádio Arena da Floresta
+alagoas;AGRIMAQ JEQUIAENSE;Agrimaq Jequiá;Jequiá da Praia;-10.1233;-36.1356;Estádio Municipal José Ferreira de França
+alagoas;ASA;Agremiação Sportiva Arapiraquense;Arapiraca;-9.7547;-36.6575;Estádio Municipal Coaracy da Mata Fonseca
+alagoas;CEO;Clube Esportivo Olhodaguense;Olho d'Água das Flores;-9.5786;-37.3561;Estádio Edson Matias
+alagoas;CORURIPE;Associação Atlética Coruripe;Coruripe;-10.1253;-36.1753;Estádio Municipal Gerson Amaral
+alagoas;CRB;Clube de Regatas Brasil;Maceió;-9.6658;-35.7353;Estádio Rei Pelé
+alagoas;CRB B;Clube de Regatas Brasil;Maceió;-9.6658;-35.7353;Estádio Rei Pelé
+alagoas;CRUZEIRO;Cruzeiro de Arapiraca;Arapiraca;-9.7547;-36.6575;Estádio Municipal Coaracy da Mata Fonseca
+alagoas;CSA;Centro Sportivo Alagoano;Maceió;-9.6658;-35.7353;Estádio Rei Pelé
+alagoas;CSA B;Centro Sportivo Alagoano;Maceió;-9.6658;-35.7353;Estádio Rei Pelé
+alagoas;CSE;Clube Sociedade Esportiva;Palmeira dos Índios;-9.4036;-36.6322;Estádio Juca Sampaio
+alagoas;DESPORTIVO ALIANÇA;Desportivo Aliança;Maceió;-9.6658;-35.7353;Estádio Rei Pelé
+alagoas;DIMENSÃO SAÚDE;Dimensão Saúde;Capela;-9.4167;-36.05;Estádio Manoel Moreira
+alagoas;DÍNAMO;Dínamo Esporte Clube;Maceió;-9.6658;-35.7353;Estádio Rei Pelé
+alagoas;FF SPORT;FF Sport Nova Cruz;Maceió;-9.6658;-35.7353;Estádio Rei Pelé
+alagoas;GUARANY;Guarany Alagoano;Maceió;-9.6658;-35.7353;Estádio Rei Pelé
+alagoas;IGACI;Igaci Futebol Clube;Igaci;-9.5433;-36.6386;Estádio Zeca Rocha
+alagoas;JACIOBÁ;Jaciobá Atlético Clube;Pão de Açúcar;-9.7481;-37.4458;Estádio Municipal Elisão
+alagoas;MIGUELENSE;Miguelense Futebol Clube;São Miguel dos Campos;-9.7833;-36.1056;Estádio Manoel Ferreira
+alagoas;MURICI;Murici Futebol Clube;Murici;-9.2958;-35.8611;Estádio José Gomes da Costa
+alagoas;PENEDENSE;Sport Club Penedense;Penedo;-10.2919;-36.5908;Estádio Alfredo Leahy
+alagoas;SÃO DOMINGOS;São Domingos Futebol Clube;Maceió;-9.6658;-35.7353;Estádio Rei Pelé
+alagoas;ZUMBI;Zumbi Esporte Clube;União dos Palmares;-9.1467;-36.0333;Estádio Orlando Gomes de Barros
+amapa;ADEC;Associação Desportiva e Esportiva Calçoene;Calçoene;2.5033;-50.9456;Estádio Municipal de Calçoene
+amapa;BARE;Atlético Roraima Clube;Boa Vista;2.8235;-60.6758;Estádio Flamarion Vasconcelos
+amapa;CANÁRIO;Canário;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;CRISTAL;Cristal;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;CRUZEIRO;Cruzeiro;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;INDEPENDENTE;Independente;Santana;0.0575;-51.1736;Estádio Milton de Souza Corrêa
+amapa;LAGOA;Lagoa;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;LATITUDE ZERO;Latitude Zero;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;MACAPÁ;Esporte Clube Macapá;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;MAZAGÃO;Mazagão Atlético Clube;Mazagão;-0.115;-51.3883;Estádio Milton de Souza Corrêa
+amapa;ORATÓRIO;Oratório Recreativo Clube;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;PORTUGUESA;Associação Desportiva Portuguesa;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;RENOVAÇÃO;Renovação Esporte Clube;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;SANTANA;Santana Esporte Clube;Santana;-0.0558;-51.1794;Estádio Municipal de Santana
+amapa;SANTOS;Santos-AP;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;SÃO JOSÉ;São José-AP;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;SÃO PAULO;São Paulo-AP;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;TREM;Trem Desportivo Clube;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amapa;YPIRANGA;Ypiranga Clube;Macapá;0.0349;-51.0694;Estádio Milton de Souza Corrêa
+amazonas;ALVORADA;Alvorada Esporte Clube;Manaus;-3.119;-60.0217;Estádio Carlos Zamith
+amazonas;AMAZONAS;Amazonas Futebol Clube;Manaus;-3.119;-60.0217;Arena da Amazônia
+amazonas;ATLÉTICO AMAZONENSE;Atlético Amazonense;Manaus;-3.119;-60.0217;Estádio Ismael Benigno
+amazonas;CDC DA AMAZÔNIA;CDC Manicoré;Manacapuru;-3.2958;-60.6214;Estádio Gilberto Mestrinho
+amazonas;CLIPER;Cliper;Manaus;-3.119;-60.0217;Estádio Ismael Benigno
+amazonas;FAST CLUBE;Nacional Fast Clube;Manaus;-3.119;-60.0217;Estádio Ismael Benigno
+amazonas;IRANDUBA;Iranduba da Amazônia;Iranduba;-3.2725;-60.1889;Estádio Álvaro Maranhão
+amazonas;ITACOATIARA;Itacoatiara Esporte Clube;Itacoatiara;-3.1431;-58.4442;Estádio Municipal Floro de Mendonça
+amazonas;JC FUTEBOL CLUBE;JC Futebol Clube;Itacoatiara;-3.1431;-58.4442;Estádio Municipal Floro de Mendonça
+amazonas;LIBRADE;Librade;Manaus;-3.119;-60.0217;Estádio Ismael Benigno
+amazonas;MANAUARA;Manauara Esporte Clube;Manaus;-3.119;-60.0217;Estádio Carlos Zamith
+amazonas;MANAUS;Manaus Futebol Clube;Manaus;-3.119;-60.0217;Arena da Amazônia
+amazonas;NACIONAL;Nacional Futebol Clube;Manaus;-3.119;-60.0217;Estádio Ismael Benigno
+amazonas;OPERÁRIO;Operário Esporte Clube;Manacapuru;-3.2964;-60.6214;Estádio Gilberto Mestrinho
+amazonas;PARINTINS;Parintins Futebol Clube;Parintins;-2.6283;-56.7397;Estádio Francisco Garcia
+amazonas;PENAROL;Penarol Atlético Clube;Itacoatiara;-3.1431;-58.4442;Estádio Floro de Mendonça
+amazonas;PRINCESA;Princesa do Solimões Esporte Clube;Manacapuru;-3.2964;-60.6214;Estádio Gilberto Mestrinho
+amazonas;PRINCESA DO SOLIMÕES;Princesa do Solimões Esporte Clube;Manacapuru;-3.2964;-60.6214;Estádio Gilberto Mestrinho
+amazonas;RB DO NORTE;Red Bull do Norte;Manaus;-3.119;-60.0217;Estádio Carlos Zamith
+amazonas;RIO NEGRO;Atlético Rio Negro Clube;Manaus;-3.119;-60.0217;Estádio Ismael Benigno
+amazonas;SETE;Sete de Setembro Esporte Clube;Manaus;-3.119;-60.0217;Estádio Ismael Benigno
+amazonas;SUL AMÉRICA;Sul América Esporte Clube;Manaus;-3.119;-60.0217;Estádio Ismael Benigno
+amazonas;SÃO RAIMUNDO;São Raimundo Esporte Clube;Manaus;-3.119;-60.0217;Estádio Ismael Benigno
+amazonas;TARUMÃ;Atlético Clube Tarumã;Manaus;-3.119;-60.0217;Estádio Ismael Benigno
+bahia;ATLÉTICO;Atlético de Alagoinhas;Alagoinhas;-12.1394;-38.4217;Estádio Antônio Carneiro
+bahia;BAHIA;Esporte Clube Bahia;Salvador;-12.9714;-38.5014;Arena Fonte Nova
+bahia;BAHIA DE FEIRA;Associação Desportiva Bahia de Feira;Feira de Santana;-12.2669;-38.9669;Arena Cajueiro
+bahia;BARCELONA DE ILHÉUS;Barcelona Futebol Clube;Ilhéus;-14.795;-39.0433;Estádio Mário Pessoa
+bahia;BOTAFOGO;Botafogo Sport Club;Salvador;-12.9714;-38.5014;Estádio de Pituaçu
+bahia;CAMAÇARI;Camaçari Futebol Clube;Camaçari;-12.6975;-38.3247;Estádio Armando Oliveira
+bahia;CAMAÇARIENSE;Sport Club Camaçariense;Camaçari;-12.6975;-38.3247;Estádio Armando Oliveira
+bahia;CANAÃ;Canaã Esporte Clube;Irecê;-11.3039;-41.8553;Estádio Municipal de Irecê
+bahia;COLO COLO;Colo Colo de Futebol e Regatas;Ilhéus;-14.7935;-39.0459;Estádio Mário Pessoa
+bahia;DOCE MEL;Doce Mel Esporte Clube;Ipiaú;-14.1375;-39.7375;Estádio Pedro Caetano
+bahia;FEIRENSE;Associação Desportivaatlética Feirense;Feira de Santana;-12.2667;-38.9667;Estádio Joia da Princesa
+bahia;FLAMENGO DE GUANAMBI;Flamengo de Guanambi;Guanambi;-14.2239;-42.7811;Estádio 2 de Julho
+bahia;FLUMINENSE DE FEIRA;Fluminense de Feira Futebol Clube;Feira de Santana;-12.2667;-38.9667;Estádio Joia da Princesa
+bahia;GALÍCIA;Galícia Esporte Clube;Salvador;-12.9714;-38.5014;Estádio de Pituaçu
+bahia;GRAPIÚNA;Grapiúna Atlético Clube;Itabuna;-14.7892;-39.2797;Estádio Luiz Viana Filho
+bahia;ITABUNA;Itabuna Esporte Clube;Itabuna;-14.7892;-39.2797;Estádio Luiz Viana Filho
+bahia;JACOBINA;Jacobina Esporte Clube;Jacobina;-11.1825;-40.5086;Estádio José Rocha
+bahia;JACOBINENSE;Jacobinense Esporte Clube;Jacobina;-11.1825;-40.5086;Estádio José Rocha
+bahia;JACUIPENSE;Esporte Clube Jacuipense;Riachão do Jacuípe;-11.8053;-39.3786;Estádio Eliel Martins
+bahia;JEQUIÉ;Associação Desportiva Jequié;Jequié;-13.8583;-40.0811;Estádio Waldomiro Borges
+bahia;JUAZEIRENSE;Sociedade Desportiva Juazeirense;Juazeiro;-9.4125;-40.5033;Estádio Adauto Moraes
+bahia;JUAZEIRO;Juazeiro Social Clube;Juazeiro;-9.4125;-40.5033;Estádio Adauto Moraes
+bahia;LEÔNICO;Esporte Clube Leônico;Salvador;-12.9714;-38.5014;Estádio de Pituaçu
+bahia;PORTELA;Portela Futebol Clube;Paulo Afonso;-9.4033;-38.2206;Estádio Álvaro de Carvalho
+bahia;PORTO;Porto Sport Club;Porto Seguro;-16.4497;-39.0647;Estádio Municipal Agnaldo Bento dos Santos
+bahia;SSA;SSA Futebol Clube;Salvador;-12.9714;-38.5014;Estádio de Pituaçu
+bahia;TEIXEIRA DE FREITAS;Porto Sport Club;Teixeira de Freitas;-17.5386;-39.7386;Estádio Tomatão
+bahia;UNIRB;UNIRB Futebol Clube;Alagoinhas;-12.1392;-38.4214;Estádio Carneirão
+bahia;VITÓRIA;Esporte Clube Vitória;Salvador;-12.9714;-38.5014;Estádio Manoel Barradas
+bahia;VITÓRIA DA CONQUISTA;Esporte Clube Primeiro Passo Vitória da Conquista;Vitória da Conquista;-14.8614;-40.8392;Estádio Lomanto Júnior
+bahia;YPIRANGA;Esporte Clube Ypiranga;Salvador;-12.9714;-38.5014;Estádio de Pituaçu
+ceara;ALIANÇA;Aliança Atlético Clube;Horizonte;-4.1025;-38.5028;Estádio Domingão
+ceara;ANJOS DO CÉU;Anjos do Céu;Fortaleza;-3.7319;-38.5267;Estádio Presidente Vargas
+ceara;ARSENAL CARIDADE;Arsenal de Caridade;Caridade;-4.2586;-39.1733;Estádio Municipal de Caridade
+ceara;ATLÉTICO;Atlético Cearense;Fortaleza;-3.7319;-38.5267;Estádio Presidente Vargas
+ceara;ATLÉTICO CEARENSE;Atlético Cearense;Fortaleza;-3.7319;-38.5267;Estádio Presidente Vargas
+ceara;BARBALHA;Barbalha Futebol Clube;Barbalha;-7.3117;-39.3033;Estádio Lírio Callou
+ceara;CALOUROS DO AR;Calouros do Ar Futebol Clube;Fortaleza;-3.7319;-38.5267;Estádio Presidente Vargas
+ceara;CAMPO GRANDE;Campo Grande Esporte Clube;Juazeiro do Norte;-7.2297;-39.3225;Estádio Mauro Sampaio
+ceara;CARIRI;Cariri Futebol Clube;Juazeiro do Norte;-7.2297;-39.3225;Estádio Mauro Sampaio
+ceara;CAUCAIA;Caucaia Esporte Clube;Caucaia;-3.7361;-38.6531;Estádio Raimundo de Oliveira
+ceara;CEARÁ;Ceará Sporting Club;Fortaleza;-3.7319;-38.5267;Arena Castelão
+ceara;CEARÁ B;Ceará Sporting Club;Fortaleza;-3.7319;-38.5267;Cidade Vozão
+ceara;CRATEÚS;Crateús Esporte Clube;Crateús;-5.1786;-40.6775;Estádio Municipal Helvídio Bezerra de Carvalho
+ceara;CRATO;Crato Esporte Clube;Crato;-7.2333;-39.4167;Estádio Municipal Governador Virgílio Távora
+ceara;ESPORTE LIMOEIRO;Esporte Limoeiro;Limoeiro do Norte;-5.1478;-38.0975;Estádio Municipal José Bandeira de Lavor
+ceara;FERROVIÁRIO;Ferroviário Atlético Clube;Fortaleza;-3.7172;-38.5433;Estádio Presidente Vargas
+ceara;FLORESTA;Floresta Esporte Clube;Fortaleza;-3.7172;-38.5433;Estádio Presidente Vargas
+ceara;FORTALEZA;Fortaleza Esporte Clube;Fortaleza;-3.7172;-38.5433;Arena Castelão
+ceara;FORTALEZA B;Fortaleza Esporte Clube;Fortaleza;-3.7319;-38.5267;Estádio Presidente Vargas
+ceara;GRÊMIO PAGUE MENOS;Grêmio Pague Menos;Fortaleza;-3.7319;-38.5267;Estádio Presidente Vargas
+ceara;GUARANI DE JUAZEIRO;Guarani de Juazeiro;Juazeiro do Norte;-7.2139;-39.3139;Estádio Mauro Sampaio
+ceara;GUARANY;Guarany de Sobral;Sobral;-3.6828;-40.3528;Estádio Plácido Aderaldo Castelo
+ceara;GUARANY DE SOBRAL;Guarany de Sobral;Sobral;-3.6828;-40.3528;Estádio Plácido Aderaldo Castelo
+ceara;HORIZONTE;Horizonte Futebol Clube;Horizonte;-4.1036;-38.4986;Estádio Domingão
+ceara;ICASA;Associação Desportiva Recreativa Cultural Icasa;Juazeiro do Norte;-7.2133;-39.3153;Estádio Mauro Sampaio
+ceara;IGUATU;Associação Desportiva Iguatu;Iguatu;-6.3725;-39.3014;Estádio João Elmo Moreno Cavalcante
+ceara;ITAPIPOCA;Itapipoca Esporte Clube;Itapipoca;-3.4917;-39.5758;Estádio Perilo Teixeira
+ceara;ITAREMA;Itarema Esporte Clube;Itarema;-2.9258;-39.9136;Estádio Dedezão
+ceara;MARACANÃ;Maracanã Esporte Clube;Maracanaú;-3.8775;-38.6236;Estádio Municipal Raimundo de Oliveira
+ceara;MARANGUAPE;Maranguape Futebol Clube;Maranguape;-3.8867;-38.6717;Estádio Francisco Cardoso de Moraes
+ceara;PACAJUS;Pacajus Esporte Clube;Pacajus;-4.1758;-38.4728;Estádio João Ronaldo
+ceara;PACATUBA;Pacatuba Esporte Clube;Pacatuba;-3.9833;-38.6211;Estádio Municipal de Pacatuba
+ceara;QUIXADÁ;Quixadá Futebol Clube;Quixadá;-4.9711;-39.0153;Estádio Abilhão
+ceara;TERRA E MAR;Terra e Mar Clube;Fortaleza;-3.7172;-38.5433;Estádio Presidente Vargas
+ceara;TIANGUÁ;Tianguá Esporte Clube;Tianguá;-3.7333;-40.9722;Estádio Municipal Tancredo Neves
+ceara;TIRADENTES;Associação Esportiva Tiradentes;Fortaleza;-3.7172;-38.5433;Estádio Presidente Vargas
+ceara;TIROL;Tirol;Fortaleza;-3.71722;-38.54333;Estádio Presidente Vargas
+ceara;UNIÃO;União;Fortaleza;-3.71722;-38.54333;Estádio Presidente Vargas
+ceara;VILA REAL;Vila Real;Fortaleza;-3.71722;-38.54333;Estádio Presidente Vargas
+distrito_federal;ARUC;ARUC;Brasília;-15.77972;-47.92972;Estádio Defelê
+distrito_federal;BOLAMENSE;Bolamense;Samambaia;-15.88583;-48.05389;Estádio Rorizão
+distrito_federal;BRASILIENSE;Brasiliense;Taguatinga;-15.82667;-48.06083;Estádio Serejão
+distrito_federal;BRASÍLIA;Brasília Futebol Clube;Brasília;-15.7939;-47.8828;Estádio Nacional de Brasília Mané Garrincha
+distrito_federal;BRAZLÂNDIA;Associação Atlética Brazlândia;Brazlândia;-15.6736;-48.2036;Estádio Chapadinha
+distrito_federal;CANAÃ;Canaã Esporte Clube;Paranoá;-15.7733;-47.7619;Estádio JK
+distrito_federal;CANDANGO;Candango Futebol Clube;Brasília;-15.7939;-47.8828;Estádio Nacional de Brasília Mané Garrincha
+distrito_federal;CAPITAL;Capital Clube de Futebol;Brasília;-15.7939;-47.8828;Estádio JK
+distrito_federal;CAPITAL CF;Capital Clube de Futebol;Brasília;-15.7939;-47.8828;Estádio JK
+distrito_federal;CEILANDENSE;Clube Esporte Ceilandense;Ceilândia;-15.8267;-48.1033;Estádio Maria de Lourdes Abadia
+distrito_federal;CEILÂNDIA;Ceilândia Esporte Clube;Ceilândia;-15.8267;-48.1033;Estádio Maria de Lourdes Abadia
+distrito_federal;CRUZEIRO;Cruzeiro Esporte Clube;Cruzeiro;-15.7939;-47.9575;Estádio Nacional de Brasília Mané Garrincha
+distrito_federal;GAMA;Sociedade Esportiva do Gama;Gama;-16.0153;-48.0653;Estádio Walmir Campelo Bezerra
+distrito_federal;LEGIÃO;Legião Futebol Clube;Brasília;-15.7939;-47.8828;Estádio Nacional de Brasília Mané Garrincha
+distrito_federal;PARANOÁ;Paranoá Esporte Clube;Paranoá;-15.8111;-47.7333;Estádio JK
+distrito_federal;PLANALTINA;Planaltina Esporte Clube;Planaltina;-15.6236;-47.6733;Estádio Adonir Guimarães
+distrito_federal;REAL BRASÍLIA;Real Brasília Futebol Clube;Brasília;-15.7939;-47.8828;Estádio Defelê
+distrito_federal;RIACHO CITY;Riacho City Futebol Clube;Riacho Fundo;-15.8833;-48.0167;Estádio Rorizão
+distrito_federal;SAMAMBAIA;Samambaia Futebol Clube;Samambaia;-15.8786;-48.0506;Estádio Rorizão
+distrito_federal;SANTA MARIA;Sociedade Esportiva Santa Maria;Santa Maria;-15.9967;-48.0267;Estádio Serra do Lago
+distrito_federal;SESP SAMAMBAENSE;SESP Samambaense;Samambaia;-15.8786;-48.0506;Estádio Rorizão
+distrito_federal;SOBRADINHO;Sobradinho Esporte Clube;Sobradinho;-15.6533;-47.7975;Estádio Augustinho Lima
+distrito_federal;TAGUATINGA;Taguatinga Esporte Clube;Taguatinga;-15.8267;-48.0619;Estádio Elmo Serejo Farias
+espirito_santo;ASTER BRASIL;Aster Brasil Futebol Clube;Vitória;-20.3155;-40.3128;Estádio Kleber Andrade
+espirito_santo;AT. ITAPEMIRIM;Atlético Itapemirim;Itapemirim;-20.8433;-40.8356;Estádio José Olívio Soares
+espirito_santo;CAPIXABA;Capixaba Sporting Club;Vitória;-20.3155;-40.3128;Estádio Kleber Andrade
+espirito_santo;CASTELO;Castelo Futebol Clube;Castelo;-20.6025;-41.1833;Estádio Emílio Nemer
+espirito_santo;CTE COLATINA;CTE Colatina;Colatina;-19.5386;-40.6275;Estádio Justiniano de Melo e Silva
+espirito_santo;DESPORTIVA FERROVIÁRIA;Desportiva Ferroviária;Cariacica;-20.3261;-40.4217;Estádio Engenheiro Araripe
+espirito_santo;ESTRELA DO NORTE;Estrela do Norte;Cachoeiro de Itapemirim;-20.8475;-41.1119;Estádio Mário Monteiro
+espirito_santo;FORTE;Forte;Vitória;-20.3155;-40.3128;Estádio Salvador Costa
+espirito_santo;GEL;GEL;Serra;-20.2417;-40.3375;Estádio Robertão
+espirito_santo;GÁLATAS;Gálatas;Vitória;-20.3155;-40.3128;Estádio Salvador Costa
+espirito_santo;JAGUARÉ;Jaguaré Esporte Clube;Jaguaré;-18.9056;-40.0817;Estádio Conilon
+espirito_santo;LINHARES;Linhares Futebol Clube;Linhares;-19.3911;-40.0722;Estádio Joaquim Calmon
+espirito_santo;NOVA VENÉCIA;Nova Venécia Futebol Clube;Nova Venécia;-18.7056;-40.3933;Estádio Zenor Pedrosa Rocha
+espirito_santo;PINHEIROS;Pinheiros Futebol Clube;Pinheiros;-18.4033;-40.2333;Estádio João Soares de Moura Filho
+espirito_santo;PORTO VITÓRIA;Porto Vitória Futebol Clube;Vitória;-20.3155;-40.3128;Estádio Kleber Andrade
+espirito_santo;REAL NOROESTE;Real Noroeste Capixaba Futebol Clube;Águia Branca;-18.9817;-40.7333;Estádio José Olímpio da Rocha
+espirito_santo;RIO BRANCO;Rio Branco Atlético Clube;Vitória;-20.3155;-40.3128;Estádio Kleber Andrade
+espirito_santo;RIO BRANCO - VN;Rio Branco de Venda Nova;Venda Nova do Imigrante;-20.3225;-41.1353;Estádio Olímpio Perim
+espirito_santo;RIO BRANCO DE VENDA NOVA;Rio Branco de Venda Nova;Venda Nova do Imigrante;-20.3225;-41.1353;Estádio Olímpio Perim
+espirito_santo;SERRA;Serra Futebol Clube;Serra;-20.2417;-40.3083;Estádio Robertão
+espirito_santo;SPORT CAPIXABA;Sport Clube Capixaba;Serra;-20.2417;-40.3083;Estádio Robertão
+espirito_santo;SÃO MATEUS;Associação Atlética São Mateus;São Mateus;-18.7153;-39.8589;Estádio Sernamby
+espirito_santo;TUPY;Tupy Futebol Clube;Vila Velha;-20.3297;-40.2925;Estádio Gil Bernardes
+espirito_santo;VILAVELHENSE;Vilavelhense Futebol Clube;Vila Velha;-20.3297;-40.2925;Estádio Kleber Andrade
+espirito_santo;VITÓRIA;Vitória Futebol Clube;Vitória;-20.3155;-40.3128;Estádio Salvador Costa
+goias;ABD;Associação Beneficente e Desportiva;Goiânia;-16.6869;-49.2648;Estádio Olímpico Pedro Ludovico
+goias;ABECAT OUVIDORENSE;Abecat Ouvidorense;Ouvidor;-18.1558;-47.8667;Estádio Luiz Benedito
+goias;AMÉRICA;América Futebol Clube;Morrinhos;-17.7317;-49.1022;Estádio João Vilela
+goias;ANAPOLINA;Associação Atlética Anapolina;Anápolis;-16.3286;-48.9533;Estádio Jonas Duarte
+goias;ANÁPOLIS;Anápolis Futebol Clube;Anápolis;-16.3286;-48.9533;Estádio Jonas Duarte
+goias;APARECIDA;Aparecida Esporte Clube;Aparecida de Goiânia;-16.8233;-49.2442;Estádio Annibal Batista de Toledo
+goias;APARECIDENSE;Associação Atlética Aparecidense;Aparecida de Goiânia;-16.8233;-49.2442;Estádio Annibal Batista de Toledo
+goias;ASEEV;Associação Esportiva Evangélica;Paraúna;-16.9458;-50.4667;Estádio José Pereira de Souza
+goias;ATLÉTICO GOIANIENSE;Atlético Clube Goianiense;Goiânia;-16.6869;-49.2648;Estádio Antônio Accioly
+goias;BELA VISTA;Bela Vista Futebol Clube;Bela Vista de Goiás;-16.9753;-48.9556;Estádio Geraldo Felipe
+goias;BOM JESUS;Bom Jesus Esporte Clube;Bom Jesus de Goiás;-17.9256;-49.6736;Estádio Gilmar Alves
+goias;BOTAFOGO;Botafogo Futebol Clube;Cristalina;-16.7689;-47.6125;Estádio Municipal Salvador Amado
+goias;CENTRO OESTE;Centro Oeste Futebol Clube;Senador Canedo;-16.7036;-49.0953;Estádio Plínio José de Souza
+goias;CERRADO;Cerrado Esporte Clube;Aparecida de Goiânia;-16.8225;-49.2436;Estádio Annibal Batista de Toledo
+goias;CRAC;Clube Recreativo e Atlético Catalano;Catalão;-18.1636;-47.9458;Estádio Genervino da Fonseca
+goias;CRIXÁS;Crixás Esporte Clube;Crixás;-14.5467;-49.9733;Estádio Genervino da Fonseca
+goias;FORMOSA;Bosque Formosa Esporte Clube;Formosa;-15.5389;-47.3356;Estádio Diogão
+goias;GOIANÉSIA;Goianésia Esporte Clube;Goianésia;-15.3167;-49.1256;Estádio Valdeir José de Oliveira
+goias;GOIATUBA;Goiatuba Esporte Clube;Goiatuba;-18.0158;-49.3553;Estádio Divino Garcia Rosa
+goias;GOIÁS;Goiás Esporte Clube;Goiânia;-16.6869;-49.2647;Estádio Hailé Pinheiro
+goias;GOIÂNIA;Goiânia Esporte Clube;Goiânia;-16.6869;-49.2647;Estádio Olímpico Pedro Ludovico Teixeira
+goias;GRÊMIO ANÁPOLIS;Grêmio Anápolis;Anápolis;-16.3286;-48.9533;Estádio Jonas Duarte
+goias;GRÊMIO VALPARAÍSO;Grêmio Valparaíso;Valparaíso de Goiás;-16.0636;-47.9753;Estádio Municipal de Valparaíso
+goias;GUANABARA CITY;Guanabara City;Goiânia;-16.6869;-49.2648;Estádio Olímpico Pedro Ludovico
+goias;INDEPENDENTE DE RIO VERDE;Independente de Rio Verde;Rio Verde;-17.7919;-50.9239;Estádio Mozart Veloso do Carmo
+goias;INHUMAS;Inhumas;Inhumas;-16.3636;-49.5058;Estádio Zico Brandão
+goias;IPORÁ;Iporá;Iporá;-16.4417;-51.1172;Estádio Francisco José Ferreira
+goias;ITABERAÍ;Itaberaí Esporte Clube;Itaberaí;-16.0186;-49.8153;Estádio Rio das Pedras
+goias;ITUMBIARA;Itumbiara Esporte Clube;Itumbiara;-18.4186;-49.2186;Estádio Municipal João Martins
+goias;JARAGUÁ;Jaraguá Esporte Clube;Jaraguá;-15.7564;-49.3356;Estádio Amintas de Freitas
+goias;JATAIENSE;Associação Atlética Jataiense;Jataí;-17.8814;-51.7142;Estádio Municipal Nelson Antônio da Silva
+goias;LUZIÂNIA;Associação Atlética Luziânia;Luziânia;-16.2514;-47.9514;Estádio Municipal Zequinha Roriz
+goias;MINEIROS;Mineiros Esporte Clube;Mineiros;-17.5675;-52.5511;Estádio Odilon Flores
+goias;MONTE CRISTO;Monte Cristo Esporte Clube;Goiânia;-16.6809;-49.2533;Estádio Olímpico Pedro Ludovico
+goias;MORRINHOS;Morrinhos Futebol Clube;Morrinhos;-17.7317;-49.1025;Estádio João Vilela
+goias;PIRES DO RIO;Pires do Rio Futebol Clube;Pires do Rio;-17.2997;-48.2897;Estádio Edson Monteiro de Godoy
+goias;RIO VERDE;Esporte Clube Rio Verde;Rio Verde;-17.7919;-50.9244;Estádio Mozart Veloso do Carmo
+goias;RIOVERDENSE;Associação Esportiva Rioverdense;Rio Verde;-17.7919;-50.9244;Estádio Mozart Veloso do Carmo
+goias;ROYAL;Royal Esporte Clube;Senador Canedo;-16.7036;-49.0953;Estádio Plínio José de Souza
+goias;SANTA HELENA;Santa Helena Esporte Clube;Santa Helena de Goiás;-17.8208;-50.5975;Estádio Pedro Romualdo Cabral
+goias;TRINDADE;Trindade Atlético Clube;Trindade;-16.6486;-49.4889;Estádio Abrão Manoel da Costa
+goias;TUPY;Tupy de Jussara;Jussara;-15.8653;-50.8753;Estádio Geraldo Rodrigues
+goias;UNIÃO INHUMAS;União Inhumas Esporte Clube;Inhumas;-16.3658;-49.5067;Estádio Zico Brandão
+goias;URUAÇU;Uruaçu Futebol Clube;Uruaçu;-14.5225;-49.1417;Estádio Serra Grande
+goias;VILA NOVA;Vila Nova Futebol Clube;Goiânia;-16.6799;-49.255;Estádio Onésio Brasileiro Alvarenga
+maranhao;AMERICANO;Americano Futebol Clube;São Luís;-2.5307;-44.3068;Estádio Nhozinho Santos
+maranhao;ARAIOSES;Araioses Futebol Clube;Araioses;-2.8917;-41.9008;Estádio Cardosão
+maranhao;ATLÉTICO BACABAL;Atlético Bacabal Esporte Clube;Bacabal;-4.2264;-44.7819;Estádio José Corrêa
+maranhao;BACABAL;Bacabal Esporte Clube;Bacabal;-4.2264;-44.7819;Estádio José Corrêa
+maranhao;BALSAS;Balsas Esporte Clube;Balsas;-7.5333;-46.0333;Estádio Cássio Reis
+maranhao;CHAPADINHA;Chapadinha Futebol Clube;Chapadinha;-3.7417;-43.3533;Estádio Lucídio Frazão
+maranhao;CORDINO;Cordino Esporte Clube;Barra do Corda;-5.5019;-45.2506;Estádio Municipal Leandro Cláudio da Silva
+maranhao;EXPRESSINHO;Expressinho Futebol Clube;São Luís;-2.5307;-44.3068;Estádio Governador João Castelo
+maranhao;IAPE;IAPE;São Luís;-2.5307;-44.3068;Estádio Governador João Castelo
+maranhao;IMPERATRIZ;Sociedade Imperatriz de Desportos;Imperatriz;-5.5264;-47.4917;Estádio Frei Epifânio D'Abadia
+maranhao;ITZ SPORT;ITZ Sport;Imperatriz;-5.5264;-47.4917;Estádio Frei Epifânio D'Abadia
+maranhao;JUVENTUDE;Sociedade Esportiva Juventude;São Mateus do Maranhão;-4.0333;-44.95;Estádio Pinheirão
+maranhao;LAGO VERDE;Lago Verde Esporte Clube;Lago Verde;-3.58333;-45.1667;Estádio Municipal de Lago Verde
+maranhao;LUMINENSE;Luminense Futebol Clube;São Luís;-2.53073;-44.3068;Estádio Governador João Castelo
+maranhao;MARANHÃO;Maranhão Atlético Clube;São Luís;-2.53073;-44.3068;Estádio Governador João Castelo
+maranhao;MOTO CLUB;Moto Club de São Luís;São Luís;-2.53073;-44.3068;Estádio Governador João Castelo
+maranhao;PINHEIRO;Pinheiro Atlético Clube;Pinheiro;-2.52139;-45.0825;Estádio Municipal Costa Rodrigues
+maranhao;SABIÁ;Sabiá Futebol Clube;Caxias;-4.86722;-43.3553;Estádio Municipal Duque de Caxias
+maranhao;SAMPAIO CORRÊA;Sampaio Corrêa Futebol Clube;São Luís;-2.5307;-44.3068;Estádio Governador João Castelo
+maranhao;SÃO JOSÉ;Sociedade Esportiva São José;São José de Ribamar;-2.5617;-44.0583;Estádio Municipal Dário Santos
+maranhao;SÃO LUÍS;São Luís Futebol Clube;São Luís;-2.5307;-44.3068;Estádio Governador João Castelo
+maranhao;TUNTUM;Tuntum Esporte Clube;Tuntum;-5.2533;-44.6597;Estádio Rafael Seabra
+maranhao;TUPAN;Tupan Atlético Clube;São Luís;-2.5307;-44.3068;Estádio Governador João Castelo
+maranhao;VIANA;Viana Esporte Clube;Viana;-3.2233;-45.0019;Estádio Daniel Filho
+mato_grosso;ACADEMIA;Academia Futebol Clube;Rondonópolis;-16.4677;-54.6351;Estádio Municipal Engenheiro Luthero Lopes
+mato_grosso;ARAGUAIA;ARAGUAIA;Barra do Garças;-15.8917;-52.2594;Estádio Municipal José Valeriano Costa
+mato_grosso;ATLÉTICO;Clube Atlético Matogrossense;Cuiabá;-15.6014;-56.0979;Arena Pantanal
+mato_grosso;AÇÃO;Ação Futebol;Cuiabá;-15.6014;-56.0979;Arena Pantanal
+mato_grosso;CACERENSE;Cacerense Esporte Clube;Cáceres;-16.0717;-57.6764;Estádio Geraldão
+mato_grosso;CAMPO NOVO;Campo Novo Esporte Clube;Campo Novo do Parecis;-13.6736;-57.8864;Estádio Ari Tomazelli
+mato_grosso;CEOV OPERÁRIO;Clube Esportivo Operário Várzea-Grandense;Várzea Grande;-15.6536;-56.1333;Arena Pantanal
+mato_grosso;CHAPADA;Chapada Futebol Clube;Chapada dos Guimarães;-15.4606;-55.7497;Estádio Municipal de Chapada dos Guimarães
+mato_grosso;CUIABÁ;Cuiabá Esporte Clube;Cuiabá;-15.601;-56.0974;Arena Pantanal
+mato_grosso;CUIABÁ B;Cuiabá Esporte Clube;Cuiabá;-15.601;-56.0974;Arena Pantanal
+mato_grosso;CÁCERES;Cáceres Esporte Clube;Cáceres;-16.0708;-57.675;Estádio Geraldão
+mato_grosso;DOM BOSCO;Clube Esportivo Dom Bosco;Cuiabá;-15.601;-56.0974;Arena Pantanal
+mato_grosso;JUARA;Juara Atlético Clube;Juara;-11.2619;-57.5358;Estádio Municipal Danilo Pagot
+mato_grosso;LUVERDENSE;Luverdense Esporte Clube;Lucas do Rio Verde;-12.6058;-55.9192;Estádio Municipal Passo das Emas
+mato_grosso;MIXTO;Mixto Esporte Clube;Cuiabá;-15.5961;-56.0969;Arena Pantanal
+mato_grosso;MUTUM;Nova Mutum Esporte Clube;Nova Mutum;-13.8294;-56.0814;Estádio Municipal Valdir Doilho Wons
+mato_grosso;NOVA MUTUM;Nova Mutum Esporte Clube;Nova Mutum;-13.8294;-56.0814;Estádio Municipal Valdir Doilho Wons
+mato_grosso;OPERÁRIO;Clube Esportivo Operário Várzea-Grandense;Várzea Grande;-15.6533;-56.1336;Arena Pantanal
+mato_grosso;OPERÁRIO CEOV;Operário Várzea-Grandense;Várzea Grande;-15.6536;-56.1333;Arena Pantanal
+mato_grosso;PAULISTANO;Paulistano Esporte Clube;Cuiabá;-15.5961;-56.0969;Arena Pantanal
+mato_grosso;POCONÉ;Poconé Esporte Clube;Poconé;-16.2567;-56.6228;Estádio Municipal Neco Falcão
+mato_grosso;PRIMAVERA;Primavera Atlético Clube;Primavera do Leste;-15.5583;-54.2958;Estádio Municipal Cerradão
+mato_grosso;RONDONÓPOLIS;Rondonópolis Esporte Clube;Rondonópolis;-16.4683;-54.6358;Estádio Municipal Engenheiro Luthero Lopes
+mato_grosso;SANTA CRUZ;Santa Cruz Esporte Clube;Barra do Bugres;-15.0756;-57.1819;Estádio Municipal Lamartine Ribeiro de Sales
+mato_grosso;SINOP;Sinop Futebol Clube;Sinop;-11.8536;-55.5033;Estádio Municipal Gigante do Norte
+mato_grosso;SORRISO;Sorriso Esporte Clube;Sorriso;-12.5453;-55.7147;Estádio Municipal Egídio José Preima
+mato_grosso;SPORT SINOP;Sport Sinop;Sinop;-11.8536;-55.5033;Estádio Municipal Gigante do Norte
+mato_grosso;UIRAPURU;Uirapuru Esporte Clube;Cuiabá;-15.601;-56.0979;Arena Pantanal
+mato_grosso;UNIÃO DE RONDONÓPOLIS;União Esporte Clube;Rondonópolis;-16.4683;-54.6356;Estádio Municipal Engenheiro Luthero Lopes
+mato_grosso;UNIÃO RONDONÓPOLIS;União Esporte Clube;Rondonópolis;-16.4683;-54.6356;Estádio Municipal Engenheiro Luthero Lopes
+mato_grosso_do_sul;7 DE SETEMBRO;7 de Setembro;Dourados;-22.2206;-54.8058;Estádio Fredis Saldanha
+mato_grosso_do_sul;AQUIDAUANENSE;Aquidauanense;Aquidauana;-20.4736;-55.7833;Estádio Municipal Noroeste
+mato_grosso_do_sul;BATAGUASSU;Bataguassu;Bataguassu;-21.7175;-52.4236;Estádio Municipal de Bataguassu
+mato_grosso_do_sul;CEART;Ceart;Dourados;-22.2206;-54.8058;Estádio Fredis Saldanha
+mato_grosso_do_sul;COMERCIAL;Comercial;Campo Grande;-20.4486;-54.6291;Estádio Universitário Pedro Pedrossian
+mato_grosso_do_sul;COMERCIAL DE TRÊS LAGOAS;Comercial de Três Lagoas;Três Lagoas;-20.7514;-51.6783;Estádio Benedito Soares da Mota
+mato_grosso_do_sul;CORUMBAENSE;Corumbaense Futebol Clube;Corumbá;-19.0053;-57.6473;Estádio Arthur Marinho
+mato_grosso_do_sul;COSTA RICA;Costa Rica Esporte Clube;Costa Rica;-18.5567;-53.1111;Estádio Laertão
+mato_grosso_do_sul;COXIM;Coxim Atlético Clube;Coxim;-18.5067;-54.7603;Estádio André Borges
+mato_grosso_do_sul;CR AQUIDAUANA;Aquidauanense Futebol Clube;Aquidauana;-20.4733;-55.7833;Estádio Noroeste
+mato_grosso_do_sul;DOURADOS;Dourados Atlético Clube;Dourados;-22.2222;-54.8033;Estádio Douradão
+mato_grosso_do_sul;IVINHEMA;Ivinhema Futebol Clube;Ivinhema;-22.3017;-53.8156;Estádio Saraivão
+mato_grosso_do_sul;MARACAJU;Maracaju Atlético Clube;Maracaju;-21.6119;-55.1681;Estádio Municipal Luiz Gonzaga Prata Braga
+mato_grosso_do_sul;MISTO;Misto Esporte Clube;Três Lagoas;-20.7514;-51.6783;Estádio Madrugadão
+mato_grosso_do_sul;MORENINHAS;Esporte Clube Moreninhas;Campo Grande;-20.4428;-54.6461;Estádio Jacques da Luz
+mato_grosso_do_sul;NAVIRAIENSE;Clube Esportivo Naviraiense;Naviraí;-23.0636;-54.1903;Estádio Virotão
+mato_grosso_do_sul;NOVA ANDRADINA;Sociedade Esportiva Nova Andradina;Nova Andradina;-22.2386;-53.3317;Estádio Andradão
+mato_grosso_do_sul;NOVOPERÁRIO;Novoperário Futebol Clube;Campo Grande;-20.4428;-54.6461;Estádio Jacques da Luz
+mato_grosso_do_sul;NÁUTICO;Clube Náutico Futebol Clube;Campo Grande;-20.4486;-54.6291;Estádio Jacques da Luz
+mato_grosso_do_sul;OPERÁRIO;Operário Futebol Clube;Campo Grande;-20.4486;-54.6291;Estádio Universitário Pedro Pedrossian
+mato_grosso_do_sul;PANTANAL;Pantanal Futebol Clube;Ladário;-19.0039;-57.6019;Estádio Vicente Fortunato
+mato_grosso_do_sul;PONTAPORANENSE;Clube Esportivo Pontaporanense;Ponta Porã;-22.5375;-55.7256;Estádio Aral Moreira
+mato_grosso_do_sul;PORTUGUESA;Associação Atlética Portuguesa;Campo Grande;-20.4486;-54.6291;Estádio Jacques da Luz
+mato_grosso_do_sul;SERC;Sociedade Esportiva e Recreativa Chapadão;Chapadão do Sul;-18.7833;-52.6236;Estádio Municipal da Serrinha
+mato_grosso_do_sul;SÃO GABRIEL;Sociedade Esportiva São Gabriel;São Gabriel do Oeste;-19.3769;-54.5586;Estádio Municipal de São Gabriel do Oeste
+mato_grosso_do_sul;TAVEIRÓPOLIS;Esporte Clube Taveirópolis;Campo Grande;-20.4428;-54.6464;Estádio Jacques da Luz
+mato_grosso_do_sul;TRÊS LAGOAS;Três Lagoas Sport Club;Três Lagoas;-20.7514;-51.6783;Estádio Benedito Soares da Mota
+mato_grosso_do_sul;UNIÃO;União Futebol Clube;Campo Grande;-20.4428;-54.6464;Estádio Jacques da Luz
+mato_grosso_do_sul;ÁGUIA NEGRA;Esporte Clube Águia Negra;Rio Brilhante;-21.8036;-54.5453;Estádio Iliê Vidal
+minas_gerais;AE PARACATU;Paracatu Futebol Clube;Paracatu;-17.2217;-46.8756;Estádio Frei Norberto
+minas_gerais;AMÉRICA MINEIRO;América Futebol Clube;Belo Horizonte;-19.9167;-43.9345;Arena Independência
+minas_gerais;AMÉRICA T.O;América Futebol Clube (Teófilo Otoni);Teófilo Otoni;-17.8583;-41.5056;Estádio Nassri Mattar
+minas_gerais;ARAGUARI;Araguari Atlético Clube;Araguari;-18.6456;-48.1883;Estádio Vasconcelos Montes
+minas_gerais;ARAXÁ;Araxá Esporte Clube;Araxá;-19.5908;-46.9436;Estádio Fausto Alvim
+minas_gerais;ATHLETIC;Athletic Club;São João del-Rei;-21.1361;-44.2597;Estádio Joaquim Portugal
+minas_gerais;ATHLETIC CLUB;Athletic Club;São João del-Rei;-21.1361;-44.2597;Estádio Joaquim Portugal
+minas_gerais;ATL. TRÊS CORAÇÕES;Atlético Clube Três Corações;Três Corações;-21.6967;-45.2533;Estádio Municipal Elias Arbex
+minas_gerais;ATLHETIC CE;Athletic Club;São João del-Rei;-21.1375;-44.2619;Estádio Joaquim Portugal
+minas_gerais;ATLÉTICO MINEIRO;Clube Atlético Mineiro;Belo Horizonte;-19.9167;-43.9345;Arena MRV
+minas_gerais;ATLÉTICO PATROCINENSE;Clube Atlético Patrocinense;Patrocínio;-18.9436;-46.9936;Estádio Pedro Alves do Nascimento
+minas_gerais;AYMORÉS;Clube Atlético Aymorés;Ubá;-21.1217;-42.9375;Estádio Affonso de Carvalho
+minas_gerais;BETIM FUTEBOL;Betim Futebol;Betim;-19.9733;-44.2014;Arena Vera Cruz
+minas_gerais;BETIS;Betis Futebol Clube;Ouro Branco;-20.5167;-43.7028;Estádio Municipal José Mapa Filho
+minas_gerais;BOA;Boa Esporte Clube;Varginha;-21.56;-45.4333;Estádio Municipal Prefeito Dilzon Luiz de Melo
+minas_gerais;BOA ESPORTE;Boa Esporte Clube;Varginha;-21.56;-45.4333;Estádio Municipal Prefeito Dilzon Luiz de Melo
+minas_gerais;BOSTON CITY BRASIL;Boston City Futebol Clube Brasil;Manhuaçu;-20.2639;-42.0353;Estádio JK
+minas_gerais;CA PATROCINENSE;Clube Atlético Patrocinense;Patrocínio;-18.9417;-46.9936;Estádio Pedro Alves do Nascimento
+minas_gerais;CALDENSE;Associação Atlética Caldense;Poços de Caldas;-21.7847;-46.5633;Estádio Municipal Doutor Ronaldo Junqueira
+minas_gerais;CAP DE UBERLÂNDIA;Clube Atlético Portal;Uberlândia;-18.9186;-48.2772;Parque do Sabiá
+minas_gerais;COIMBRA;Coimbra Esporte Clube;Contagem;-19.9319;-44.0539;Estádio Municipal de Contagem
+minas_gerais;COIMBRA-MG B;Coimbra Esporte Clube;Contagem;-19.9319;-44.0539;Estádio Municipal de Contagem
+minas_gerais;CONTAGEM;Contagem Esporte Clube;Contagem;-19.9319;-44.0539;Estádio Municipal de Contagem
+minas_gerais;CRUZEIRO;Cruzeiro Esporte Clube;Belo Horizonte;-19.9167;-43.9345;Mineirão
+minas_gerais;DEMOCRATA;Esporte Clube Democrata;Governador Valadares;-18.8528;-41.9478;Estádio José Mammoud Abbas
+minas_gerais;ESSUBE;ESSUBE;Uberlândia;-18.9186;-48.2772;Parque do Sabiá
+minas_gerais;FIGUEIRENSE;Figueirense Esporte Clube;São João del-Rei;-21.1375;-44.2619;Estádio Coronel Afonso de Moura Castro
+minas_gerais;GUARANI;Guarani Esporte Clube;Divinópolis;-20.1453;-44.8903;Estádio Waldemar Teixeira de Faria
+minas_gerais;INTER DE MINAS;Associação Atlética Internacional de Minas Gerais;Itaúna;-20.0733;-44.5786;Estádio José Flávio de Carvalho
+minas_gerais;INTER SÃO GOTARDO;Esporte Clube Internacional;São Gotardo;-19.3033;-46.0436;Estádio Olavo Bilac
+minas_gerais;IPATINGA;Ipatinga Futebol Clube;Ipatinga;-19.4672;-42.5375;Estádio Municipal Epaminondas Mendes Brito
+minas_gerais;ITABIRITO;Itabirito Futebol Clube;Itabirito;-20.2486;-43.8044;Estádio Coronel Afonso de Moura Castro
+minas_gerais;JUVENTUS DE MINAS NOVAS;JUVENTUS DE MINAS NOVAS;Minas Novas;-17.2183;-42.5875;Estádio Municipal Dr. Mário de Oliveira
+minas_gerais;MAMORÉ;Esporte Clube Mamoré;Patos de Minas;-18.5833;-46.5167;Estádio Bernardo Rubinger de Queiroz
+minas_gerais;MANCHESTER FUTEBOL;Manchester Futebol;Juiz de Fora;-21.7644;-43.3494;Estádio Municipal Radialista Mário Helênio
+minas_gerais;NACIONAL ATL. MURIAÉ;Nacional Atlético Clube;Muriaé;-21.1389;-42.3667;Estádio Soares de Azevedo
+minas_gerais;NACIONAL UBERABA;Nacional Futebol Clube;Uberaba;-19.7489;-47.9333;Estádio Uberabão
+minas_gerais;NORTH ESPORTE CLUBE;North Esporte Clube;Montes Claros;-16.735;-43.8603;Estádio José Maria de Melo
+minas_gerais;NOVO ESPORTE;Novo Esporte Clube Ipatinga;Ipatinga;-19.4672;-42.5375;Estádio Ipatingão
+minas_gerais;PASSOS;Esporte Clube Passos;Passos;-20.7186;-46.6103;Estádio Starling Soares
+minas_gerais;PATROCINENSE;Clube Atlético Patrocinense;Patrocínio;-18.9433;-46.9936;Estádio Pedro Alves do Nascimento
+minas_gerais;PIRAPORA;Pirapora Futebol Clube;Pirapora;-17.3536;-44.9367;Estádio Municipal Otaviano Alvim
+minas_gerais;POUSO ALEGRE;Pouso Alegre Futebol Clube;Pouso Alegre;-22.2303;-45.9336;Estádio Manduzão
+minas_gerais;POÇOS DE CALDAS;Poços de Caldas Futebol Clube;Poços de Caldas;-21.7847;-46.5635;Estádio Doutor Ronaldo Junqueira
+minas_gerais;SANTARRITENSE;Associação Esportiva Santarritense;Santa Rita do Sapucaí;-22.2486;-45.7056;Estádio Coronel Erasmo Cabral
+minas_gerais;SERRANENSE;Esporte Clube Serranense;Nova Serrana;-19.8736;-44.9833;Arena do Calçado
+minas_gerais;SOCIAL;Social Futebol Clube;Coronel Fabriciano;-19.5167;-42.6256;Estádio Louis Ensch
+minas_gerais;TOMBENSE;Tombense Futebol Clube;Tombos;-20.7658;-42.0256;Estádio Antônio Guimarães de Almeida
+minas_gerais;TUPI;Tupi Football Club;Juiz de Fora;-21.7645;-43.3496;Estádio Municipal Radialista Mário Helênio
+minas_gerais;TUPYNAMBÁS;Tupynambás Futebol Clube;Juiz de Fora;-21.7645;-43.3496;Estádio Municipal Radialista Mário Helênio
+minas_gerais;UBERABA;Uberaba Sport Club;Uberaba;-19.7489;-47.9325;Estádio Municipal Engenheiro João Guido
+minas_gerais;UBERLÂNDIA;Uberlândia Esporte Clube;Uberlândia;-18.9186;-48.2772;Estádio Municipal Parque do Sabiá
+minas_gerais;UNAÍ;Unaí Esporte Clube;Unaí;-16.3575;-46.9058;Estádio Urbano Adjuto
+minas_gerais;UNIÃO LUZIENSE;União Luziense Esporte Clube;Santa Luzia;-19.7725;-43.8547;Estádio Municipal Victor Andrade de Brito
+minas_gerais;URT;União Recreativa dos Trabalhadores;Patos de Minas;-18.5833;-46.5167;Estádio Zama Maciel
+minas_gerais;VALERIODOCE;Valeriodoce Esporte Clube;Itabira;-19.6133;-43.2275;Estádio Israel Pinheiro
+minas_gerais;VARGINHA;Varginha Esporte Clube;Varginha;-21.56;-45.4325;Estádio Municipal Prefeito Dilzon Luiz de Melo
+minas_gerais;VILLA NOVA;Villa Nova Atlético Clube;Nova Lima;-19.9858;-43.8486;Estádio Municipal Castor Cifuentes
+minas_gerais;VILLA REAL;Villa Real Esporte Clube;Juiz de Fora;-21.7644;-43.3494;Estádio Municipal Radialista Mário Helênio
+para;AGUIA DE MARABA;Águia de Marabá Futebol Clube;Marabá;-5.3556;-49.1122;Estádio Municipal Zinho de Oliveira
+para;ALTAMIRA;Altamira Esporte Clube;Altamira;-3.2028;-52.2064;Estádio Municipal Esplanada
+para;AMAZÔNIA INDEPENDENTE;Amazônia Independente;Santarém;-2.4453;-54.7084;Estádio Colosso do Tapajós
+para;ATLÉTICO PARAENSE;Atlético Paraense;Parauapebas;-6.0714;-49.9022;Estádio Rosenão
+para;BELENENSE;Belenense;Belém;-1.4558;-48.4902;Estádio Francisco Vasques
+para;BRAGANTINO;Bragantino Clube do Pará;Bragança;-1.0536;-46.7653;Estádio Diogão
+para;CAETÉ;Caeté;Bragança;-1.0536;-46.7653;Estádio Diogão
+para;CAMETÁ;Cametá Sport Club;Cametá;-2.2475;-49.4953;Estádio Parque do Bacurau
+para;CANAÃ;Canaã Esporte Clube;Canaã dos Carajás;-6.5033;-49.8767;Estádio Municipal José Raimundo Roseno Araújo
+para;CAPITÃO POÇO;CAPITÃO POÇO;Capitão Poço;-1.7486;-47.0614;Estádio Municipal São Benedito
+para;CARAJÁS;Carajás Esporte Clube;Belém;-1.4558;-48.4902;Estádio Estadual Jornalista Edgar Augusto Proença
+para;CASTANHAL;Castanhal Esporte Clube;Castanhal;-1.2947;-47.9175;Estádio Maximino Porpino Filho
+para;ESMAC;Escola Superior Madre Celeste;Ananindeua;-1.3636;-48.3756;Estádio Francisco Vasques
+para;FONTE NOVA;Fonte Nova Esporte Clube;Belém;-1.4558;-48.4902;Estádio Estadual Jornalista Edgar Augusto Proença
+para;GAVIÃO KYIKATEJÊ;Gavião Kyikatejê;Marabá;-5.3575;-49.1233;Estádio Municipal Zinho de Oliveira
+para;GRÊMIO CARAJÁS;Grêmio Carajás;Parauapebas;-6.0725;-49.9025;Estádio Rosenão
+para;INDEPENDENTE;Independente Atlético Clube;Tucuruí;-3.7667;-49.6725;Estádio Municipal Antônio Dias
+para;INDEPENDENTE TUCURUÍ;Independente Atlético Clube;Tucuruí;-3.7667;-49.6725;Estádio Municipal Antônio Dias
+para;ITUPIRANGA;Esporte Clube Itupiranga;Itupiranga;-5.1458;-49.3333;Estádio Municipal Jaime Sena Pimentel
+para;IZABELENSE;Sport Club Izabelense;Santa Izabel do Pará;-1.3008;-48.1617;Estádio Edilson Abreu
+para;MARAJÓ;Marajó Esporte Clube;Belém;-1.4558;-48.4902;Estádio Olímpico do Pará
+para;PARAENSE;Paraense Sport Club;Belém;-1.4558;-48.4902;Estádio Olímpico do Pará
+para;PARAGOMINAS;Paragominas Futebol Clube;Paragominas;-2.9944;-47.3497;Arena Verde
+para;PARAUAPEBAS;Parauapebas Futebol Clube;Parauapebas;-6.0717;-49.9022;Estádio Rosenão
+para;PAYSANDU;Paysandu Sport Club;Belém;-1.4558;-48.4902;Estádio Leônidas Sodré de Castro
+para;PEDREIRA;Pedreira Esporte Clube;Belém;-1.4558;-48.4902;Estádio Olímpico do Pará
+para;PINHEIRENSE;Pinheirense Esporte Clube;Belém;-1.4558;-48.4902;Estádio Abelardo Conduru
+para;REMO;Clube do Remo;Belém;-1.4558;-48.4902;Estádio Evandro Almeida
+para;SANTA ROSA;Associação Atlética Santa Rosa;Belém;-1.4558;-48.4902;Estádio Olímpico do Pará
+para;SANTOS;Santos Futebol Clube;Belém;-1.4558;-48.4902;Estádio Olímpico do Pará
+para;SPORT BELÉM;Sport Club Belém;Belém;-1.4558;-48.4902;Estádio Olímpico do Pará
+para;SPORTING MARACANÃ;Sporting Maracanã Esporte Clube;Maracanã;-0.7736;-47.4553;Estádio Fumeirão
+para;SÃO FRANCISCO;São Francisco Futebol Clube;Santarém;-2.4431;-54.7083;Estádio Colosso do Tapajós
+para;SÃO RAIMUNDO;São Raimundo Esporte Clube;Santarém;-2.4431;-54.7083;Estádio Colosso do Tapajós
+para;TAPAJÓS;Tapajós Esporte Clube;Santarém;-2.4431;-54.7083;Estádio Colosso do Tapajós
+para;TESLA;Tesla Futebol Clube;Belém;-1.4558;-48.4902;Estádio Olímpico do Pará
+para;TIRADENTES;Associação Atlética Tiradentes;Belém;-1.4558;-48.4902;Estádio Olímpico do Pará
+para;TUNA LUSO;Tuna Luso Brasileira;Belém;-1.4558;-48.4902;Estádio Francisco Vasques
+para;UNIÃO PARAENSE;União Paraense;Marabá;-5.3575;-49.1233;Estádio Zinho de Oliveira
+para;URUMAJÓ;Urumajó;Augusto Corrêa;-1.0167;-46.65;Estádio Municipal de Augusto Corrêa
+para;VILA RICA;Vila Rica;Belém;-1.4558;-48.4902;Estádio Olímpico do Pará
+para;VÊNUS;Vênus;Abaetetuba;-1.7217;-48.8803;Estádio Humberto Parente
+para;ÁGUIA;Águia de Marabá;Marabá;-5.3575;-49.1233;Estádio Zinho de Oliveira
+paraiba;ATLÉTICO;Atlético Cajazeirense de Desportos;Cajazeiras;-6.8936;-38.5614;Estádio Perpetão
+paraiba;ATLÉTICO DE CAJAZEIRAS;Atlético Cajazeirense de Desportos;Cajazeiras;-6.8919;-38.5617;Estádio Governador Perpetuo Correa Lima
+paraiba;AUTO ESPORTE;Auto Esporte Clube;João Pessoa;-7.115;-34.8642;Estádio José Américo de Almeida Filho
+paraiba;BOTAFOGO;Botafogo Futebol Clube;João Pessoa;-7.115;-34.8642;Estádio José Américo de Almeida Filho
+paraiba;BOTAFOGO PB;Botafogo Futebol Clube;João Pessoa;-7.115;-34.8642;Estádio José Américo de Almeida Filho
+paraiba;CAMPINENSE;Campinense Clube;Campina Grande;-7.2306;-35.8814;Estádio Governador Ernani Sátyro
+paraiba;CONFIANÇA;Associação Desportiva Confiança;Sapé;-7.0917;-35.2333;Estádio Municipal Dr. Tadeu Cruz
+paraiba;CRUZEIRO;Cruzeiro de Itaporanga;Itaporanga;-7.3025;-38.1553;Estádio José Cavalcanti
+paraiba;CSP;Centro Sportivo Paraibano;João Pessoa;-7.115;-34.8642;Estádio Almeidão
+paraiba;DESPORTIVA GUARABIRA;Desportiva Guarabira;Guarabira;-6.9856;-35.4936;Estádio Sílvio Porto
+paraiba;ESPORTE;Esporte Clube de Patos;Patos;-7.0233;-37.2753;Estádio José Cavalcanti
+paraiba;FEMAR;Femar;João Pessoa;-7.115;-34.8642;Estádio Almeidão
+paraiba;INTERNACIONAL;Internacional Esporte Clube;João Pessoa;-7.115;-34.8642;Estádio Almeidão
+paraiba;MIRAMAR;Miramar Esporte Clube;Cabedelo;-6.9814;-34.8361;Estádio Francisco Figueiredo de Lima
+paraiba;NACIONAL;Nacional Atlético Clube;Patos;-7.0233;-37.2753;Estádio José Cavalcanti
+paraiba;PERILIMA;Desportiva Perilima de Futebol Ltda;Campina Grande;-7.2307;-35.8814;Estádio Governador Ernani Sátyro
+paraiba;PICUIENSE;Clube Atlético Picuiense;Picuí;-6.4958;-36.3386;Estádio Amauri Sales de Melo
+paraiba;POMBAL;Pombal Esporte Clube;Pombal;-6.7675;-37.8028;Estádio José Cavalcanti
+paraiba;QUEIMADENSE;Associação Desportiva Queimadense;Queimadas;-7.3639;-35.7256;Estádio Governador Ernani Sátyro
+paraiba;SABUGY;Sabugy Futebol Clube;Santa Luzia;-6.86667;-36.9167;Estádio Municipal de Santa Luzia
+paraiba;SERRA BRANCA;Serra Branca Esporte Clube;Serra Branca;-7.47139;-36.6567;Estádio Amigão
+paraiba;SERRANO;Serrano Futebol Clube;Serra Redonda;-7.27583;-35.6556;Estádio Amigão
+paraiba;SOUSA;Sousa Esporte Clube;Sousa;-6.76056;-38.2317;Estádio Marizão
+paraiba;SPARTAX;Spartax Sport Club;João Pessoa;-7.115;-34.8642;Estádio Almeidão
+paraiba;SPORT LAGOA SECA;Sport Club Lagoa Seca;Lagoa Seca;-7.17111;-35.8586;Estádio Amigão
+paraiba;SÃO PAULO CRYSTAL;São Paulo Crystal;Cruz do Espírito Santo;-7.1369;-35.1056;Estádio Carneirão
+paraiba;TREZE;Treze;Campina Grande;-7.2306;-35.8814;Estádio Amigão
+parana;ANDRAUS;Andraus Brasil;Campo Largo;-25.4583;-49.375;Estádio Atílio Gionédis
+parana;APUCARANA SPORTS;Apucarana Sports;Apucarana;-23.5528;-51.4608;Estádio Olímpico Regional
+parana;ARAPONGAS;Arapongas Esporte Clube;Arapongas;-23.4153;-51.4333;Estádio José Chiappin
+parana;ARAUCÁRIA;Araucária Esporte Clube;Araucária;-25.5944;-49.4075;Estádio Municipal Emílio Gunther
+parana;ARUKO;Galo Maringá;Maringá;-23.421;-51.933;Estádio Willie Davids
+parana;ATHLETICO PARANAENSE;Athletico Paranaense;Curitiba;-25.4284;-49.2733;Ligga Arena
+parana;ATHLETICO PARANAENSE B;Athletico Paranaense;Curitiba;-25.4284;-49.2733;Ligga Arena
+parana;AZURIZ;Azuriz;Pato Branco;-26.225;-52.671;Estádio Os Pioneiros
+parana;AZURIZ FUTEBOL;Azuriz;Pato Branco;-26.225;-52.671;Estádio Os Pioneiros
+parana;BATEL;Batel;Guarapuava;-25.393;-51.495;Estádio Waldomiro Gelinski
+parana;CAMBÉ;Cambé Atlético Clube;Cambé;-23.2797;-51.2819;Estádio Municipal José Garbelini
+parana;CAMPO MOURÃO;Sport Club Campo Mourão;Campo Mourão;-24.0478;-52.3786;Estádio Municipal Roberto Brzezinski
+parana;CASCAVEL;Futebol Clube Cascavel;Cascavel;-24.9578;-53.4594;Estádio Olímpico Regional Arnaldo Busatto
+parana;CIANORTE;Cianorte Futebol Clube;Cianorte;-23.6617;-52.6036;Estádio Municipal Olímpico Albino Turbay
+parana;CITY LONDON;City London Futebol Clube;Londrina;-23.3103;-51.1628;Estádio do Café
+parana;CORITIBA;Coritiba Foot Ball Club;Curitiba;-25.4296;-49.2719;Estádio Major Antônio Couto Pereira
+parana;CORITIBA B;Coritiba Foot Ball Club;Curitiba;-25.4284;-49.2733;Estádio Major Antônio Couto Pereira
+parana;FOZ DO IGUAÇU;Foz do Iguaçu Futebol Clube;Foz do Iguaçu;-25.5477;-54.5882;Estádio do ABC
+parana;GALO MARINGÁ;Galo Maringá;Maringá;-23.421;-51.9331;Estádio Regional Willie Davids
+parana;GRECAL;Grêmio Esportivo Campo Largo;Campo Largo;-25.4583;-49.3875;Estádio Atílio Gionédis
+parana;GRÊMIO MARINGÁ;Grêmio de Esportes Maringá;Maringá;-23.421;-51.9331;Estádio Regional Willie Davids
+parana;HOPE INTERNACIONAL;Hope Internacional;Campo Largo;-25.4583;-49.3875;Estádio Atílio Gionédis
+parana;IGUAÇU;Associação Atlética Iguaçu;União da Vitória;-26.2333;-51.0833;Estádio Municipal Antiocho Pereira
+parana;IRATY;Iraty Sport Club;Irati;-25.475;-50.6583;Estádio Coronel Emílio Gomes
+parana;LARANJA MECÂNICA;Sport Club Laranja Mecânica;Arapongas;-23.4139;-51.4264;Estádio Municipal José Chiappin
+parana;LEÃO DO VALE - CIANORTE;Cianorte Futebol Clube;Cianorte;-23.6611;-52.6033;Estádio Municipal Olímpico Albino Turbay
+parana;LONDRINA;Londrina Esporte Clube;Londrina;-23.3045;-51.1696;Estádio do Café
+parana;MARINGÁ;Maringá Futebol Clube;Maringá;-23.421;-51.9331;Estádio Regional Willie Davids
+parana;NACIONAL;Nacional Atlético Clube;Rolândia;-23.3086;-51.3786;Estádio Erich George
+parana;OESTE BRASIL;Oeste Brasil Futebol Clube;Toledo;-24.7253;-53.7378;Estádio 14 de Dezembro
+parana;OPERÁRIO;Operário Ferroviário Esporte Clube;Ponta Grossa;-25.095;-50.1619;Estádio Germano Krüger
+parana;OPERÁRIO FERROVIÁRIO;Operário Ferroviário Esporte Clube;Ponta Grossa;-25.095;-50.1619;Estádio Germano Krüger
+parana;PARANAVAÍ;Atlético Clube Paranavaí;Paranavaí;-23.0775;-52.4636;Estádio Municipal Doutor Waldemiro Wagner
+parana;PARANÁ;Paraná Clube;Curitiba;-25.4296;-49.2719;Estádio Durival Britto e Silva
+parana;PATRIOTAS;Patriotas Futebol Clube;Curitiba;-25.4284;-49.2733;Estádio Atílio Gionédis
+parana;PORTUGUESA LONDRINENSE;Associação Portuguesa Londrinense;Londrina;-23.3045;-51.1696;Estádio do Café
+parana;PRUDENTÓPOLIS;Prudentópolis Futebol Clube;Prudentópolis;-25.2125;-50.9764;Estádio Newton Agibert
+parana;PSTC;Paraná Soccer Technical Center;Alvorada do Sul;-22.7833;-51.2333;Estádio Municipal Álvaro Alves
+parana;RIO BRANCO;Rio Branco Sport Club;Paranaguá;-25.5167;-48.5167;Estádio Nelson Medrado Dias
+parana;RIO BRANCO SPORT CLUB;Rio Branco Sport Club;Paranaguá;-25.5167;-48.5167;Estádio Nelson Medrado Dias
+parana;ROLÂNDIA;Rolândia Esporte Clube;Rolândia;-23.3086;-51.3756;Estádio Erich George
+parana;SÃO JOSEENSE;Independente São Joseense;São José dos Pinhais;-25.5353;-49.2075;Estádio do Pinhão
+parana;SÃOJOSEENSE;Independente São Joseense;São José dos Pinhais;-25.5353;-49.2075;Estádio do Pinhão
+parana;TOLEDO;Toledo Esporte Clube;Toledo;-24.7253;-53.7378;Estádio 14 de Dezembro
+parana;UNIÃO BELTRÃO;União Francisco Beltrão;Francisco Beltrão;-26.0767;-53.0556;Estádio Anilado
+parana;VERÊ;Verê Futebol Clube;Verê;-25.9186;-52.8583;Estádio Vila do Mar
+pernambuco;1° DE MAIO;1º de Maio Esporte Clube;Petrolina;-9.3933;-40.5008;Estádio Paulo de Souza Coelho
+pernambuco;AFOGADOS;Afogados da Ingazeira Futebol Clube;Afogados da Ingazeira;-7.7547;-37.6367;Estádio Municipal Valdemar Viana de Araújo
+pernambuco;AFOGADOS DA INGAZEIRA;Afogados da Ingazeira Futebol Clube;Afogados da Ingazeira;-7.7547;-37.6367;Estádio Municipal Valdemar Viana de Araújo
+pernambuco;AMÉRICA;América Futebol Clube;Recife;-8.0543;-34.8813;Estádio Ademir Cunha
+pernambuco;ATLÉTICO PERNAMBUCANO;Clube Atlético Pernambucano;Carpina;-7.8517;-35.2442;Estádio Paulo Petribu
+pernambuco;BARREIROS;Barreiros Futebol Clube;Barreiros;-8.8239;-35.5139;Estádio Luiz de Albuquerque
+pernambuco;BELO JARDIM;Belo Jardim Futebol Clube;Belo Jardim;-8.3386;-36.4136;Estádio José Bezerra de Mendonça
+pernambuco;CABENSE;Associação Atlética Cabense;Cabo de Santo Agostinho;-8.2936;-35.0356;Estádio Gileno de Carli
+pernambuco;CARUARU CITY;Caruaru City Sport Club;Caruaru;-8.2828;-35.9742;Estádio Luiz José de Lacerda
+pernambuco;CENTRAL;Central Sport Club;Caruaru;-8.2828;-35.9742;Estádio Luiz José de Lacerda
+pernambuco;CENTRO LIMOEIRENSE;Centro Limoeirense de Futebol;Limoeiro;-7.8753;-35.4536;Estádio José Vareda
+pernambuco;CHÃ GRANDE;Chã Grande Futebol Clube;Chã Grande;-8.2486;-35.4636;Estádio Ewerson Simões Barbosa
+pernambuco;DECISÃO;Decisão Futebol Clube;Bonito;-8.4797;-35.7275;Estádio Municipal Arthur Tavares de Melo
+pernambuco;FERROVIÁRIO DO CABO;Ferroviário Esporte Clube do Cabo;Cabo de Santo Agostinho;-8.2933;-35.0358;Estádio Gileno de Carli
+pernambuco;FLAMENGO;Flamengo de Arcoverde;Arcoverde;-8.4211;-37.0586;Estádio Municipal Áureo Bradley
+pernambuco;IPOJUCA;Ipojuca Atlético Clube;Ipojuca;-8.3975;-35.0653;Estádio Municipal Nossa Senhora do Ó
+pernambuco;JAGUAR;Jaguar Esporte Clube;Jaboatão dos Guararapes;-8.1133;-35.0133;Estádio Jefferson de Freitas
+pernambuco;MAGUARY;Associação Atlética Maguary;Bonito;-8.4797;-35.7275;Estádio Municipal Arthur Tavares de Melo
+pernambuco;NÁUTICO;Clube Náutico Capibaribe;Recife;-8.0476;-34.877;Estádio Eládio de Barros Carvalho
+pernambuco;PESQUEIRA;Pesqueira Futebol Clube;Pesqueira;-8.3586;-36.6953;Estádio Joaquim de Brito
+pernambuco;PETROLINA;Petrolina Social Futebol Clube;Petrolina;-9.3932;-40.5072;Estádio Paulo de Souza Coelho
+pernambuco;PORTO;Clube Atlético do Porto;Caruaru;-8.285;-35.9747;Estádio Luiz José de Lacerda
+pernambuco;RETRÔ;Retrô Futebol Clube Brasil;Camaragibe;-8.0153;-34.9875;Arena de Pernambuco
+pernambuco;SALGUEIRO;Salgueiro Atlético Clube;Salgueiro;-8.0753;-39.1214;Estádio Cornélio de Barros
+pernambuco;SANTA CRUZ;Santa Cruz Futebol Clube;Recife;-8.05428;-34.8813;Estádio José do Rego Maciel
+pernambuco;SANTA FÉ;Santa Fé Futebol Clube;Santa Cruz do Capibaribe;-7.9575;-36.2058;Estádio Municipal Otávio Limeira Alves
+pernambuco;SERRANO;Serrano Futebol Clube;Serra Talhada;-7.9886;-38.2986;Estádio Nildo Pereira de Menezes
+pernambuco;SETE DE SETEMBRO;Sete de Setembro Esporte Clube;Garanhuns;-8.8917;-36.4919;Estádio Gigante do Agreste
+pernambuco;SPORT;Sport Club do Recife;Recife;-8.05428;-34.8813;Estádio Adelmar da Costa Carvalho
+pernambuco;TIMBAÚBA;Timbaúba Futebol Clube;Timbaúba;-7.5069;-35.3167;Estádio Municipal Ferreira Lima
+pernambuco;TORRES BRASIL;Torres Brasil;Recife;-8.05428;-34.8813;Estádio Ademir Cunha
+pernambuco;VERA CRUZ;Vera Cruz Futebol Clube;Vitória de Santo Antão;-8.1225;-35.2953;Estádio Carneirão
+pernambuco;VITÓRIA DAS TABOCAS;Associação Desportiva Vitória;Vitória de Santo Antão;-8.1225;-35.2953;Estádio Carneirão
+pernambuco;YPIRANGA;Ypiranga Futebol Clube;Santa Cruz do Capibaribe;-7.9575;-36.2053;Estádio Otávio Limeira Alves
+pernambuco;ÁGUIA DE CUMARU;Águia de Cumaru;Cumaru;-7.9861;-35.7536;Estádio Municipal de Cumaru
+pernambuco;ÍBIS;Íbis Sport Club;Paulista;-7.9436;-34.8731;Estádio Ademir Cunha
+piaui;4 DE JULHO;4 de Julho Esporte Clube;Piripiri;-4.2736;-41.7333;Arena Ytacoatiara
+piaui;ALTOS;Associação Atlética de Altos;Altos;-5.0261;-42.4597;Estádio Municipal Felipe Raulino
+piaui;ATLÉTICO PIAUIENSE;Atlético Piauiense;Teresina;-5.0892;-42.8016;Estádio Governador Alberto Tavares Silva
+piaui;CAIÇARA;Caiçara Esporte Clube;Campo Maior;-4.8264;-42.1678;Estádio Deusdeth de Melo
+piaui;COMERCIAL;Comercial Atlético Clube;Campo Maior;-4.8264;-42.1678;Estádio Deusdeth de Melo
+piaui;CORISABBÁ;Associação Atlética Corisabbá;Floriano;-6.7747;-43.0236;Estádio Tibério Nunes
+piaui;FERROVIÁRIO;Ferroviário Atlético Clube;Teresina;-5.08917;-42.80167;Estádio Lindolfo Monteiro
+piaui;FLAMENGO;Esporte Clube Flamengo;Teresina;-5.08917;-42.80167;Estádio Lindolfo Monteiro
+piaui;FLUMINENSE;Fluminense Esporte Clube;Teresina;-5.08917;-42.80167;Estádio Lindolfo Monteiro
+piaui;OEIRENSE;Associação Atlética Oeirense;Oeiras;-7.02139;-42.19167;Estádio Gerson Campos
+piaui;PARNAHYBA;Parnahyba Sport Club;Parnaíba;-2.90556;-41.7775;Estádio Municipal Mão Santa
+piaui;PIAUÍ;Piauí Esporte Clube;Teresina;-5.08917;-42.80167;Estádio Lindolfo Monteiro
+piaui;PICOS;Sociedade Esportiva de Picos;Picos;-7.0769;-41.4697;Estádio Municipal Helvídio Nunes de Barros
+piaui;RÍVER;Ríver Atlético Clube;Teresina;-5.0892;-42.8016;Estádio Governador Alberto Tavares Silva
+piaui;TERESINA;Teresina Esporte Clube;Teresina;-5.0892;-42.8016;Estádio Governador Alberto Tavares Silva
+piaui;TIMON;Esporte Clube Timon;Timon;-5.0764;-42.8333;Estádio Municipal Miguel Lima
+piaui;TIRADENTES;Associação Atlética Tiradentes;Teresina;-5.0892;-42.8016;Estádio Governador Alberto Tavares Silva
+rio_de_janeiro;7 DE ABRIL;7 de Abril Futebol Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Luso-Brasileiro
+rio_de_janeiro;AMERICA;America Football Club;Rio de Janeiro;-22.9068;-43.1729;Estádio Giulite Coutinho
+rio_de_janeiro;AMERICANO;Americano Futebol Clube;Campos dos Goytacazes;-21.7627;-41.3275;Estádio Ary de Oliveira e Souza
+rio_de_janeiro;ANGRA DOS REIS;Angra dos Reis Esporte Clube;Angra dos Reis;-23.0067;-44.3183;Estádio Municipal Jair Carneiro Toscano de Brito
+rio_de_janeiro;ARARUAMA;Araruama Futebol Clube;Araruama;-22.8756;-42.3422;Estádio Municipal de Araruama
+rio_de_janeiro;ARRAIAL DO CABO;Arraial do Cabo Esporte Clube;Arraial do Cabo;-22.9694;-42.0247;Estádio Hermenegildo Barcelos
+rio_de_janeiro;ATLÉTICO CARIOCA;Atlético Carioca;São Gonçalo;-22.8222;-43.0522;Estádio Municipal Alziro de Almeida
+rio_de_janeiro;AUDAX RIO;Audax Rio;Saquarema;-22.9247;-42.5075;Estádio Elcyr Resende de Mendonça
+rio_de_janeiro;BANGU;Bangu Atlético Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Moça Bonita
+rio_de_janeiro;BARCELONA;Barcelona Esporte Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Giulite Coutinho
+rio_de_janeiro;BARRA DA TIJUCA;Sociedade Esportiva Barra da Tijuca;Rio de Janeiro;-22.9068;-43.1729;Estádio Moça Bonita
+rio_de_janeiro;BARRA MANSA;Barra Mansa Futebol Clube;Barra Mansa;-22.5417;-44.1736;Estádio Leão do Sul
+rio_de_janeiro;BELA VISTA;Bela Vista Futebol Clube;São Gonçalo;-22.8214;-43.0511;Estádio Alzirão
+rio_de_janeiro;BELFORD ROXO;Sociedade Esportiva Belford Roxo;Belford Roxo;-22.7614;-43.4039;Estádio Nélio Gomes
+rio_de_janeiro;BOAVISTA;Boavista Sport Club;Saquarema;-22.9247;-42.5086;Estádio Elcyr Resende de Mendonça
+rio_de_janeiro;BONSUCESSO;Bonsucesso Futebol Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Leônidas da Silva
+rio_de_janeiro;BOTAFOGO;Botafogo de Futebol e Regatas;Rio de Janeiro;-22.9068;-43.1729;Estádio Nilton Santos
+rio_de_janeiro;BRASILEIRINHO;Brasileirinho Clube de Futebol;Rio de Janeiro;-22.9068;-43.1729;
+rio_de_janeiro;BRÉSCIA;Bréscia Futebol Clube;Rio de Janeiro;-22.9068;-43.1729;
+rio_de_janeiro;BÚZIOS;Sociedade Esportiva Búzios;Armação dos Búzios;-22.7475;-41.8833;Estádio Municipal de Búzios
+rio_de_janeiro;CAAC BRASIL;Centro de Aprendizado e Apoio ao Craque Brasil;Rio de Janeiro;-22.9068;-43.1729;Estádio Joaquim Flores
+rio_de_janeiro;CABOFRIENSE;Associação Desportiva Cabofriense;Cabo Frio;-22.8814;-42.025;Estádio Alair Corrêa
+rio_de_janeiro;CAMPO GRANDE;Campo Grande Atlético Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Ítalo del Cima
+rio_de_janeiro;CAMPOS;Campos Associação Atlética;Campos dos Goytacazes;-21.7627;-41.3275;Estádio Ary de Oliveira e Souza
+rio_de_janeiro;CARAPEBUS;Carapebus Esporte Clube;Carapebus;-22.1853;-41.6336;Estádio Antônio Carneiro da Silva
+rio_de_janeiro;CASIMIRO DE ABREU;Casimiro de Abreu Esporte Clube;Casimiro de Abreu;-22.4736;-42.2058;Estádio Gonçalo Ferreira
+rio_de_janeiro;CERES;Ceres Futebol Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio João Francisco dos Santos
+rio_de_janeiro;DUQUE CAXIENSE;Duque Caxiense Futebol Clube;Duque de Caxias;-22.7833;-43.3167;Estádio Marrentão
+rio_de_janeiro;DUQUE DE CAXIAS;Esporte Clube Duque de Caxias;Duque de Caxias;-22.7833;-43.3167;Estádio Marrentão
+rio_de_janeiro;FLAMENGO;Clube de Regatas do Flamengo;Rio de Janeiro;-22.9068;-43.1729;Estádio do Maracanã
+rio_de_janeiro;FLUMINENSE;Fluminense Football Club;Rio de Janeiro;-22.9068;-43.1729;Estádio do Maracanã
+rio_de_janeiro;FRIBURGUENSE;Friburguense Atlético Clube;Nova Friburgo;-22.2823;-42.5325;Estádio Eduardo Guinle
+rio_de_janeiro;GONÇALENSE;Petrópolis Futebol Clube;São Gonçalo;-22.8214;-43.0503;Estádio Atílio Marotti
+rio_de_janeiro;GOYTACAZ;Goytacaz Futebol Clube;Campos dos Goytacazes;-21.7627;-41.3275;Estádio Ary de Oliveira e Souza
+rio_de_janeiro;IMPÉRIO SERRANO;Império Serrano;Rio de Janeiro;-22.9068;-43.1729;
+rio_de_janeiro;INDEPENDENTE;Independente Esporte Clube;Macaé;-22.375;-41.785;Estádio Cláudio Moacyr de Azevedo
+rio_de_janeiro;ITABORAÍ PROFUTE;Itaboraí Profute Futebol Clube;Itaboraí;-22.7475;-42.8553;Estádio Municipal Alziro de Almeida
+rio_de_janeiro;JUVENTUS;Juventus Futebol Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Luso-Brasileiro
+rio_de_janeiro;MACAÉ;Macaé Esporte Futebol Clube;Macaé;-22.3756;-41.7833;Estádio Cláudio Moacyr de Azevedo
+rio_de_janeiro;MADUREIRA;Madureira Esporte Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Aniceto Moscoso
+rio_de_janeiro;MAGEENSE;Mageense Futebol Clube;Magé;-22.6536;-43.0433;Estádio Municipal de Magé
+rio_de_janeiro;MARICÁ;Maricá Futebol Clube;Maricá;-22.9225;-42.8186;Estádio Municipal João Saldanha
+rio_de_janeiro;MESQUITA;Mesquita Futebol Clube;Mesquita;-22.7811;-43.4358;Estádio Giulite Coutinho
+rio_de_janeiro;NITEROIENSE;Niterói Futebol Clube;Niterói;-22.8833;-43.1036;Estádio Municipal de Niterói
+rio_de_janeiro;NOVA CIDADE;Nova Cidade Futebol Clube;Nilópolis;-22.8075;-43.4111;Estádio Joaquim Flores
+rio_de_janeiro;NOVA IGUAÇU;Nova Iguaçu Futebol Clube;Nova Iguaçu;-22.7553;-43.4508;Estádio Jânio Moraes
+rio_de_janeiro;OLARIA;Olaria Atlético Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Mourão Filho
+rio_de_janeiro;PADUANO;Paduano Esporte Clube;Santo Antônio de Pádua;-21.5375;-42.1833;Estádio Waldo Carneiro Xavier
+rio_de_janeiro;PARATY;Paraty Esporte Clube;Paraty;-23.2203;-44.7131;Estádio Municipal de Paraty
+rio_de_janeiro;PARAÍBA DO SUL;Paraíba do Sul Futebol Clube;Paraíba do Sul;-22.1583;-43.2936;Estádio Marcelo Crivella
+rio_de_janeiro;PETRÓPOLIS;Petrópolis Futebol Clube;Petrópolis;-22.505;-43.1789;Estádio Atílio Marotti
+rio_de_janeiro;PORTUGUESA;Associação Atlética Portuguesa;Rio de Janeiro;-22.9068;-43.1729;Estádio Luso-Brasileiro
+rio_de_janeiro;PÉROLAS NEGRAS;Academia Pérolas Negras;Piraí;-22.6335;-43.9046;
+rio_de_janeiro;QUEIMADOS;Queimados Futebol Clube;Queimados;-22.7167;-43.5556;Estádio Nivaldo Pereira
+rio_de_janeiro;RESENDE;Resende Futebol Clube;Resende;-22.4683;-44.4517;Estádio do Trabalhador
+rio_de_janeiro;RIO DE JANEIRO;Rio de Janeiro Esporte Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Giulite Coutinho
+rio_de_janeiro;RIO SÃO PAULO;Rio São Paulo Futebol Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Eduardo Guinle
+rio_de_janeiro;RIOSTRENSE;Associação Esportiva Riostrense;Rio das Ostras;-22.5225;-41.9436;Estádio Municipal Julieta Carvalho Viana
+rio_de_janeiro;SAMPAIO CORRÊA;Sampaio Corrêa Futebol e Esporte;Saquarema;-22.9244;-42.5075;Estádio Elcyr Resende de Mendonça
+rio_de_janeiro;SANTA CRUZ;Santa Cruz Futebol Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Giulite Coutinho
+rio_de_janeiro;SERRA MACAENSE;Serra Macaense Futebol Clube;Macaé;-22.3756;-41.7833;Estádio Cláudio Moacyr de Azevedo
+rio_de_janeiro;SERRANO;Serrano Football Club;Petrópolis;-22.505;-43.1789;Estádio Atílio Marotti
+rio_de_janeiro;SÃO CRISTÓVÃO;São Cristóvão de Futebol e Regatas;Rio de Janeiro;-22.9068;-43.1729;Estádio Figueira de Melo
+rio_de_janeiro;SÃO GONÇALO;São Gonçalo Esporte Clube;São Gonçalo;-22.8222;-43.0533;Estádio Municipal Alziro de Almeida
+rio_de_janeiro;SÃO JOSÉ DE ITAPERUNA;São José Esporte Clube;Itaperuna;-21.2058;-41.8886;Estádio Jair Bittencourt
+rio_de_janeiro;TIGRES DO BRASIL;Esporte Clube Tigres do Brasil;Duque de Caxias;-22.7833;-43.3111;Estádio Los Larios
+rio_de_janeiro;UNI SOUZA;Uni Souza Futebol Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Moça Bonita
+rio_de_janeiro;UNIVASSOURAS ARTSUL;Artsul Futebol Clube;Nova Iguaçu;-22.755;-43.453;Estádio Nivaldo Pereira
+rio_de_janeiro;UNIÃO CENTRAL;UNIÃO CENTRAL;Rio de Janeiro;-22.9068;-43.1729;Estádio Luso-Brasileiro
+rio_de_janeiro;VASCO;Club de Regatas Vasco da Gama;Rio de Janeiro;-22.9068;-43.1729;Estádio São Januário
+rio_de_janeiro;VASCO DA GAMA;Club de Regatas Vasco da Gama;Rio de Janeiro;-22.9068;-43.1729;Estádio São Januário
+rio_de_janeiro;VERA CRUZ;Vera Cruz Futebol Clube;Duque de Caxias;-22.7833;-43.3167;Estádio Marrentão
+rio_de_janeiro;VOLTA REDONDA;Volta Redonda Futebol Clube;Volta Redonda;-22.5181;-44.1014;Estádio Raulino de Oliveira
+rio_de_janeiro;ZINZA;Zinza Futebol Clube;Rio de Janeiro;-22.9068;-43.1729;Estádio Luso-Brasileiro
+rio_grande_do_norte;ABC;ABC Futebol Clube;Natal;-5.7945;-35.211;Estádio Maria Lamas Farache
+rio_grande_do_norte;ALECRIM;Alecrim Futebol Clube;Natal;-5.7945;-35.211;Arena das Dunas
+rio_grande_do_norte;AMÉRICA;América Futebol Clube;Natal;-5.7945;-35.211;Arena das Dunas
+rio_grande_do_norte;ASSU;Associação Sportiva Sociedade Unida;Assu;-5.5814;-36.9133;Estádio Edgarzão
+rio_grande_do_norte;BARAÚNAS;Associação Cultural e Desportiva Baraúnas;Mossoró;-5.1875;-37.3442;Estádio Leonardo Nogueira
+rio_grande_do_norte;FORÇA E LUZ;Força e Luz;Natal;-5.79448;-35.211;Arena das Dunas
+rio_grande_do_norte;GLOBO;Globo;Ceará-Mirim;-5.63583;-35.4236;Barretão
+rio_grande_do_norte;LAGUNA;Laguna;Natal;-5.79448;-35.211;Arena das Dunas
+rio_grande_do_norte;MOSSORÓ;Mossoró;Mossoró;-5.1875;-37.3442;Estádio Nogueirão
+rio_grande_do_norte;PALMEIRA DE GOIANINHA;Palmeira de Goianinha;Goianinha;-6.26667;-35.2083;Estádio Nazarenão
+rio_grande_do_norte;PARNAMIRIM;Parnamirim;Parnamirim;-5.91083;-35.2608;Estádio Tenente Luiz Gonzaga
+rio_grande_do_norte;POTENGI;Potyguar de Currais Novos;Natal;-5.79448;-35.211;Estádio Juvenal Lamartine
+rio_grande_do_norte;POTIGUAR;Associação Cultural e Desportiva Potiguar;Mossoró;-5.18833;-37.3478;Estádio Nogueirão
+rio_grande_do_norte;POTYGUAR SERIDOENSE;Potyguar Seridoense;Currais Novos;-6.2575;-36.5136;Estádio Coronel José Bezerra
+rio_grande_do_norte;QFC;QFC;Natal;-5.79448;-35.211;Arena das Dunas
+rio_grande_do_norte;RIACHUELO;Riachuelo Atlético Clube;Riachuelo;-5.8256;-35.8256;Estádio Municipal de Riachuelo
+rio_grande_do_norte;RIO GRANDE;Sport Club Rio Grande;Natal;-5.79448;-35.211;Estádio Juvenal Lamartine
+rio_grande_do_norte;SANTA CRUZ DE NATAL;Santa Cruz de Natal;Natal;-5.79448;-35.211;Arena das Dunas
+rio_grande_do_norte;UNIVAP APODI;Univap Apodi;Apodi;-5.6625;-37.7975;Estádio Antônio Lopes Filho
+rio_grande_do_norte;VISÃO CELESTE;Visão Celeste;Parnamirim;-5.9108;-35.2633;Estádio Tenente Luiz Gonzaga
+rio_grande_do_sul;12 HORAS;12 Horas;Porto Alegre;-30.0346;-51.2177;Estádio Passo d'Areia
+rio_grande_do_sul;AIMORÉ;Aimoré;São Leopoldo;-29.7573;-51.1467;Estádio Cristo Rei
+rio_grande_do_sul;APAFUT;Apafut;Caxias do Sul;-29.1678;-51.1794;Estádio Centenário
+rio_grande_do_sul;ATLÉTICO;Atlético de Carazinho;Carazinho;-28.2464;-52.7853;Estádio Paulo Coutinho
+rio_grande_do_sul;AVENIDA;Esporte Clube Avenida;Santa Cruz do Sul;-29.7175;-52.4353;Estádio dos Eucaliptos
+rio_grande_do_sul;BAGÉ;Grêmio Esportivo Bagé;Bagé;-31.3317;-54.1068;Estádio Pedra Moura
+rio_grande_do_sul;BRASIL;Grêmio Esportivo Brasil;Pelotas;-31.7654;-52.3376;Estádio Bento Freitas
+rio_grande_do_sul;BRASIL DE FARROUPILHA;Sociedade Esportiva e Recreativa Brasil;Farroupilha;-29.2286;-51.3536;Estádio das Castanheiras
+rio_grande_do_sul;CAXIAS;Sociedade Esportiva e Recreativa Caxias do Sul;Caxias do Sul;-29.1678;-51.1794;Estádio Centenário
+rio_grande_do_sul;CLUBE 1992;Clube 1992;Cachoeirinha;-29.9514;-51.0925;Arena Cruzeiro
+rio_grande_do_sul;CRUZEIRO;Esporte Clube Cruzeiro;Cachoeirinha;-29.9514;-51.0925;Arena Cruzeiro
+rio_grande_do_sul;ELITE CD;Elite Clube Desportivo;Santo Ângelo;-28.3015;-54.2636;Estádio Zona Sul
+rio_grande_do_sul;ESPORTIVO;Clube Esportivo de Bento Gonçalves;Bento Gonçalves;-29.1673;-51.5133;Estádio Montanha dos Vinhedos
+rio_grande_do_sul;FARROUPILHA;Grêmio Atlético Farroupilha;Pelotas;-31.7654;-52.3376;Estádio Nicolau Fico
+rio_grande_do_sul;FUTEBOL COM VIDA;Futebol Com Vida SAF;Viamão;-30.0817;-51.0256;Estádio Antônio Vieira Ramos
+rio_grande_do_sul;GARIBALDI;Garibaldi Esporte Clube;Garibaldi;-29.2553;-51.5336;Estádio Alcides Santa Rosa
+rio_grande_do_sul;GAÚCHO;Sport Club Gaúcho;Passo Fundo;-28.2628;-52.4076;Arena BSBios
+rio_grande_do_sul;GE BRASIL;Grêmio Esportivo Brasil;Pelotas;-31.7654;-52.3376;Estádio Bento Freitas
+rio_grande_do_sul;GLÓRIA;Grêmio Esportivo Glória;Vacaria;-28.5086;-50.9356;Estádio Altos da Glória
+rio_grande_do_sul;GRAMADENSE;Esporte Clube Gramadense;Gramado;-29.3758;-50.8766;Estádio Vila Olímpica
+rio_grande_do_sul;GRÊMIO;Grêmio Foot-Ball Porto Alegrense;Porto Alegre;-30.0346;-51.2177;Arena do Grêmio
+rio_grande_do_sul;GRÊMIO B;Grêmio Foot-Ball Porto Alegrense;Porto Alegre;-30.0346;-51.2177;Arena do Grêmio
+rio_grande_do_sul;GRÊMIO S23;Grêmio Foot-Ball Porto Alegrense;Porto Alegre;-30.0346;-51.2177;Arena do Grêmio
+rio_grande_do_sul;GUARANI V. AIRES;Esporte Clube Guarani;Venâncio Aires;-29.6083;-52.1817;Estádio Edmundo Feix
+rio_grande_do_sul;GUARANY;Esporte Clube Guarany;Bagé;-31.3308;-54.1072;Estádio Estrela D'Alva
+rio_grande_do_sul;GUARANY DE BAGÉ;Esporte Clube Guarany;Bagé;-31.3308;-54.1072;Estádio Estrela D'Alva
+rio_grande_do_sul;IGREJINHA;Esporte Clube Igrejinha;Igrejinha;-29.5714;-50.7936;Estádio Alberto Carlos Schwingel
+rio_grande_do_sul;INTER SM;Inter de Santa Maria;Santa Maria;-29.6842;-53.8069;Estádio Presidente Vargas
+rio_grande_do_sul;INTERNACIONAL;Sport Club Internacional;Porto Alegre;-30.0346;-51.2177;Estádio Beira-Rio
+rio_grande_do_sul;INTERNACIONAL B;Sport Club Internacional;Porto Alegre;-30.0346;-51.2177;Estádio Beira-Rio
+rio_grande_do_sul;JUVENTUDE;Esporte Clube Juventude;Caxias do Sul;-29.1678;-51.1784;Estádio Alfredo Jaconi
+rio_grande_do_sul;JUVENTUDE B;Esporte Clube Juventude;Caxias do Sul;-29.1678;-51.1784;Estádio Alfredo Jaconi
+rio_grande_do_sul;LAJEADENSE;Clube Esportivo Lajeadense;Lajeado;-29.4673;-51.9711;Arena Alviazul
+rio_grande_do_sul;MARAU;Sport Club Marau;Marau;-28.4489;-52.1917;Estádio Carlos Renato Bebber
+rio_grande_do_sul;MONSOON;Monsoon Futebol Clube;Capão da Canoa;-29.7577;-50.0184;Estádio Francisco Novelletto
+rio_grande_do_sul;NOVA PRATA;Associação Nova Prata de Esportes;Nova Prata;-28.7811;-51.6089;Estádio Municipal Mario Cini
+rio_grande_do_sul;NOVO HAMBURGO;Esporte Clube Novo Hamburgo;Novo Hamburgo;-29.6844;-51.1325;Estádio do Vale
+rio_grande_do_sul;NOVO HORIZONTE;Novo Horizonte Futebol Clube;Esteio;-29.8575;-51.1783;Estádio Municipal José Cláudio dos Santos
+rio_grande_do_sul;PASSO FUNDO;Esporte Clube Passo Fundo;Passo Fundo;-28.2628;-52.4076;Estádio Vermelhão da Serra
+rio_grande_do_sul;PELOTAS;Esporte Clube Pelotas;Pelotas;-31.7654;-52.3376;Estádio Boca do Lobo
+rio_grande_do_sul;PRS;PRS Futebol Clube;Passo Fundo;-28.2628;-52.4076;Estádio Vermelhão da Serra
+rio_grande_do_sul;REAL SPORT CLUB;Real Sport Club;Capão da Canoa;-29.7447;-50.0236;Estádio Módulo Esportivo
+rio_grande_do_sul;RIO GRANDE;Sport Club Rio Grande;Rio Grande;-32.035;-52.0986;Estádio Arthur Lawson
+rio_grande_do_sul;RIOGRANDENSE;Esporte Clube Riograndense;Santa Maria;-29.6842;-53.8069;Estádio dos Eucaliptos
+rio_grande_do_sul;RIOPARDENSE;Esporte Clube Riopardense;Rio Pardo;-29.9825;-52.3811;Estádio Amaro Cassep
+rio_grande_do_sul;SANTA CRUZ;Futebol Clube Santa Cruz;Santa Cruz do Sul;-29.7175;-52.4333;Estádio dos Plátanos
+rio_grande_do_sul;SANTO ÂNGELO;Esporte Clube Santo Ângelo;Santo Ângelo;-28.3014;-54.2636;Estádio da Zona Sul
+rio_grande_do_sul;SAPUCAIENSE;Futebol Clube Sapucaiense;Sapucaia do Sul;-29.8275;-51.1517;Estádio Arthur Mesquita Dias
+rio_grande_do_sul;SER CRUZ ALTA;Sociedade Esportiva e Recreativa Cruz Alta;Cruz Alta;-28.6389;-53.6067;Estádio Morro dos Ventos
+rio_grande_do_sul;SÃO BORJA;Associação Esportiva São Borja;São Borja;-28.6556;-56.0017;Estádio Vicente Goulart
+rio_grande_do_sul;SÃO GABRIEL;Esporte Clube São Gabriel;São Gabriel;-30.3333;-54.3167;Estádio Sílvio de Faria Corrêa
+rio_grande_do_sul;SÃO JOSÉ;Esporte Clube São José;Porto Alegre;-30.0346;-51.2177;Estádio Francisco Novelletto Neto
+rio_grande_do_sul;SÃO LUIZ;Esporte Clube São Luiz;Ijuí;-28.3911;-53.9153;Estádio 19 de Outubro
+rio_grande_do_sul;SÃO PAULO;Sport Club São Paulo;Rio Grande;-32.035;-52.0986;Estádio Aldo Dapuzzo
+rio_grande_do_sul;TRÊS PASSOS;Três Passos Atlético Clube;Três Passos;-27.4658;-53.9358;Estádio Luiz de Medeiros
+rio_grande_do_sul;UNIÃO FREDERIQUENSE;União Frederiquense de Futebol;Frederico Westphalen;-27.3553;-53.3964;Arena União
+rio_grande_do_sul;UNIÃO HARMONIA;União Harmonia Futebol Clube;Canoas;-29.9191;-51.1892;Complexo Esportivo da Ulbra
+rio_grande_do_sul;YPIRANGA;Ypiranga de Erechim;Erechim;-27.6333;-52.2667;Estádio Olímpico Colosso da Lagoa
+rondonia;BARCELONA;Barcelona Futebol Clube;Vilhena;-12.7414;-60.1458;Estádio Portal da Amazônia
+rondonia;GAZIN PORTO VELHO;Porto Velho Esporte Clube;Porto Velho;-8.7619;-63.9039;Estádio Aluízio Ferreira
+rondonia;GENUS;Sport Club Genus de Porto Velho;Porto Velho;-8.7619;-63.9039;Estádio Aluízio Ferreira
+rondonia;GUAJARÁ;Guajará Esporte Clube;Guajará-Mirim;-10.7833;-65.3333;Estádio João Saldanha
+rondonia;GUAPORÉ;Associação Desportiva Guaporé;Rolim de Moura;-11.7256;-61.7736;Estádio Ângelo Cassol
+rondonia;JI-PARANÁ;Ji-Paraná Futebol Clube;Ji-Paraná;-10.8803;-61.9447;Estádio Municipal José de Abreu Bianco
+rondonia;PIMENTENSE;Sociedade Esportiva Pimentense;Pimenta Bueno;-11.6725;-61.1936;Estádio Municipal Luiz Alves de Ataíde
+rondonia;PORTO VELHO;Porto Velho Esporte Clube;Porto Velho;-8.7619;-63.9039;Estádio Aluízio Ferreira
+rondonia;PORTO VELHO ESPORTE CLUBE;Porto Velho Esporte Clube;Porto Velho;-8.7619;-63.9039;Estádio Aluízio Ferreira
+rondonia;REAL ARIQUEMES;Real Ariquemes Esporte Clube;Ariquemes;-9.9053;-63.0325;Estádio Gentil Valério
+rondonia;ROLIM DE MOURA;Rolim de Moura Esporte Clube;Rolim de Moura;-11.7258;-61.7758;Estádio Ângelo Cassol
+rondonia;RONDONIENSE;Rondoniense Social Clube;Porto Velho;-8.7619;-63.9039;Estádio Aluízio Ferreira
+rondonia;UNIÃO CACOALENSE;Sociedade Esportiva União Cacoalense;Cacoal;-11.4367;-61.4475;Estádio Aglair Tonelli Nogueira
+rondonia;VILHENA;Vilhena Esporte Clube;Vilhena;-12.7414;-60.1458;Estádio Portal da Amazônia
+rondonia;VILHENENSE;Vilhenense Esportivo Clube;Vilhena;-12.7414;-60.1458;Estádio Portal da Amazônia
+roraima;ATLÉTICO RORAIMA;Atlético Roraima Clube;Boa Vista;2.8235;-60.6758;Estádio Flamarion Vasconcelos
+roraima;BARÉ;Baré Esporte Clube;Boa Vista;2.8235;-60.6758;Estádio Flamarion Vasconcelos
+roraima;G.A.S;Grêmio Atlético Sampaio;Boa Vista;2.8236;-60.6753;Estádio Flamarion Vasconcelos
+roraima;GAS;Grêmio Atlético Sampaio;Boa Vista;2.8236;-60.6753;Estádio Flamarion Vasconcelos
+roraima;MONTE RORAIMA;Atlético Monte Roraima;Boa Vista;2.8236;-60.6753;Estádio Flamarion Vasconcelos
+roraima;NÁUTICO;Atlético Roraimense;Caracaraí;1.8275;-61.1375;Estádio Flamarion Vasconcelos
+roraima;PROGRESSO;Progresso Futebol Clube;Mucajaí;2.4333;-60.9167;Estádio Flamarion Vasconcelos
+roraima;REAL;Real Esporte Clube;São Luiz do Anauá;0.8167;-60.2167;Estádio Flamarion Vasconcelos
+roraima;RIO NEGRO;Atlético Rio Negro Clube;Boa Vista;2.8236;-60.6753;Estádio Flamarion Vasconcelos
+roraima;RIVER;River Esporte Clube;Boa Vista;2.8236;-60.6753;Estádio Flamarion Vasconcelos
+roraima;SAMPAIO;Sampaio Esporte Clube;Boa Vista;2.8236;-60.6753;Estádio Flamarion Vasconcelos
+roraima;SÃO RAIMUNDO;São Raimundo Esporte Clube;Boa Vista;2.8236;-60.6753;Estádio Flamarion Vasconcelos
+santa_catarina;ATLÉTICO BATISTENSE;Atlético Batistense;São João Batista;-27.2833;-48.8486;Estádio Municipal Valério Gomes Neto
+santa_catarina;ATLÉTICO CATARINENSE;Atlético Catarinense;São José;-27.6133;-48.6258;Estádio Orlando Scarpelli
+santa_catarina;ATLÉTICO ITAJAÍ;Clube Atlético Itajaí;Itajaí;-26.9083;-48.6667;Estádio Dr. Hercílio Luz
+santa_catarina;ATLÉTICO TUBARÃO;Clube Atlético Tubarão;Tubarão;-28.475;-49.0056;Estádio Domingos Silveira Gonzales
+santa_catarina;AVAÍ;Avaí Futebol Clube;Florianópolis;-27.5949;-48.5482;Estádio Aderbal Ramos da Silva
+santa_catarina;AVAÍ B;Avaí Futebol Clube;Florianópolis;-27.5949;-48.5482;Estádio Aderbal Ramos da Silva
+santa_catarina;BARRA;Barra Futebol Clube;Balneário Camboriú;-26.992;-48.632;Estádio Dr. Hercílio Luz
+santa_catarina;BLUMENAU;Blumenau Esporte Clube;Blumenau;-26.9194;-49.0661;Estádio Ervin Blaese
+santa_catarina;BRUSQUE;Brusque Futebol Clube;Brusque;-27.1006;-48.9135;Estádio Augusto Bauer
+santa_catarina;CAMBORIÚ;Camboriú Futebol Clube;Camboriú;-27.0175;-48.6536;Estádio Roberto Santos Garcia
+santa_catarina;CANOINHAS;Canoinhas Atlético Clube;Canoinhas;-26.1764;-50.3939;Estádio Ditão
+santa_catarina;CARAVAGGIO;Caravaggio Futebol Clube;Nova Veneza;-28.6275;-49.5036;Estádio da Montanha
+santa_catarina;CARLOS RENAUX;Clube Atlético Carlos Renaux;Brusque;-27.1006;-48.9135;Estádio Augusto Bauer
+santa_catarina;CAÇADOR;Caçador Atlético Clube;Caçador;-26.7747;-51.0189;Estádio Carlos Alberto da Costa Neves
+santa_catarina;CHAPECOENSE;Associação Chapecoense de Futebol;Chapecó;-27.1005;-52.6147;Arena Condá
+santa_catarina;CHAPECOENSE B;Associação Chapecoense de Futebol;Chapecó;-27.1005;-52.6147;Arena Condá
+santa_catarina;CONCORDIA ATLÉTICO CLUBE;Concórdia Atlético Clube;Concórdia;-27.2378;-52.0255;Estádio Domingos Machado de Lima
+santa_catarina;CONCÓRDIA;Concórdia Atlético Clube;Concórdia;-27.2378;-52.0255;Estádio Domingos Machado de Lima
+santa_catarina;CRICIÚMA;Criciúma Esporte Clube;Criciúma;-28.6775;-49.3713;Estádio Heriberto Hülse
+santa_catarina;CRICIÚMA B;Criciúma Esporte Clube;Criciúma;-28.6775;-49.3713;Estádio Heriberto Hülse
+santa_catarina;FIGUEIRENSE;Figueirense Futebol Clube;Florianópolis;-27.5949;-48.5482;Estádio Orlando Scarpelli
+santa_catarina;FLUMINENSE DE JOINVILLE;Fluminense Futebol Clube;Joinville;-26.3044;-48.8464;Arena Joinville
+santa_catarina;GUARANI;Guarani de Palhoça;Palhoça;-27.646;-48.6704;Estádio Renato Silveira
+santa_catarina;HERCÍLIO LUZ;Hercílio Luz Futebol Clube;Tubarão;-28.4762;-49.0044;Estádio Aníbal Torres Costa
+santa_catarina;IMBITUBA;Centro Esportivo Recreativo e Cultural Imbituba;Imbituba;-28.2428;-48.671;Estádio Emília Mendes Rodrigues
+santa_catarina;INTER DE LAGES;Esporte Clube Internacional;Lages;-27.8134;-50.3255;Estádio Vidal Ramos Júnior
+santa_catarina;JARAGUÁ;Jaraguá;Jaraguá do Sul;-26.4847;-49.075;Estádio João Marcatto
+santa_catarina;JOINVILLE;Joinville;Joinville;-26.3044;-48.8464;Arena Joinville
+santa_catarina;JUVENTUS;Juventus;Jaraguá do Sul;-26.4847;-49.075;Estádio João Marcatto
+santa_catarina;JUVENTUS JARAGUÁ;Juventus;Jaraguá do Sul;-26.4847;-49.075;Estádio João Marcatto
+santa_catarina;MARCÍLIO DIAS;Marcílio Dias;Itajaí;-26.9046;-48.6667;Estádio Dr. Hercílio Luz
+santa_catarina;METROPOLITANO;Metropolitano;Blumenau;-26.9194;-49.0661;Estádio Monumental do SESI
+santa_catarina;NAVEGANTES;Navegantes Esporte Clube;Navegantes;-26.8936;-48.6583;Estádio Municipal Doutor Hercílio Luz
+santa_catarina;NAÇÃO;Nação Esportes;Joinville;-26.3044;-48.8464;Arena Joinville
+santa_catarina;ORLEANS;Orleans Esporte Clube;Orleans;-28.3556;-49.2936;Estádio Osmundino Matheus
+santa_catarina;PEDRA BRANCA;Pedra Branca Esporte Clube;Palhoça;-27.6461;-48.6714;Estádio Renato Silveira
+santa_catarina;PORTO;Associação Porto União;Porto União;-26.2361;-51.0736;Estádio Municipal Antiocho Pereira
+santa_catarina;PRÓSPERA;Esporte Clube Próspera;Criciúma;-28.6794;-49.3711;Estádio Mário Balsini
+santa_catarina;SANTA CATARINA;Santa Catarina Clube;Rio do Sul;-27.2136;-49.6458;Estádio Alfredo João Krieck
+santa_catarina;TUBARÃO;Clube Atlético Tubarão;Tubarão;-28.4755;-49.005;Estádio Domingos Silveira Gonzales
+sao_paulo;AMPARO;Amparo Athlético Club;Amparo;-22.7033;-46.7619;Estádio José de Araújo Cintra
+sao_paulo;AMÉRICA;América Futebol Clube;São José do Rio Preto;-20.8122;-49.3772;Estádio Benedito Teixeira
+sao_paulo;ANDRADINA;Andradina Esporte Clube;Andradina;-20.8936;-51.3753;Estádio Evandro Brembatti Calvoso
+sao_paulo;ARAÇATUBA;Atlético Araçatuba;Araçatuba;-21.2086;-50.4328;Estádio Adhemar de Barros
+sao_paulo;ASSISENSE;Associação Esportiva Santacruzense;Assis;-22.6625;-50.4133;Estádio Municipal Tonicão
+sao_paulo;ATIBAIA;Sport Club Atibaia;Atibaia;-23.1156;-46.5503;Estádio Municipal Salvador Russani
+sao_paulo;ATLÉTICO MOGI;Atlético Mogi;Mogi das Cruzes;-23.5228;-46.1883;Estádio Municipal Francisco Ribeiro Nogueira
+sao_paulo;BANDEIRANTE;Bandeirante Esporte Clube;Birigui;-21.2867;-50.3411;Estádio Municipal Pedro Marin Berbel
+sao_paulo;BARCELONA ESPORTIVO;Barcelona Esportivo Capela;São Paulo;-23.5505;-46.6333;Estádio Municipal Giglio Portugal Pichinin
+sao_paulo;BARRETOS;Barretos Esporte Clube;Barretos;-20.5583;-48.5686;Estádio Municipal Antônio Gomes Martins
+sao_paulo;BATATAIS;Batatais Futebol Clube;Batatais;-20.8917;-47.5833;Estádio Doutor Oswaldo Scatena
+sao_paulo;BOTAFOGO;Botafogo Futebol Clube;Ribeirão Preto;-21.1775;-47.8103;Estádio Santa Cruz
+sao_paulo;BRASILIS;Brasilis Futebol Clube;Águas de Lindóia;-22.4786;-46.6353;Estádio Leonardo Barbieri
+sao_paulo;CA VOTUPORANGUENSE;Clube Atlético Votuporanguense;Votuporanga;-20.4236;-49.9775;Arena Plínio Marin
+sao_paulo;CAPIVARIANO;Capivariano Futebol Clube;Capivari;-23.0017;-47.5056;Arena Capivari
+sao_paulo;CATANDUVA;Catanduva Futebol Clube;Catanduva;-21.1358;-48.9753;Estádio Silvio Salles
+sao_paulo;COLORADO CAIEIRAS;Colorado Caieiras;Caieiras;-23.3614;-46.7375;Estádio Municipal Carlos Ferracini
+sao_paulo;COMERCIAL;Comercial Futebol Clube;Ribeirão Preto;-21.1775;-47.8103;Estádio Palma Travassos
+sao_paulo;CORINTHIANS;Sport Club Corinthians Paulista;São Paulo;-23.5505;-46.6333;Neo Química Arena
+sao_paulo;DESPORTIVO BRASIL;Desportivo Brasil;Porto Feliz;-23.2125;-47.5211;Estádio Municipal Dr. Julien Fouque
+sao_paulo;ECUS;Esporte Clube União Suzano;Suzano;-23.5386;-46.3111;Estádio Municipal Francisco Marques Figueira
+sao_paulo;ELOSPORT CAPÃO BONITO;Elosport Capão Bonito;Capão Bonito;-24.0033;-48.3475;Estádio Municipal Dr. José Sidney Cunha
+sao_paulo;FERNANDÓPOLIS;Fernandópolis Futebol Clube;Fernandópolis;-20.2819;-50.2586;Estádio Municipal Cláudio Rodante
+sao_paulo;FERROVIÁRIA;Associação Ferroviária de Esportes;Araraquara;-21.7945;-48.1758;Estádio Doutor Adhemar de Barros
+sao_paulo;FLAMENGO;Associação Atlética Flamengo;Guarulhos;-23.4538;-46.5332;Estádio Antônio Soares de Oliveira
+sao_paulo;FRANCANA;Associação Atlética Francana;Franca;-20.5383;-47.4008;Estádio Municipal Doutor José Lancha Filho
+sao_paulo;GRÊMIO MAUAENSE;Grêmio Esportivo Mauaense;Mauá;-23.6672;-46.4614;Estádio Municipal Pedro Benedetti
+sao_paulo;GRÊMIO NOVORIZONTINO;Grêmio Novorizontino;Novo Horizonte;-21.4733;-49.2258;Estádio Doutor Jorge Ismael de Biasi
+sao_paulo;GRÊMIO OSASCO;Grêmio Esportivo Osasco;Osasco;-23.5325;-46.7925;Estádio Municipal Prefeito José Liberatti
+sao_paulo;GRÊMIO PRUDENTE;Grêmio Prudente;Presidente Prudente;-22.1256;-51.3822;Estádio Paulo Constantino
+sao_paulo;GRÊMIO SÃO-CARLENSE;Grêmio São-Carlense;São Carlos;-22.0175;-47.8861;Estádio Professor Luís Augusto de Oliveira
+sao_paulo;GUARANI;Guarani;Campinas;-22.9056;-47.0608;Estádio Brinco de Ouro da Princesa
+sao_paulo;GUARULHOS;Associação Atlética Flamengo (Guarulhos);Guarulhos;-23.4539;-46.5333;Estádio Antônio Soares de Oliveira
+sao_paulo;INDEPENDENTE DE LIMEIRA;Independente de Limeira;Limeira;-22.5603;-47.4033;Estádio Comendador Agostinho Prada
+sao_paulo;INTER DE BEBEDOURO;Associação Atlética Internacional (Bebedouro);Bebedouro;-20.9514;-48.4794;Estádio Sócrates Stamato
+sao_paulo;INTER DE LIMEIRA;Associação Atlética Internacional (Limeira);Limeira;-22.5603;-47.4033;Estádio Major José Levy Sobrinho
+sao_paulo;ITAPIRENSE;Sociedade Esportiva Itapirense;Itapira;-22.4358;-46.8217;Estádio Coronel Francisco Vieira
+sao_paulo;ITARARÉ;Associação Atlética Itararé;Itararé;-24.1136;-49.3325;Estádio Vergínio Holtz
+sao_paulo;ITUANO;Ituano Futebol Clube;Itu;-23.2619;-47.2972;Estádio Municipal Dr. Novelli Júnior
+sao_paulo;JABAQUARA;Jabaquara Atlético Clube;Santos;-23.9608;-46.3333;Estádio Espanha
+sao_paulo;JOSEENSE;Jacareí Futebol Clube;Jacareí;-23.3050;-45.9652;Estádio Municipal Du Cambusano
+sao_paulo;JUVENTUS;Clube Atlético Juventus;São Paulo;-23.5505;-46.6333;Estádio Conde Rodolfo Crespi
+sao_paulo;LEMENSE;Esporte Clube Lemense;Leme;-22.1858;-47.3917;Estádio Municipal Bruno Lazzarini
+sao_paulo;LINENSE;Clube Atlético Linense;Lins;-21.6733;-49.7431;Estádio Municipal Gilberto Siqueira Lopes
+sao_paulo;MANTHIQUEIRA;Associação Desportiva Manthiqueira;Guaratinguetá;-22.8133;-45.1917;Estádio Municipal Professor Dario Rodrigues Leite
+sao_paulo;MARÍLIA;Marília Atlético Clube;Marília;-22.2239;-49.9456;Estádio Municipal Bento de Abreu Sampaio Vidal
+sao_paulo;MATONENSE;Sociedade Esportiva Matonense;Matão;-21.6036;-48.3667;Estádio Municipal Dr. Hudson Buck Ferreira
+sao_paulo;MAUÁ;Mauá Futebol Clube;Mauá;-23.6672;-46.4614;Estádio Municipal Pedro Benedetti
+sao_paulo;MIRASSOL;Mirassol Futebol Clube;Mirassol;-20.8186;-49.4936;Estádio Municipal José Maria de Campos Maia
+sao_paulo;MOGI MIRIM;Mogi Mirim Esporte Clube;Mogi Mirim;-22.4333;-46.9583;Estádio Vail Chaves
+sao_paulo;MONTE AZUL;Atlético Monte Azul;Monte Azul Paulista;-20.7539;-48.6486;Estádio Municipal Otacília Patrício Arroyo
+sao_paulo;NACIONAL;Nacional Atlético Clube;São Paulo;-23.5505;-46.6333;Estádio Nicolau Alayon
+sao_paulo;NOROESTE;Esporte Clube Noroeste;Bauru;-22.3145;-49.0588;Estádio Dr. Alfredo de Castilho
+sao_paulo;NOVORIZONTINO;Grêmio Novorizontino;Novo Horizonte;-21.4736;-49.2258;Estádio Dr. Jorge Ismael de Biasi
+sao_paulo;OESTE;Oeste Futebol Clube;Barueri;-23.5106;-46.8756;Arena Barueri
+sao_paulo;OLÍMPIA;Olímpia Futebol Clube;Olímpia;-20.7386;-48.9136;Estádio Maria Tereza Breda
+sao_paulo;OSASCO;Grêmio Osasco Audax;Osasco;-23.5325;-46.7925;Estádio Municipal Prefeito José Liberatti
+sao_paulo;OSASCO AUDAX;Grêmio Osasco Audax;Osasco;-23.5325;-46.7925;Estádio Municipal Prefeito José Liberatti
+sao_paulo;OSVALDO CRUZ;Osvaldo Cruz Futebol Clube;Osvaldo Cruz;-21.7967;-50.8667;Estádio Municipal Breno Ribeiro do Val
+sao_paulo;PALMEIRAS;Sociedade Esportiva Palmeiras;São Paulo;-23.5505;-46.6333;Allianz Parque
+sao_paulo;PAULISTA;Paulista Futebol Clube;Jundiaí;-23.1857;-46.8916;Estádio Municipal Dr. Jayme Cintra
+sao_paulo;PENAPOLENSE;Clube Atlético Penapolense;Penápolis;-21.4136;-50.0756;Estádio Municipal Tenente Carriço
+sao_paulo;PONTE PRETA;Associação Atlética Ponte Preta;Campinas;-22.9056;-47.0608;Estádio Moisés Lucarelli
+sao_paulo;PORTUGUESA;Associação Portuguesa de Desportos;São Paulo;-23.5505;-46.6333;Estádio Dr. Oswaldo Teixeira Duarte
+sao_paulo;PORTUGUESA SANTISTA;Associação Atlética Portuguesa;Santos;-23.9608;-46.3333;Estádio Ulrico Mursa
+sao_paulo;PRIMAVERA;Esporte Clube Primavera;Indaiatuba;-23.0925;-47.2103;Estádio Ítalo Mário Limongi
+sao_paulo;RED BULL BRAGANTINO;Red Bull Bragantino;Bragança Paulista;-22.9533;-46.5422;Estádio Nabi Abi Chedid
+sao_paulo;RED BULL BRAGANTINO II;Red Bull Bragantino II;Bragança Paulista;-22.9533;-46.5422;Estádio Nabi Abi Chedid
+sao_paulo;RED BULL BRASIL;Red Bull Brasil;Bragança Paulista;-22.9533;-46.5422;Estádio Nabi Abi Chedid
+sao_paulo;RIO BRANCO;Rio Branco Esporte Clube;Americana;-22.7419;-47.3333;Estádio Décio Vitta
+sao_paulo;RIO CLARO;Rio Claro Futebol Clube;Rio Claro;-22.4125;-47.5633;Estádio Municipal Dr. Augusto Schmidt Filho
+sao_paulo;RIO PRETO;Rio Preto Esporte Clube;São José do Rio Preto;-20.8122;-49.3772;Estádio Anísio Haddad
+sao_paulo;SANTACRUZENSE;Esporte Clube Santacruzense;Santa Cruz do Rio Pardo;-22.8967;-49.6314;Estádio Municipal Leônidas Camarinha
+sao_paulo;SANTO ANDRÉ;Esporte Clube Santo André;Santo André;-23.6653;-46.5325;Estádio Municipal Bruno José Daniel
+sao_paulo;SANTOS;Santos Futebol Clube;Santos;-23.9608;-46.3333;Estádio Urbano Caldeira
+sao_paulo;SERTÃOZINHO;Sertãozinho Futebol Clube;Sertãozinho;-21.1333;-47.9833;Estádio Municipal Frederico Dalmaso
+sao_paulo;SKA BRASIL;SKA Brasil;Santana de Parnaíba;-23.4458;-46.9186;Estádio Municipal Prefeito Gabriel Marques da Silva
+sao_paulo;SPORT ATIBAIA;SPORT ATIBAIA;Atibaia;-23.1153;-46.5503;Estádio Municipal Salvador Russani
+sao_paulo;SÃO BENTO;Esporte Clube São Bento;Sorocaba;-23.5017;-47.4544;Estádio Municipal Walter Ribeiro
+sao_paulo;SÃO BERNARDO;São Bernardo Futebol Clube;São Bernardo do Campo;-23.6944;-46.565;Estádio Primeiro de Maio
+sao_paulo;SÃO CAETANO;Associação Desportiva São Caetano;São Caetano do Sul;-23.6186;-46.5736;Estádio Anacleto Campanella
+sao_paulo;SÃO CARLOS;São Carlos Futebol Clube;São Carlos;-22.0175;-47.8861;Estádio Municipal Professor Luís Augusto de Oliveira
+sao_paulo;SÃO JOSÉ;São José Esporte Clube;São José dos Campos;-23.2237;-45.9009;Estádio Martins Pereira
+sao_paulo;SÃO PAULO;São Paulo Futebol Clube;São Paulo;-23.5505;-46.6333;Estádio Cícero Pompeu de Toledo
+sao_paulo;TANABI;Tanabi Esporte Clube;Tanabi;-20.6133;-49.6533;Estádio Alberto Victolo
+sao_paulo;TAQUARITINGA;Clube Atlético Taquaritinga;Taquaritinga;-21.4333;-48.5083;Estádio Adail Nunes da Silva
+sao_paulo;TAUBATÉ;Esporte Clube Taubaté;Taubaté;-23.0272;-45.555;Estádio Joaquim de Morais Filho
+sao_paulo;TUPÃ;Tupã Futebol Clube;Tupã;-21.9358;-50.5139;Estádio Municipal Alonso Carvalho Braga
+sao_paulo;UNIÃO BARBARENSE;União Barbarense;Santa Bárbara d'Oeste;-22.7536;-47.4175;Estádio Antônio Lins Ribeiro Guimarães
+sao_paulo;UNIÃO MOGI;União Mogi;Mogi das Cruzes;-23.5228;-46.1883;Estádio Francisco Ribeiro Nogueira
+sao_paulo;UNIÃO SUZANO;União Suzano;Suzano;-23.5389;-46.3111;Estádio Francisco Marques Figueira
+sao_paulo;UNIÃO SÃO JOÃO;União São João;Araras;-22.3586;-47.3803;Estádio Hermínio Ometto
+sao_paulo;VELO CLUBE;Velo Clube;Rio Claro;-22.4122;-47.5617;Estádio Benito Agnelo Castellano
+sao_paulo;VOCEM;VOCEM;Assis;-22.6617;-50.4136;Estádio Antônio Viana da Silva
+sao_paulo;VOTUPORANGUENSE;Clube Atlético Votuporanguense;Votuporanga;-20.4258;-49.9775;Arena Plínio Marin
+sao_paulo;XV DE JAÚ;Esporte Clube XV de Novembro de Jaú;Jaú;-22.2975;-48.5586;Estádio Zezinho Magalhães
+sao_paulo;XV DE PIRACICABA;Esporte Clube XV de Novembro de Piracicaba;Piracicaba;-22.7253;-47.6476;Estádio Barão da Serra Negra
+sao_paulo;ÁGUA SANTA;Esporte Clube Água Santa;Diadema;-23.6858;-46.6219;Estádio Distrital do Jardim Inamar
+sergipe;AD CARMÓPOLIS;Associação Desportiva Carmópolis;Carmópolis;-10.5358;-37.0936;Estádio Fernando França
+sergipe;AMADENSE;Amadense Esporte Clube;Estância;-11.2636;-37.4389;Estádio Augusto Franco
+sergipe;AMÉRICA;América de Propriá;Propriá;-10.2136;-36.8375;Estádio Durval Feitosa
+sergipe;AMÉRICA DE PEDRINHAS;América de Pedrinhas;Pedrinhas;-11.0111;-37.5333;Estádio Roberto Silva
+sergipe;ARACAJU;Aracaju Futebol Clube;Aracaju;-10.9111;-37.0717;Arena Batistão
+sergipe;ATLÉTICO CENTRAL;Atlético Central;Estância;-11.2658;-37.4394;Estádio Augusto Franco
+sergipe;ATLÉTICO GLORIENSE;Atlético Gloriense;Nossa Senhora da Glória;-10.2217;-37.4153;Estádio Editon Oliveira
+sergipe;BARRA;Barra dos Coqueiros;Barra dos Coqueiros;-10.9056;-37.0389;Estádio João Cruz
+sergipe;BOCA JÚNIOR;Associação Desportiva Boca Júnior Futebol Clube;Carmópolis;-10.5358;-37.0953;Estádio Fernando França
+sergipe;BOQUINHENSE;Sociedade Boca Júnior Futebol Clube;Estância;-11.2658;-37.4375;Estádio Augusto Franco
+sergipe;BOTAFOGO;Botafogo Associação Sergipana de Futebol;Cristinápolis;-11.4722;-37.7458;Estádio Geraldo Oliveira
+sergipe;CANINDÉ;Canindé Esporte Clube;Canindé de São Francisco;-9.6556;-37.7833;Estádio André Avelino
+sergipe;CONFIANÇA;Associação Desportiva Confiança;Aracaju;-10.9167;-37.05;Arena Batistão
+sergipe;CORITIBA;Coritiba Foot Ball Club;Curitiba;-25.4296;-49.2719;Estádio Major Antônio Couto Pereira
+sergipe;COTINGUIBA;Cotinguiba Esporte Clube;Aracaju;-10.9167;-37.05;Arena Batistão
+sergipe;DESPORTIVA ARACAJU;Associação Desportiva Aracaju;Aracaju;-10.9167;-37.05;Arena Batistão
+sergipe;DORENSE;Dorense Futebol Clube;Nossa Senhora das Dores;-10.4914;-37.1833;Estádio Ariston Azevedo
+sergipe;ESTANCIANO;Estanciano Esporte Clube;Estância;-11.2667;-37.4333;Estádio Augusto Franco
+sergipe;FALCON;Falcon Futebol Clube;Barra dos Coqueiros;-10.9083;-37.0333;Arena Batistão
+sergipe;FLAMENGO;Associação Desportiva Flamengo;Aracaju;-10.9167;-37.05;Arena Batistão
+sergipe;FORÇA JOVEM AQUIDABÃ;Força Jovem Aquidabã;Aquidabã;-10.3114;-37.0514;Estádio Municipal Manoel Anacleto
+sergipe;FREI PAULISTANO;Associação Desportiva Frei Paulistano;Frei Paulo;-10.5556;-37.5333;Estádio Municipal Jairton Menezes de Mendonça
+sergipe;GUARANY;Associação Desportiva Atlética Guarany;Porto da Folha;-9.9958;-37.2786;Estádio Caio Feitosa
+sergipe;INDEPENDENTE;Independente Futebol Clube;Simão Dias;-10.7417;-38.1056;Estádio Albano Franco
+sergipe;ITABAIANA;Associação Olímpica de Itabaiana;Itabaiana;-10.6897;-37.4253;Estádio Etelvino Mendonça
+sergipe;LAGARTO;Lagarto Futebol Clube;Lagarto;-10.9167;-37.5167;Estádio Paulo Barreto de Menezes
+sergipe;MARUINENSE;Club Sportivo Maruinense;Maruim;-10.7333;-37.1333;Estádio Vavazão
+sergipe;OLÍMPICO;Olímpico Esporte Clube;Itabaianinha;-11.2833;-37.7833;Estádio Souzão
+sergipe;PROPRIÁ;Esporte Clube Propriá;Propriá;-10.2067;-36.8356;Estádio Durval Feitosa
+sergipe;RIACHÃO;Riachão Esporte Clube;Riachão do Dantas;-11.05;-37.7333;Estádio Municipal de Riachão do Dantas
+sergipe;SANTA CRUZ RIACHUELO;Santa Cruz Esporte Clube;Riachuelo;-10.7333;-37.25;Estádio Francisco Leite
+sergipe;SERGIPE;Club Sportivo Sergipe;Aracaju;-10.9167;-37.05;Arena Batistão
+sergipe;SETE DE JUNHO;Sete de Junho Esporte Clube;Tobias Barreto;-11.1819;-37.9958;Estádio Brejeirão
+sergipe;SOCORRENSE;SOCORRENSE;Nossa Senhora do Socorro;-10.8536;-37.1353;Estádio Wellington Elias
+sergipe;SOCORRO;Socorro Sport Club;Nossa Senhora do Socorro;-10.8536;-37.1353;Estádio Wellington Elias
+tocantins;ALVORADA;Alvorada Esporte Clube;Alvorada;-12.4817;-49.1236;Estádio Elias Nasser
+tocantins;ARAGUACEMA;Araguacema Futebol Clube;Araguacema;-8.8139;-49.5636;Estádio Municipal de Araguacema
+tocantins;ARAGUAIA DE PALMAS;Araguaia de Palmas;Palmas;-10.2128;-48.3606;Estádio Nilton Santos
+tocantins;ARAGUAÍNA;Araguaína Futebol e Regatas;Araguaína;-7.1914;-48.2053;Estádio Municipal José de Oliveira Leal
+tocantins;ARSENAL;Arsenal Esporte Clube;Tocantinópolis;-6.3286;-47.4764;Estádio João Ribeiro
+tocantins;ATLÉTICO CERRADO;Atlético Cerrado;Paraíso do Tocantins;-10.1764;-48.8714;Estádio Municipal Antônio Pereira Soares
+tocantins;BATALHÃO;Batalhão Futebol Clube;Palmas;-10.2128;-48.3603;Estádio Nilton Santos
+tocantins;BELA VISTA;Bela Vista Futebol Clube;Cachoeirinha;-6.4525;-47.6586;Estádio Municipal de Cachoeirinha
+tocantins;CAPITAL;Capital Futebol Clube;Palmas;-10.2128;-48.3603;Estádio Nilton Santos
+tocantins;CENTRAL PARAÍSO;Central Paraíso Esporte Clube;Paraíso do Tocantins;-10.1764;-48.8736;Estádio Municipal Antônio Pereira Soares
+tocantins;COLINAS;Colinas Esporte Clube;Colinas do Tocantins;-8.0556;-48.4597;Estádio Municipal Bigodão
+tocantins;GUARAÍ;Sport Club Guaraí;Guaraí;-8.8375;-48.5111;Estádio Municipal Delfino Pereira Lopes
+tocantins;GURUPI;Gurupi Esporte Clube;Gurupi;-11.7292;-49.0583;Estádio Municipal Gilberto Resende
+tocantins;INTERPORTO;Interporto Futebol Clube;Porto Nacional;-10.7083;-48.4175;Estádio General Sampaio
+tocantins;MIRANORTE;Miranorte Esporte Clube;Miranorte;-9.5486;-48.3964;Estádio Municipal Zeca Marinho
+tocantins;NOVA CONQUISTA;Nova Conquista Esporte Clube;Santa Fé do Araguaia;-7.1558;-48.7153;Estádio Municipal de Santa Fé do Araguaia
+tocantins;PALMAS;Palmas Futebol e Regatas;Palmas;-10.2128;-48.3606;Estádio Nilton Santos
+tocantins;PARAÍSO;Paraíso Esporte Clube;Paraíso do Tocantins;-10.1753;-48.8756;Estádio Pereirão
+tocantins;SPARTA;Sparta Futebol Clube;Araguaína;-7.1931;-48.2053;Estádio Mirandão
+tocantins;SÃO JOSÉ;São José Esporte Clube;Palmas;-10.2128;-48.3606;Estádio Nilton Santos
+tocantins;TAQUARUSSÚ;Taquarussú Esporte Clube;Palmas;-10.2128;-48.3606;Estádio Nilton Santos
+tocantins;TOCANTINS MIRACEMA;Tocantins Esporte Clube;Miracema do Tocantins;-9.5636;-48.3936;Estádio Castanheirão
+tocantins;TOCANTINÓPOLIS;Tocantinópolis Esporte Clube;Tocantinópolis;-6.3297;-47.4767;Estádio João Ribeiro
+tocantins;UNIÃO ATLÉTICA ARAGUAINENSE;União Atlética Araguainense;Araguaína;-7.1917;-48.2056;Estádio Mirandão
+tocantins;UNIÃO ATLÉTICO;União Atlética Araguainense;Araguaína;-7.1917;-48.2056;Estádio Mirandão
+tocantins;UNIÃO ATLÉTICO CLUBE;União Atlética Araguainense;Araguaína;-7.1917;-48.2056;Estádio Mirandão
+tocantins;UNIÃO DE PALMAS;União Atlética de Palmas;Palmas;-10.2128;-48.3603;Estádio Nilton Santos

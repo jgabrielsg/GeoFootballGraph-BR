@@ -1,0 +1,21 @@
+﻿Origem;Destino;Dist_Rod_km;Tempo_Rod_h;Dist_Multi_km;Tempo_Multi_h;Solucao_Multimodal
+Senador Guiomard (acre);Rio Branco (acre);27.4;0.5;27.4;0.5;Local/Regional. Road only: 27km (0.5h).
+Senador Guiomard (acre);Porto Acre (acre);82.6;1.5;82.6;1.5;Local/Regional. Road only: 83km (1.5h).
+Senador Guiomard (acre);Cruzeiro do Sul (acre);660.9;10.3;738.5;5.9;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 681km, 4.9h] -> Aero(CZS) -> [Bus 13km, 0.2h] -> Cruzeiro do Sul (acre)
+Senador Guiomard (acre);Plácido de Castro (acre);79.6;1.4;79.6;1.4;Local/Regional. Road only: 80km (1.4h).
+Senador Guiomard (acre);Jequiá da Praia (alagoas);4860.1;72.9;4204.7;12.0;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 4050km, 9.1h] -> Aero(MCZ) -> [Bus 110km, 2.1h] -> Jequiá da Praia (alagoas)
+Senador Guiomard (acre);Arapiraca (alagoas);4827.3;72.2;4219.8;11.9;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 4050km, 9.1h] -> Aero(MCZ) -> [Bus 125km, 2.0h] -> Arapiraca (alagoas)
+Senador Guiomard (acre);Olho d'Água das Flores (alagoas);4825.6;73.1;3905.3;11.6;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 3741km, 8.7h] -> Aero(PAV) -> [Bus 120km, 2.2h] -> Olho d'Água das Flores (alagoas)
+Senador Guiomard (acre);Coruripe (alagoas);4853.9;72.6;4201.8;11.7;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 4050km, 9.1h] -> Aero(MCZ) -> [Bus 107km, 1.9h] -> Coruripe (alagoas)
+Senador Guiomard (acre);Maceió (alagoas);4922.4;73.4;4117.0;10.4;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 4050km, 9.1h] -> Aero(MCZ) -> [Bus 22km, 0.5h] -> Maceió (alagoas)
+Senador Guiomard (acre);Palmeira dos Índios (alagoas);4879.2;73.0;4219.4;11.9;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 4050km, 9.1h] -> Aero(MCZ) -> [Bus 125km, 2.1h] -> Palmeira dos Índios (alagoas)
+Senador Guiomard (acre);Capela (alagoas);4921.5;73.4;4142.3;10.7;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 4050km, 9.1h] -> Aero(MCZ) -> [Bus 48km, 0.9h] -> Capela (alagoas)
+Senador Guiomard (acre);Igaci (alagoas);4856.6;72.7;4215.7;12.0;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 4050km, 9.1h] -> Aero(MCZ) -> [Bus 121km, 2.1h] -> Igaci (alagoas)
+Senador Guiomard (acre);Pão de Açúcar (alagoas);4801.1;72.6;3927.5;12.0;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 3741km, 8.7h] -> Aero(PAV) -> [Bus 142km, 2.6h] -> Pão de Açúcar (alagoas)
+Senador Guiomard (acre);São Miguel dos Campos (alagoas);4865.5;72.5;4157.2;10.8;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 4050km, 9.1h] -> Aero(MCZ) -> [Bus 62km, 1.0h] -> São Miguel dos Campos (alagoas)
+Senador Guiomard (acre);Murici (alagoas);4954.1;73.8;4136.6;10.5;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 4050km, 9.1h] -> Aero(MCZ) -> [Bus 42km, 0.7h] -> Murici (alagoas)
+Senador Guiomard (acre);Penedo (alagoas);4810.7;71.9;4095.2;12.1;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 3882km, 8.9h] -> Aero(AJU) -> [Bus 169km, 2.4h] -> Penedo (alagoas)
+Senador Guiomard (acre);União dos Palmares (alagoas);4631.9;74.2;4155.6;10.9;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 4050km, 9.1h] -> Aero(MCZ) -> [Bus 61km, 1.0h] -> União dos Palmares (alagoas)
+Senador Guiomard (acre);Calçoene (amapa);4032.6;74.3;2897.7;12.3;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 2487km, 7.1h] -> Aero(MCP) -> [Bus 366km, 4.4h] -> Calçoene (amapa)
+Senador Guiomard (acre);Boa Vista (amapa);2129.3;37.7;1907.9;7.2;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 1860km, 6.3h] -> Aero(BVB) -> [Bus 4km, 0.1h] -> Boa Vista (amapa)
+Senador Guiomard (acre);Macapá (amapa);2845.1;73.8;2533.4;8.0;Senador Guiomard (acre) -> [Bus 45km, 0.8h] -> Aero(RBR) -> [Flight 2487km, 7.1h] -> Aero(MCP) -> [Bus 2km, 0.1h] -> Macapá (amapa)

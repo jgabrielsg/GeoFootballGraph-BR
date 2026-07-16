@@ -1,7 +1,7 @@
 import pandas as pd
 
 # --- CONFIGURATION ---
-INPUT_FILE = 'data/02_processed/all_games_v2.csv'
+INPUT_FILE = 'data/02_processed/all_games_v3.csv'
 OUTPUT_FILE = 'data/03_final/all_games_weights.csv'
 
 

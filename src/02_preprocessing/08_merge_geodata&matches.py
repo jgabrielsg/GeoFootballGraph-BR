@@ -1,122 +1,86 @@
 import pandas as pd
-from rapidfuzz import process, fuzz
-import unicodedata
-import re
 import os
 
 # --- CONFIGURATION ---
-GAMES_FILE = 'data/03_final/all_games_weights.csv'   # MATCHES AND WEIGHTS INFO
-GEODATA_FILE = 'data/03_final/all_clubs_geodata.csv' # GEODATA INFO
-OUTSIDERS_FILE = 'data/01_raw/outsiders.csv'         # CLUBS THAT PLAY FOR ANOTHER STATE
-SIMILARITY_THRESHOLD = 85
-
-# --- OUTPUTS ---
-OUTPUT_FILE = 'data/03_final/all_games_geodata_9090.csv'
+GAMES_FILE = 'data/03_final/all_games_weights.csv'
+GEODATA_FILE = 'data/03_final/all_unique_teams_geolocalization.csv'
 MISSING_FILE = 'archive/data/missing_teams.csv'
 
-def slugify(text):
-    """Normalizes strings into a URL-friendly slug format."""
-    if pd.isna(text): return ""
-    text = str(text).lower().strip()
-    text = unicodedata.normalize('NFKD', text).encode('ascii', 'ignore').decode('utf-8')
-    text = re.sub(r'[^a-z0-9_]+', '_', text)
-    return re.sub(r'_+', '_', text).strip('_')
-
-def load_outsiders_map(path):
-    """Loads outsiders to redirect search to the correct state."""
-    if not os.path.exists(path):
-        return {}
-    df_out = pd.read_csv(path, sep=';', encoding='utf-8-sig')
-    return {(slugify(r['clube']), slugify(r['campeonato_jogado'])): slugify(r['estado_origem']) 
-            for _, r in df_out.iterrows()}
+# --- OUTPUT ---
+OUTPUT_FILE = 'data/03_final/all_games_geodata.csv'
 
 def main():
     print("="*60)
-    print("INTEGRATION: FOOTBALL ATLAS + PAGERANK FLOWS")
+    print("INTEGRATION: EXACT GEO MATCH + PAGERANK FLOWS")
     print("="*60)
 
     # 1. DATA LOADING
     df_games = pd.read_csv(GAMES_FILE, sep=';', encoding='utf-8-sig')
     df_geo = pd.read_csv(GEODATA_FILE, sep=';', encoding='utf-8-sig')
-    outsiders_map = load_outsiders_map(OUTSIDERS_FILE)
 
-    # 2. GEODATA PREPARATION
-    df_geo['estado_slug'] = df_geo['estado'].apply(slugify)
-    df_geo['nome_clean'] = df_geo['nome_simplificado'].str.upper().str.strip()
+    # 2. CLEAN GEODATA 
+    # Remove duplicates to avoid Cartesian product on merge
+    df_geo = df_geo.drop_duplicates(subset=['estado', 'clube']).copy()
 
-    # 3. UNIQUE TEAMS EXTRACTION
-    h_teams = df_games[['mandante', 'mandante_estado']].rename(columns={'mandante': 'nome', 'mandante_estado': 'estado'})
-    v_teams = df_games[['visitante', 'visitante_estado']].rename(columns={'visitante': 'nome', 'visitante_estado': 'estado'})
-    unique_teams = pd.concat([h_teams, v_teams]).drop_duplicates()
-    unique_teams['nome_clean'] = unique_teams['nome'].str.upper().str.strip()
+    # Rename state to avoid column collision with game's 'estado' column
+    df_geo.rename(columns={'estado': 'geo_estado'}, inplace=True)
 
-    # 4. FUZZY MATCHING (WITH REDIRECT LOGIC)
-    print(f"[PROCESS] Matching {len(unique_teams)} unique teams...")
-    mapping_results = []
-
-    for _, row in unique_teams.iterrows():
-        team_name = row['nome_clean']
-        original_state_slug = slugify(row['estado'])
-        search_state_slug = outsiders_map.get((slugify(team_name), original_state_slug), original_state_slug)
-        
-        candidates = df_geo[df_geo['estado_slug'] == search_state_slug]
-        best_match = None
-        if not candidates.empty:
-            match = process.extractOne(team_name, candidates['nome_clean'].tolist(), scorer=fuzz.WRatio)
-            if match and match[1] >= SIMILARITY_THRESHOLD:
-                best_match = candidates[candidates['nome_clean'] == match[0]].iloc[0]
-
-        mapping_results.append({
-            'nome_original_jogo': row['nome'],
-            'estado_slug_key': original_state_slug,
-            'match_found': best_match is not None,
-            'lat': best_match['latitude'] if best_match is not None else None,
-            'lon': best_match['longitude'] if best_match is not None else None,
-            'cidade': best_match['cidade'] if best_match is not None else None,
-            'ibge': best_match['codigo_ibge'] if best_match is not None else None
-        })
-
-    df_mapping = pd.DataFrame(mapping_results)
-
-    # 5. EXPORT MISSING
-    df_missing = df_mapping[df_mapping['match_found'] == False][['nome_original_jogo', 'estado_slug_key']]
-    df_missing.to_csv(MISSING_FILE, index=False, sep=';', encoding='utf-8-sig')
-
-    # 6. CONSOLIDATED MERGE
-    print("[MERGE] Integrating flows and coordinates...")
-    df_games['h_slug_tmp'] = df_games['mandante_estado'].apply(slugify)
-    df_games['v_slug_tmp'] = df_games['visitante_estado'].apply(slugify)
-
-    # Merge Home
+    print("[MERGE] Integrating Home teams coordinates...")
+    # 3. MERGE HOME
     df_final = pd.merge(
-        df_games, df_mapping.drop(columns=['match_found']),
-        left_on=['mandante', 'h_slug_tmp'], right_on=['nome_original_jogo', 'estado_slug_key'],
+        df_games,
+        df_geo[['geo_estado', 'clube', 'latitude', 'longitude', 'cidade', 'estadio']],
+        left_on=['mandante_estado', 'mandante'],
+        right_on=['geo_estado', 'clube'],
         how='left'
-    ).rename(columns={'lat': 'lat_h', 'lon': 'lon_h', 'cidade': 'cidade_h', 'ibge': 'ibge_h'}).drop(columns=['nome_original_jogo', 'estado_slug_key', 'h_slug_tmp'])
+    ).rename(columns={
+        'latitude': 'lat_h',
+        'longitude': 'lon_h',
+        'cidade': 'cidade_h',
+        'estadio': 'estadio_h'
+    }).drop(columns=['geo_estado', 'clube'])
 
-    # Merge Away
+    print("[MERGE] Integrating Away teams coordinates...")
+    # 4. MERGE AWAY
     df_final = pd.merge(
-        df_final, df_mapping.drop(columns=['match_found']),
-        left_on=['visitante', 'v_slug_tmp'], right_on=['nome_original_jogo', 'estado_slug_key'],
+        df_final,
+        df_geo[['geo_estado', 'clube', 'latitude', 'longitude', 'cidade', 'estadio']],
+        left_on=['visitante_estado', 'visitante'],
+        right_on=['geo_estado', 'clube'],
         how='left'
-    ).rename(columns={'lat': 'lat_a', 'lon': 'lon_a', 'cidade': 'cidade_a', 'ibge': 'ibge_a'}).drop(columns=['nome_original_jogo', 'estado_slug_key', 'v_slug_tmp'])
+    ).rename(columns={
+        'latitude': 'lat_a',
+        'longitude': 'lon_a',
+        'cidade': 'cidade_a',
+        'estadio': 'estadio_a'
+    }).drop(columns=['geo_estado', 'clube'])
 
-    # 7. FINAL COLUMN REORDERING
-    # Mantemos as colunas de fluxo logo após os dados do jogo
+    # 5. EXPORT MISSING (For debugging)
+    missing_h = df_final[df_final['lat_h'].isna()][['mandante', 'mandante_estado']].rename(columns={'mandante': 'clube', 'mandante_estado': 'estado'})
+    missing_a = df_final[df_final['lat_a'].isna()][['visitante', 'visitante_estado']].rename(columns={'visitante': 'clube', 'visitante_estado': 'estado'})
+    df_missing = pd.concat([missing_h, missing_a]).drop_duplicates()
+    
+    if not df_missing.empty:
+        os.makedirs(os.path.dirname(MISSING_FILE), exist_ok=True)
+        df_missing.to_csv(MISSING_FILE, index=False, sep=';', encoding='utf-8-sig')
+        print(f"[WARNING] {len(df_missing)} unique teams without geodata. Saved to missing_teams.csv")
+
+    # 6. FINAL COLUMN REORDERING
     match_info = ['estado', 'divisao', 'ano', 'data', 'mandante', 'mandante_estado', 'visitante', 'visitante_estado', 'placar', 'resultado']
-    flow_info = ['gols_mandante', 'gols_visitante', 'peso_base', 'fluxo_h', 'fluxo_a']
-    geo_info = ['lat_h', 'lon_h', 'cidade_h', 'ibge_h', 'lat_a', 'lon_a', 'cidade_a', 'ibge_a']
+    flow_info = [c for c in ['gols_mandante', 'gols_visitante', 'peso_importancia', 'peso_base', 'fluxo_h', 'fluxo_a'] if c in df_final.columns]
+    geo_info = ['lat_h', 'lon_h', 'cidade_h', 'estadio_h', 'lat_a', 'lon_a', 'cidade_a', 'estadio_a']
     
     final_cols = match_info + flow_info + geo_info
     df_final = df_final[final_cols]
 
-    # 8. EXPORT
+    # 7. EXPORT
+    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
     df_final.to_csv(OUTPUT_FILE, index=False, sep=';', encoding='utf-8-sig')
     
     coverage = (df_final['lat_h'].notna().sum() / len(df_final)) * 100
     print("\n" + "="*60)
     print(f"SUCCESS | Final Data Coverage: {coverage:.2f}%")
-    print(f"Master File Exported with Weights: {OUTPUT_FILE}")
+    print(f"Master File Exported: {OUTPUT_FILE}")
     print("="*60)
 
 if __name__ == "__main__":

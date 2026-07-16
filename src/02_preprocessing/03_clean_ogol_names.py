@@ -4,7 +4,7 @@ import re
 
 # --- CONFIGURATION ---
 INPUT_FILE = 'data/02_processed/all_games.csv'
-OUTPUT_FILE = 'data/02_processed/all_games_2121212.csv'
+OUTPUT_FILE = 'data/02_processed/all_games.csv'
 
 
 def slugify(text):

@@ -5,7 +5,7 @@ import os
 
 # --- CONFIGURATION ---
 CLUSTER_FILE = 'data/04_results/balanced_kmeans_prop_division_3.csv'
-OUTPUT_MAP = 'outputs/plots/maps/03_BalancedKMeans/serie_c_geography.png'
+OUTPUT_MAP = 'outputs/maps/03_BalancedKMeans/serie_c_geography.png'
 OUTPUT_TABLES = 'outputs/plots/BalancedKmeansTables/serie_c_league_tables.png'
 
 UF_MAP = {
@@ -22,12 +22,12 @@ def get_color(rank):
     """Aplica a regra de cores da liga baseada na posição."""
     if rank <= 2: return '#00008B'  # Azul Escuro (Subida Direta Playoff Final)
     if 3 <= rank <= 6: return '#ADD8E6'  # Azul Claro (Playoff Regional)
-    if rank >= 16: return '#FF0000'  # Vermelho (Rebaixamento)
+    if rank >= 17: return '#FF0000'  # Vermelho (Rebaixamento)
     return 'white'  # Estabilidade
 
 def main():
     print("="*60)
-    print("ESTRUTURAÇÃO SÉRIE C: TOP 18 POR CLUSTER")
+    print("ESTRUTURAÇÃO SÉRIE C: TOP 20 POR CLUSTER")
     print("="*60)
 
     # 1. CARGA E MAPEAMENTO
@@ -38,14 +38,14 @@ def main():
     df['uf_slug'] = df['clube_id'].apply(lambda x: x.split('/')[1])
     df['uf'] = df['uf_slug'].map(UF_MAP).fillna(df['uf_slug'])
 
-    # 2. SELEÇÃO DOS TOP 18 POR CLUSTER
+    # 2. SELEÇÃO DOS TOP 20 POR CLUSTER
     serie_c_list = []
     clusters = sorted(df['cluster_k4'].unique())
 
     for c_id in clusters:
-        # Pega os 18 melhores de cada cluster baseado no score (PageRank)
-        cluster_data = df[df['cluster_k4'] == c_id].sort_values(by='score', ascending=False).head(18).copy()
-        cluster_data['pos'] = range(1, 19)
+        # Pega os 20 melhores de cada cluster baseado no score (PageRank)
+        cluster_data = df[df['cluster_k4'] == c_id].sort_values(by='score', ascending=False).head(20).copy()
+        cluster_data['pos'] = range(1, 21)
         serie_c_list.append(cluster_data)
 
     serie_c_final = pd.concat(serie_c_list)
@@ -69,7 +69,7 @@ def main():
         table.set_fontsize(12)
         table.scale(1.2, 2.5)
 
-        for row_idx in range(1, 19): # Pula o header
+        for row_idx in range(1, 21): # Pula o header
             color = get_color(row_idx)
             if color != 'white':
                 for col_idx in range(3):
@@ -88,7 +88,7 @@ def main():
     scatter = plt.scatter(serie_c_final['lon'], serie_c_final['lat'], 
                           c=serie_c_final['cluster_k4'], cmap='tab10', s=60, edgecolors='black')
     
-    plt.title("MAPA GEOGRÁFICO DA NOVA SÉRIE C (72 TIMES)")
+    plt.title("MAPA GEOGRÁFICO DA NOVA SÉRIE C (80 TIMES)")
     plt.grid(True, linestyle=':', alpha=0.5)
     plt.savefig(OUTPUT_MAP)
     print(f"[SUCCESS] Mapa Geográfico gerado em {OUTPUT_MAP}")

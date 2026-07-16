@@ -6,7 +6,7 @@ import os
 # --- CONFIGURATION ---
 INPUT_FILE = 'data/02_processed/all_games.csv'
 OUTSIDERS_FILE = 'data/01_raw/outsiders.csv'
-OUTPUT_FILE = 'data/02_processed/e3e3e33e3_v2.csv'
+OUTPUT_FILE = 'data/02_processed/all_games_v2.csv'
 
 UF_MAP = {
     'AC': 'acre', 'AL': 'alagoas', 'AP': 'amapa', 'AM': 'amazonas',
