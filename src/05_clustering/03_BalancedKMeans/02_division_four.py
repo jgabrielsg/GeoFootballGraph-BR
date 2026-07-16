@@ -8,7 +8,7 @@ import os
 INPUT_FILE = 'data/04_results/balanced_kmeans_prop_division_3.csv'
 OUTPUT_FILE = 'data/04_results/balanced_kmeans_prop_division_4.csv'
 OUTPUT_GRID = 'outputs/maps/03_BalancedKMeans/Bkmeans_serie_D(4m).png'
-MACRO_COL = 'cluster_k4' # Usamos K=4 como base
+MACRO_COL = 'cluster_k4' # Using K=4
 SUB_K_VALUES = [2, 3, 4]
 COLORS = ['#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4']
 

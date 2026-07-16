@@ -1,0 +1,377 @@
+﻿visitante;mandante;liga;modo;dist_ida_volta_km;tempo_ida_volta_h;detalhes
+AMAZONAS/amazonas;PAYSANDU/para;Serie C (Macro 1);FLIGHT;3039.4;12.7;Voo MAO->BEL (1495km). Ônibus t1:13km, t3:11km.
+AMAZONAS/amazonas;MANAUS/amazonas;Serie C (Macro 1);LOCAL;0.0;0.0;Mesma coordenada. Custo zero.
+AMAZONAS/amazonas;TOCANTINÓPOLIS/tocantins;Serie C (Macro 1);FLIGHT;3524.2;16.5;Voo MAO->IMP (1638km). Ônibus t1:13km, t3:111km.
+AMAZONAS/amazonas;SÃO RAIMUNDO/roraima;Serie C (Macro 1);ROAD;1488.1;23.2;Ônibus: 744km em 11.6h.
+AMAZONAS/amazonas;TUNA LUSO/para;Serie C (Macro 1);FLIGHT;3039.4;12.7;Voo MAO->BEL (1495km). Ônibus t1:13km, t3:11km.
+AMAZONAS/amazonas;GAZIN PORTO VELHO/rondonia;Serie C (Macro 1);FLIGHT;1785.6;11.2;Voo MAO->PVH (872km). Ônibus t1:13km, t3:8km.
+AMAZONAS/amazonas;CEOV OPERÁRIO/mato_grosso;Serie C (Macro 1);FLIGHT;3391.5;12.9;Voo MAO->CGB (1679km). Ônibus t1:13km, t3:3km.
+AMAZONAS/amazonas;TREM/amapa;Serie C (Macro 1);FLIGHT;2458.9;11.7;Voo MAO->MCP (1214km). Ônibus t1:13km, t3:2km.
+AMAZONAS/amazonas;MANAUARA/amazonas;Serie C (Macro 1);LOCAL;0.0;0.0;Mesma coordenada. Custo zero.
+AMAZONAS/amazonas;PRINCESA/amazonas;Serie C (Macro 1);ROAD;203.0;3.3;Ônibus: 102km em 1.6h.
+AMAZONAS/amazonas;CASTANHAL/para;Serie C (Macro 1);FLIGHT;3165.3;14.8;Voo MAO->BEL (1495km). Ônibus t1:13km, t3:74km.
+AMAZONAS/amazonas;UNIÃO ATLÉTICO/tocantins;Serie C (Macro 1);FLIGHT;3237.0;12.8;Voo MAO->AUX (1597km). Ônibus t1:13km, t3:8km.
+AMAZONAS/amazonas;IMPERATRIZ/maranhao;Serie C (Macro 1);FLIGHT;3313.2;12.9;Voo MAO->IMP (1638km). Ônibus t1:13km, t3:5km.
+AMAZONAS/amazonas;CAPITAL/tocantins;Serie C (Macro 1);FLIGHT;3563.8;13.7;Voo MAO->PMW (1749km). Ônibus t1:13km, t3:20km.
+AMAZONAS/amazonas;INTERPORTO/tocantins;Serie C (Macro 1);FLIGHT;3641.3;14.7;Voo MAO->PMW (1749km). Ônibus t1:13km, t3:59km.
+AMAZONAS/amazonas;MIXTO/mato_grosso;Serie C (Macro 1);FLIGHT;3401.4;13.0;Voo MAO->CGB (1679km). Ônibus t1:13km, t3:8km.
+AMAZONAS/amazonas;HUMAITÁ/acre;Serie C (Macro 1);FLIGHT;2806.6;14.5;Voo MAO->RBR (1323km). Ônibus t1:13km, t3:68km.
+AMAZONAS/amazonas;RIO BRANCO/acre;Serie C (Macro 1);FLIGHT;2711.3;12.6;Voo MAO->RBR (1323km). Ônibus t1:13km, t3:20km.
+AMAZONAS/amazonas;NOVA MUTUM/mato_grosso;Serie C (Macro 1);FLIGHT;3879.9;20.6;Voo MAO->CGB (1679km). Ônibus t1:13km, t3:247km.
+ANÁPOLIS/goias;GUARANI/sao_paulo;Serie C (Macro 0);FLIGHT;1833.6;12.5;Voo GYN->VCP (850km). Ônibus t1:50km, t3:18km.
+ANÁPOLIS/goias;VOLTA REDONDA/rio_de_janeiro;Serie C (Macro 0);FLIGHT;2517.9;16.2;Voo GYN->RRJ (1073km). Ônibus t1:50km, t3:137km.
+ANÁPOLIS/goias;TOMBENSE/minas_gerais;Serie C (Macro 0);FLIGHT;2759.9;19.3;Voo GYN->CAW (1154km). Ônibus t1:50km, t3:176km.
+ANÁPOLIS/goias;BRASILIENSE/distrito_federal;Serie C (Macro 0);ROAD;273.9;3.9;Ônibus: 137km em 1.9h.
+ANÁPOLIS/goias;NOVA IGUAÇU/rio_de_janeiro;Serie C (Macro 0);FLIGHT;2291.0;13.2;Voo GYN->GIG (1066km). Ônibus t1:50km, t3:30km.
+ANÁPOLIS/goias;APARECIDENSE/goias;Serie C (Macro 0);ROAD;143.8;2.2;Ônibus: 72km em 1.1h.
+ANÁPOLIS/goias;PORTUGUESA/rio_de_janeiro;Serie C (Macro 0);FLIGHT;2268.4;12.5;Voo GYN->SDU (1082km). Ônibus t1:50km, t3:2km.
+ANÁPOLIS/goias;CEILÂNDIA/distrito_federal;Serie C (Macro 0);ROAD;267.8;3.8;Ônibus: 134km em 1.9h.
+ANÁPOLIS/goias;REAL NOROESTE/espirito_santo;Serie C (Macro 0);FLIGHT;2360.5;18.4;Voo GYN->GVR (928km). Ônibus t1:50km, t3:202km.
+ANÁPOLIS/goias;DEMOCRATA/minas_gerais;Serie C (Macro 0);FLIGHT;1970.3;12.3;Voo GYN->GVR (928km). Ônibus t1:50km, t3:7km.
+ANÁPOLIS/goias;CAPITAL CF/distrito_federal;Serie C (Macro 0);ROAD;314.1;4.5;Ônibus: 157km em 2.2h.
+ANÁPOLIS/goias;RIO BRANCO/espirito_santo;Serie C (Macro 0);FLIGHT;2475.0;13.0;Voo GYN->VIX (1179km). Ônibus t1:50km, t3:9km.
+ANÁPOLIS/goias;GAMA/distrito_federal;Serie C (Macro 0);ROAD;248.1;3.4;Ônibus: 124km em 1.7h.
+ANÁPOLIS/goias;INTER DE LIMEIRA/sao_paulo;Serie C (Macro 0);FLIGHT;1941.7;13.7;Voo GYN->VCP (850km). Ônibus t1:50km, t3:72km.
+ANÁPOLIS/goias;VITÓRIA/espirito_santo;Serie C (Macro 0);FLIGHT;2475.0;13.0;Voo GYN->VIX (1179km). Ônibus t1:50km, t3:9km.
+ANÁPOLIS/goias;OLARIA/rio_de_janeiro;Serie C (Macro 0);FLIGHT;2268.4;12.5;Voo GYN->SDU (1082km). Ônibus t1:50km, t3:2km.
+ANÁPOLIS/goias;POUSO ALEGRE/minas_gerais;Serie C (Macro 0);FLIGHT;2311.1;17.8;Voo GYN->SJK (932km). Ônibus t1:50km, t3:174km.
+ANÁPOLIS/goias;RIO BRANCO/sao_paulo;Serie C (Macro 0);FLIGHT;1904.0;13.2;Voo GYN->VCP (850km). Ônibus t1:50km, t3:53km.
+ANÁPOLIS/goias;MARICÁ/rio_de_janeiro;Serie C (Macro 0);FLIGHT;2387.7;14.9;Voo GYN->SDU (1082km). Ônibus t1:50km, t3:62km.
+BARRA/santa_catarina;JOINVILLE/santa_catarina;Serie D (Macro 2 | Sub 2);ROAD;196.1;2.7;Ônibus: 98km em 1.4h.
+BARRA/santa_catarina;XV DE PIRACICABA/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1379.1;19.3;Ônibus: 690km em 9.6h.
+BARRA/santa_catarina;XV DE JAÚ/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1536.7;20.0;Ônibus: 768km em 10.0h.
+BARRA/santa_catarina;SÃO BENTO/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1161.4;16.5;Ônibus: 581km em 8.3h.
+BARRA/santa_catarina;TAQUARITINGA/sao_paulo;Serie D (Macro 2 | Sub 2);FLIGHT;1460.2;12.3;Voo NVT->AQA (648km). Ônibus t1:15km, t3:67km.
+BARRA/santa_catarina;CAMBORIÚ/santa_catarina;Serie D (Macro 2 | Sub 2);ROAD;9.1;0.2;Ônibus: 5km em 0.1h.
+BARRA/santa_catarina;CATANDUVA/sao_paulo;Serie D (Macro 2 | Sub 2);FLIGHT;1707.3;12.5;Voo NVT->SJP (777km). Ônibus t1:15km, t3:61km.
+BARRA/santa_catarina;VOCEM/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1397.1;18.3;Ônibus: 699km em 9.2h.
+BARRA/santa_catarina;NOROESTE/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1518.1;19.8;Ônibus: 759km em 9.9h.
+BARRA/santa_catarina;MARÍLIA/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1442.8;18.9;Ônibus: 721km em 9.5h.
+BARRA/santa_catarina;CAPIVARIANO/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1310.9;18.4;Ônibus: 655km em 9.2h.
+BARRA/santa_catarina;UNIÃO BARBARENSE/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1453.1;18.9;Ônibus: 727km em 9.4h.
+BARRA/santa_catarina;PENAPOLENSE/sao_paulo;Serie D (Macro 2 | Sub 2);FLIGHT;1680.7;12.6;Voo NVT->ARU (760km). Ônibus t1:15km, t3:66km.
+BARRA/santa_catarina;PRIMAVERA/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1284.9;17.9;Ônibus: 642km em 9.0h.
+BARRA/santa_catarina;DESPORTIVO BRASIL/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1232.0;17.7;Ônibus: 616km em 8.9h.
+BARRA/santa_catarina;JUVENTUS JARAGUÁ/santa_catarina;Serie D (Macro 2 | Sub 2);ROAD;217.8;3.1;Ônibus: 109km em 1.6h.
+BARRA/santa_catarina;LINENSE/sao_paulo;Serie D (Macro 2 | Sub 2);ROAD;1591.7;21.3;Ônibus: 796km em 10.6h.
+BOTAFOGO/paraiba;CSA/alagoas;Serie C (Macro 3);ROAD;743.2;10.5;Ônibus: 372km em 5.2h.
+BOTAFOGO/paraiba;SAMPAIO CORRÊA/maranhao;Serie C (Macro 3);FLIGHT;2695.2;12.6;Voo JPA->SLZ (1319km). Ônibus t1:16km, t3:13km.
+BOTAFOGO/paraiba;ABC/rio_grande_do_norte;Serie C (Macro 3);ROAD;359.2;5.0;Ônibus: 180km em 2.5h.
+BOTAFOGO/paraiba;CONFIANÇA/sergipe;Serie C (Macro 3);ROAD;1227.9;16.8;Ônibus: 614km em 8.4h.
+BOTAFOGO/paraiba;AMÉRICA/rio_grande_do_norte;Serie C (Macro 3);ROAD;359.2;5.0;Ônibus: 180km em 2.5h.
+BOTAFOGO/paraiba;RETRÔ/pernambuco;Serie C (Macro 3);ROAD;240.9;3.6;Ônibus: 120km em 1.8h.
+BOTAFOGO/paraiba;FERROVIÁRIO/ceara;Serie C (Macro 3);ROAD;1301.7;20.1;Ônibus: 651km em 10.0h.
+BOTAFOGO/paraiba;ALTOS/piaui;Serie C (Macro 3);FLIGHT;2200.4;13.0;Voo JPA->THE (1037km). Ônibus t1:16km, t3:47km.
+BOTAFOGO/paraiba;SANTA CRUZ/pernambuco;Serie C (Macro 3);ROAD;235.2;3.6;Ônibus: 118km em 1.8h.
+BOTAFOGO/paraiba;FLORESTA/ceara;Serie C (Macro 3);ROAD;1301.7;20.1;Ônibus: 651km em 10.0h.
+BOTAFOGO/paraiba;SOUSA/paraiba;Serie C (Macro 3);ROAD;862.7;12.6;Ônibus: 431km em 6.3h.
+BOTAFOGO/paraiba;SERGIPE/sergipe;Serie C (Macro 3);ROAD;1227.9;16.8;Ônibus: 614km em 8.4h.
+BOTAFOGO/paraiba;ITABAIANA/sergipe;Serie C (Macro 3);ROAD;1274.8;17.5;Ônibus: 637km em 8.8h.
+BOTAFOGO/paraiba;ASA/alagoas;Serie C (Macro 3);ROAD;924.1;13.0;Ônibus: 462km em 6.5h.
+BOTAFOGO/paraiba;JUAZEIRENSE/bahia;Serie C (Macro 3);ROAD;1561.1;20.2;Ônibus: 781km em 10.1h.
+BOTAFOGO/paraiba;JACUIPENSE/bahia;Serie C (Macro 3);FLIGHT;1829.8;13.6;Voo JPA->FEC (814km). Ônibus t1:16km, t3:85km.
+BOTAFOGO/paraiba;CAMPINENSE/paraiba;Serie C (Macro 3);ROAD;253.5;3.6;Ônibus: 127km em 1.8h.
+BOTAFOGO/paraiba;LAGARTO/sergipe;Serie C (Macro 3);ROAD;1309.1;18.0;Ônibus: 655km em 9.0h.
+BOTAFOGO/paraiba;BAHIA DE FEIRA/bahia;Serie C (Macro 3);FLIGHT;1688.2;11.4;Voo JPA->FEC (814km). Ônibus t1:16km, t3:14km.
+BRUSQUE/santa_catarina;ITUANO/sao_paulo;Serie C (Macro 2);ROAD;1274.0;18.2;Ônibus: 637km em 9.1h.
+BRUSQUE/santa_catarina;FIGUEIRENSE/santa_catarina;Serie C (Macro 2);ROAD;201.7;3.2;Ônibus: 101km em 1.6h.
+BRUSQUE/santa_catarina;YPIRANGA/rio_grande_do_sul;Serie C (Macro 2);ROAD;964.8;16.0;Ônibus: 482km em 8.0h.
+BRUSQUE/santa_catarina;FERROVIÁRIA/sao_paulo;Serie C (Macro 2);FLIGHT;1388.7;11.8;Voo NVT->AQA (648km). Ônibus t1:40km, t3:6km.
+BRUSQUE/santa_catarina;SÃO JOSÉ/rio_grande_do_sul;Serie C (Macro 2);ROAD;1080.2;13.7;Ônibus: 540km em 6.9h.
+BRUSQUE/santa_catarina;BRASIL/rio_grande_do_sul;Serie C (Macro 2);ROAD;1575.8;21.1;Ônibus: 788km em 10.5h.
+BRUSQUE/santa_catarina;MARINGÁ/parana;Serie C (Macro 2);ROAD;1328.0;18.4;Ônibus: 664km em 9.2h.
+BRUSQUE/santa_catarina;CAXIAS/rio_grande_do_sul;Serie C (Macro 2);ROAD;1097.3;14.7;Ônibus: 549km em 7.4h.
+BRUSQUE/santa_catarina;OPERÁRIO/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2258.3;13.0;Voo NVT->CGR (1079km). Ônibus t1:40km, t3:10km.
+BRUSQUE/santa_catarina;CASCAVEL/parana;Serie C (Macro 2);ROAD;1412.0;20.6;Ônibus: 706km em 10.3h.
+BRUSQUE/santa_catarina;COSTA RICA/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2933.3;22.2;Voo NVT->CGR (1079km). Ônibus t1:40km, t3:347km.
+BRUSQUE/santa_catarina;PARANÁ/parana;Serie C (Macro 2);ROAD;483.1;7.2;Ônibus: 242km em 3.6h.
+BRUSQUE/santa_catarina;OESTE/sao_paulo;Serie C (Macro 2);ROAD;1245.4;17.2;Ônibus: 623km em 8.6h.
+BRUSQUE/santa_catarina;UNIÃO RONDONÓPOLIS/mato_grosso;Serie C (Macro 2);FLIGHT;3114.3;14.4;Voo NVT->ROO (1496km). Ônibus t1:40km, t3:21km.
+BRUSQUE/santa_catarina;CIANORTE/parana;Serie C (Macro 2);ROAD;1486.9;20.4;Ônibus: 743km em 10.2h.
+BRUSQUE/santa_catarina;GRÊMIO PRUDENTE/sao_paulo;Serie C (Macro 2);ROAD;1567.1;21.7;Ônibus: 784km em 10.8h.
+BRUSQUE/santa_catarina;DOURADOS/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2294.5;15.3;Voo NVT->PMG (988km). Ônibus t1:40km, t3:119km.
+BRUSQUE/santa_catarina;MARCÍLIO DIAS/santa_catarina;Serie C (Macro 2);ROAD;71.4;1.4;Ônibus: 36km em 0.7h.
+BRUSQUE/santa_catarina;SÃO LUIZ/rio_grande_do_sul;Serie C (Macro 2);ROAD;1352.4;21.9;Ônibus: 676km em 11.0h.
+CAXIAS/rio_grande_do_sul;BRUSQUE/santa_catarina;Serie C (Macro 2);ROAD;1102.8;14.8;Ônibus: 551km em 7.4h.
+CAXIAS/rio_grande_do_sul;ITUANO/sao_paulo;Serie C (Macro 2);FLIGHT;1928.6;11.9;Voo CXJ->VCP (916km). Ônibus t1:5km, t3:43km.
+CAXIAS/rio_grande_do_sul;FIGUEIRENSE/santa_catarina;Serie C (Macro 2);ROAD;937.6;12.2;Ônibus: 469km em 6.1h.
+CAXIAS/rio_grande_do_sul;YPIRANGA/rio_grande_do_sul;Serie C (Macro 2);ROAD;588.0;10.6;Ônibus: 294km em 5.3h.
+CAXIAS/rio_grande_do_sul;FERROVIÁRIA/sao_paulo;Serie C (Macro 2);FLIGHT;2031.9;11.2;Voo CXJ->AQA (1005km). Ônibus t1:5km, t3:6km.
+CAXIAS/rio_grande_do_sul;SÃO JOSÉ/rio_grande_do_sul;Serie C (Macro 2);ROAD;253.5;3.9;Ônibus: 127km em 1.9h.
+CAXIAS/rio_grande_do_sul;BRASIL/rio_grande_do_sul;Serie C (Macro 2);ROAD;749.0;11.3;Ônibus: 375km em 5.6h.
+CAXIAS/rio_grande_do_sul;MARINGÁ/parana;Serie C (Macro 2);FLIGHT;1515.1;11.1;Voo CXJ->MGF (735km). Ônibus t1:5km, t3:17km.
+CAXIAS/rio_grande_do_sul;OPERÁRIO/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2396.2;11.7;Voo CXJ->CGR (1183km). Ônibus t1:5km, t3:10km.
+CAXIAS/rio_grande_do_sul;CASCAVEL/parana;Serie C (Macro 2);ROAD;1551.3;22.4;Ônibus: 776km em 11.2h.
+CAXIAS/rio_grande_do_sul;COSTA RICA/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;3071.2;21.0;Voo CXJ->CGR (1183km). Ônibus t1:5km, t3:347km.
+CAXIAS/rio_grande_do_sul;PARANÁ/parana;Serie C (Macro 2);ROAD;1162.5;19.7;Ônibus: 581km em 9.8h.
+CAXIAS/rio_grande_do_sul;OESTE/sao_paulo;Serie C (Macro 2);FLIGHT;1833.4;11.6;Voo CXJ->CGH (880km). Ônibus t1:5km, t3:32km.
+CAXIAS/rio_grande_do_sul;UNIÃO RONDONÓPOLIS/mato_grosso;Serie C (Macro 2);FLIGHT;3370.8;13.3;Voo CXJ->ROO (1659km). Ônibus t1:5km, t3:21km.
+CAXIAS/rio_grande_do_sul;CIANORTE/parana;Serie C (Macro 2);FLIGHT;1645.5;12.6;Voo CXJ->MGF (735km). Ônibus t1:5km, t3:82km.
+CAXIAS/rio_grande_do_sul;GRÊMIO PRUDENTE/sao_paulo;Serie C (Macro 2);FLIGHT;1817.6;10.9;Voo CXJ->PPB (895km). Ônibus t1:5km, t3:8km.
+CAXIAS/rio_grande_do_sul;DOURADOS/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2235.6;13.8;Voo CXJ->PMG (994km). Ônibus t1:5km, t3:119km.
+CAXIAS/rio_grande_do_sul;MARCÍLIO DIAS/santa_catarina;Serie C (Macro 2);ROAD;1096.0;14.3;Ônibus: 548km em 7.2h.
+CAXIAS/rio_grande_do_sul;SÃO LUIZ/rio_grande_do_sul;Serie C (Macro 2);ROAD;789.8;11.1;Ônibus: 395km em 5.5h.
+CONFIANÇA/sergipe;CSA/alagoas;Serie C (Macro 3);ROAD;542.6;7.5;Ônibus: 271km em 3.8h.
+CONFIANÇA/sergipe;SAMPAIO CORRÊA/maranhao;Serie C (Macro 3);FLIGHT;2854.1;12.6;Voo AJU->SLZ (1403km). Ônibus t1:11km, t3:13km.
+CONFIANÇA/sergipe;ABC/rio_grande_do_norte;Serie C (Macro 3);ROAD;1562.9;21.4;Ônibus: 781km em 10.7h.
+CONFIANÇA/sergipe;AMÉRICA/rio_grande_do_norte;Serie C (Macro 3);ROAD;1562.9;21.4;Ônibus: 781km em 10.7h.
+CONFIANÇA/sergipe;BOTAFOGO/paraiba;Serie C (Macro 3);ROAD;1227.9;16.8;Ônibus: 614km em 8.4h.
+CONFIANÇA/sergipe;RETRÔ/pernambuco;Serie C (Macro 3);ROAD;1010.9;13.8;Ônibus: 505km em 6.9h.
+CONFIANÇA/sergipe;FERROVIÁRIO/ceara;Serie C (Macro 3);FLIGHT;1911.2;11.4;Voo AJU->FOR (935km). Ônibus t1:11km, t3:9km.
+CONFIANÇA/sergipe;ALTOS/piaui;Serie C (Macro 3);FLIGHT;2213.2;12.8;Voo AJU->THE (1048km). Ônibus t1:11km, t3:47km.
+CONFIANÇA/sergipe;SANTA CRUZ/pernambuco;Serie C (Macro 3);ROAD;997.9;13.5;Ônibus: 499km em 6.8h.
+CONFIANÇA/sergipe;FLORESTA/ceara;Serie C (Macro 3);FLIGHT;1911.2;11.4;Voo AJU->FOR (935km). Ônibus t1:11km, t3:9km.
+CONFIANÇA/sergipe;SOUSA/paraiba;Serie C (Macro 3);ROAD;1378.4;20.9;Ônibus: 689km em 10.4h.
+CONFIANÇA/sergipe;SERGIPE/sergipe;Serie C (Macro 3);LOCAL;0.0;0.0;Mesma coordenada. Custo zero.
+CONFIANÇA/sergipe;ITABAIANA/sergipe;Serie C (Macro 3);ROAD;110.8;1.7;Ônibus: 55km em 0.9h.
+CONFIANÇA/sergipe;ASA/alagoas;Serie C (Macro 3);ROAD;352.4;5.1;Ônibus: 176km em 2.5h.
+CONFIANÇA/sergipe;JUAZEIRENSE/bahia;Serie C (Macro 3);ROAD;949.7;12.4;Ônibus: 475km em 6.2h.
+CONFIANÇA/sergipe;JACUIPENSE/bahia;Serie C (Macro 3);ROAD;722.4;10.5;Ônibus: 361km em 5.3h.
+CONFIANÇA/sergipe;CAMPINENSE/paraiba;Serie C (Macro 3);ROAD;1094.2;16.2;Ônibus: 547km em 8.1h.
+CONFIANÇA/sergipe;LAGARTO/sergipe;Serie C (Macro 3);ROAD;120.4;2.1;Ônibus: 60km em 1.0h.
+CONFIANÇA/sergipe;BAHIA DE FEIRA/bahia;Serie C (Macro 3);ROAD;622.5;8.6;Ônibus: 311km em 4.3h.
+FERROVIÁRIA/sao_paulo;BRUSQUE/santa_catarina;Serie C (Macro 2);FLIGHT;1389.3;11.8;Voo AQA->NVT (648km). Ônibus t1:6km, t3:41km.
+FERROVIÁRIA/sao_paulo;ITUANO/sao_paulo;Serie C (Macro 2);ROAD;417.0;5.4;Ônibus: 208km em 2.7h.
+FERROVIÁRIA/sao_paulo;FIGUEIRENSE/santa_catarina;Serie C (Macro 2);FLIGHT;1540.5;10.9;Voo AQA->FLN (748km). Ônibus t1:6km, t3:17km.
+FERROVIÁRIA/sao_paulo;YPIRANGA/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;1928.8;13.7;Voo AQA->XAP (859km). Ônibus t1:6km, t3:100km.
+FERROVIÁRIA/sao_paulo;SÃO JOSÉ/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;2229.1;11.6;Voo AQA->POA (1099km). Ônibus t1:6km, t3:9km.
+FERROVIÁRIA/sao_paulo;BRASIL/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;2725.3;12.1;Voo AQA->PET (1350km). Ônibus t1:6km, t3:7km.
+FERROVIÁRIA/sao_paulo;MARINGÁ/parana;Serie C (Macro 2);ROAD;1027.7;12.9;Ônibus: 514km em 6.5h.
+FERROVIÁRIA/sao_paulo;CAXIAS/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;2031.9;11.2;Voo AQA->CXJ (1005km). Ônibus t1:6km, t3:5km.
+FERROVIÁRIA/sao_paulo;OPERÁRIO/mato_grosso_do_sul;Serie C (Macro 2);ROAD;1532.4;20.4;Ônibus: 766km em 10.2h.
+FERROVIÁRIA/sao_paulo;CASCAVEL/parana;Serie C (Macro 2);ROAD;1558.8;19.9;Ônibus: 779km em 10.0h.
+FERROVIÁRIA/sao_paulo;COSTA RICA/mato_grosso_do_sul;Serie C (Macro 2);ROAD;1390.5;18.0;Ônibus: 695km em 9.0h.
+FERROVIÁRIA/sao_paulo;PARANÁ/parana;Serie C (Macro 2);ROAD;1176.3;16.0;Ônibus: 588km em 8.0h.
+FERROVIÁRIA/sao_paulo;OESTE/sao_paulo;Serie C (Macro 2);ROAD;538.9;6.5;Ônibus: 269km em 3.3h.
+FERROVIÁRIA/sao_paulo;UNIÃO RONDONÓPOLIS/mato_grosso;Serie C (Macro 2);FLIGHT;2129.0;11.9;Voo AQA->ROO (1038km). Ônibus t1:6km, t3:21km.
+FERROVIÁRIA/sao_paulo;CIANORTE/parana;Serie C (Macro 2);ROAD;1186.6;14.9;Ônibus: 593km em 7.5h.
+FERROVIÁRIA/sao_paulo;GRÊMIO PRUDENTE/sao_paulo;Serie C (Macro 2);ROAD;852.2;10.2;Ônibus: 426km em 5.1h.
+FERROVIÁRIA/sao_paulo;DOURADOS/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2053.8;13.6;Voo AQA->PMG (903km). Ônibus t1:6km, t3:119km.
+FERROVIÁRIA/sao_paulo;MARCÍLIO DIAS/santa_catarina;Serie C (Macro 2);FLIGHT;1318.0;10.4;Voo AQA->NVT (648km). Ônibus t1:6km, t3:5km.
+FERROVIÁRIA/sao_paulo;SÃO LUIZ/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;2260.9;12.6;Voo AQA->GEL (1081km). Ônibus t1:6km, t3:43km.
+FIGUEIRENSE/santa_catarina;BRUSQUE/santa_catarina;Serie C (Macro 2);ROAD;200.2;3.1;Ônibus: 100km em 1.6h.
+FIGUEIRENSE/santa_catarina;ITUANO/sao_paulo;Serie C (Macro 2);ROAD;1395.4;19.4;Ônibus: 698km em 9.7h.
+FIGUEIRENSE/santa_catarina;YPIRANGA/rio_grande_do_sul;Serie C (Macro 2);ROAD;1030.4;17.2;Ônibus: 515km em 8.6h.
+FIGUEIRENSE/santa_catarina;FERROVIÁRIA/sao_paulo;Serie C (Macro 2);FLIGHT;1540.5;10.9;Voo FLN->AQA (748km). Ônibus t1:17km, t3:6km.
+FIGUEIRENSE/santa_catarina;SÃO JOSÉ/rio_grande_do_sul;Serie C (Macro 2);ROAD;915.6;11.2;Ônibus: 458km em 5.6h.
+FIGUEIRENSE/santa_catarina;BRASIL/rio_grande_do_sul;Serie C (Macro 2);ROAD;1411.1;18.6;Ônibus: 706km em 9.3h.
+FIGUEIRENSE/santa_catarina;MARINGÁ/parana;Serie C (Macro 2);ROAD;1449.3;19.6;Ônibus: 725km em 9.8h.
+FIGUEIRENSE/santa_catarina;CAXIAS/rio_grande_do_sul;Serie C (Macro 2);ROAD;937.6;12.2;Ônibus: 469km em 6.1h.
+FIGUEIRENSE/santa_catarina;OPERÁRIO/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2378.5;12.1;Voo FLN->CGR (1163km). Ônibus t1:17km, t3:10km.
+FIGUEIRENSE/santa_catarina;CASCAVEL/parana;Serie C (Macro 2);ROAD;1579.2;22.0;Ônibus: 790km em 11.0h.
+FIGUEIRENSE/santa_catarina;COSTA RICA/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;3053.5;21.3;Voo FLN->CGR (1163km). Ônibus t1:17km, t3:347km.
+FIGUEIRENSE/santa_catarina;PARANÁ/parana;Serie C (Macro 2);ROAD;604.5;8.4;Ônibus: 302km em 4.2h.
+FIGUEIRENSE/santa_catarina;OESTE/sao_paulo;Serie C (Macro 2);ROAD;1366.7;18.4;Ônibus: 683km em 9.2h.
+FIGUEIRENSE/santa_catarina;UNIÃO RONDONÓPOLIS/mato_grosso;Serie C (Macro 2);FLIGHT;3253.7;13.6;Voo FLN->ROO (1590km). Ônibus t1:17km, t3:21km.
+FIGUEIRENSE/santa_catarina;CIANORTE/parana;Serie C (Macro 2);FLIGHT;1532.8;12.8;Voo FLN->MGF (668km). Ônibus t1:17km, t3:82km.
+FIGUEIRENSE/santa_catarina;GRÊMIO PRUDENTE/sao_paulo;Serie C (Macro 2);FLIGHT;1600.8;11.0;Voo FLN->PPB (775km). Ônibus t1:17km, t3:8km.
+FIGUEIRENSE/santa_catarina;DOURADOS/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2380.0;14.3;Voo FLN->PMG (1055km). Ônibus t1:17km, t3:119km.
+FIGUEIRENSE/santa_catarina;MARCÍLIO DIAS/santa_catarina;Serie C (Macro 2);ROAD;193.4;2.7;Ônibus: 97km em 1.3h.
+FIGUEIRENSE/santa_catarina;SÃO LUIZ/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;1400.7;11.8;Voo FLN->GEL (640km). Ônibus t1:17km, t3:43km.
+FLORESTA/ceara;CSA/alagoas;Serie C (Macro 3);FLIGHT;1679.5;11.6;Voo FOR->MCZ (808km). Ônibus t1:9km, t3:22km.
+FLORESTA/ceara;SAMPAIO CORRÊA/maranhao;Serie C (Macro 3);FLIGHT;1532.3;10.9;Voo FOR->SLZ (744km). Ônibus t1:9km, t3:13km.
+FLORESTA/ceara;ABC/rio_grande_do_norte;Serie C (Macro 3);ROAD;1025.5;16.2;Ônibus: 513km em 8.1h.
+FLORESTA/ceara;CONFIANÇA/sergipe;Serie C (Macro 3);FLIGHT;1911.2;11.4;Voo FOR->AJU (935km). Ônibus t1:9km, t3:11km.
+FLORESTA/ceara;AMÉRICA/rio_grande_do_norte;Serie C (Macro 3);ROAD;1025.5;16.2;Ônibus: 513km em 8.1h.
+FLORESTA/ceara;BOTAFOGO/paraiba;Serie C (Macro 3);ROAD;1301.7;20.1;Ônibus: 651km em 10.0h.
+FLORESTA/ceara;RETRÔ/pernambuco;Serie C (Macro 3);ROAD;1576.6;22.7;Ônibus: 788km em 11.3h.
+FLORESTA/ceara;FERROVIÁRIO/ceara;Serie C (Macro 3);LOCAL;0.0;0.0;Mesma coordenada. Custo zero.
+FLORESTA/ceara;ALTOS/piaui;Serie C (Macro 3);ROAD;1104.9;15.9;Ônibus: 552km em 8.0h.
+FLORESTA/ceara;SANTA CRUZ/pernambuco;Serie C (Macro 3);FLIGHT;1479.7;10.8;Voo FOR->REC (719km). Ônibus t1:9km, t3:12km.
+FLORESTA/ceara;SOUSA/paraiba;Serie C (Macro 3);ROAD;955.6;13.7;Ônibus: 478km em 6.8h.
+FLORESTA/ceara;SERGIPE/sergipe;Serie C (Macro 3);FLIGHT;1911.2;11.4;Voo FOR->AJU (935km). Ônibus t1:9km, t3:11km.
+FLORESTA/ceara;ITABAIANA/sergipe;Serie C (Macro 3);FLIGHT;2017.5;13.0;Voo FOR->AJU (935km). Ônibus t1:9km, t3:65km.
+FLORESTA/ceara;ASA/alagoas;Serie C (Macro 3);FLIGHT;1885.0;14.6;Voo FOR->MCZ (808km). Ônibus t1:9km, t3:125km.
+FLORESTA/ceara;JUAZEIRENSE/bahia;Serie C (Macro 3);FLIGHT;1551.9;10.9;Voo FOR->PNZ (756km). Ônibus t1:9km, t3:11km.
+FLORESTA/ceara;JACUIPENSE/bahia;Serie C (Macro 3);FLIGHT;2332.9;14.0;Voo FOR->FEC (1073km). Ônibus t1:9km, t3:85km.
+FLORESTA/ceara;CAMPINENSE/paraiba;Serie C (Macro 3);ROAD;1232.2;17.4;Ônibus: 616km em 8.7h.
+FLORESTA/ceara;LAGARTO/sergipe;Serie C (Macro 3);FLIGHT;2027.3;13.4;Voo FOR->AJU (935km). Ônibus t1:9km, t3:69km.
+FLORESTA/ceara;BAHIA DE FEIRA/bahia;Serie C (Macro 3);FLIGHT;2191.3;11.8;Voo FOR->FEC (1073km). Ônibus t1:9km, t3:14km.
+GUARANI/sao_paulo;VOLTA REDONDA/rio_de_janeiro;Serie C (Macro 0);ROAD;740.9;9.2;Ônibus: 370km em 4.6h.
+GUARANI/sao_paulo;TOMBENSE/minas_gerais;Serie C (Macro 0);ROAD;1489.8;22.0;Ônibus: 745km em 11.0h.
+GUARANI/sao_paulo;BRASILIENSE/distrito_federal;Serie C (Macro 0);FLIGHT;1911.1;11.9;Voo VCP->BSB (914km). Ônibus t1:18km, t3:24km.
+GUARANI/sao_paulo;NOVA IGUAÇU/rio_de_janeiro;Serie C (Macro 0);ROAD;911.1;11.4;Ônibus: 456km em 5.7h.
+GUARANI/sao_paulo;APARECIDENSE/goias;Serie C (Macro 0);ROAD;1574.4;19.6;Ônibus: 787km em 9.8h.
+GUARANI/sao_paulo;PORTUGUESA/rio_de_janeiro;Serie C (Macro 0);ROAD;984.2;12.4;Ônibus: 492km em 6.2h.
+GUARANI/sao_paulo;CEILÂNDIA/distrito_federal;Serie C (Macro 0);FLIGHT;1921.8;12.2;Voo VCP->BSB (914km). Ônibus t1:18km, t3:30km.
+GUARANI/sao_paulo;REAL NOROESTE/espirito_santo;Serie C (Macro 0);FLIGHT;2056.1;17.3;Voo VCP->GVR (808km). Ônibus t1:18km, t3:202km.
+GUARANI/sao_paulo;ANÁPOLIS/goias;Serie C (Macro 0);FLIGHT;1833.6;12.5;Voo VCP->GYN (850km). Ônibus t1:18km, t3:50km.
+GUARANI/sao_paulo;DEMOCRATA/minas_gerais;Serie C (Macro 0);FLIGHT;1665.9;11.2;Voo VCP->GVR (808km). Ônibus t1:18km, t3:7km.
+GUARANI/sao_paulo;CAPITAL CF/distrito_federal;Serie C (Macro 0);FLIGHT;1893.0;11.6;Voo VCP->BSB (914km). Ônibus t1:18km, t3:15km.
+GUARANI/sao_paulo;RIO BRANCO/espirito_santo;Serie C (Macro 0);FLIGHT;1826.8;11.4;Voo VCP->VIX (887km). Ônibus t1:18km, t3:9km.
+GUARANI/sao_paulo;GAMA/distrito_federal;Serie C (Macro 0);FLIGHT;1916.9;12.0;Voo VCP->BSB (914km). Ônibus t1:18km, t3:27km.
+GUARANI/sao_paulo;INTER DE LIMEIRA/sao_paulo;Serie C (Macro 0);ROAD;113.9;1.6;Ônibus: 57km em 0.8h.
+GUARANI/sao_paulo;VITÓRIA/espirito_santo;Serie C (Macro 0);FLIGHT;1826.8;11.4;Voo VCP->VIX (887km). Ônibus t1:18km, t3:9km.
+GUARANI/sao_paulo;OLARIA/rio_de_janeiro;Serie C (Macro 0);ROAD;984.2;12.4;Ônibus: 492km em 6.2h.
+GUARANI/sao_paulo;POUSO ALEGRE/minas_gerais;Serie C (Macro 0);ROAD;396.0;5.1;Ônibus: 198km em 2.5h.
+GUARANI/sao_paulo;RIO BRANCO/sao_paulo;Serie C (Macro 0);ROAD;76.2;1.1;Ônibus: 38km em 0.5h.
+GUARANI/sao_paulo;MARICÁ/rio_de_janeiro;Serie C (Macro 0);ROAD;1078.4;14.4;Ônibus: 539km em 7.2h.
+INTER DE LIMEIRA/sao_paulo;GUARANI/sao_paulo;Serie C (Macro 0);ROAD;113.9;1.6;Ônibus: 57km em 0.8h.
+INTER DE LIMEIRA/sao_paulo;VOLTA REDONDA/rio_de_janeiro;Serie C (Macro 0);ROAD;856.0;10.6;Ônibus: 428km em 5.3h.
+INTER DE LIMEIRA/sao_paulo;TOMBENSE/minas_gerais;Serie C (Macro 0);FLIGHT;1916.3;18.7;Voo VCP->CAW (711km). Ônibus t1:72km, t3:176km.
+INTER DE LIMEIRA/sao_paulo;BRASILIENSE/distrito_federal;Serie C (Macro 0);FLIGHT;2019.1;13.2;Voo VCP->BSB (914km). Ônibus t1:72km, t3:24km.
+INTER DE LIMEIRA/sao_paulo;NOVA IGUAÇU/rio_de_janeiro;Serie C (Macro 0);ROAD;1026.2;12.8;Ônibus: 513km em 6.4h.
+INTER DE LIMEIRA/sao_paulo;APARECIDENSE/goias;Serie C (Macro 0);ROAD;1472.9;18.3;Ônibus: 736km em 9.2h.
+INTER DE LIMEIRA/sao_paulo;PORTUGUESA/rio_de_janeiro;Serie C (Macro 0);ROAD;1099.3;13.8;Ônibus: 550km em 6.9h.
+INTER DE LIMEIRA/sao_paulo;CEILÂNDIA/distrito_federal;Serie C (Macro 0);FLIGHT;2029.9;13.4;Voo VCP->BSB (914km). Ônibus t1:72km, t3:30km.
+INTER DE LIMEIRA/sao_paulo;REAL NOROESTE/espirito_santo;Serie C (Macro 0);FLIGHT;2164.2;18.6;Voo VCP->GVR (808km). Ônibus t1:72km, t3:202km.
+INTER DE LIMEIRA/sao_paulo;ANÁPOLIS/goias;Serie C (Macro 0);FLIGHT;1941.7;13.7;Voo VCP->GYN (850km). Ônibus t1:72km, t3:50km.
+INTER DE LIMEIRA/sao_paulo;DEMOCRATA/minas_gerais;Serie C (Macro 0);FLIGHT;1774.0;12.4;Voo VCP->GVR (808km). Ônibus t1:72km, t3:7km.
+INTER DE LIMEIRA/sao_paulo;CAPITAL CF/distrito_federal;Serie C (Macro 0);FLIGHT;2001.0;12.9;Voo VCP->BSB (914km). Ônibus t1:72km, t3:15km.
+INTER DE LIMEIRA/sao_paulo;RIO BRANCO/espirito_santo;Serie C (Macro 0);FLIGHT;1934.8;12.7;Voo VCP->VIX (887km). Ônibus t1:72km, t3:9km.
+INTER DE LIMEIRA/sao_paulo;GAMA/distrito_federal;Serie C (Macro 0);FLIGHT;2024.9;13.3;Voo VCP->BSB (914km). Ônibus t1:72km, t3:27km.
+INTER DE LIMEIRA/sao_paulo;VITÓRIA/espirito_santo;Serie C (Macro 0);FLIGHT;1934.8;12.7;Voo VCP->VIX (887km). Ônibus t1:72km, t3:9km.
+INTER DE LIMEIRA/sao_paulo;OLARIA/rio_de_janeiro;Serie C (Macro 0);ROAD;1099.3;13.8;Ônibus: 550km em 6.9h.
+INTER DE LIMEIRA/sao_paulo;POUSO ALEGRE/minas_gerais;Serie C (Macro 0);ROAD;374.6;5.5;Ônibus: 187km em 2.8h.
+INTER DE LIMEIRA/sao_paulo;RIO BRANCO/sao_paulo;Serie C (Macro 0);ROAD;56.3;0.9;Ônibus: 28km em 0.4h.
+INTER DE LIMEIRA/sao_paulo;MARICÁ/rio_de_janeiro;Serie C (Macro 0);ROAD;1193.4;15.9;Ônibus: 597km em 7.9h.
+ITABAIANA/sergipe;CSA/alagoas;Serie C (Macro 3);ROAD;591.7;8.3;Ônibus: 296km em 4.2h.
+ITABAIANA/sergipe;SAMPAIO CORRÊA/maranhao;Serie C (Macro 3);FLIGHT;2960.4;14.2;Voo AJU->SLZ (1403km). Ônibus t1:65km, t3:13km.
+ITABAIANA/sergipe;ABC/rio_grande_do_norte;Serie C (Macro 3);FLIGHT;1573.3;12.8;Voo AJU->NAT (697km). Ônibus t1:65km, t3:25km.
+ITABAIANA/sergipe;CONFIANÇA/sergipe;Serie C (Macro 3);ROAD;110.8;1.7;Ônibus: 55km em 0.9h.
+ITABAIANA/sergipe;AMÉRICA/rio_grande_do_norte;Serie C (Macro 3);FLIGHT;1573.3;12.8;Voo AJU->NAT (697km). Ônibus t1:65km, t3:25km.
+ITABAIANA/sergipe;BOTAFOGO/paraiba;Serie C (Macro 3);ROAD;1274.8;17.5;Ônibus: 637km em 8.8h.
+ITABAIANA/sergipe;RETRÔ/pernambuco;Serie C (Macro 3);ROAD;1060.1;14.6;Ônibus: 530km em 7.3h.
+ITABAIANA/sergipe;FERROVIÁRIO/ceara;Serie C (Macro 3);FLIGHT;2017.5;13.0;Voo AJU->FOR (935km). Ônibus t1:65km, t3:9km.
+ITABAIANA/sergipe;ALTOS/piaui;Serie C (Macro 3);FLIGHT;2319.6;14.4;Voo AJU->THE (1048km). Ônibus t1:65km, t3:47km.
+ITABAIANA/sergipe;SANTA CRUZ/pernambuco;Serie C (Macro 3);ROAD;1047.1;14.3;Ônibus: 524km em 7.2h.
+ITABAIANA/sergipe;FLORESTA/ceara;Serie C (Macro 3);FLIGHT;2017.5;13.0;Voo AJU->FOR (935km). Ônibus t1:65km, t3:9km.
+ITABAIANA/sergipe;SOUSA/paraiba;Serie C (Macro 3);ROAD;1301.4;19.3;Ônibus: 651km em 9.7h.
+ITABAIANA/sergipe;SERGIPE/sergipe;Serie C (Macro 3);ROAD;110.8;1.7;Ônibus: 55km em 0.9h.
+ITABAIANA/sergipe;ASA/alagoas;Serie C (Macro 3);ROAD;401.6;5.9;Ônibus: 201km em 2.9h.
+ITABAIANA/sergipe;JUAZEIRENSE/bahia;Serie C (Macro 3);ROAD;842.3;10.9;Ônibus: 421km em 5.4h.
+ITABAIANA/sergipe;JACUIPENSE/bahia;Serie C (Macro 3);ROAD;582.2;9.4;Ônibus: 291km em 4.7h.
+ITABAIANA/sergipe;CAMPINENSE/paraiba;Serie C (Macro 3);ROAD;1143.3;17.0;Ônibus: 572km em 8.5h.
+ITABAIANA/sergipe;LAGARTO/sergipe;Serie C (Macro 3);ROAD;81.6;1.5;Ônibus: 41km em 0.7h.
+ITABAIANA/sergipe;BAHIA DE FEIRA/bahia;Serie C (Macro 3);ROAD;629.2;9.0;Ônibus: 315km em 4.5h.
+ITUANO/sao_paulo;BRUSQUE/santa_catarina;Serie C (Macro 2);ROAD;1280.2;18.3;Ônibus: 640km em 9.2h.
+ITUANO/sao_paulo;FIGUEIRENSE/santa_catarina;Serie C (Macro 2);ROAD;1395.4;19.4;Ônibus: 698km em 9.7h.
+ITUANO/sao_paulo;YPIRANGA/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;1942.9;14.6;Voo VCP->XAP (829km). Ônibus t1:43km, t3:100km.
+ITUANO/sao_paulo;FERROVIÁRIA/sao_paulo;Serie C (Macro 2);ROAD;417.0;5.4;Ônibus: 208km em 2.7h.
+ITUANO/sao_paulo;SÃO JOSÉ/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;2110.6;12.3;Voo VCP->POA (1003km). Ônibus t1:43km, t3:9km.
+ITUANO/sao_paulo;BRASIL/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;2613.8;12.8;Voo VCP->PET (1257km). Ônibus t1:43km, t3:7km.
+ITUANO/sao_paulo;MARINGÁ/parana;Serie C (Macro 2);ROAD;1166.1;14.0;Ônibus: 583km em 7.0h.
+ITUANO/sao_paulo;CAXIAS/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;1928.6;11.9;Voo VCP->CXJ (916km). Ônibus t1:43km, t3:5km.
+ITUANO/sao_paulo;OPERÁRIO/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2011.4;12.2;Voo VCP->CGR (953km). Ônibus t1:43km, t3:10km.
+ITUANO/sao_paulo;CASCAVEL/parana;Serie C (Macro 2);FLIGHT;1675.9;11.7;Voo VCP->CAC (787km). Ônibus t1:43km, t3:8km.
+ITUANO/sao_paulo;COSTA RICA/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2686.5;21.4;Voo VCP->CGR (953km). Ônibus t1:43km, t3:347km.
+ITUANO/sao_paulo;PARANÁ/parana;Serie C (Macro 2);ROAD;828.8;12.2;Ônibus: 414km em 6.1h.
+ITUANO/sao_paulo;OESTE/sao_paulo;Serie C (Macro 2);ROAD;150.9;1.8;Ônibus: 75km em 0.9h.
+ITUANO/sao_paulo;UNIÃO RONDONÓPOLIS/mato_grosso;Serie C (Macro 2);FLIGHT;2579.7;13.3;Voo VCP->ROO (1226km). Ônibus t1:43km, t3:21km.
+ITUANO/sao_paulo;CIANORTE/parana;Serie C (Macro 2);ROAD;1325.1;16.0;Ônibus: 663km em 8.0h.
+ITUANO/sao_paulo;GRÊMIO PRUDENTE/sao_paulo;Serie C (Macro 2);ROAD;990.7;11.2;Ônibus: 495km em 5.6h.
+ITUANO/sao_paulo;DOURADOS/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2349.8;14.8;Voo VCP->PMG (1013km). Ônibus t1:43km, t3:119km.
+ITUANO/sao_paulo;MARCÍLIO DIAS/santa_catarina;Serie C (Macro 2);ROAD;1222.9;17.3;Ônibus: 611km em 8.7h.
+ITUANO/sao_paulo;SÃO LUIZ/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;2280.6;13.5;Voo VCP->GEL (1054km). Ônibus t1:43km, t3:43km.
+MARANHÃO/maranhao;MOTO CLUB/maranhao;Serie D (Macro 3 | Sub 0);LOCAL;0.0;0.0;Mesma coordenada. Custo zero.
+MARANHÃO/maranhao;FLUMINENSE/piaui;Serie D (Macro 3 | Sub 0);ROAD;864.4;13.2;Ônibus: 432km em 6.6h.
+MARANHÃO/maranhao;RÍVER/piaui;Serie D (Macro 3 | Sub 0);ROAD;864.4;13.2;Ônibus: 432km em 6.6h.
+MARANHÃO/maranhao;4 DE JULHO/piaui;Serie D (Macro 3 | Sub 0);ROAD;951.9;16.0;Ônibus: 476km em 8.0h.
+MARANHÃO/maranhao;IGUATU/ceara;Serie D (Macro 3 | Sub 0);FLIGHT;2551.2;20.1;Voo SLZ->MVF (938km). Ônibus t1:13km, t3:324km.
+MARANHÃO/maranhao;ATLÉTICO CEARENSE/ceara;Serie D (Macro 3 | Sub 0);FLIGHT;1526.2;10.8;Voo SLZ->FOR (744km). Ônibus t1:13km, t3:6km.
+MARANHÃO/maranhao;PARNAHYBA/piaui;Serie D (Macro 3 | Sub 0);ROAD;862.9;14.3;Ônibus: 431km em 7.1h.
+MARANHÃO/maranhao;MARACANÃ/ceara;Serie D (Macro 3 | Sub 0);FLIGHT;1556.7;11.4;Voo SLZ->FOR (744km). Ônibus t1:13km, t3:21km.
+MARANHÃO/maranhao;CAUCAIA/ceara;Serie D (Macro 3 | Sub 0);FLIGHT;1549.0;11.2;Voo SLZ->FOR (744km). Ônibus t1:13km, t3:17km.
+MARANHÃO/maranhao;PACAJUS/ceara;Serie D (Macro 3 | Sub 0);FLIGHT;1620.6;12.5;Voo SLZ->FOR (744km). Ônibus t1:13km, t3:53km.
+MARANHÃO/maranhao;GUARANY DE SOBRAL/ceara;Serie D (Macro 3 | Sub 0);ROAD;1313.3;20.2;Ônibus: 657km em 10.1h.
+MARANHÃO/maranhao;TIMON/piaui;Serie D (Macro 3 | Sub 0);ROAD;861.0;13.2;Ônibus: 431km em 6.6h.
+MARANHÃO/maranhao;IAPE/maranhao;Serie D (Macro 3 | Sub 0);ROAD;0.0;0.0;Ônibus: 0km em 0.0h.
+MARANHÃO/maranhao;HORIZONTE/ceara;Serie D (Macro 3 | Sub 0);FLIGHT;1601.2;12.1;Voo SLZ->FOR (744km). Ônibus t1:13km, t3:43km.
+MARANHÃO/maranhao;JUVENTUDE/maranhao;Serie D (Macro 3 | Sub 0);ROAD;569.1;9.1;Ônibus: 285km em 4.6h.
+MARANHÃO/maranhao;PICOS/piaui;Serie D (Macro 3 | Sub 0);ROAD;1488.2;21.7;Ônibus: 744km em 10.9h.
+MARANHÃO/maranhao;MARANGUAPE/ceara;Serie D (Macro 3 | Sub 0);FLIGHT;1563.4;11.6;Voo SLZ->FOR (744km). Ônibus t1:13km, t3:25km.
+MARINGÁ/parana;BRUSQUE/santa_catarina;Serie C (Macro 2);ROAD;1325.3;18.6;Ônibus: 663km em 9.3h.
+MARINGÁ/parana;ITUANO/sao_paulo;Serie C (Macro 2);ROAD;1166.1;14.0;Ônibus: 583km em 7.0h.
+MARINGÁ/parana;FIGUEIRENSE/santa_catarina;Serie C (Macro 2);ROAD;1449.3;19.6;Ônibus: 725km em 9.8h.
+MARINGÁ/parana;YPIRANGA/rio_grande_do_sul;Serie C (Macro 2);ROAD;1353.7;19.4;Ônibus: 677km em 9.7h.
+MARINGÁ/parana;FERROVIÁRIA/sao_paulo;Serie C (Macro 2);ROAD;1027.7;12.9;Ônibus: 514km em 6.5h.
+MARINGÁ/parana;SÃO JOSÉ/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;1725.3;11.5;Voo MGF->POA (836km). Ônibus t1:17km, t3:9km.
+MARINGÁ/parana;BRASIL/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;2149.7;12.0;Voo MGF->PET (1051km). Ônibus t1:17km, t3:7km.
+MARINGÁ/parana;CAXIAS/rio_grande_do_sul;Serie C (Macro 2);FLIGHT;1515.1;11.1;Voo MGF->CXJ (735km). Ônibus t1:17km, t3:5km.
+MARINGÁ/parana;OPERÁRIO/mato_grosso_do_sul;Serie C (Macro 2);ROAD;1137.1;15.5;Ônibus: 569km em 7.8h.
+MARINGÁ/parana;CASCAVEL/parana;Serie C (Macro 2);ROAD;532.7;7.2;Ônibus: 266km em 3.6h.
+MARINGÁ/parana;COSTA RICA/mato_grosso_do_sul;Serie C (Macro 2);ROAD;1569.7;21.3;Ônibus: 785km em 10.6h.
+MARINGÁ/parana;PARANÁ/parana;Serie C (Macro 2);ROAD;849.9;11.9;Ônibus: 425km em 6.0h.
+MARINGÁ/parana;OESTE/sao_paulo;Serie C (Macro 2);ROAD;1232.4;14.6;Ônibus: 616km em 7.3h.
+MARINGÁ/parana;UNIÃO RONDONÓPOLIS/mato_grosso;Serie C (Macro 2);FLIGHT;1947.0;12.2;Voo MGF->ROO (936km). Ônibus t1:17km, t3:21km.
+MARINGÁ/parana;CIANORTE/parana;Serie C (Macro 2);ROAD;157.7;2.1;Ônibus: 79km em 1.1h.
+MARINGÁ/parana;GRÊMIO PRUDENTE/sao_paulo;Serie C (Macro 2);ROAD;342.0;4.7;Ônibus: 171km em 2.3h.
+MARINGÁ/parana;DOURADOS/mato_grosso_do_sul;Serie C (Macro 2);ROAD;910.9;12.5;Ônibus: 455km em 6.2h.
+MARINGÁ/parana;MARCÍLIO DIAS/santa_catarina;Serie C (Macro 2);ROAD;1268.0;17.6;Ônibus: 634km em 8.8h.
+MARINGÁ/parana;SÃO LUIZ/rio_grande_do_sul;Serie C (Macro 2);ROAD;1595.0;22.9;Ônibus: 798km em 11.5h.
+PAYSANDU/para;AMAZONAS/amazonas;Serie C (Macro 1);FLIGHT;3039.4;12.7;Voo BEL->MAO (1495km). Ônibus t1:11km, t3:13km.
+PAYSANDU/para;MANAUS/amazonas;Serie C (Macro 1);FLIGHT;3039.4;12.7;Voo BEL->MAO (1495km). Ônibus t1:11km, t3:13km.
+PAYSANDU/para;TOCANTINÓPOLIS/tocantins;Serie C (Macro 1);ROAD;1389.0;22.4;Ônibus: 694km em 11.2h.
+PAYSANDU/para;SÃO RAIMUNDO/roraima;Serie C (Macro 1);FLIGHT;3335.9;12.8;Voo BEL->BVB (1653km). Ônibus t1:11km, t3:4km.
+PAYSANDU/para;TUNA LUSO/para;Serie C (Macro 1);LOCAL;0.0;0.0;Mesma coordenada. Custo zero.
+PAYSANDU/para;GAZIN PORTO VELHO/rondonia;Serie C (Macro 1);FLIGHT;4388.6;14.4;Voo BEL->PVH (2176km). Ônibus t1:11km, t3:8km.
+PAYSANDU/para;CEOV OPERÁRIO/mato_grosso;Serie C (Macro 1);FLIGHT;4140.5;13.8;Voo BEL->CGB (2056km). Ônibus t1:11km, t3:3km.
+PAYSANDU/para;TREM/amapa;Serie C (Macro 1);FLIGHT;784.2;9.5;Voo BEL->MCP (379km). Ônibus t1:11km, t3:2km.
+PAYSANDU/para;MANAUARA/amazonas;Serie C (Macro 1);FLIGHT;3039.4;12.7;Voo BEL->MAO (1495km). Ônibus t1:11km, t3:13km.
+PAYSANDU/para;PRINCESA/amazonas;Serie C (Macro 1);FLIGHT;3237.5;15.9;Voo BEL->MAO (1495km). Ônibus t1:11km, t3:112km.
+PAYSANDU/para;CASTANHAL/para;Serie C (Macro 1);ROAD;151.5;2.6;Ônibus: 76km em 1.3h.
+PAYSANDU/para;UNIÃO ATLÉTICO/tocantins;Serie C (Macro 1);FLIGHT;1527.9;10.6;Voo BEL->AUX (744km). Ônibus t1:11km, t3:8km.
+PAYSANDU/para;IMPERATRIZ/maranhao;Serie C (Macro 1);ROAD;1173.6;18.7;Ônibus: 587km em 9.3h.
+PAYSANDU/para;CAPITAL/tocantins;Serie C (Macro 1);FLIGHT;2329.2;12.1;Voo BEL->PMW (1134km). Ônibus t1:11km, t3:20km.
+PAYSANDU/para;INTERPORTO/tocantins;Serie C (Macro 1);FLIGHT;2406.6;13.0;Voo BEL->PMW (1134km). Ônibus t1:11km, t3:59km.
+PAYSANDU/para;MIXTO/mato_grosso;Serie C (Macro 1);FLIGHT;4150.4;13.9;Voo BEL->CGB (2056km). Ônibus t1:11km, t3:8km.
+PAYSANDU/para;HUMAITÁ/acre;Serie C (Macro 1);FLIGHT;5551.5;17.9;Voo BEL->RBR (2697km). Ônibus t1:11km, t3:68km.
+PAYSANDU/para;RIO BRANCO/acre;Serie C (Macro 1);FLIGHT;5456.2;15.9;Voo BEL->RBR (2697km). Ônibus t1:11km, t3:20km.
+PAYSANDU/para;NOVA MUTUM/mato_grosso;Serie C (Macro 1);FLIGHT;4628.9;21.5;Voo BEL->CGB (2056km). Ônibus t1:11km, t3:247km.
+SANTA CRUZ/pernambuco;CSA/alagoas;Serie C (Macro 3);ROAD;513.7;7.1;Ônibus: 257km em 3.6h.
+SANTA CRUZ/pernambuco;SAMPAIO CORRÊA/maranhao;Serie C (Macro 3);FLIGHT;2808.6;12.5;Voo REC->SLZ (1380km). Ônibus t1:12km, t3:13km.
+SANTA CRUZ/pernambuco;ABC/rio_grande_do_norte;Serie C (Macro 3);ROAD;569.5;8.1;Ônibus: 285km em 4.0h.
+SANTA CRUZ/pernambuco;CONFIANÇA/sergipe;Serie C (Macro 3);ROAD;997.9;13.5;Ônibus: 499km em 6.8h.
+SANTA CRUZ/pernambuco;AMÉRICA/rio_grande_do_norte;Serie C (Macro 3);ROAD;569.5;8.1;Ônibus: 285km em 4.0h.
+SANTA CRUZ/pernambuco;BOTAFOGO/paraiba;Serie C (Macro 3);ROAD;235.2;3.6;Ônibus: 118km em 1.8h.
+SANTA CRUZ/pernambuco;RETRÔ/pernambuco;Serie C (Macro 3);ROAD;31.3;0.7;Ônibus: 16km em 0.3h.
+SANTA CRUZ/pernambuco;FERROVIÁRIO/ceara;Serie C (Macro 3);FLIGHT;1479.7;10.8;Voo REC->FOR (719km). Ônibus t1:12km, t3:9km.
+SANTA CRUZ/pernambuco;ALTOS/piaui;Serie C (Macro 3);FLIGHT;2272.8;12.8;Voo REC->THE (1078km). Ônibus t1:12km, t3:47km.
+SANTA CRUZ/pernambuco;FLORESTA/ceara;Serie C (Macro 3);FLIGHT;1479.7;10.8;Voo REC->FOR (719km). Ônibus t1:12km, t3:9km.
+SANTA CRUZ/pernambuco;SOUSA/paraiba;Serie C (Macro 3);ROAD;987.8;14.7;Ônibus: 494km em 7.3h.
+SANTA CRUZ/pernambuco;SERGIPE/sergipe;Serie C (Macro 3);ROAD;997.9;13.5;Ônibus: 499km em 6.8h.
+SANTA CRUZ/pernambuco;ITABAIANA/sergipe;Serie C (Macro 3);ROAD;1047.1;14.3;Ônibus: 524km em 7.2h.
+SANTA CRUZ/pernambuco;ASA/alagoas;Serie C (Macro 3);ROAD;694.7;9.7;Ônibus: 347km em 4.8h.
+SANTA CRUZ/pernambuco;JUAZEIRENSE/bahia;Serie C (Macro 3);ROAD;1432.3;17.5;Ônibus: 716km em 8.8h.
+SANTA CRUZ/pernambuco;JACUIPENSE/bahia;Serie C (Macro 3);FLIGHT;1635.6;13.2;Voo REC->FEC (721km). Ônibus t1:12km, t3:85km.
+SANTA CRUZ/pernambuco;CAMPINENSE/paraiba;Serie C (Macro 3);ROAD;383.6;5.9;Ônibus: 192km em 3.0h.
+SANTA CRUZ/pernambuco;LAGARTO/sergipe;Serie C (Macro 3);ROAD;1079.6;14.7;Ônibus: 540km em 7.4h.
+SANTA CRUZ/pernambuco;BAHIA DE FEIRA/bahia;Serie C (Macro 3);ROAD;1581.7;21.2;Ônibus: 791km em 10.6h.
+VOLTA REDONDA/rio_de_janeiro;GUARANI/sao_paulo;Serie C (Macro 0);ROAD;740.9;9.2;Ônibus: 370km em 4.6h.
+VOLTA REDONDA/rio_de_janeiro;TOMBENSE/minas_gerais;Serie C (Macro 0);ROAD;750.2;12.9;Ônibus: 375km em 6.5h.
+VOLTA REDONDA/rio_de_janeiro;BRASILIENSE/distrito_federal;Serie C (Macro 0);FLIGHT;2440.9;15.4;Voo RRJ->BSB (1059km). Ônibus t1:137km, t3:24km.
+VOLTA REDONDA/rio_de_janeiro;NOVA IGUAÇU/rio_de_janeiro;Serie C (Macro 0);ROAD;188.3;2.8;Ônibus: 94km em 1.4h.
+VOLTA REDONDA/rio_de_janeiro;APARECIDENSE/goias;Serie C (Macro 0);FLIGHT;2469.6;15.5;Voo RRJ->GYN (1073km). Ônibus t1:137km, t3:26km.
+VOLTA REDONDA/rio_de_janeiro;PORTUGUESA/rio_de_janeiro;Serie C (Macro 0);ROAD;261.4;3.8;Ônibus: 131km em 1.9h.
+VOLTA REDONDA/rio_de_janeiro;CEILÂNDIA/distrito_federal;Serie C (Macro 0);FLIGHT;2451.7;15.6;Voo RRJ->BSB (1059km). Ônibus t1:137km, t3:30km.
+VOLTA REDONDA/rio_de_janeiro;REAL NOROESTE/espirito_santo;Serie C (Macro 0);ROAD;1442.6;24.1;Ônibus: 721km em 12.0h.
+VOLTA REDONDA/rio_de_janeiro;ANÁPOLIS/goias;Serie C (Macro 0);FLIGHT;2517.9;16.2;Voo RRJ->GYN (1073km). Ônibus t1:137km, t3:50km.
+VOLTA REDONDA/rio_de_janeiro;DEMOCRATA/minas_gerais;Serie C (Macro 0);ROAD;1182.4;19.9;Ônibus: 591km em 10.0h.
+VOLTA REDONDA/rio_de_janeiro;CAPITAL CF/distrito_federal;Serie C (Macro 0);FLIGHT;2422.8;15.1;Voo RRJ->BSB (1059km). Ônibus t1:137km, t3:15km.
+VOLTA REDONDA/rio_de_janeiro;RIO BRANCO/espirito_santo;Serie C (Macro 0);ROAD;1114.7;18.5;Ônibus: 557km em 9.3h.
+VOLTA REDONDA/rio_de_janeiro;GAMA/distrito_federal;Serie C (Macro 0);FLIGHT;2446.7;15.5;Voo RRJ->BSB (1059km). Ônibus t1:137km, t3:27km.
+VOLTA REDONDA/rio_de_janeiro;INTER DE LIMEIRA/sao_paulo;Serie C (Macro 0);ROAD;856.0;10.6;Ônibus: 428km em 5.3h.
+VOLTA REDONDA/rio_de_janeiro;VITÓRIA/espirito_santo;Serie C (Macro 0);ROAD;1114.7;18.5;Ônibus: 557km em 9.3h.
+VOLTA REDONDA/rio_de_janeiro;OLARIA/rio_de_janeiro;Serie C (Macro 0);ROAD;261.4;3.8;Ônibus: 131km em 1.9h.
+VOLTA REDONDA/rio_de_janeiro;POUSO ALEGRE/minas_gerais;Serie C (Macro 0);ROAD;554.2;7.3;Ônibus: 277km em 3.7h.
+VOLTA REDONDA/rio_de_janeiro;RIO BRANCO/sao_paulo;Serie C (Macro 0);ROAD;825.0;10.1;Ônibus: 412km em 5.1h.
+VOLTA REDONDA/rio_de_janeiro;MARICÁ/rio_de_janeiro;Serie C (Macro 0);ROAD;355.5;5.9;Ônibus: 178km em 2.9h.
+YPIRANGA/rio_grande_do_sul;BRUSQUE/santa_catarina;Serie C (Macro 2);ROAD;965.5;16.2;Ônibus: 483km em 8.1h.
+YPIRANGA/rio_grande_do_sul;ITUANO/sao_paulo;Serie C (Macro 2);FLIGHT;1942.9;14.6;Voo XAP->VCP (829km). Ônibus t1:100km, t3:43km.
+YPIRANGA/rio_grande_do_sul;FIGUEIRENSE/santa_catarina;Serie C (Macro 2);ROAD;1030.4;17.2;Ônibus: 515km em 8.6h.
+YPIRANGA/rio_grande_do_sul;FERROVIÁRIA/sao_paulo;Serie C (Macro 2);FLIGHT;1928.8;13.7;Voo XAP->AQA (859km). Ônibus t1:100km, t3:6km.
+YPIRANGA/rio_grande_do_sul;SÃO JOSÉ/rio_grande_do_sul;Serie C (Macro 2);ROAD;739.1;10.3;Ônibus: 370km em 5.2h.
+YPIRANGA/rio_grande_do_sul;BRASIL/rio_grande_do_sul;Serie C (Macro 2);ROAD;1139.8;16.4;Ônibus: 570km em 8.2h.
+YPIRANGA/rio_grande_do_sul;MARINGÁ/parana;Serie C (Macro 2);ROAD;1353.7;19.4;Ônibus: 677km em 9.7h.
+YPIRANGA/rio_grande_do_sul;CAXIAS/rio_grande_do_sul;Serie C (Macro 2);ROAD;588.0;10.6;Ônibus: 294km em 5.3h.
+YPIRANGA/rio_grande_do_sul;OPERÁRIO/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;1981.2;13.8;Voo XAP->CGR (881km). Ônibus t1:100km, t3:10km.
+YPIRANGA/rio_grande_do_sul;CASCAVEL/parana;Serie C (Macro 2);ROAD;875.9;14.1;Ônibus: 438km em 7.1h.
+YPIRANGA/rio_grande_do_sul;COSTA RICA/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;2656.2;23.1;Voo XAP->CGR (881km). Ônibus t1:100km, t3:347km.
+YPIRANGA/rio_grande_do_sul;PARANÁ/parana;Serie C (Macro 2);ROAD;938.9;12.6;Ônibus: 469km em 6.3h.
+YPIRANGA/rio_grande_do_sul;OESTE/sao_paulo;Serie C (Macro 2);FLIGHT;1914.6;14.3;Voo XAP->CGH (826km). Ônibus t1:100km, t3:32km.
+YPIRANGA/rio_grande_do_sul;UNIÃO RONDONÓPOLIS/mato_grosso;Serie C (Macro 2);FLIGHT;2972.4;15.5;Voo XAP->ROO (1366km). Ônibus t1:100km, t3:21km.
+YPIRANGA/rio_grande_do_sul;CIANORTE/parana;Serie C (Macro 2);ROAD;1322.9;19.6;Ônibus: 661km em 9.8h.
+YPIRANGA/rio_grande_do_sul;GRÊMIO PRUDENTE/sao_paulo;Serie C (Macro 2);FLIGHT;1512.1;13.1;Voo XAP->PPB (648km). Ônibus t1:100km, t3:8km.
+YPIRANGA/rio_grande_do_sul;DOURADOS/mato_grosso_do_sul;Serie C (Macro 2);FLIGHT;1802.9;15.8;Voo XAP->PMG (683km). Ônibus t1:100km, t3:119km.
+YPIRANGA/rio_grande_do_sul;MARCÍLIO DIAS/santa_catarina;Serie C (Macro 2);ROAD;1159.6;15.6;Ônibus: 580km em 7.8h.
+YPIRANGA/rio_grande_do_sul;SÃO LUIZ/rio_grande_do_sul;Serie C (Macro 2);ROAD;491.1;7.4;Ônibus: 246km em 3.7h.

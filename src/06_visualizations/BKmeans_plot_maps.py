@@ -11,10 +11,10 @@ BASE_DIR = r'outputs\maps\03_BalancedKMeans'
 
 # Mapeamento de nomes conforme solicitado
 CLUSTER_NAMES = {
-    0: "Divisão_Norte",
-    1: "Divisão_Centro-Sudeste",
-    2: "Divisão_Nordeste",
-    3: "Divisão_Sul-Mato-Grosso"
+    1: "Divisão_Norte",
+    0: "Divisão_Centro-Sudeste",
+    3: "Divisão_Nordeste",
+    2: "Divisão_Sul-Mato-Grosso"
 }
 
 def add_jitter(val, amount=0.0008):

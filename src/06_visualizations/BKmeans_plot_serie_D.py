@@ -121,10 +121,10 @@ def main():
     all_d_leagues = []
     
     macro_regions = {
-        0: {"name": "Norte", "sub_key": "serie_d_k4", "size": 14, "is_north": True},
-        1: {"name": "Sul-Mato-Grosso", "sub_key": "serie_d_k3", "size": 18, "is_north": False},
-        2: {"name": "Nordeste", "sub_key": "serie_d_k3", "size": 18, "is_north": False},
-        3: {"name": "Centro-Sudeste", "sub_key": "serie_d_k3", "size": 18, "is_north": False}
+        1: {"name": "Norte", "sub_key": "serie_d_k3", "size": 18, "is_north": False},
+        2: {"name": "Sul-Mato-Grosso", "sub_key": "serie_d_k3", "size": 18, "is_north": False},
+        3: {"name": "Nordeste", "sub_key": "serie_d_k3", "size": 18, "is_north": False},
+        0: {"name": "Centro-Sudeste", "sub_key": "serie_d_k3", "size": 18, "is_north": False}
     }
 
     os.makedirs('outputs/plots/BalancedKmeansTables', exist_ok=True)

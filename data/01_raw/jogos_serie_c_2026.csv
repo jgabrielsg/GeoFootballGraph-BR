@@ -1,0 +1,191 @@
+﻿rodada,mandante,estado_m,visitante,estado_v
+1,MARANHÃO,maranhao,GUARANI,sao_paulo
+1,BRUSQUE,santa_catarina,CAXIAS,rio_grande_do_sul
+1,BOTAFOGO,paraiba,BARRA,santa_catarina
+1,MARINGÁ,parana,FERROVIÁRIA,sao_paulo
+1,ITUANO,sao_paulo,ANÁPOLIS,goias
+1,INTER DE LIMEIRA,sao_paulo,FLORESTA,ceara
+1,CONFIANÇA,sergipe,AMAZONAS,amazonas
+1,VOLTA REDONDA,rio_de_janeiro,PAYSANDU,para
+1,SANTA CRUZ,pernambuco,ITABAIANA,sergipe
+1,YPIRANGA,rio_grande_do_sul,FIGUEIRENSE,santa_catarina
+2,FLORESTA,ceara,SANTA CRUZ,pernambuco
+2,FERROVIÁRIA,sao_paulo,BOTAFOGO,paraiba
+2,BARRA,santa_catarina,MARANHÃO,maranhao
+2,PAYSANDU,para,BRUSQUE,santa_catarina
+2,CAXIAS,rio_grande_do_sul,CONFIANÇA,sergipe
+2,ANÁPOLIS,goias,INTER DE LIMEIRA,sao_paulo
+2,GUARANI,sao_paulo,VOLTA REDONDA,rio_de_janeiro
+2,ITABAIANA,sergipe,YPIRANGA,rio_grande_do_sul
+2,AMAZONAS,amazonas,ITUANO,sao_paulo
+2,FIGUEIRENSE,santa_catarina,MARINGÁ,parana
+3,CONFIANÇA,sergipe,SANTA CRUZ,pernambuco
+3,INTER DE LIMEIRA,sao_paulo,ITUANO,sao_paulo
+3,VOLTA REDONDA,rio_de_janeiro,CAXIAS,rio_grande_do_sul
+3,PAYSANDU,para,BARRA,santa_catarina
+3,YPIRANGA,rio_grande_do_sul,ANÁPOLIS,goias
+3,AMAZONAS,amazonas,MARANHÃO,maranhao
+3,GUARANI,sao_paulo,ITABAIANA,sergipe
+3,FIGUEIRENSE,santa_catarina,BOTAFOGO,paraiba
+3,FLORESTA,ceara,FERROVIÁRIA,sao_paulo
+3,MARINGÁ,parana,BRUSQUE,santa_catarina
+4,BRUSQUE,santa_catarina,CONFIANÇA,sergipe
+4,ITABAIANA,sergipe,PAYSANDU,para
+4,BOTAFOGO,paraiba,FLORESTA,ceara
+4,MARANHÃO,maranhao,VOLTA REDONDA,rio_de_janeiro
+4,SANTA CRUZ,pernambuco,AMAZONAS,amazonas
+4,ANÁPOLIS,goias,FIGUEIRENSE,santa_catarina
+4,BARRA,santa_catarina,INTER DE LIMEIRA,sao_paulo
+4,ITUANO,sao_paulo,MARINGÁ,parana
+4,FERROVIÁRIA,sao_paulo,GUARANI,sao_paulo
+4,CAXIAS,rio_grande_do_sul,YPIRANGA,rio_grande_do_sul
+5,GUARANI,sao_paulo,SANTA CRUZ,pernambuco
+5,CONFIANÇA,sergipe,INTER DE LIMEIRA,sao_paulo
+5,FERROVIÁRIA,sao_paulo,ANÁPOLIS,goias
+5,VOLTA REDONDA,rio_de_janeiro,BRUSQUE,santa_catarina
+5,AMAZONAS,amazonas,CAXIAS,rio_grande_do_sul
+5,MARINGÁ,parana,ITABAIANA,sergipe
+5,PAYSANDU,para,BOTAFOGO,paraiba
+5,FIGUEIRENSE,santa_catarina,BARRA,santa_catarina
+5,FLORESTA,ceara,MARANHÃO,maranhao
+5,YPIRANGA,rio_grande_do_sul,ITUANO,sao_paulo
+6,PAYSANDU,para,ANÁPOLIS,goias
+6,ITABAIANA,sergipe,FLORESTA,ceara
+6,MARANHÃO,maranhao,BOTAFOGO,paraiba
+6,VOLTA REDONDA,rio_de_janeiro,FERROVIÁRIA,sao_paulo
+6,BARRA,santa_catarina,CAXIAS,rio_grande_do_sul
+6,AMAZONAS,amazonas,FIGUEIRENSE,santa_catarina
+6,ITUANO,sao_paulo,CONFIANÇA,sergipe
+6,BRUSQUE,santa_catarina,YPIRANGA,rio_grande_do_sul
+6,MARINGÁ,parana,GUARANI,sao_paulo
+6,INTER DE LIMEIRA,sao_paulo,SANTA CRUZ,pernambuco
+7,YPIRANGA,rio_grande_do_sul,MARINGÁ,parana
+7,SANTA CRUZ,pernambuco,VOLTA REDONDA,rio_de_janeiro
+7,FLORESTA,ceara,AMAZONAS,amazonas
+7,FIGUEIRENSE,santa_catarina,ITABAIANA,sergipe
+7,CAXIAS,rio_grande_do_sul,PAYSANDU,para
+7,FERROVIÁRIA,sao_paulo,BRUSQUE,santa_catarina
+7,ANÁPOLIS,goias,BARRA,santa_catarina
+7,GUARANI,sao_paulo,ITUANO,sao_paulo
+7,CONFIANÇA,sergipe,MARANHÃO,maranhao
+7,BOTAFOGO,paraiba,INTER DE LIMEIRA,sao_paulo
+8,BARRA,santa_catarina,GUARANI,sao_paulo
+8,MARANHÃO,maranhao,CAXIAS,rio_grande_do_sul
+8,MARINGÁ,parana,SANTA CRUZ,pernambuco
+8,BRUSQUE,santa_catarina,ANÁPOLIS,goias
+8,AMAZONAS,amazonas,FERROVIÁRIA,sao_paulo
+8,INTER DE LIMEIRA,sao_paulo,ITABAIANA,sergipe
+8,CONFIANÇA,sergipe,FIGUEIRENSE,santa_catarina
+8,VOLTA REDONDA,rio_de_janeiro,YPIRANGA,rio_grande_do_sul
+8,PAYSANDU,para,FLORESTA,ceara
+8,ITUANO,sao_paulo,BOTAFOGO,paraiba
+9,FLORESTA,ceara,CONFIANÇA,sergipe
+9,ITABAIANA,sergipe,VOLTA REDONDA,rio_de_janeiro
+9,BOTAFOGO,paraiba,MARINGÁ,parana
+9,CAXIAS,rio_grande_do_sul,ITUANO,sao_paulo
+9,GUARANI,sao_paulo,AMAZONAS,amazonas
+9,SANTA CRUZ,pernambuco,FERROVIÁRIA,sao_paulo
+9,INTER DE LIMEIRA,sao_paulo,YPIRANGA,rio_grande_do_sul
+9,ANÁPOLIS,goias,MARANHÃO,maranhao
+9,FIGUEIRENSE,santa_catarina,PAYSANDU,para
+9,BARRA,santa_catarina,BRUSQUE,santa_catarina
+10,GUARANI,sao_paulo,CAXIAS,rio_grande_do_sul
+10,AMAZONAS,amazonas,ANÁPOLIS,goias
+10,BRUSQUE,santa_catarina,SANTA CRUZ,pernambuco
+10,PAYSANDU,para,INTER DE LIMEIRA,sao_paulo
+10,ITABAIANA,sergipe,ITUANO,sao_paulo
+10,FLORESTA,ceara,FIGUEIRENSE,santa_catarina
+10,VOLTA REDONDA,rio_de_janeiro,CONFIANÇA,sergipe
+10,MARINGÁ,parana,MARANHÃO,maranhao
+10,YPIRANGA,rio_grande_do_sul,BOTAFOGO,paraiba
+10,FERROVIÁRIA,sao_paulo,BARRA,santa_catarina
+11,ANÁPOLIS,goias,ITABAIANA,sergipe
+11,BOTAFOGO,paraiba,VOLTA REDONDA,rio_de_janeiro
+11,SANTA CRUZ,pernambuco,YPIRANGA,rio_grande_do_sul
+11,ITUANO,sao_paulo,FIGUEIRENSE,santa_catarina
+11,MARANHÃO,maranhao,PAYSANDU,para
+11,CAXIAS,rio_grande_do_sul,MARINGÁ,parana
+11,BRUSQUE,santa_catarina,FLORESTA,ceara
+11,FERROVIÁRIA,sao_paulo,INTER DE LIMEIRA,sao_paulo
+11,BARRA,santa_catarina,AMAZONAS,amazonas
+11,CONFIANÇA,sergipe,GUARANI,sao_paulo
+12,INTER DE LIMEIRA,sao_paulo,MARINGÁ,parana
+12,FLORESTA,ceara,BARRA,santa_catarina
+12,PAYSANDU,para,SANTA CRUZ,pernambuco
+12,ITABAIANA,sergipe,FERROVIÁRIA,sao_paulo
+12,FIGUEIRENSE,santa_catarina,GUARANI,sao_paulo
+12,YPIRANGA,rio_grande_do_sul,CONFIANÇA,sergipe
+12,ITUANO,sao_paulo,MARANHÃO,maranhao
+12,CAXIAS,rio_grande_do_sul,ANÁPOLIS,goias
+12,BOTAFOGO,paraiba,BRUSQUE,santa_catarina
+12,VOLTA REDONDA,rio_de_janeiro,AMAZONAS,amazonas
+13,MARANHÃO,maranhao,INTER DE LIMEIRA,sao_paulo
+13,CONFIANÇA,sergipe,BARRA,santa_catarina
+13,MARINGÁ,parana,VOLTA REDONDA,rio_de_janeiro
+13,SANTA CRUZ,pernambuco,ITUANO,sao_paulo
+13,GUARANI,sao_paulo,FLORESTA,ceara
+13,FERROVIÁRIA,sao_paulo,CAXIAS,rio_grande_do_sul
+13,YPIRANGA,rio_grande_do_sul,PAYSANDU,para
+13,ANÁPOLIS,goias,BOTAFOGO,paraiba
+13,BRUSQUE,santa_catarina,FIGUEIRENSE,santa_catarina
+13,AMAZONAS,amazonas,ITABAIANA,sergipe
+14,CAXIAS,rio_grande_do_sul,FLORESTA,ceara
+14,INTER DE LIMEIRA,sao_paulo,AMAZONAS,amazonas
+14,BARRA,santa_catarina,SANTA CRUZ,pernambuco
+14,ITUANO,sao_paulo,FERROVIÁRIA,sao_paulo
+14,ANÁPOLIS,goias,MARINGÁ,parana
+14,PAYSANDU,para,GUARANI,sao_paulo
+14,MARANHÃO,maranhao,YPIRANGA,rio_grande_do_sul
+14,BOTAFOGO,paraiba,CONFIANÇA,sergipe
+14,ITABAIANA,sergipe,BRUSQUE,santa_catarina
+14,FIGUEIRENSE,santa_catarina,VOLTA REDONDA,rio_de_janeiro
+15,FERROVIÁRIA,sao_paulo,MARANHÃO,maranhao
+15,SANTA CRUZ,pernambuco,FIGUEIRENSE,santa_catarina
+15,CONFIANÇA,sergipe,ITABAIANA,sergipe
+15,VOLTA REDONDA,rio_de_janeiro,ANÁPOLIS,goias
+15,BRUSQUE,santa_catarina,ITUANO,sao_paulo
+15,YPIRANGA,rio_grande_do_sul,BARRA,santa_catarina
+15,CAXIAS,rio_grande_do_sul,BOTAFOGO,paraiba
+15,AMAZONAS,amazonas,PAYSANDU,para
+15,FLORESTA,ceara,MARINGÁ,parana
+15,GUARANI,sao_paulo,INTER DE LIMEIRA,sao_paulo
+16,FIGUEIRENSE,santa_catarina,FERROVIÁRIA,sao_paulo
+16,BOTAFOGO,paraiba,SANTA CRUZ,pernambuco
+16,INTER DE LIMEIRA,sao_paulo,VOLTA REDONDA,rio_de_janeiro
+16,ITUANO,sao_paulo,BARRA,santa_catarina
+16,MARINGÁ,parana,AMAZONAS,amazonas
+16,YPIRANGA,rio_grande_do_sul,FLORESTA,ceara
+16,ITABAIANA,sergipe,CAXIAS,rio_grande_do_sul
+16,MARANHÃO,maranhao,BRUSQUE,santa_catarina
+16,ANÁPOLIS,goias,GUARANI,sao_paulo
+16,PAYSANDU,para,CONFIANÇA,sergipe
+17,VOLTA REDONDA,rio_de_janeiro,ITUANO,sao_paulo
+17,AMAZONAS,amazonas,BOTAFOGO,paraiba
+17,BRUSQUE,santa_catarina,INTER DE LIMEIRA,sao_paulo
+17,SANTA CRUZ,pernambuco,MARANHÃO,maranhao
+17,CONFIANÇA,sergipe,MARINGÁ,parana
+17,CAXIAS,rio_grande_do_sul,FIGUEIRENSE,santa_catarina
+17,BARRA,santa_catarina,ITABAIANA,sergipe
+17,FLORESTA,ceara,ANÁPOLIS,goias
+17,FERROVIÁRIA,sao_paulo,PAYSANDU,para
+17,GUARANI,sao_paulo,YPIRANGA,rio_grande_do_sul
+18,VOLTA REDONDA,rio_de_janeiro,FLORESTA,ceara
+18,ITUANO,sao_paulo,PAYSANDU,para
+18,BOTAFOGO,paraiba,GUARANI,sao_paulo
+18,SANTA CRUZ,pernambuco,CAXIAS,rio_grande_do_sul
+18,BRUSQUE,santa_catarina,AMAZONAS,amazonas
+18,CONFIANÇA,sergipe,ANÁPOLIS,goias
+18,MARINGÁ,parana,BARRA,santa_catarina
+18,INTER DE LIMEIRA,sao_paulo,FIGUEIRENSE,santa_catarina
+18,YPIRANGA,rio_grande_do_sul,FERROVIÁRIA,sao_paulo
+18,MARANHÃO,maranhao,ITABAIANA,sergipe
+19,FERROVIÁRIA,sao_paulo,CONFIANÇA,sergipe
+19,GUARANI,sao_paulo,BRUSQUE,santa_catarina
+19,FIGUEIRENSE,santa_catarina,MARANHÃO,maranhao
+19,ITABAIANA,sergipe,BOTAFOGO,paraiba
+19,FLORESTA,ceara,ITUANO,sao_paulo
+19,ANÁPOLIS,goias,SANTA CRUZ,pernambuco
+19,CAXIAS,rio_grande_do_sul,INTER DE LIMEIRA,sao_paulo
+19,BARRA,santa_catarina,VOLTA REDONDA,rio_de_janeiro
+19,PAYSANDU,para,MARINGÁ,parana
+19,AMAZONAS,amazonas,YPIRANGA,rio_grande_do_sul
