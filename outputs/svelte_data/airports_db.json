@@ -1,0 +1,462 @@
+{
+  "VDC": {
+    "nome": "Glauber de Andrade Rocha Airport",
+    "lat": -14.907885,
+    "lon": -40.914804
+  },
+  "JTC": {
+    "nome": "Bauru/Arealva–Moussa Nakhal Tobias State Airport",
+    "lat": -22.160755,
+    "lon": -49.070325
+  },
+  "AQA": {
+    "nome": "Araraquara Airport",
+    "lat": -21.812,
+    "lon": -48.132999
+  },
+  "AJU": {
+    "nome": "Aracaju - Santa Maria Airport",
+    "lat": -10.98394,
+    "lon": -37.072873
+  },
+  "AFL": {
+    "nome": "Piloto Osvaldo Marques Dias Airport",
+    "lat": -9.866389,
+    "lon": -56.106298
+  },
+  "ARU": {
+    "nome": "Araçatuba Airport",
+    "lat": -21.141479,
+    "lon": -50.424575
+  },
+  "AAX": {
+    "nome": "Romeu Zema Airport",
+    "lat": -19.5632,
+    "lon": -46.9604
+  },
+  "BEL": {
+    "nome": "Val de Cans/Júlio Cezar Ribeiro International Airport",
+    "lat": -1.379279,
+    "lon": -48.476207
+  },
+  "BSB": {
+    "nome": "Presidente Juscelino Kubitschek International Airport",
+    "lat": -15.869167,
+    "lon": -47.920834
+  },
+  "BVB": {
+    "nome": "Atlas Brasil Cantanhede International Airport",
+    "lat": 2.84615,
+    "lon": -60.690648
+  },
+  "CAC": {
+    "nome": "Coronel Adalberto Mendes da Silva Airport",
+    "lat": -25.000323,
+    "lon": -53.501208
+  },
+  "CNF": {
+    "nome": "Tancredo Neves International Airport",
+    "lat": -19.63571,
+    "lon": -43.966928
+  },
+  "CGR": {
+    "nome": "Campo Grande Airport",
+    "lat": -20.469998,
+    "lon": -54.673988
+  },
+  "XAP": {
+    "nome": "Serafin Enoss Bertaso Airport",
+    "lat": -27.134199,
+    "lon": -52.656601
+  },
+  "CKS": {
+    "nome": "Carajás Airport",
+    "lat": -6.117841,
+    "lon": -50.003372
+  },
+  "CAW": {
+    "nome": "Bartolomeu Lisandro Airport",
+    "lat": -21.698299,
+    "lon": -41.301701
+  },
+  "CMG": {
+    "nome": "Corumbá International Airport",
+    "lat": -19.01193,
+    "lon": -57.672772
+  },
+  "CWB": {
+    "nome": "Curitiba-Afonso Pena International Airport",
+    "lat": -25.5285,
+    "lon": -49.1758
+  },
+  "CXJ": {
+    "nome": "Hugo Cantergiani Regional Airport",
+    "lat": -29.197183,
+    "lon": -51.187647
+  },
+  "CGB": {
+    "nome": "Várzea Grande–Marechal Rondon International Airport",
+    "lat": -15.6529,
+    "lon": -56.116699
+  },
+  "CZS": {
+    "nome": "Cruzeiro do Sul Airport",
+    "lat": -7.59991,
+    "lon": -72.769501
+  },
+  "PPB": {
+    "nome": "Presidente Prudente Airport",
+    "lat": -22.1751,
+    "lon": -51.424599
+  },
+  "MAO": {
+    "nome": "Eduardo Gomes International Airport",
+    "lat": -3.03861,
+    "lon": -60.049702
+  },
+  "IGU": {
+    "nome": "Cataratas International Airport",
+    "lat": -25.594167,
+    "lon": -54.489444
+  },
+  "FLN": {
+    "nome": "Hercílio Luz International Airport",
+    "lat": -27.670279,
+    "lon": -48.552502
+  },
+  "FEN": {
+    "nome": "Fernando de Noronha Airport",
+    "lat": -3.854534,
+    "lon": -32.423017
+  },
+  "FOR": {
+    "nome": "Pinto Martins International Airport",
+    "lat": -3.775833,
+    "lon": -38.532222
+  },
+  "GIG": {
+    "nome": "Rio Galeão – Tom Jobim International Airport",
+    "lat": -22.809999,
+    "lon": -43.250557
+  },
+  "GYN": {
+    "nome": "Santa Genoveva International Airport",
+    "lat": -16.632,
+    "lon": -49.220699
+  },
+  "GRU": {
+    "nome": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+    "lat": -23.431274,
+    "lon": -46.469954
+  },
+  "GVR": {
+    "nome": "Coronel Altino Machado Airport",
+    "lat": -18.895882,
+    "lon": -41.982869
+  },
+  "ATM": {
+    "nome": "Altamira Interstate Airport",
+    "lat": -3.253144,
+    "lon": -52.253938
+  },
+  "ITB": {
+    "nome": "Itaituba Airport",
+    "lat": -4.242131,
+    "lon": -56.000651
+  },
+  "IOS": {
+    "nome": "Bahia - Jorge Amado Airport",
+    "lat": -14.815929,
+    "lon": -39.033458
+  },
+  "IPN": {
+    "nome": "Usiminas Airport",
+    "lat": -19.470699,
+    "lon": -42.487598
+  },
+  "IMP": {
+    "nome": "Prefeito Renato Moreira Airport",
+    "lat": -5.53129,
+    "lon": -47.459999
+  },
+  "JJD": {
+    "nome": "Comandante Ariston Pessoa Airport",
+    "lat": -2.906425,
+    "lon": -40.357338
+  },
+  "JDF": {
+    "nome": "Francisco de Assis Airport",
+    "lat": -21.791482,
+    "lon": -43.386072
+  },
+  "JPA": {
+    "nome": "Presidente Castro Pinto International Airport",
+    "lat": -7.148691,
+    "lon": -34.950554
+  },
+  "RRJ": {
+    "nome": "Jacarepaguá - Roberto Marinho Airport",
+    "lat": -22.986773,
+    "lon": -43.372194
+  },
+  "JOI": {
+    "nome": "Lauro Carneiro de Loyola Airport",
+    "lat": -26.224501,
+    "lon": -48.797401
+  },
+  "CPV": {
+    "nome": "Presidente João Suassuna Airport",
+    "lat": -7.269662,
+    "lon": -35.896057
+  },
+  "VCP": {
+    "nome": "Viracopos International Airport",
+    "lat": -23.007404,
+    "lon": -47.134502
+  },
+  "LAJ": {
+    "nome": "Lages Airport",
+    "lat": -27.782101,
+    "lon": -50.281502
+  },
+  "LDB": {
+    "nome": "Governor José Richa Airport",
+    "lat": -23.334375,
+    "lon": -51.128365
+  },
+  "MAB": {
+    "nome": "João Correa da Rocha Airport",
+    "lat": -5.36859,
+    "lon": -49.138
+  },
+  "MGF": {
+    "nome": "Regional de Maringá - Sílvio Name Júnior Airport",
+    "lat": -23.47606,
+    "lon": -52.016187
+  },
+  "MOC": {
+    "nome": "Mário Ribeiro Airport",
+    "lat": -16.706919,
+    "lon": -43.818901
+  },
+  "MII": {
+    "nome": "Frank Miloye Milenkowichi–Marília State Airport",
+    "lat": -22.196899,
+    "lon": -49.926485
+  },
+  "MCZ": {
+    "nome": "Zumbi dos Palmares International Airport",
+    "lat": -9.512559,
+    "lon": -35.791839
+  },
+  "MCP": {
+    "nome": "Macapá - Alberto Alcolumbre International Airport",
+    "lat": 0.050664,
+    "lon": -51.072201
+  },
+  "MVF": {
+    "nome": "Dix-Sept Rosado Airport",
+    "lat": -5.20192,
+    "lon": -37.3643
+  },
+  "MNX": {
+    "nome": "Manicoré Airport",
+    "lat": -5.81138,
+    "lon": -61.278301
+  },
+  "NVT": {
+    "nome": "Ministro Victor Konder International Airport",
+    "lat": -26.879431,
+    "lon": -48.650979
+  },
+  "GEL": {
+    "nome": "Santo Ângelo Airport",
+    "lat": -28.282503,
+    "lon": -54.169623
+  },
+  "POA": {
+    "nome": "Porto Alegre-Salgado Filho International Airport",
+    "lat": -29.993984,
+    "lon": -51.167482
+  },
+  "PHB": {
+    "nome": "Parnaíba - Prefeito Doutor João Silva Filho International Airport",
+    "lat": -2.89375,
+    "lon": -41.731998
+  },
+  "PFB": {
+    "nome": "Lauro Kurtz Airport",
+    "lat": -28.243976,
+    "lon": -52.32777
+  },
+  "PGZ": {
+    "nome": "Ponta Grossa Airport - Comandante Antonio Amilton Beraldo",
+    "lat": -25.184476,
+    "lon": -50.143822
+  },
+  "PMW": {
+    "nome": "Brigadeiro Lysias Rodrigues Airport",
+    "lat": -10.2915,
+    "lon": -48.356998
+  },
+  "PET": {
+    "nome": "João Simões Lopes Neto International Airport",
+    "lat": -31.717189,
+    "lon": -52.327796
+  },
+  "PNZ": {
+    "nome": "Senador Nilo Coelho Airport",
+    "lat": -9.362422,
+    "lon": -40.569098
+  },
+  "PMG": {
+    "nome": "Ponta Porã Airport",
+    "lat": -22.549601,
+    "lon": -55.702599
+  },
+  "BPS": {
+    "nome": "Porto Seguro International Airport",
+    "lat": -16.438426,
+    "lon": -39.080584
+  },
+  "PVH": {
+    "nome": "Governador Jorge Teixeira de Oliveira International Airport",
+    "lat": -8.708491,
+    "lon": -63.902338
+  },
+  "RBR": {
+    "nome": "Rio Branco-Plácido de Castro International Airport",
+    "lat": -9.869031,
+    "lon": -67.893984
+  },
+  "ROO": {
+    "nome": "Maestro Marinho Franco Airport",
+    "lat": -16.584292,
+    "lon": -54.724803
+  },
+  "REC": {
+    "nome": "Recife/Guararapes - Gilberto Freyre International Airport",
+    "lat": -8.12747,
+    "lon": -34.922961
+  },
+  "SDU": {
+    "nome": "Santos Dumont Airport",
+    "lat": -22.910397,
+    "lon": -43.16282
+  },
+  "RAO": {
+    "nome": "Leite Lopes Airport",
+    "lat": -21.134314,
+    "lon": -47.774053
+  },
+  "NAT": {
+    "nome": "Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport",
+    "lat": -5.769822,
+    "lon": -35.36661
+  },
+  "SJK": {
+    "nome": "Professor Urbano Ernesto Stumpf Airport",
+    "lat": -23.2292,
+    "lon": -45.8615
+  },
+  "SLZ": {
+    "nome": "Marechal Cunha Machado International Airport",
+    "lat": -2.586386,
+    "lon": -44.235008
+  },
+  "RIA": {
+    "nome": "Santa Maria Airport",
+    "lat": -29.711399,
+    "lon": -53.688202
+  },
+  "STM": {
+    "nome": "Santarém - Maestro Wilson Fonseca International Airport",
+    "lat": -2.422423,
+    "lon": -54.79306
+  },
+  "CGH": {
+    "nome": "Congonhas–Deputado Freitas Nobre Airport",
+    "lat": -23.627657,
+    "lon": -46.654601
+  },
+  "SJP": {
+    "nome": "Prof. Eribelto Manoel Reino State Airport",
+    "lat": -20.817113,
+    "lon": -49.406963
+  },
+  "SSA": {
+    "nome": "Deputado Luiz Eduardo Magalhães International Airport",
+    "lat": -12.908611,
+    "lon": -38.322498
+  },
+  "TMT": {
+    "nome": "Trombetas Airport",
+    "lat": -1.4896,
+    "lon": -56.396801
+  },
+  "THE": {
+    "nome": "Senador Petrônio Portela Airport",
+    "lat": -5.06025,
+    "lon": -42.823712
+  },
+  "TFF": {
+    "nome": "Tefé Airport",
+    "lat": -3.38294,
+    "lon": -64.724098
+  },
+  "TBT": {
+    "nome": "Tabatinga International Airport",
+    "lat": -4.25567,
+    "lon": -69.935799
+  },
+  "TUR": {
+    "nome": "Tucuruí Airport",
+    "lat": -3.78601,
+    "lon": -49.720299
+  },
+  "SJL": {
+    "nome": "São Gabriel da Cachoeira Airport",
+    "lat": -0.14835,
+    "lon": -66.9855
+  },
+  "PAV": {
+    "nome": "Paulo Afonso Airport",
+    "lat": -9.40088,
+    "lon": -38.250599
+  },
+  "URG": {
+    "nome": "Rubem Berta Airport",
+    "lat": -29.7822,
+    "lon": -57.0382
+  },
+  "UDI": {
+    "nome": "Ten. Cel. Aviador César Bombonato Airport",
+    "lat": -18.883579,
+    "lon": -48.225936
+  },
+  "UBA": {
+    "nome": "Mário de Almeida Franco Airport",
+    "lat": -19.765036,
+    "lon": -47.964805
+  },
+  "BVH": {
+    "nome": "Brigadeiro Camarão Airport",
+    "lat": -12.6944,
+    "lon": -60.098301
+  },
+  "VIX": {
+    "nome": "Eurico de Aguiar Salles International Airport",
+    "lat": -20.258,
+    "lon": -40.285
+  },
+  "IZA": {
+    "nome": "Presidente Itamar Franco Airport",
+    "lat": -21.513086,
+    "lon": -43.173069
+  },
+  "AUX": {
+    "nome": "Araguaína Airport",
+    "lat": -7.22787,
+    "lon": -48.240501
+  }
+}
