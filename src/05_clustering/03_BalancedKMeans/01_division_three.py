@@ -8,8 +8,8 @@ import os
 
 # --- CONFIGURATION ---
 INPUT_GRAPH = 'data/03_final/graphs/teams_games.graphml'
-REPORT_FILE = 'outputs/reports/balanced_kmeans_metrics.json'
-OUTPUT_FILE = 'data/04_results/balanced_kmeans_prop_division_3.csv'
+REPORT_FILE = 'outputs/reports/Bkmeans_metrics.json'
+OUTPUT_FILE = 'data/04_results/Bkmeans_prop_division_3.csv'
 OUTPUT_PLOT = 'outputs/maps/03_BalancedKMeans/Bkmeans_serie_C.png'
 K_VALUES = [2, 3, 4]
 

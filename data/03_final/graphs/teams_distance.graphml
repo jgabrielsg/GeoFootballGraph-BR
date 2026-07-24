@@ -948,7 +948,7 @@
     <node id="REAL NOROESTE/espirito_santo">
       <data key="d0">-18.9817</data>
       <data key="d1">-40.7333</data>
-      <data key="d2">Águia Branca</data>
+      <data key="d2">AGUIA DE MARABA Branca</data>
     </node>
     <node id="DESPORTIVA FERROVIÁRIA/espirito_santo">
       <data key="d0">-20.3261</data>
@@ -2010,9 +2010,9 @@
       <data key="d1">-46.7653</data>
       <data key="d2">Bragança</data>
     </node>
-    <node id="ÁGUIA/para">
-      <data key="d0">-5.3575</data>
-      <data key="d1">-49.1233</data>
+    <node id="ÁGUIA DE MARABÁ/para">
+      <data key="d0">-5.3556</data>
+      <data key="d1">-49.1122</data>
       <data key="d2">Marabá</data>
     </node>
     <node id="PAYSANDU/para">
@@ -4375,11 +4375,6 @@
       <data key="d1">-48.7153</data>
       <data key="d2">Santa Fé do Araguaia</data>
     </node>
-    <node id="AGUIA DE MARABA/para">
-      <data key="d0">-5.3556</data>
-      <data key="d1">-49.1122</data>
-      <data key="d2">Marabá</data>
-    </node>
     <node id="SAMPAIO/roraima">
       <data key="d0">2.8236</data>
       <data key="d1">-60.6753</data>
@@ -4435,7 +4430,7 @@
     <edge source="SÃO FRANCISCO/acre" target="TUNA LUSO/para">
       <data key="d3">2335.874455203754</data>
     </edge>
-    <edge source="SÃO FRANCISCO/acre" target="AGUIA DE MARABA/para">
+    <edge source="SÃO FRANCISCO/acre" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">2122.5842810901845</data>
     </edge>
     <edge source="SÃO FRANCISCO/acre" target="TREM/amapa">
@@ -4753,7 +4748,7 @@
     <edge source="HUMAITÁ/acre" target="NACIONAL/amazonas">
       <data key="d3">1106.0996210341257</data>
     </edge>
-    <edge source="HUMAITÁ/acre" target="AGUIA DE MARABA/para">
+    <edge source="HUMAITÁ/acre" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">2094.76670625294</data>
     </edge>
     <edge source="HUMAITÁ/acre" target="TUNA LUSO/para">
@@ -4786,7 +4781,7 @@
     <edge source="INDEPENDÊNCIA/acre" target="MANAUARA/amazonas">
       <data key="d3">1150.2990359938412</data>
     </edge>
-    <edge source="INDEPENDÊNCIA/acre" target="AGUIA DE MARABA/para">
+    <edge source="INDEPENDÊNCIA/acre" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">2124.373906250107</data>
     </edge>
     <edge source="INDEPENDÊNCIA/acre" target="SAMPAIO/roraima">
@@ -6055,7 +6050,7 @@
     <edge source="TREM/amapa" target="PRINCESA/amazonas">
       <data key="d3">1124.3255559705624</data>
     </edge>
-    <edge source="TREM/amapa" target="AGUIA DE MARABA/para">
+    <edge source="TREM/amapa" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">637.57497843325</data>
     </edge>
     <edge source="TREM/amapa" target="MANAUS/amazonas">
@@ -6727,7 +6722,7 @@
     <edge source="MANAUARA/amazonas" target="TUNA LUSO/para">
       <data key="d3">1294.4532315541176</data>
     </edge>
-    <edge source="MANAUARA/amazonas" target="AGUIA DE MARABA/para">
+    <edge source="MANAUARA/amazonas" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">1234.9775569134679</data>
     </edge>
     <edge source="MANAUARA/amazonas" target="SAMPAIO CORRÊA/maranhao">
@@ -7021,7 +7016,7 @@
     <edge source="MANAUS/amazonas" target="IGUATU/ceara">
       <data key="d3">2324.021582329387</data>
     </edge>
-    <edge source="MANAUS/amazonas" target="AGUIA DE MARABA/para">
+    <edge source="MANAUS/amazonas" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">1234.9775569134679</data>
     </edge>
     <edge source="MANAUS/amazonas" target="TUNA LUSO/para">
@@ -7045,7 +7040,7 @@
     <edge source="NACIONAL/amazonas" target="SÃO RAIMUNDO/roraima">
       <data key="d3">664.7680776300746</data>
     </edge>
-    <edge source="NACIONAL/amazonas" target="AGUIA DE MARABA/para">
+    <edge source="NACIONAL/amazonas" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">1234.9775569134679</data>
     </edge>
     <edge source="NACIONAL/amazonas" target="PARNAHYBA/piaui">
@@ -7060,7 +7055,7 @@
     <edge source="PRINCESA/amazonas" target="ITUANO/sao_paulo">
       <data key="d3">2642.4978013064047</data>
     </edge>
-    <edge source="PRINCESA/amazonas" target="AGUIA DE MARABA/para">
+    <edge source="PRINCESA/amazonas" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">1296.4171568291913</data>
     </edge>
     <edge source="PRINCESA/amazonas" target="SÃO RAIMUNDO/roraima">
@@ -9517,7 +9512,7 @@
     <edge source="ATLÉTICO CEARENSE/ceara" target="FLUMINENSE/piaui">
       <data key="d3">497.38518158086663</data>
     </edge>
-    <edge source="ATLÉTICO CEARENSE/ceara" target="AGUIA DE MARABA/para">
+    <edge source="ATLÉTICO CEARENSE/ceara" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">1187.1139974387208</data>
     </edge>
     <edge source="ATLÉTICO CEARENSE/ceara" target="POTIGUAR/rio_grande_do_norte">
@@ -10192,7 +10187,7 @@
     <edge source="FORTALEZA/ceara" target="FLUMINENSE/rio_de_janeiro">
       <data key="d3">2191.1742806454367</data>
     </edge>
-    <edge source="FORTALEZA/ceara" target="AGUIA DE MARABA/para">
+    <edge source="FORTALEZA/ceara" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">1185.556702834064</data>
     </edge>
     <edge source="FORTALEZA/ceara" target="PALMEIRAS/sao_paulo">
@@ -13093,7 +13088,7 @@
     <edge source="GOIÁS/goias" target="RED BULL BRAGANTINO/sao_paulo">
       <data key="d3">752.6706068238224</data>
     </edge>
-    <edge source="GOIÁS/goias" target="AGUIA DE MARABA/para">
+    <edge source="GOIÁS/goias" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">1260.0926054372455</data>
     </edge>
     <edge source="GOIÁS/goias" target="CUIABÁ/mato_grosso">
@@ -14293,7 +14288,7 @@
     <edge source="MARANHÃO/maranhao" target="RÍVER/piaui">
       <data key="d3">329.8764261855006</data>
     </edge>
-    <edge source="MARANHÃO/maranhao" target="AGUIA DE MARABA/para">
+    <edge source="MARANHÃO/maranhao" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">618.6853585112946</data>
     </edge>
     <edge source="MARANHÃO/maranhao" target="CAMETÁ/para">
@@ -14521,7 +14516,7 @@
     <edge source="MOTO CLUB/maranhao" target="CAMETÁ/para">
       <data key="d3">577.2921525427263</data>
     </edge>
-    <edge source="MOTO CLUB/maranhao" target="AGUIA DE MARABA/para">
+    <edge source="MOTO CLUB/maranhao" target="ÁGUIA DE MARABÁ/para">
       <data key="d3">618.6853585112946</data>
     </edge>
     <edge source="JUVENTUDE/maranhao" target="OPERÁRIO/parana">
@@ -18358,8 +18353,8 @@
     <edge source="GAVIÃO KYIKATEJÊ/para" target="INDEPENDENTE TUCURUÍ/para">
       <data key="d3">187.06997144100907</data>
     </edge>
-    <edge source="GAVIÃO KYIKATEJÊ/para" target="ÁGUIA/para">
-      <data key="d3">1.0</data>
+    <edge source="GAVIÃO KYIKATEJÊ/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">1.2469024678975706</data>
     </edge>
     <edge source="GAVIÃO KYIKATEJÊ/para" target="PARAGOMINAS/para">
       <data key="d3">328.21845841723325</data>
@@ -18715,8 +18710,8 @@
     <edge source="ITUPIRANGA/para" target="CAMETÁ/para">
       <data key="d3">322.77709874150827</data>
     </edge>
-    <edge source="ITUPIRANGA/para" target="ÁGUIA/para">
-      <data key="d3">33.088175842165825</data>
+    <edge source="ITUPIRANGA/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">33.817116081008095</data>
     </edge>
     <edge source="ITUPIRANGA/para" target="CASTANHAL/para">
       <data key="d3">456.1483130155939</data>
@@ -18781,8 +18776,8 @@
     <edge source="PARAGOMINAS/para" target="CARAJÁS/para">
       <data key="d3">212.90245454552073</data>
     </edge>
-    <edge source="PARAGOMINAS/para" target="ÁGUIA/para">
-      <data key="d3">328.21845841723325</data>
+    <edge source="PARAGOMINAS/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">327.3130138134909</data>
     </edge>
     <edge source="PARAGOMINAS/para" target="TOCANTINÓPOLIS/tocantins">
       <data key="d3">371.1353505360731</data>
@@ -18814,8 +18809,8 @@
     <edge source="CARAJÁS/para" target="PAYSANDU/para">
       <data key="d3">1.0</data>
     </edge>
-    <edge source="CARAJÁS/para" target="ÁGUIA/para">
-      <data key="d3">439.5014776166134</data>
+    <edge source="CARAJÁS/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">439.0976044512684</data>
     </edge>
     <edge source="CARAJÁS/para" target="CASTANHAL/para">
       <data key="d3">66.13521997524784</data>
@@ -18868,8 +18863,8 @@
     <edge source="INDEPENDENTE TUCURUÍ/para" target="PAYSANDU/para">
       <data key="d3">288.5717299728053</data>
     </edge>
-    <edge source="INDEPENDENTE TUCURUÍ/para" target="ÁGUIA/para">
-      <data key="d3">187.06997144100907</data>
+    <edge source="INDEPENDENTE TUCURUÍ/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">187.27462638209778</data>
     </edge>
     <edge source="INDEPENDENTE TUCURUÍ/para" target="REMO/para">
       <data key="d3">288.5717299728053</data>
@@ -18916,8 +18911,8 @@
     <edge source="SANTA ROSA/para" target="SÃO FRANCISCO/para">
       <data key="d3">699.6784053393988</data>
     </edge>
-    <edge source="SANTA ROSA/para" target="ÁGUIA/para">
-      <data key="d3">439.5014776166134</data>
+    <edge source="SANTA ROSA/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">439.0976044512684</data>
     </edge>
     <edge source="SANTA ROSA/para" target="TUNA LUSO/para">
       <data key="d3">1.0</data>
@@ -18928,8 +18923,8 @@
     <edge source="CAMETÁ/para" target="SÃO FRANCISCO/para">
       <data key="d3">579.5812262025024</data>
     </edge>
-    <edge source="CAMETÁ/para" target="ÁGUIA/para">
-      <data key="d3">348.269914423095</data>
+    <edge source="CAMETÁ/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">348.2082888337005</data>
     </edge>
     <edge source="CAMETÁ/para" target="TUNA LUSO/para">
       <data key="d3">142.2227901646907</data>
@@ -18958,9 +18953,6 @@
     <edge source="CAMETÁ/para" target="TOCANTINÓPOLIS/tocantins">
       <data key="d3">506.0843918678702</data>
     </edge>
-    <edge source="CAMETÁ/para" target="AGUIA DE MARABA/para">
-      <data key="d3">348.2082888337005</data>
-    </edge>
     <edge source="CAMETÁ/para" target="RÍVER/piaui">
       <data key="d3">807.1250017942745</data>
     </edge>
@@ -18979,8 +18971,8 @@
     <edge source="SÃO FRANCISCO/para" target="BRAGANTINO/para">
       <data key="d3">896.2065385399422</data>
     </edge>
-    <edge source="SÃO FRANCISCO/para" target="ÁGUIA/para">
-      <data key="d3">699.1564344759656</data>
+    <edge source="SÃO FRANCISCO/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">700.1506319789682</data>
     </edge>
     <edge source="SÃO FRANCISCO/para" target="TUNA LUSO/para">
       <data key="d3">699.6784053393988</data>
@@ -19000,8 +18992,8 @@
     <edge source="CAETÉ/para" target="BRAGANTINO/para">
       <data key="d3">1.0</data>
     </edge>
-    <edge source="CAETÉ/para" target="ÁGUIA/para">
-      <data key="d3">545.4641009860251</data>
+    <edge source="CAETÉ/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">544.6886039067346</data>
     </edge>
     <edge source="CAETÉ/para" target="PAYSANDU/para">
       <data key="d3">196.8999981884648</data>
@@ -19021,8 +19013,8 @@
     <edge source="TUNA LUSO/para" target="CASTANHAL/para">
       <data key="d3">66.13521997524784</data>
     </edge>
-    <edge source="TUNA LUSO/para" target="ÁGUIA/para">
-      <data key="d3">439.5014776166134</data>
+    <edge source="TUNA LUSO/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">439.0976044512684</data>
     </edge>
     <edge source="TUNA LUSO/para" target="GRÊMIO NOVORIZONTINO/sao_paulo">
       <data key="d3">2227.2709638693937</data>
@@ -19036,17 +19028,14 @@
     <edge source="TUNA LUSO/para" target="FLUMINENSE/piaui">
       <data key="d3">749.5915448634864</data>
     </edge>
-    <edge source="TUNA LUSO/para" target="AGUIA DE MARABA/para">
-      <data key="d3">439.0976044512684</data>
-    </edge>
     <edge source="TUNA LUSO/para" target="SÃO RAIMUNDO/roraima">
       <data key="d3">1435.6621148331628</data>
     </edge>
     <edge source="TUNA LUSO/para" target="SAMPAIO/roraima">
       <data key="d3">1435.6621148331628</data>
     </edge>
-    <edge source="REMO/para" target="ÁGUIA/para">
-      <data key="d3">439.5014776166134</data>
+    <edge source="REMO/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">439.0976044512684</data>
     </edge>
     <edge source="REMO/para" target="PAYSANDU/para">
       <data key="d3">1.0</data>
@@ -19174,8 +19163,8 @@
     <edge source="REMO/para" target="CAXIAS/rio_grande_do_sul">
       <data key="d3">3094.5781854617994</data>
     </edge>
-    <edge source="CASTANHAL/para" target="ÁGUIA/para">
-      <data key="d3">471.1672908092691</data>
+    <edge source="CASTANHAL/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">470.61619975770355</data>
     </edge>
     <edge source="CASTANHAL/para" target="PAYSANDU/para">
       <data key="d3">66.13521997524784</data>
@@ -19210,8 +19199,8 @@
     <edge source="BRAGANTINO/para" target="PAYSANDU/para">
       <data key="d3">196.8999981884648</data>
     </edge>
-    <edge source="BRAGANTINO/para" target="ÁGUIA/para">
-      <data key="d3">545.4641009860251</data>
+    <edge source="BRAGANTINO/para" target="ÁGUIA DE MARABÁ/para">
+      <data key="d3">544.6886039067346</data>
     </edge>
     <edge source="BRAGANTINO/para" target="TAPAJÓS/para">
       <data key="d3">896.2065385399422</data>
@@ -19222,11 +19211,44 @@
     <edge source="BRAGANTINO/para" target="JI-PARANÁ/rondonia">
       <data key="d3">2001.1864047072957</data>
     </edge>
-    <edge source="ÁGUIA/para" target="PAYSANDU/para">
-      <data key="d3">439.5014776166134</data>
+    <edge source="ÁGUIA DE MARABÁ/para" target="PAYSANDU/para">
+      <data key="d3">439.0976044512684</data>
     </edge>
-    <edge source="ÁGUIA/para" target="TAPAJÓS/para">
-      <data key="d3">699.1564344759656</data>
+    <edge source="ÁGUIA DE MARABÁ/para" target="TAPAJÓS/para">
+      <data key="d3">700.1506319789682</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="BOTAFOGO/paraiba">
+      <data key="d3">1586.9258098618845</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="CORITIBA/parana">
+      <data key="d3">2232.1917893277086</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="CAPITAL/tocantins">
+      <data key="d3">546.4076498342948</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="SÃO PAULO/sao_paulo">
+      <data key="d3">2040.5352031839604</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="FLUMINENSE/rio_de_janeiro">
+      <data key="d3">2053.062883559664</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="SÃO RAIMUNDO/roraima">
+      <data key="d3">1573.7582141715575</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="RÍVER/piaui">
+      <data key="d3">699.4178430362788</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="FLUMINENSE/piaui">
+      <data key="d3">699.4102566318041</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="ALTOS/piaui">
+      <data key="d3">737.5966463314157</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="TOCANTINÓPOLIS/tocantins">
+      <data key="d3">210.8586826517111</data>
+    </edge>
+    <edge source="ÁGUIA DE MARABÁ/para" target="SAMPAIO/roraima">
+      <data key="d3">1573.7582141715575</data>
     </edge>
     <edge source="PAYSANDU/para" target="TAPAJÓS/para">
       <data key="d3">699.6784053393988</data>
@@ -20010,9 +20032,6 @@
     </edge>
     <edge source="BOTAFOGO/paraiba" target="FLUMINENSE/rio_de_janeiro">
       <data key="d3">1968.1184849296721</data>
-    </edge>
-    <edge source="BOTAFOGO/paraiba" target="AGUIA DE MARABA/para">
-      <data key="d3">1586.9258098618845</data>
     </edge>
     <edge source="BOTAFOGO/paraiba" target="PORTUGUESA/sao_paulo">
       <data key="d3">2217.8709690450446</data>
@@ -21760,9 +21779,6 @@
     <edge source="CORITIBA/parana" target="SPORT/pernambuco">
       <data key="d3">2461.066502512194</data>
     </edge>
-    <edge source="CORITIBA/parana" target="AGUIA DE MARABA/para">
-      <data key="d3">2232.1917893277086</data>
-    </edge>
     <edge source="CORITIBA/parana" target="INTERNACIONAL/rio_grande_do_sul">
       <data key="d3">546.6599871841449</data>
     </edge>
@@ -23485,9 +23501,6 @@
     <edge source="FLUMINENSE/piaui" target="TOCANTINÓPOLIS/tocantins">
       <data key="d3">535.3261782228506</data>
     </edge>
-    <edge source="FLUMINENSE/piaui" target="AGUIA DE MARABA/para">
-      <data key="d3">699.4102566318041</data>
-    </edge>
     <edge source="RÍVER/piaui" target="ALTOS/piaui">
       <data key="d3">38.51403042626433</data>
     </edge>
@@ -23508,9 +23521,6 @@
     </edge>
     <edge source="RÍVER/piaui" target="SÃO RAIMUNDO/roraima">
       <data key="d3">2171.7098470533197</data>
-    </edge>
-    <edge source="RÍVER/piaui" target="AGUIA DE MARABA/para">
-      <data key="d3">699.4178430362788</data>
     </edge>
     <edge source="RÍVER/piaui" target="TOCANTINÓPOLIS/tocantins">
       <data key="d3">535.332789357271</data>
@@ -23598,9 +23608,6 @@
     </edge>
     <edge source="ALTOS/piaui" target="TOCANTINÓPOLIS/tocantins">
       <data key="d3">573.7272891891579</data>
-    </edge>
-    <edge source="ALTOS/piaui" target="AGUIA DE MARABA/para">
-      <data key="d3">737.5966463314157</data>
     </edge>
     <edge source="PARNAHYBA/piaui" target="BOTAFOGO/sao_paulo">
       <data key="d3">2134.0646085752305</data>
@@ -27016,9 +27023,6 @@
     <edge source="FLUMINENSE/rio_de_janeiro" target="JUVENTUDE/rio_grande_do_sul">
       <data key="d3">1059.7689457815782</data>
     </edge>
-    <edge source="FLUMINENSE/rio_de_janeiro" target="AGUIA DE MARABA/para">
-      <data key="d3">2053.062883559664</data>
-    </edge>
     <edge source="FLUMINENSE/rio_de_janeiro" target="CAXIAS/rio_grande_do_sul">
       <data key="d3">1059.8441750137085</data>
     </edge>
@@ -29361,9 +29365,6 @@
     </edge>
     <edge source="SÃO RAIMUNDO/roraima" target="SAMPAIO/roraima">
       <data key="d3">1.0</data>
-    </edge>
-    <edge source="SÃO RAIMUNDO/roraima" target="AGUIA DE MARABA/para">
-      <data key="d3">1573.7582141715575</data>
     </edge>
     <edge source="RIVER/roraima" target="REAL/roraima">
       <data key="d3">228.90301018425805</data>
@@ -34753,9 +34754,6 @@
     <edge source="INTER DE LIMEIRA/sao_paulo" target="SÃO PAULO/sao_paulo">
       <data key="d3">135.38612721094898</data>
     </edge>
-    <edge source="SÃO PAULO/sao_paulo" target="AGUIA DE MARABA/para">
-      <data key="d3">2040.5352031839604</data>
-    </edge>
     <edge source="SANTA CRUZ RIACHUELO/sergipe" target="SOCORRO/sergipe">
       <data key="d3">18.327539888496563</data>
     </edge>
@@ -36067,17 +36065,8 @@
     <edge source="CAPITAL/tocantins" target="NOVA CONQUISTA/tocantins">
       <data key="d3">342.1547505587293</data>
     </edge>
-    <edge source="CAPITAL/tocantins" target="AGUIA DE MARABA/para">
-      <data key="d3">546.4076498342948</data>
-    </edge>
     <edge source="TOCANTINÓPOLIS/tocantins" target="NOVA CONQUISTA/tocantins">
       <data key="d3">164.75599880656117</data>
-    </edge>
-    <edge source="TOCANTINÓPOLIS/tocantins" target="AGUIA DE MARABA/para">
-      <data key="d3">210.8586826517111</data>
-    </edge>
-    <edge source="AGUIA DE MARABA/para" target="SAMPAIO/roraima">
-      <data key="d3">1573.7582141715575</data>
     </edge>
   </graph>
 </graphml>

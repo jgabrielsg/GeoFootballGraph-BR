@@ -1,0 +1,584 @@
+{
+  "metadata": {
+    "total_analisado": 96,
+    "total_alocado": 96
+  },
+  "times": [
+    {
+      "cbf_name": "GALVEZ",
+      "state": "acre",
+      "json_id": "GALVEZ/acre",
+      "proposed_league": "serie_D - micro_5"
+    },
+    {
+      "cbf_name": "HUMAITÁ",
+      "state": "acre",
+      "json_id": "HUMAITÁ/acre",
+      "proposed_league": "serie_C - macro_1"
+    },
+    {
+      "cbf_name": "INDEPENDÊNCIA",
+      "state": "acre",
+      "json_id": "INDEPENDÊNCIA/acre",
+      "proposed_league": "serie_D - micro_5"
+    },
+    {
+      "cbf_name": "ASA",
+      "state": "alagoas",
+      "json_id": "ASA/alagoas",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "CSE",
+      "state": "alagoas",
+      "json_id": "CSE/alagoas",
+      "proposed_league": "serie_D - micro_10"
+    },
+    {
+      "cbf_name": "CSA",
+      "state": "alagoas",
+      "json_id": "CSA/alagoas",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "ORATÓRIO",
+      "state": "amapa",
+      "json_id": "ORATÓRIO/amapa",
+      "proposed_league": "serie_D - micro_4"
+    },
+    {
+      "cbf_name": "TREM",
+      "state": "amapa",
+      "json_id": "TREM/amapa",
+      "proposed_league": "serie_C - macro_1"
+    },
+    {
+      "cbf_name": "MANAUS",
+      "state": "amazonas",
+      "json_id": "MANAUS/amazonas",
+      "proposed_league": "serie_C - macro_1"
+    },
+    {
+      "cbf_name": "MANAUARA",
+      "state": "amazonas",
+      "json_id": "MANAUARA/amazonas",
+      "proposed_league": "serie_C - macro_1"
+    },
+    {
+      "cbf_name": "NACIONAL",
+      "state": "amazonas",
+      "json_id": "NACIONAL/amazonas",
+      "proposed_league": "serie_D - micro_4"
+    },
+    {
+      "cbf_name": "ATLÉTICO",
+      "state": "bahia",
+      "json_id": "ATLÉTICO/bahia",
+      "proposed_league": "serie_D - micro_10"
+    },
+    {
+      "cbf_name": "JACUIPENSE",
+      "state": "bahia",
+      "json_id": "JACUIPENSE/bahia",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "JUAZEIRENSE",
+      "state": "bahia",
+      "json_id": "JUAZEIRENSE/bahia",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "PORTO",
+      "state": "bahia",
+      "json_id": "PORTO/bahia",
+      "proposed_league": "amador - micro_10"
+    },
+    {
+      "cbf_name": "ATLÉTICO CEARENSE",
+      "state": "ceara",
+      "json_id": "ATLÉTICO CEARENSE/ceara",
+      "proposed_league": "serie_D - micro_9"
+    },
+    {
+      "cbf_name": "FERROVIÁRIO",
+      "state": "ceara",
+      "json_id": "FERROVIÁRIO/ceara",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "IGUATU",
+      "state": "ceara",
+      "json_id": "IGUATU/ceara",
+      "proposed_league": "serie_D - micro_9"
+    },
+    {
+      "cbf_name": "MARACANÃ",
+      "state": "ceara",
+      "json_id": "MARACANÃ/ceara",
+      "proposed_league": "serie_D - micro_9"
+    },
+    {
+      "cbf_name": "TIROL",
+      "state": "ceara",
+      "json_id": "TIROL/ceara",
+      "proposed_league": "amador - micro_9"
+    },
+    {
+      "cbf_name": "BRASILIENSE",
+      "state": "distrito_federal",
+      "json_id": "BRASILIENSE/distrito_federal",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "CAPITAL CF",
+      "state": "distrito_federal",
+      "json_id": "CAPITAL CF/distrito_federal",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "CEILÂNDIA",
+      "state": "distrito_federal",
+      "json_id": "CEILÂNDIA/distrito_federal",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "GAMA",
+      "state": "distrito_federal",
+      "json_id": "GAMA/distrito_federal",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "REAL NOROESTE",
+      "state": "espirito_santo",
+      "json_id": "REAL NOROESTE/espirito_santo",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "RIO BRANCO",
+      "state": "espirito_santo",
+      "json_id": "RIO BRANCO/espirito_santo",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "VITÓRIA",
+      "state": "espirito_santo",
+      "json_id": "VITÓRIA/espirito_santo",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "ABECAT OUVIDORENSE",
+      "state": "goias",
+      "json_id": "ABECAT OUVIDORENSE/goias",
+      "proposed_league": "amador - micro_1"
+    },
+    {
+      "cbf_name": "APARECIDENSE",
+      "state": "goias",
+      "json_id": "APARECIDENSE/goias",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "CRAC",
+      "state": "goias",
+      "json_id": "CRAC/goias",
+      "proposed_league": "serie_D - micro_1"
+    },
+    {
+      "cbf_name": "GOIATUBA",
+      "state": "goias",
+      "json_id": "GOIATUBA/goias",
+      "proposed_league": "serie_D - micro_1"
+    },
+    {
+      "cbf_name": "INHUMAS",
+      "state": "goias",
+      "json_id": "INHUMAS/goias",
+      "proposed_league": "serie_D - micro_1"
+    },
+    {
+      "cbf_name": "IAPE",
+      "state": "maranhao",
+      "json_id": "IAPE/maranhao",
+      "proposed_league": "serie_D - micro_9"
+    },
+    {
+      "cbf_name": "IMPERATRIZ",
+      "state": "maranhao",
+      "json_id": "IMPERATRIZ/maranhao",
+      "proposed_league": "serie_C - macro_1"
+    },
+    {
+      "cbf_name": "MOTO CLUB",
+      "state": "maranhao",
+      "json_id": "MOTO CLUB/maranhao",
+      "proposed_league": "serie_D - micro_9"
+    },
+    {
+      "cbf_name": "SAMPAIO CORRÊA",
+      "state": "maranhao",
+      "json_id": "SAMPAIO CORRÊA/maranhao",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "LUVERDENSE",
+      "state": "mato_grosso",
+      "json_id": "LUVERDENSE/mato_grosso",
+      "proposed_league": "serie_D - micro_5"
+    },
+    {
+      "cbf_name": "MIXTO",
+      "state": "mato_grosso",
+      "json_id": "MIXTO/mato_grosso",
+      "proposed_league": "serie_C - macro_1"
+    },
+    {
+      "cbf_name": "CEOV OPERÁRIO",
+      "state": "mato_grosso",
+      "json_id": "CEOV OPERÁRIO/mato_grosso",
+      "proposed_league": "serie_C - macro_1"
+    },
+    {
+      "cbf_name": "PRIMAVERA",
+      "state": "mato_grosso",
+      "json_id": "PRIMAVERA/mato_grosso",
+      "proposed_league": "amador - micro_6"
+    },
+    {
+      "cbf_name": "UNIÃO RONDONÓPOLIS",
+      "state": "mato_grosso",
+      "json_id": "UNIÃO RONDONÓPOLIS/mato_grosso",
+      "proposed_league": "serie_C - macro_2"
+    },
+    {
+      "cbf_name": "OPERÁRIO",
+      "state": "mato_grosso_do_sul",
+      "json_id": "OPERÁRIO/mato_grosso_do_sul",
+      "proposed_league": "serie_C - macro_2"
+    },
+    {
+      "cbf_name": "IVINHEMA",
+      "state": "mato_grosso_do_sul",
+      "json_id": "IVINHEMA/mato_grosso_do_sul",
+      "proposed_league": "serie_D - micro_6"
+    },
+    {
+      "cbf_name": "BETIM FUTEBOL",
+      "state": "minas_gerais",
+      "json_id": "BETIM FUTEBOL/minas_gerais",
+      "proposed_league": "serie_D - micro_2"
+    },
+    {
+      "cbf_name": "DEMOCRATA",
+      "state": "minas_gerais",
+      "json_id": "DEMOCRATA/minas_gerais",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "POUSO ALEGRE",
+      "state": "minas_gerais",
+      "json_id": "POUSO ALEGRE/minas_gerais",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "TOMBENSE",
+      "state": "minas_gerais",
+      "json_id": "TOMBENSE/minas_gerais",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "UBERLÂNDIA",
+      "state": "minas_gerais",
+      "json_id": "UBERLÂNDIA/minas_gerais",
+      "proposed_league": "serie_D - micro_1"
+    },
+    {
+      "cbf_name": "AGUIA DE MARABA",
+      "state": "para",
+      "json_id": "AGUIA DE MARABA/para",
+      "proposed_league": "serie_D - micro_3"
+    },
+    {
+      "cbf_name": "TUNA LUSO",
+      "state": "para",
+      "json_id": "TUNA LUSO/para",
+      "proposed_league": "serie_C - macro_1"
+    },
+    {
+      "cbf_name": "SERRA BRANCA",
+      "state": "paraiba",
+      "json_id": "SERRA BRANCA/paraiba",
+      "proposed_league": "serie_D - micro_11"
+    },
+    {
+      "cbf_name": "SOUSA",
+      "state": "paraiba",
+      "json_id": "SOUSA/paraiba",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "TREZE",
+      "state": "paraiba",
+      "json_id": "TREZE/paraiba",
+      "proposed_league": "serie_D - micro_11"
+    },
+    {
+      "cbf_name": "AZURIZ FUTEBOL",
+      "state": "parana",
+      "json_id": "AZURIZ FUTEBOL/parana",
+      "proposed_league": "serie_D - micro_7"
+    },
+    {
+      "cbf_name": "CIANORTE",
+      "state": "parana",
+      "json_id": "CIANORTE/parana",
+      "proposed_league": "serie_C - macro_2"
+    },
+    {
+      "cbf_name": "CASCAVEL",
+      "state": "parana",
+      "json_id": "CASCAVEL/parana",
+      "proposed_league": "serie_C - macro_2"
+    },
+    {
+      "cbf_name": "SÃO JOSEENSE",
+      "state": "parana",
+      "json_id": "SÃO JOSEENSE/parana",
+      "proposed_league": "amador - micro_8"
+    },
+    {
+      "cbf_name": "CENTRAL",
+      "state": "pernambuco",
+      "json_id": "CENTRAL/pernambuco",
+      "proposed_league": "serie_D - micro_11"
+    },
+    {
+      "cbf_name": "DECISÃO",
+      "state": "pernambuco",
+      "json_id": "DECISÃO/pernambuco",
+      "proposed_league": "amador - micro_11"
+    },
+    {
+      "cbf_name": "MAGUARY",
+      "state": "pernambuco",
+      "json_id": "MAGUARY/pernambuco",
+      "proposed_league": "amador - micro_11"
+    },
+    {
+      "cbf_name": "RETRÔ",
+      "state": "pernambuco",
+      "json_id": "RETRÔ/pernambuco",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "ALTOS",
+      "state": "piaui",
+      "json_id": "ALTOS/piaui",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "FLUMINENSE",
+      "state": "piaui",
+      "json_id": "FLUMINENSE/piaui",
+      "proposed_league": "serie_D - micro_9"
+    },
+    {
+      "cbf_name": "PARNAHYBA",
+      "state": "piaui",
+      "json_id": "PARNAHYBA/piaui",
+      "proposed_league": "serie_D - micro_9"
+    },
+    {
+      "cbf_name": "PIAUÍ",
+      "state": "piaui",
+      "json_id": "PIAUÍ/piaui",
+      "proposed_league": "amador - micro_9"
+    },
+    {
+      "cbf_name": "AMERICA",
+      "state": "rio_de_janeiro",
+      "json_id": "AMERICA/rio_de_janeiro",
+      "proposed_league": "serie_D - micro_0"
+    },
+    {
+      "cbf_name": "MADUREIRA",
+      "state": "rio_de_janeiro",
+      "json_id": "MADUREIRA/rio_de_janeiro",
+      "proposed_league": "amador - micro_0"
+    },
+    {
+      "cbf_name": "MARICÁ",
+      "state": "rio_de_janeiro",
+      "json_id": "MARICÁ/rio_de_janeiro",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "NOVA IGUAÇU",
+      "state": "rio_de_janeiro",
+      "json_id": "NOVA IGUAÇU/rio_de_janeiro",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "PORTUGUESA",
+      "state": "rio_de_janeiro",
+      "json_id": "PORTUGUESA/rio_de_janeiro",
+      "proposed_league": "serie_C - macro_0"
+    },
+    {
+      "cbf_name": "SAMPAIO CORRÊA",
+      "state": "rio_de_janeiro",
+      "json_id": "SAMPAIO CORRÊA/rio_de_janeiro",
+      "proposed_league": "serie_D - micro_0"
+    },
+    {
+      "cbf_name": "ABC",
+      "state": "rio_grande_do_norte",
+      "json_id": "ABC/rio_grande_do_norte",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "AMÉRICA",
+      "state": "rio_grande_do_norte",
+      "json_id": "AMÉRICA/rio_grande_do_norte",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "LAGUNA",
+      "state": "rio_grande_do_norte",
+      "json_id": "LAGUNA/rio_grande_do_norte",
+      "proposed_league": "serie_D - micro_11"
+    },
+    {
+      "cbf_name": "BRASIL",
+      "state": "rio_grande_do_sul",
+      "json_id": "BRASIL/rio_grande_do_sul",
+      "proposed_league": "serie_C - macro_2"
+    },
+    {
+      "cbf_name": "GUARANY DE BAGÉ",
+      "state": "rio_grande_do_sul",
+      "json_id": "GUARANY DE BAGÉ/rio_grande_do_sul",
+      "proposed_league": "amador - micro_7"
+    },
+    {
+      "cbf_name": "SÃO JOSÉ",
+      "state": "rio_grande_do_sul",
+      "json_id": "SÃO JOSÉ/rio_grande_do_sul",
+      "proposed_league": "serie_C - macro_2"
+    },
+    {
+      "cbf_name": "SÃO LUIZ",
+      "state": "rio_grande_do_sul",
+      "json_id": "SÃO LUIZ/rio_grande_do_sul",
+      "proposed_league": "serie_C - macro_2"
+    },
+    {
+      "cbf_name": "GUAPORÉ",
+      "state": "rondonia",
+      "json_id": "GUAPORÉ/rondonia",
+      "proposed_league": "serie_D - micro_5"
+    },
+    {
+      "cbf_name": "GAZIN PORTO VELHO",
+      "state": "rondonia",
+      "json_id": "GAZIN PORTO VELHO/rondonia",
+      "proposed_league": "serie_C - macro_1"
+    },
+    {
+      "cbf_name": "GAS",
+      "state": "roraima",
+      "json_id": "GAS/roraima",
+      "proposed_league": "serie_D - micro_4"
+    },
+    {
+      "cbf_name": "MONTE RORAIMA",
+      "state": "roraima",
+      "json_id": "MONTE RORAIMA/roraima",
+      "proposed_league": "amador - micro_4"
+    },
+    {
+      "cbf_name": "SÃO RAIMUNDO",
+      "state": "roraima",
+      "json_id": "SÃO RAIMUNDO/roraima",
+      "proposed_league": "serie_C - macro_1"
+    },
+    {
+      "cbf_name": "BLUMENAU",
+      "state": "santa_catarina",
+      "json_id": "BLUMENAU/santa_catarina",
+      "proposed_league": "amador - micro_7"
+    },
+    {
+      "cbf_name": "JOINVILLE",
+      "state": "santa_catarina",
+      "json_id": "JOINVILLE/santa_catarina",
+      "proposed_league": "serie_D - micro_8"
+    },
+    {
+      "cbf_name": "MARCÍLIO DIAS",
+      "state": "santa_catarina",
+      "json_id": "MARCÍLIO DIAS/santa_catarina",
+      "proposed_league": "serie_C - macro_2"
+    },
+    {
+      "cbf_name": "SANTA CATARINA",
+      "state": "santa_catarina",
+      "json_id": "SANTA CATARINA/santa_catarina",
+      "proposed_league": "serie_D - micro_7"
+    },
+    {
+      "cbf_name": "ÁGUA SANTA",
+      "state": "sao_paulo",
+      "json_id": "ÁGUA SANTA/sao_paulo",
+      "proposed_league": "serie_D - micro_2"
+    },
+    {
+      "cbf_name": "NOROESTE",
+      "state": "sao_paulo",
+      "json_id": "NOROESTE/sao_paulo",
+      "proposed_league": "serie_D - micro_8"
+    },
+    {
+      "cbf_name": "PORTUGUESA",
+      "state": "sao_paulo",
+      "json_id": "PORTUGUESA/sao_paulo",
+      "proposed_league": "serie_D - micro_2"
+    },
+    {
+      "cbf_name": "VELO CLUBE",
+      "state": "sao_paulo",
+      "json_id": "VELO CLUBE/sao_paulo",
+      "proposed_league": "serie_D - micro_2"
+    },
+    {
+      "cbf_name": "XV DE PIRACICABA",
+      "state": "sao_paulo",
+      "json_id": "XV DE PIRACICABA/sao_paulo",
+      "proposed_league": "serie_D - micro_8"
+    },
+    {
+      "cbf_name": "LAGARTO",
+      "state": "sergipe",
+      "json_id": "LAGARTO/sergipe",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "SERGIPE",
+      "state": "sergipe",
+      "json_id": "SERGIPE/sergipe",
+      "proposed_league": "serie_C - macro_3"
+    },
+    {
+      "cbf_name": "ARAGUAÍNA",
+      "state": "tocantins",
+      "json_id": "ARAGUAÍNA/tocantins",
+      "proposed_league": "amador - micro_3"
+    },
+    {
+      "cbf_name": "TOCANTINÓPOLIS",
+      "state": "tocantins",
+      "json_id": "TOCANTINÓPOLIS/tocantins",
+      "proposed_league": "serie_C - macro_1"
+    }
+  ]
+}

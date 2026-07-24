@@ -3,7 +3,7 @@ import os
 
 # --- CONFIGURATION ---
 GAMES_FILE = 'data/03_final/all_games_weights.csv'
-GEODATA_FILE = 'data/03_final/all_unique_teams_geolocalization.csv'
+GEODATA_FILE = 'data/03_final/unique_teams_geo_final.csv'
 MISSING_FILE = 'archive/data/missing_teams.csv'
 
 # --- OUTPUT ---
@@ -29,13 +29,13 @@ def main():
     # 3. MERGE HOME
     df_final = pd.merge(
         df_games,
-        df_geo[['geo_estado', 'clube', 'latitude', 'longitude', 'cidade', 'estadio']],
+        df_geo[['geo_estado', 'clube', 'lat', 'lon', 'cidade', 'estadio']],
         left_on=['mandante_estado', 'mandante'],
         right_on=['geo_estado', 'clube'],
         how='left'
     ).rename(columns={
-        'latitude': 'lat_h',
-        'longitude': 'lon_h',
+        'lat': 'lat_h',
+        'lon': 'lon_h',
         'cidade': 'cidade_h',
         'estadio': 'estadio_h'
     }).drop(columns=['geo_estado', 'clube'])
@@ -44,13 +44,13 @@ def main():
     # 4. MERGE AWAY
     df_final = pd.merge(
         df_final,
-        df_geo[['geo_estado', 'clube', 'latitude', 'longitude', 'cidade', 'estadio']],
+        df_geo[['geo_estado', 'clube', 'lat', 'lon', 'cidade', 'estadio']],
         left_on=['visitante_estado', 'visitante'],
         right_on=['geo_estado', 'clube'],
         how='left'
     ).rename(columns={
-        'latitude': 'lat_a',
-        'longitude': 'lon_a',
+        'lat': 'lat_a',
+        'lon': 'lon_a',
         'cidade': 'cidade_a',
         'estadio': 'estadio_a'
     }).drop(columns=['geo_estado', 'clube'])

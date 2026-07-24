@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import os
 
 # --- CONFIGURATION ---
-INPUT_FILE = 'data/04_results/balanced_kmeans_prop_division_3.csv'
-OUTPUT_FILE = 'data/04_results/balanced_kmeans_prop_division_4.csv'
+INPUT_FILE = 'data/04_results/Bkmeans_prop_division_3.csv'
+OUTPUT_FILE = 'data/04_results/Bkmeans_prop_division_4.csv'
 OUTPUT_GRID = 'outputs/maps/03_BalancedKMeans/Bkmeans_serie_D(4m).png'
 MACRO_COL = 'cluster_k4' # Using K=4
 SUB_K_VALUES = [2, 3, 4]
