@@ -5,3 +5,6 @@
 # Large generated data 
 data/03_final/logistics_matrix.csv
 matriz_logistica_teste.csv
+
+# airport dataset
+data\01_raw\airports

@@ -3,8 +3,8 @@ GRÊMIO;rio_grande_do_sul;-30.0346;-51.2177;Porto Alegre;Arena do Grêmio;183;99
 ATHLETICO PARANAENSE;parana;-25.4284;-49.2733;Curitiba;Ligga Arena;165;88;114;367
 FLAMENGO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio do Maracanã;218;77;71;366
 CORINTHIANS;sao_paulo;-23.5505;-46.6333;São Paulo;Neo Química Arena;149;107;101;357
-SÃO PAULO;sao_paulo;-23.5505;-46.6333;São Paulo;Estádio Cícero Pompeu de Toledo;154;102;99;355
 FLUMINENSE;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio do Maracanã;171;76;108;355
+SÃO PAULO;sao_paulo;-23.5505;-46.6333;São Paulo;Estádio Cícero Pompeu de Toledo;154;102;99;355
 ATLÉTICO GOIANIENSE;goias;-16.6869;-49.2648;Goiânia;Estádio Antônio Accioly;148;102;104;354
 JUVENTUDE;rio_grande_do_sul;-29.1678;-51.1784;Caxias do Sul;Estádio Alfredo Jaconi;113;104;136;353
 PALMEIRAS;sao_paulo;-23.5505;-46.6333;São Paulo;Allianz Parque;197;86;69;352
@@ -16,11 +16,11 @@ VASCO DA GAMA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio São Janu
 CRB;alagoas;-9.6658;-35.7353;Maceió;Estádio Rei Pelé;150;83;110;343
 AVAÍ;santa_catarina;-27.5949;-48.5482;Florianópolis;Estádio Aderbal Ramos da Silva;125;97;120;342
 BOTAFOGO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Nilton Santos;152;88;98;338
-CORITIBA;parana;-25.4296;-49.2719;Curitiba;Estádio Major Antônio Couto Pereira;128;82;125;335
 AMÉRICA MINEIRO;minas_gerais;-19.9167;-43.9345;Belo Horizonte;Arena Independência;133;99;103;335
+CORITIBA;parana;-25.4296;-49.2719;Curitiba;Estádio Major Antônio Couto Pereira;128;82;125;335
 BAHIA;bahia;-12.9714;-38.5014;Salvador;Arena Fonte Nova;139;82;112;333
-RED BULL BRAGANTINO;sao_paulo;-22.9533;-46.5422;Bragança Paulista;Estádio Nabi Abi Chedid;125;93;113;331
 GOIÁS;goias;-16.6869;-49.2647;Goiânia;Estádio Hailé Pinheiro;132;95;104;331
+RED BULL BRAGANTINO;sao_paulo;-22.9533;-46.5422;Bragança Paulista;Estádio Nabi Abi Chedid;125;93;113;331
 SANTOS;sao_paulo;-23.9608;-46.3333;Santos;Estádio Urbano Caldeira;120;95;114;329
 CRUZEIRO;minas_gerais;-19.9167;-43.9345;Belo Horizonte;Mineirão;138;98;90;326
 VILA NOVA;goias;-16.6799;-49.255;Goiânia;Estádio Onésio Brasileiro Alvarenga;124;108;90;322
@@ -32,14 +32,14 @@ SPORT;pernambuco;-8.05428;-34.8813;Recife;Estádio Adelmar da Costa Carvalho;122
 CRICIÚMA;santa_catarina;-28.6775;-49.3713;Criciúma;Estádio Heriberto Hülse;124;99;89;312
 SÃO BERNARDO;sao_paulo;-23.6944;-46.565;São Bernardo do Campo;Estádio Primeiro de Maio;129;96;84;309
 BRUSQUE;santa_catarina;-27.1006;-48.9135;Brusque;Estádio Augusto Bauer;111;91;104;306
-VITÓRIA;bahia;-12.9714;-38.5014;Salvador;Estádio Manoel Barradas;109;89;98;296
 GUARANI;sao_paulo;-22.9056;-47.0608;Campinas;Estádio Brinco de Ouro da Princesa;98;83;115;296
+VITÓRIA;bahia;-12.9714;-38.5014;Salvador;Estádio Manoel Barradas;109;89;98;296
 GRÊMIO NOVORIZONTINO;sao_paulo;-21.4733;-49.2258;Novo Horizonte;Estádio Doutor Jorge Ismael de Biasi;125;82;84;291
 BOTAFOGO;sao_paulo;-21.1775;-47.8103;Ribeirão Preto;Estádio Santa Cruz;84;77;121;282
 CSA;alagoas;-9.6658;-35.7353;Maceió;Estádio Rei Pelé;108;85;84;277
 ITUANO;sao_paulo;-23.2619;-47.2972;Itu;Estádio Municipal Dr. Novelli Júnior;89;81;105;275
-SAMPAIO CORRÊA;maranhao;-2.5307;-44.3068;São Luís;Estádio Governador João Castelo;107;81;86;274
 LONDRINA;parana;-23.3045;-51.1696;Londrina;Estádio do Café;91;88;95;274
+SAMPAIO CORRÊA;maranhao;-2.5307;-44.3068;São Luís;Estádio Governador João Castelo;107;81;86;274
 FIGUEIRENSE;santa_catarina;-27.5949;-48.5482;Florianópolis;Estádio Orlando Scarpelli;96;87;90;273
 VOLTA REDONDA;rio_de_janeiro;-22.5181;-44.1014;Volta Redonda;Estádio Raulino de Oliveira;105;74;89;268
 PAYSANDU;para;-1.4558;-48.4902;Belém;Estádio Leônidas Sodré de Castro;114;72;80;266
@@ -56,8 +56,8 @@ FERROVIÁRIA;sao_paulo;-21.7945;-48.1758;Araraquara;Estádio Doutor Adhemar de B
 AMÉRICA;rio_grande_do_norte;-5.7945;-35.211;Natal;Arena das Dunas;113;66;43;222
 FERROVIÁRIO;ceara;-3.7172;-38.5433;Fortaleza;Estádio Presidente Vargas;91;65;66;222
 CASCAVEL;parana;-24.9578;-53.4594;Cascavel;Estádio Olímpico Regional Arnaldo Busatto;77;67;66;210
-APARECIDENSE;goias;-16.8233;-49.2442;Aparecida de Goiânia;Estádio Annibal Batista de Toledo;85;53;71;209
 FLORESTA;ceara;-3.7172;-38.5433;Fortaleza;Estádio Presidente Vargas;64;72;73;209
+APARECIDENSE;goias;-16.8233;-49.2442;Aparecida de Goiânia;Estádio Annibal Batista de Toledo;85;53;71;209
 CAXIAS;rio_grande_do_sul;-29.1678;-51.1794;Caxias do Sul;Estádio Centenário;82;62;62;206
 BOTAFOGO;paraiba;-7.115;-34.8642;João Pessoa;Estádio José Américo de Almeida Filho;80;75;51;206
 MARCÍLIO DIAS;santa_catarina;-26.9046;-48.6667;Itajaí;Estádio Dr. Hercílio Luz;73;72;59;204
@@ -79,186 +79,186 @@ INTER DE LIMEIRA;sao_paulo;-22.5603;-47.4033;Limeira;Estádio Major José Levy S
 RIO BRANCO;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Kleber Andrade;72;42;51;165
 CIANORTE;parana;-23.6617;-52.6036;Cianorte;Estádio Municipal Olímpico Albino Turbay;62;45;58;165
 SERGIPE;sergipe;-10.9167;-37.05;Aracaju;Arena Batistão;67;52;43;162
-ITABAIANA;sergipe;-10.6897;-37.4253;Itabaiana;Estádio Etelvino Mendonça;72;42;48;162
 ATLÉTICO CEARENSE;ceara;-3.7319;-38.5267;Fortaleza;Estádio Presidente Vargas;50;46;66;162
+ITABAIANA;sergipe;-10.6897;-37.4253;Itabaiana;Estádio Etelvino Mendonça;72;42;48;162
 ANÁPOLIS;goias;-16.3286;-48.9533;Anápolis;Estádio Jonas Duarte;64;53;44;161
 MARINGÁ;parana;-23.421;-51.9331;Maringá;Estádio Regional Willie Davids;74;50;35;159
 TOCANTINÓPOLIS;tocantins;-6.3297;-47.4767;Tocantinópolis;Estádio João Ribeiro;64;42;50;156
-CEOV OPERÁRIO;mato_grosso;-15.6536;-56.1333;Várzea Grande;Arena Pantanal;59;44;52;155
 SOUSA;paraiba;-6.76056;-38.2317;Sousa;Estádio Marizão;67;41;47;155
 UNIÃO RONDONÓPOLIS;mato_grosso;-16.4683;-54.6356;Rondonópolis;Estádio Municipal Engenheiro Luthero Lopes;62;39;52;153
-JACUIPENSE;bahia;-11.8053;-39.3786;Riachão do Jacuípe;Estádio Eliel Martins;54;49;47;150
+CEOV OPERÁRIO;mato_grosso;-15.6536;-56.1333;Várzea Grande;Arena Pantanal;59;45;46;150
 PARANÁ;parana;-25.4296;-49.2719;Curitiba;Estádio Durival Britto e Silva;40;44;66;150
+JACUIPENSE;bahia;-11.8053;-39.3786;Riachão do Jacuípe;Estádio Eliel Martins;54;49;47;150
 HERCÍLIO LUZ;santa_catarina;-28.4762;-49.0044;Tubarão;Estádio Aníbal Torres Costa;61;50;37;148
 RESENDE;rio_de_janeiro;-22.4683;-44.4517;Resende;Estádio do Trabalhador;35;36;76;147
-SÃO RAIMUNDO;roraima;2.8236;-60.6753;Boa Vista;Estádio Flamarion Vasconcelos;77;34;34;145
 POUSO ALEGRE;minas_gerais;-22.2303;-45.9336;Pouso Alegre;Estádio Manduzão;49;38;58;145
-OPERÁRIO;mato_grosso_do_sul;-20.4486;-54.6291;Campo Grande;Estádio Universitário Pedro Pedrossian;59;39;46;144
+SÃO RAIMUNDO;roraima;2.8236;-60.6753;Boa Vista;Estádio Flamarion Vasconcelos;77;34;34;145
 MOTO CLUB;maranhao;-2.53073;-44.3068;São Luís;Estádio Governador João Castelo;59;41;44;144
+OPERÁRIO;mato_grosso_do_sul;-20.4486;-54.6291;Campo Grande;Estádio Universitário Pedro Pedrossian;59;39;46;144
 SÃO LUIZ;rio_grande_do_sul;-28.3911;-53.9153;Ijuí;Estádio 19 de Outubro;51;43;49;143
+BARRA;santa_catarina;-26.992;-48.632;Balneário Camboriú;Estádio Dr. Hercílio Luz;56;37;48;141
 SANTO ANDRÉ;sao_paulo;-23.6653;-46.5325;Santo André;Estádio Municipal Bruno José Daniel;44;42;55;141
 VITÓRIA;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Salvador Costa;73;28;40;141
-BARRA;santa_catarina;-26.992;-48.632;Balneário Camboriú;Estádio Dr. Hercílio Luz;56;37;48;141
 CONCÓRDIA;santa_catarina;-27.2378;-52.0255;Concórdia;Estádio Domingos Machado de Lima;47;41;52;140
-CAMPINENSE;paraiba;-7.2306;-35.8814;Campina Grande;Estádio Governador Ernani Sátyro;52;46;40;138
 AIMORÉ;rio_grande_do_sul;-29.7573;-51.1467;São Leopoldo;Estádio Cristo Rei;48;29;61;138
+CAMPINENSE;paraiba;-7.2306;-35.8814;Campina Grande;Estádio Governador Ernani Sátyro;52;46;40;138
 CAUCAIA;ceara;-3.7361;-38.6531;Caucaia;Estádio Raimundo de Oliveira;41;42;53;136
 GAZIN PORTO VELHO;rondonia;-8.7619;-63.9039;Porto Velho;Estádio Aluízio Ferreira;61;35;39;135
-BAHIA DE FEIRA;bahia;-12.2669;-38.9669;Feira de Santana;Arena Cajueiro;50;43;41;134
-CEILÂNDIA;distrito_federal;-15.8267;-48.1033;Ceilândia;Estádio Maria de Lourdes Abadia;62;36;36;134
 TREZE;paraiba;-7.2306;-35.8814;Campina Grande;Estádio Amigão;52;41;41;134
+CEILÂNDIA;distrito_federal;-15.8267;-48.1033;Ceilândia;Estádio Maria de Lourdes Abadia;62;36;36;134
+BAHIA DE FEIRA;bahia;-12.2669;-38.9669;Feira de Santana;Arena Cajueiro;50;43;41;134
 MARANHÃO;maranhao;-2.53073;-44.3068;São Luís;Estádio Governador João Castelo;58;45;28;131
-SÃO BENTO;sao_paulo;-23.5017;-47.4544;Sorocaba;Estádio Municipal Walter Ribeiro;38;48;44;130
 ATLÉTICO;bahia;-12.1394;-38.4217;Alagoinhas;Estádio Antônio Carneiro;45;37;48;130
+SÃO BENTO;sao_paulo;-23.5017;-47.4544;Sorocaba;Estádio Municipal Walter Ribeiro;38;48;44;130
 JUAZEIRENSE;bahia;-9.4125;-40.5033;Juazeiro;Estádio Adauto Moraes;51;37;42;130
 SÃO JOSÉ;sao_paulo;-23.2237;-45.9009;São José dos Campos;Estádio Martins Pereira;56;36;35;127
+MARICÁ;rio_de_janeiro;-22.9225;-42.8186;Maricá;Estádio Municipal João Saldanha;49;43;34;126
 CSE;alagoas;-9.4036;-36.6322;Palmeira dos Índios;Estádio Juca Sampaio;47;41;38;126
 ÁGUIA DE MARABÁ;para;-5.3556;-49.1122;Marabá;Estádio Municipal Zinho de Oliveira;41;44;41;126
-MARICÁ;rio_de_janeiro;-22.9225;-42.8186;Maricá;Estádio Municipal João Saldanha;49;43;34;126
 PORTUGUESA;sao_paulo;-23.5505;-46.6333;São Paulo;Estádio Dr. Oswaldo Teixeira Duarte;51;39;35;125
-SERRA;espirito_santo;-20.2417;-40.3083;Serra;Estádio Robertão;58;28;38;124
 BANGU;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Moça Bonita;32;39;53;124
+SERRA;espirito_santo;-20.2417;-40.3083;Serra;Estádio Robertão;58;28;38;124
 AUDAX RIO;rio_de_janeiro;-22.9247;-42.5075;Saquarema;Estádio Elcyr Resende de Mendonça;37;27;59;123
-TUNA LUSO;para;-1.4558;-48.4902;Belém;Estádio Francisco Vasques;53;31;39;123
 GLOBO;rio_grande_do_norte;-5.63583;-35.4236;Ceará-Mirim;Barretão;35;30;58;123
+TUNA LUSO;para;-1.4558;-48.4902;Belém;Estádio Francisco Vasques;53;31;39;123
 XV DE PIRACICABA;sao_paulo;-22.7253;-47.6476;Piracicaba;Estádio Barão da Serra Negra;45;41;36;122
-PÉROLAS NEGRAS;rio_de_janeiro;-22.6335;-43.9046;Piraí;;49;35;37;121
+ÁGUA SANTA;sao_paulo;-23.6858;-46.6219;Diadema;Estádio Distrital do Jardim Inamar;42;38;41;121
+BOA ESPORTE;minas_gerais;-21.56;-45.4333;Varginha;Estádio Municipal Prefeito Dilzon Luiz de Melo;35;41;45;121
 CA PATROCINENSE;minas_gerais;-18.9417;-46.9936;Patrocínio;Estádio Pedro Alves do Nascimento;30;31;60;121
 FLUMINENSE;piaui;-5.08917;-42.80167;Teresina;Estádio Lindolfo Monteiro;45;35;41;121
-ÁGUA SANTA;sao_paulo;-23.6858;-46.6219;Diadema;Estádio Distrital do Jardim Inamar;42;38;41;121
-POTIGUAR;rio_grande_do_norte;-5.18833;-37.3478;Mossoró;Estádio Nogueirão;41;28;52;121
-BOA ESPORTE;minas_gerais;-21.56;-45.4333;Varginha;Estádio Municipal Prefeito Dilzon Luiz de Melo;35;41;45;121
 DUQUE DE CAXIAS;rio_de_janeiro;-22.7833;-43.3167;Duque de Caxias;Estádio Marrentão;46;36;39;121
-OLARIA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Mourão Filho;53;33;34;120
+POTIGUAR;rio_grande_do_norte;-5.18833;-37.3478;Mossoró;Estádio Nogueirão;41;28;52;121
+PÉROLAS NEGRAS;rio_de_janeiro;-22.6335;-43.9046;Piraí;;49;35;37;121
 IGUATU;ceara;-6.3725;-39.3014;Iguatu;Estádio João Elmo Moreno Cavalcante;51;30;39;120
-NOVA MUTUM;mato_grosso;-13.8294;-56.0814;Nova Mutum;Estádio Municipal Valdir Doilho Wons;47;36;36;119
+OLARIA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Mourão Filho;53;33;34;120
 NOVO HAMBURGO;rio_grande_do_sul;-29.6844;-51.1325;Novo Hamburgo;Estádio do Vale;33;39;47;119
+NOVA MUTUM;mato_grosso;-13.8294;-56.0814;Nova Mutum;Estádio Municipal Valdir Doilho Wons;47;36;36;119
 GOIANÉSIA;goias;-15.3167;-49.1256;Goianésia;Estádio Valdeir José de Oliveira;33;39;47;119
 AZURIZ FUTEBOL;parana;-26.225;-52.671;Pato Branco;Estádio Os Pioneiros;40;35;43;118
-CALDENSE;minas_gerais;-21.7847;-46.5633;Poços de Caldas;Estádio Municipal Doutor Ronaldo Junqueira;34;30;54;118
 IPORÁ;goias;-16.4417;-51.1172;Iporá;Estádio Francisco José Ferreira;30;34;54;118
+CALDENSE;minas_gerais;-21.7847;-46.5633;Poços de Caldas;Estádio Municipal Doutor Ronaldo Junqueira;34;30;54;118
+TREM;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;49;27;41;117
 BOAVISTA;rio_de_janeiro;-22.9247;-42.5086;Saquarema;Estádio Elcyr Resende de Mendonça;29;36;52;117
 HUMAITÁ;acre;-9.5833;-67.6333;Porto Acre;Estádio Arena da Floresta;40;23;54;117
-TREM;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;49;27;41;117
-IMPERATRIZ;maranhao;-5.5264;-47.4917;Imperatriz;Estádio Frei Epifânio D'Abadia;39;29;48;116
-COSTA RICA;mato_grosso_do_sul;-18.5567;-53.1111;Costa Rica;Estádio Laertão;56;26;34;116
 MIXTO;mato_grosso;-15.5961;-56.0969;Cuiabá;Arena Pantanal;42;43;31;116
-SAMPAIO CORRÊA;rio_de_janeiro;-22.9244;-42.5075;Saquarema;Estádio Elcyr Resende de Mendonça;49;31;35;115
+COSTA RICA;mato_grosso_do_sul;-18.5567;-53.1111;Costa Rica;Estádio Laertão;56;26;34;116
+IMPERATRIZ;maranhao;-5.5264;-47.4917;Imperatriz;Estádio Frei Epifânio D'Abadia;39;29;48;116
 JUVENTUS JARAGUÁ;santa_catarina;-26.4847;-49.075;Jaraguá do Sul;Estádio João Marcatto;32;43;40;115
-LAGARTO;sergipe;-10.9167;-37.5167;Lagarto;Estádio Paulo Barreto de Menezes;52;34;28;114
-CAPIVARIANO;sao_paulo;-23.0017;-47.5056;Capivari;Arena Capivari;49;31;34;114
+SAMPAIO CORRÊA;rio_de_janeiro;-22.9244;-42.5075;Saquarema;Estádio Elcyr Resende de Mendonça;49;31;35;115
 PARNAHYBA;piaui;-2.90556;-41.7775;Parnaíba;Estádio Municipal Mão Santa;37;41;36;114
-RIO BRANCO DE VENDA NOVA;espirito_santo;-20.3225;-41.1353;Venda Nova do Imigrante;Estádio Olímpio Perim;49;36;28;113
-PACAJUS;ceara;-4.1758;-38.4728;Pacajus;Estádio João Ronaldo;34;39;40;113
+CAPIVARIANO;sao_paulo;-23.0017;-47.5056;Capivari;Arena Capivari;49;31;34;114
+LAGARTO;sergipe;-10.9167;-37.5167;Lagarto;Estádio Paulo Barreto de Menezes;52;34;28;114
 NOROESTE;sao_paulo;-22.3145;-49.0588;Bauru;Estádio Dr. Alfredo de Castilho;48;35;30;113
+RIO BRANCO DE VENDA NOVA;espirito_santo;-20.3225;-41.1353;Venda Nova do Imigrante;Estádio Olímpio Perim;49;36;28;113
 GONÇALENSE;rio_de_janeiro;-22.8214;-43.0503;São Gonçalo;Estádio Atílio Marotti;45;35;33;113
 ICASA;ceara;-7.2133;-39.3153;Juazeiro do Norte;Estádio Mauro Sampaio;48;36;29;113
+PACAJUS;ceara;-4.1758;-38.4728;Pacajus;Estádio João Ronaldo;34;39;40;113
 PORTO VITÓRIA;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Kleber Andrade;61;26;25;112
+MARÍLIA;sao_paulo;-22.2239;-49.9456;Marília;Estádio Municipal Bento de Abreu Sampaio Vidal;46;33;33;112
 UBERLÂNDIA;minas_gerais;-18.9186;-48.2772;Uberlândia;Estádio Municipal Parque do Sabiá;34;38;40;112
 MONTE AZUL;sao_paulo;-20.7539;-48.6486;Monte Azul Paulista;Estádio Municipal Otacília Patrício Arroyo;33;36;43;112
 CENTRAL;pernambuco;-8.2828;-35.9742;Caruaru;Estádio Luiz José de Lacerda;37;44;31;112
-MARÍLIA;sao_paulo;-22.2239;-49.9456;Marília;Estádio Municipal Bento de Abreu Sampaio Vidal;46;33;33;112
 GAMA;distrito_federal;-16.0153;-48.0653;Gama;Estádio Walmir Campelo Bezerra;53;25;33;111
 RÍVER;piaui;-5.0892;-42.8016;Teresina;Estádio Governador Alberto Tavares Silva;45;32;34;111
-4 DE JULHO;piaui;-4.2736;-41.7333;Piripiri;Arena Ytacoatiara;38;38;34;110
 AMERICA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Giulite Coutinho;39;43;28;110
-RIO BRANCO;acre;-9.9747;-67.8076;Rio Branco;Estádio José de Melo;49;27;34;110
 GRÊMIO PRUDENTE;sao_paulo;-22.1256;-51.3822;Presidente Prudente;Estádio Paulo Constantino;56;27;27;110
 CAMBORIÚ;santa_catarina;-27.0175;-48.6536;Camboriú;Estádio Roberto Santos Garcia;46;32;32;110
-CA VOTUPORANGUENSE;sao_paulo;-20.4236;-49.9775;Votuporanga;Arena Plínio Marin;41;35;33;109
-SANTA CRUZ DE NATAL;rio_grande_do_norte;-5.79448;-35.211;Natal;Arena das Dunas;38;22;49;109
+4 DE JULHO;piaui;-4.2736;-41.7333;Piripiri;Arena Ytacoatiara;38;38;34;110
+RIO BRANCO;acre;-9.9747;-67.8076;Rio Branco;Estádio José de Melo;49;27;34;110
 NACIONAL;sao_paulo;-23.5505;-46.6333;São Paulo;Estádio Nicolau Alayon;38;31;40;109
-AFOGADOS DA INGAZEIRA;pernambuco;-7.7547;-37.6367;Afogados da Ingazeira;Estádio Municipal Valdemar Viana de Araújo;35;35;39;109
+SANTA CRUZ DE NATAL;rio_grande_do_norte;-5.79448;-35.211;Natal;Arena das Dunas;38;22;49;109
 MURICI;alagoas;-9.2958;-35.8611;Murici;Estádio José Gomes da Costa;34;32;43;109
+AFOGADOS DA INGAZEIRA;pernambuco;-7.7547;-37.6367;Afogados da Ingazeira;Estádio Municipal Valdemar Viana de Araújo;35;35;39;109
+CA VOTUPORANGUENSE;sao_paulo;-20.4236;-49.9775;Votuporanga;Arena Plínio Marin;41;35;33;109
 SÃO CAETANO;sao_paulo;-23.6186;-46.5736;São Caetano do Sul;Estádio Anacleto Campanella;29;25;54;108
-SERRANO;rio_de_janeiro;-22.505;-43.1789;Petrópolis;Estádio Atílio Marotti;42;30;35;107
 GOIÂNIA;goias;-16.6869;-49.2647;Goiânia;Estádio Olímpico Pedro Ludovico Teixeira;34;25;48;107
+SERRANO;rio_de_janeiro;-22.505;-43.1789;Petrópolis;Estádio Atílio Marotti;42;30;35;107
 AMERICANO;rio_de_janeiro;-21.7627;-41.3275;Campos dos Goytacazes;Estádio Ary de Oliveira e Souza;41;33;33;107
-NOVA VENÉCIA;espirito_santo;-18.7056;-40.3933;Nova Venécia;Estádio Zenor Pedrosa Rocha;54;31;21;106
 CABOFRIENSE;rio_de_janeiro;-22.8814;-42.025;Cabo Frio;Estádio Alair Corrêa;33;30;43;106
+NOVA VENÉCIA;espirito_santo;-18.7056;-40.3933;Nova Venécia;Estádio Zenor Pedrosa Rocha;54;31;21;106
 RIO BRANCO;sao_paulo;-22.7419;-47.3333;Americana;Estádio Décio Vitta;43;36;27;106
-COMERCIAL;sao_paulo;-21.1775;-47.8103;Ribeirão Preto;Estádio Palma Travassos;32;37;36;105
 NAÇÃO;santa_catarina;-26.3044;-48.8464;Joinville;Arena Joinville;31;32;42;105
+COMERCIAL;sao_paulo;-21.1775;-47.8103;Ribeirão Preto;Estádio Palma Travassos;32;37;36;105
 PRIMAVERA;sao_paulo;-23.0925;-47.2103;Indaiatuba;Estádio Ítalo Mário Limongi;35;40;29;104
 MADUREIRA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Aniceto Moscoso;28;27;48;103
 VELO CLUBE;sao_paulo;-22.4122;-47.5617;Rio Claro;Estádio Benito Agnelo Castellano;41;31;31;103
-CRAC;goias;-18.1636;-47.9458;Catalão;Estádio Genervino da Fonseca;30;38;34;102
 DESPORTIVA FERROVIÁRIA;espirito_santo;-20.3261;-40.4217;Cariacica;Estádio Engenheiro Araripe;41;30;31;102
 DESPORTIVO BRASIL;sao_paulo;-23.2125;-47.5211;Porto Feliz;Estádio Municipal Dr. Julien Fouque;37;29;36;102
+CRAC;goias;-18.1636;-47.9458;Catalão;Estádio Genervino da Fonseca;30;38;34;102
 MARACANÃ;ceara;-3.8775;-38.6236;Maracanaú;Estádio Municipal Raimundo de Oliveira;39;30;33;102
 LINENSE;sao_paulo;-21.6733;-49.7431;Lins;Estádio Municipal Gilberto Siqueira Lopes;36;28;36;100
 LUVERDENSE;mato_grosso;-12.6058;-55.9192;Lucas do Rio Verde;Estádio Municipal Passo das Emas;38;25;37;100
-PENAPOLENSE;sao_paulo;-21.4136;-50.0756;Penápolis;Estádio Municipal Tenente Carriço;29;34;36;99
 GRÊMIO SÃO-CARLENSE;sao_paulo;-22.0175;-47.8861;São Carlos;Estádio Professor Luís Augusto de Oliveira;43;34;22;99
 URT;minas_gerais;-18.5833;-46.5167;Patos de Minas;Estádio Zama Maciel;36;27;36;99
+PENAPOLENSE;sao_paulo;-21.4136;-50.0756;Penápolis;Estádio Municipal Tenente Carriço;29;34;36;99
 RIO CLARO;sao_paulo;-22.4125;-47.5633;Rio Claro;Estádio Municipal Dr. Augusto Schmidt Filho;29;39;30;98
-SERTÃOZINHO;sao_paulo;-21.1333;-47.9833;Sertãozinho;Estádio Municipal Frederico Dalmaso;26;34;38;98
 OSASCO AUDAX;sao_paulo;-23.5325;-46.7925;Osasco;Estádio Municipal Prefeito José Liberatti;22;31;45;98
 CORURIPE;alagoas;-10.1253;-36.1753;Coruripe;Estádio Municipal Gerson Amaral;37;30;31;98
-UNIÃO SUZANO;sao_paulo;-23.5389;-46.3111;Suzano;Estádio Francisco Marques Figueira;41;24;32;97
+SERTÃOZINHO;sao_paulo;-21.1333;-47.9833;Sertãozinho;Estádio Municipal Frederico Dalmaso;26;34;38;98
 UNIVASSOURAS ARTSUL;rio_de_janeiro;-22.755;-43.453;Nova Iguaçu;Estádio Nivaldo Pereira;31;35;31;97
+UNIÃO SUZANO;sao_paulo;-23.5389;-46.3111;Suzano;Estádio Francisco Marques Figueira;41;24;32;97
 PORTUGUESA SANTISTA;sao_paulo;-23.9608;-46.3333;Santos;Estádio Ulrico Mursa;28;35;34;97
-TAUBATÉ;sao_paulo;-23.0272;-45.555;Taubaté;Estádio Joaquim de Morais Filho;28;29;39;96
 BETIM FUTEBOL;minas_gerais;-19.9733;-44.2014;Betim;Arena Vera Cruz;45;28;23;96
-XV DE JAÚ;sao_paulo;-22.2975;-48.5586;Jaú;Estádio Zezinho Magalhães;46;24;26;96
 VILAVELHENSE;espirito_santo;-20.3297;-40.2925;Vila Velha;Estádio Kleber Andrade;34;18;44;96
+MANAUARA;amazonas;-3.119;-60.0217;Manaus;Estádio Carlos Zamith;50;31;15;96
+CASTANHAL;para;-1.2947;-47.9175;Castanhal;Estádio Maximino Porpino Filho;35;32;29;96
+JUVENTUS;sao_paulo;-23.5505;-46.6333;São Paulo;Estádio Conde Rodolfo Crespi;29;35;32;96
+TAUBATÉ;sao_paulo;-23.0272;-45.555;Taubaté;Estádio Joaquim de Morais Filho;28;29;39;96
+XV DE JAÚ;sao_paulo;-22.2975;-48.5586;Jaú;Estádio Zezinho Magalhães;46;24;26;96
 FRIBURGUENSE;rio_de_janeiro;-22.2823;-42.5325;Nova Friburgo;Estádio Eduardo Guinle;25;24;47;96
 GUARANY DE SOBRAL;ceara;-3.6828;-40.3528;Sobral;Estádio Plácido Aderaldo Castelo;32;27;37;96
-CASTANHAL;para;-1.2947;-47.9175;Castanhal;Estádio Maximino Porpino Filho;35;32;29;96
-MANAUARA;amazonas;-3.119;-60.0217;Manaus;Estádio Carlos Zamith;50;31;15;96
-JUVENTUS;sao_paulo;-23.5505;-46.6333;São Paulo;Estádio Conde Rodolfo Crespi;29;35;32;96
 GALVEZ;acre;-9.9749;-67.8243;Rio Branco;Estádio Arena da Floresta;41;23;31;95
 ATLÉTICO TUBARÃO;santa_catarina;-28.475;-49.0056;Tubarão;Estádio Domingos Silveira Gonzales;24;23;48;95
 PRINCESA;amazonas;-3.2964;-60.6214;Manacapuru;Estádio Gilberto Mestrinho;32;40;22;94
-CAPIXABA;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Kleber Andrade;38;25;31;94
 MACAÉ;rio_de_janeiro;-22.3756;-41.7833;Macaé;Estádio Cláudio Moacyr de Azevedo;25;16;53;94
+CAPIXABA;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Kleber Andrade;38;25;31;94
 BARRETOS;sao_paulo;-20.5583;-48.5686;Barretos;Estádio Municipal Antônio Gomes Martins;28;32;33;93
 PAULISTA;sao_paulo;-23.1857;-46.8916;Jundiaí;Estádio Municipal Dr. Jayme Cintra;37;24;32;93
 GRÊMIO ANÁPOLIS;goias;-16.3286;-48.9533;Anápolis;Estádio Jonas Duarte;23;32;37;92
 CAPITAL CF;distrito_federal;-15.7939;-47.8828;Brasília;Estádio JK;43;28;20;91
-RIO BRANCO;parana;-25.5167;-48.5167;Paranaguá;Estádio Nelson Medrado Dias;24;23;44;91
 BANDEIRANTE;sao_paulo;-21.2867;-50.3411;Birigui;Estádio Municipal Pedro Marin Berbel;31;26;34;91
-RIO GRANDE;rio_grande_do_sul;-32.035;-52.0986;Rio Grande;Estádio Arthur Lawson;32;19;39;90
-FREI PAULISTANO;sergipe;-10.5556;-37.5333;Frei Paulo;Estádio Municipal Jairton Menezes de Mendonça;28;17;45;90
+RIO BRANCO;parana;-25.5167;-48.5167;Paranaguá;Estádio Nelson Medrado Dias;24;23;44;91
 CATANDUVA;sao_paulo;-21.1358;-48.9753;Catanduva;Estádio Silvio Salles;40;27;23;90
+FREI PAULISTANO;sergipe;-10.5556;-37.5333;Frei Paulo;Estádio Municipal Jairton Menezes de Mendonça;28;17;45;90
+RIO GRANDE;rio_grande_do_sul;-32.035;-52.0986;Rio Grande;Estádio Arthur Lawson;32;19;39;90
 RIO PRETO;sao_paulo;-20.8122;-49.3772;São José do Rio Preto;Estádio Anísio Haddad;25;24;40;89
 ÁGUIA NEGRA;mato_grosso_do_sul;-21.8036;-54.5453;Rio Brilhante;Estádio Iliê Vidal;29;27;33;89
 ITAPIRENSE;sao_paulo;-22.4358;-46.8217;Itapira;Estádio Coronel Francisco Vieira;29;30;30;89
-MAUÁ;sao_paulo;-23.6672;-46.4614;Mauá;Estádio Municipal Pedro Benedetti;35;30;23;88
 TAQUARITINGA;sao_paulo;-21.4333;-48.5083;Taquaritinga;Estádio Adail Nunes da Silva;44;22;22;88
-FALCON;sergipe;-10.9083;-37.0333;Barra dos Coqueiros;Arena Batistão;31;27;30;88
 TUPYNAMBÁS;minas_gerais;-21.7645;-43.3496;Juiz de Fora;Estádio Municipal Radialista Mário Helênio;25;27;36;88
 CRATO;ceara;-7.2333;-39.4167;Crato;Estádio Municipal Governador Virgílio Távora;19;20;49;88
+MAUÁ;sao_paulo;-23.6672;-46.4614;Mauá;Estádio Municipal Pedro Benedetti;35;30;23;88
+FALCON;sergipe;-10.9083;-37.0333;Barra dos Coqueiros;Arena Batistão;31;27;30;88
 CARLOS RENAUX;santa_catarina;-27.1006;-48.9135;Brusque;Estádio Augusto Bauer;33;27;27;87
 IPATINGA;minas_gerais;-19.4672;-42.5375;Ipatinga;Estádio Municipal Epaminondas Mendes Brito;29;23;35;87
 INDEPENDENTE DE LIMEIRA;sao_paulo;-22.5603;-47.4033;Limeira;Estádio Comendador Agostinho Prada;28;22;37;87
-NACIONAL;parana;-23.3086;-51.3786;Rolândia;Estádio Erich George;25;21;40;86
 SÃO JOSEENSE;parana;-25.5353;-49.2075;São José dos Pinhais;Estádio do Pinhão;27;26;33;86
+NACIONAL;parana;-23.3086;-51.3786;Rolândia;Estádio Erich George;25;21;40;86
 MATONENSE;sao_paulo;-21.6036;-48.3667;Matão;Estádio Municipal Dr. Hudson Buck Ferreira;23;18;45;86
-BONSUCESSO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Leônidas da Silva;31;27;27;85
 VILLA NOVA;minas_gerais;-19.9858;-43.8486;Nova Lima;Estádio Municipal Castor Cifuentes;26;20;39;85
-SPORT CAPIXABA;espirito_santo;-20.2417;-40.3083;Serra;Estádio Robertão;18;13;54;85
+BONSUCESSO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Leônidas da Silva;31;27;27;85
 NACIONAL;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;34;28;23;85
-PADUANO;rio_de_janeiro;-21.5375;-42.1833;Santo Antônio de Pádua;Estádio Waldo Carneiro Xavier;40;24;20;84
+SPORT CAPIXABA;espirito_santo;-20.2417;-40.3083;Serra;Estádio Robertão;18;13;54;85
 VOCEM;sao_paulo;-22.6617;-50.4136;Assis;Estádio Antônio Viana da Silva;32;34;18;84
+PADUANO;rio_de_janeiro;-21.5375;-42.1833;Santo Antônio de Pádua;Estádio Waldo Carneiro Xavier;40;24;20;84
+LINHARES;espirito_santo;-19.3911;-40.0722;Linhares;Estádio Joaquim Calmon;14;18;51;83
 AQUIDAUANENSE;mato_grosso_do_sul;-20.4736;-55.7833;Aquidauana;Estádio Municipal Noroeste;28;17;38;83
-CAMPO GRANDE;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Ítalo del Cima;34;22;27;83
 CRUZEIRO;alagoas;-9.7547;-36.6575;Arapiraca;Estádio Municipal Coaracy da Mata Fonseca;38;12;33;83
 PETROLINA;pernambuco;-9.3932;-40.5072;Petrolina;Estádio Paulo de Souza Coelho;24;29;30;83
-LINHARES;espirito_santo;-19.3911;-40.0722;Linhares;Estádio Joaquim Calmon;14;18;51;83
+CAMPO GRANDE;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Ítalo del Cima;34;22;27;83
 FLAMENGO;sao_paulo;-23.4538;-46.5332;Guarulhos;Estádio Antônio Soares de Oliveira;38;24;20;82
 INTER DE BEBEDOURO;sao_paulo;-20.9514;-48.4794;Bebedouro;Estádio Sócrates Stamato;31;21;30;82
 SÃO GONÇALO;rio_de_janeiro;-22.8222;-43.0533;São Gonçalo;Estádio Municipal Alziro de Almeida;27;25;28;80
 FRANCANA;sao_paulo;-20.5383;-47.4008;Franca;Estádio Municipal Doutor José Lancha Filho;31;30;19;80
 MANTHIQUEIRA;sao_paulo;-22.8133;-45.1917;Guaratinguetá;Estádio Municipal Professor Dario Rodrigues Leite;30;11;38;79
-ANAPOLINA;goias;-16.3286;-48.9533;Anápolis;Estádio Jonas Duarte;32;25;21;78
-GOIATUBA;goias;-18.0158;-49.3553;Goiatuba;Estádio Divino Garcia Rosa;32;21;25;78
-ATLÉTICO;acre;-9.9749;-67.8243;Rio Branco;Estádio Arena da Floresta;25;17;36;78
-JUVENTUDE;maranhao;-4.0333;-44.95;São Mateus do Maranhão;Estádio Pinheirão;24;22;32;78
-TOLEDO;parana;-24.7253;-53.7378;Toledo;Estádio 14 de Dezembro;18;17;43;78
-DOM BOSCO;mato_grosso;-15.601;-56.0974;Cuiabá;Arena Pantanal;22;17;39;78
-PINHEIROS;espirito_santo;-18.4033;-40.2333;Pinheiros;Estádio João Soares de Moura Filho;26;10;42;78
 DOURADOS;mato_grosso_do_sul;-22.2222;-54.8033;Dourados;Estádio Douradão;41;19;18;78
+ANAPOLINA;goias;-16.3286;-48.9533;Anápolis;Estádio Jonas Duarte;32;25;21;78
+JUVENTUDE;maranhao;-4.0333;-44.95;São Mateus do Maranhão;Estádio Pinheirão;24;22;32;78
+GOIATUBA;goias;-18.0158;-49.3553;Goiatuba;Estádio Divino Garcia Rosa;32;21;25;78
+TOLEDO;parana;-24.7253;-53.7378;Toledo;Estádio 14 de Dezembro;18;17;43;78
+PINHEIROS;espirito_santo;-18.4033;-40.2333;Pinheiros;Estádio João Soares de Moura Filho;26;10;42;78
+ATLÉTICO;acre;-9.9749;-67.8243;Rio Branco;Estádio Arena da Floresta;25;17;36;78
+DOM BOSCO;mato_grosso;-15.601;-56.0974;Cuiabá;Arena Pantanal;22;17;39;78
 REAL BRASÍLIA;distrito_federal;-15.7939;-47.8828;Brasília;Estádio Defelê;29;18;30;77
 BRAGANTINO;para;-1.0536;-46.7653;Bragança;Estádio Diogão;26;25;26;77
 CARAPEBUS;rio_de_janeiro;-22.1853;-41.6336;Carapebus;Estádio Antônio Carneiro da Silva;32;11;34;77
@@ -267,611 +267,611 @@ NACIONAL ATL. MURIAÉ;minas_gerais;-21.1389;-42.3667;Muriaé;Estádio Soares de 
 BELFORD ROXO;rio_de_janeiro;-22.7614;-43.4039;Belford Roxo;Estádio Nélio Gomes;43;19;14;76
 PELOTAS;rio_grande_do_sul;-31.7654;-52.3376;Pelotas;Estádio Boca do Lobo;22;25;29;76
 7 DE ABRIL;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Luso-Brasileiro;22;16;38;76
-SERRA MACAENSE;rio_de_janeiro;-22.3756;-41.7833;Macaé;Estádio Cláudio Moacyr de Azevedo;26;23;26;75
-HORIZONTE;ceara;-4.1036;-38.4986;Horizonte;Estádio Domingão;27;20;28;75
 AYMORÉS;minas_gerais;-21.1217;-42.9375;Ubá;Estádio Affonso de Carvalho;25;25;25;75
+HORIZONTE;ceara;-4.1036;-38.4986;Horizonte;Estádio Domingão;27;20;28;75
+SERRA MACAENSE;rio_de_janeiro;-22.3756;-41.7833;Macaé;Estádio Cláudio Moacyr de Azevedo;26;23;26;75
 SÃO FRANCISCO;acre;-9.9747;-67.8076;Rio Branco;Estádio Arena da Floresta;24;10;40;74
-VERA CRUZ;pernambuco;-8.1225;-35.2953;Vitória de Santo Antão;Estádio Carneirão;24;19;31;74
 INTER DE LAGES;santa_catarina;-27.8134;-50.3255;Lages;Estádio Vidal Ramos Júnior;20;27;27;74
+VERA CRUZ;pernambuco;-8.1225;-35.2953;Vitória de Santo Antão;Estádio Carneirão;24;19;31;74
 GRÊMIO MAUAENSE;sao_paulo;-23.6672;-46.4614;Mauá;Estádio Municipal Pedro Benedetti;20;28;26;74
 DESPORTIVO ALIANÇA;alagoas;-9.6658;-35.7353;Maceió;Estádio Rei Pelé;23;13;37;73
 INTERPORTO;tocantins;-10.7083;-48.4175;Porto Nacional;Estádio General Sampaio;29;23;21;73
 SÃO PAULO CRYSTAL;paraiba;-7.1369;-35.1056;Cruz do Espírito Santo;Estádio Carneirão;18;24;30;72
-ATLÉTICO;paraiba;-6.8936;-38.5614;Cajazeiras;Estádio Perpetão;28;17;27;72
 NACIONAL;paraiba;-7.0233;-37.2753;Patos;Estádio José Cavalcanti;26;18;28;72
 ESTRELA DO NORTE;espirito_santo;-20.8475;-41.1119;Cachoeiro de Itapemirim;Estádio Mário Monteiro;23;16;33;72
 ESTANCIANO;sergipe;-11.2667;-37.4333;Estância;Estádio Augusto Franco;30;12;30;72
 DORENSE;sergipe;-10.4914;-37.1833;Nossa Senhora das Dores;Estádio Ariston Azevedo;23;18;31;72
+ATLÉTICO;paraiba;-6.8936;-38.5614;Cajazeiras;Estádio Perpetão;28;17;27;72
+ATLÉTICO GLORIENSE;sergipe;-10.2217;-37.4153;Nossa Senhora da Glória;Estádio Editon Oliveira;28;18;25;71
 SÃO RAIMUNDO;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;25;21;25;71
 BARBALHA;ceara;-7.3117;-39.3033;Barbalha;Estádio Lírio Callou;22;15;34;71
-ATLÉTICO GLORIENSE;sergipe;-10.2217;-37.4153;Nossa Senhora da Glória;Estádio Editon Oliveira;28;18;25;71
 VITÓRIA DA CONQUISTA;bahia;-14.8614;-40.8392;Vitória da Conquista;Estádio Lomanto Júnior;24;21;26;71
 UNIÃO BARBARENSE;sao_paulo;-22.7536;-47.4175;Santa Bárbara d'Oeste;Estádio Antônio Lins Ribeiro Guimarães;31;18;21;70
 JOSEENSE;sao_paulo;-23.305;-45.9652;Jacareí;Estádio Municipal Du Cambusano;22;24;24;70
 JABAQUARA;sao_paulo;-23.9608;-46.3333;Santos;Estádio Espanha;24;13;33;70
-UNIÃO SÃO JOÃO;sao_paulo;-22.3586;-47.3803;Araras;Estádio Hermínio Ometto;24;20;25;69
 JI-PARANÁ;rondonia;-10.8803;-61.9447;Ji-Paraná;Estádio Municipal José de Abreu Bianco;24;20;25;69
-ÍBIS;pernambuco;-7.9436;-34.8731;Paulista;Estádio Ademir Cunha;21;20;28;69
-CAPITAL;tocantins;-10.2128;-48.3603;Palmas;Estádio Nilton Santos;22;15;32;69
 ITAPIPOCA;ceara;-3.4917;-39.5758;Itapipoca;Estádio Perilo Teixeira;27;23;19;69
 PALMAS;tocantins;-10.2128;-48.3606;Palmas;Estádio Nilton Santos;26;12;31;69
-TIMON;piaui;-5.0764;-42.8333;Timon;Estádio Municipal Miguel Lima;20;22;26;68
-FORÇA E LUZ;rio_grande_do_norte;-5.79448;-35.211;Natal;Arena das Dunas;13;21;34;68
-COLORADO CAIEIRAS;sao_paulo;-23.3614;-46.7375;Caieiras;Estádio Municipal Carlos Ferracini;24;21;23;68
-FOZ DO IGUAÇU;parana;-25.5477;-54.5882;Foz do Iguaçu;Estádio do ABC;25;20;23;68
+ÍBIS;pernambuco;-7.9436;-34.8731;Paulista;Estádio Ademir Cunha;21;20;28;69
+CAPITAL;tocantins;-10.2128;-48.3603;Palmas;Estádio Nilton Santos;22;15;32;69
+UNIÃO SÃO JOÃO;sao_paulo;-22.3586;-47.3803;Araras;Estádio Hermínio Ometto;24;20;25;69
 CORDINO;maranhao;-5.5019;-45.2506;Barra do Corda;Estádio Municipal Leandro Cláudio da Silva;15;20;33;68
-SÃO BORJA;rio_grande_do_sul;-28.6556;-56.0017;São Borja;Estádio Vicente Goulart;35;17;16;68
-ZUMBI;alagoas;-9.1467;-36.0333;União dos Palmares;Estádio Orlando Gomes de Barros;35;10;23;68
-NOVA CIDADE;rio_de_janeiro;-22.8075;-43.4111;Nilópolis;Estádio Joaquim Flores;16;22;30;68
-INDEPENDENTE TUCURUÍ;para;-3.7667;-49.6725;Tucuruí;Estádio Municipal Antônio Dias;20;20;28;68
-RIOGRANDENSE;rio_grande_do_sul;-29.6842;-53.8069;Santa Maria;Estádio dos Eucaliptos;24;18;26;68
-BARCELONA DE ILHÉUS;bahia;-14.795;-39.0433;Ilhéus;Estádio Mário Pessoa;20;21;27;68
-SALGUEIRO;pernambuco;-8.0753;-39.1214;Salgueiro;Estádio Cornélio de Barros;27;21;20;68
-PARANAVAÍ;parana;-23.0775;-52.4636;Paranavaí;Estádio Municipal Doutor Waldemiro Wagner;36;15;17;68
+FORÇA E LUZ;rio_grande_do_norte;-5.79448;-35.211;Natal;Arena das Dunas;13;21;34;68
+FOZ DO IGUAÇU;parana;-25.5477;-54.5882;Foz do Iguaçu;Estádio do ABC;25;20;23;68
 PARAGOMINAS;para;-2.9944;-47.3497;Paragominas;Arena Verde;25;22;21;68
+BARCELONA DE ILHÉUS;bahia;-14.795;-39.0433;Ilhéus;Estádio Mário Pessoa;20;21;27;68
 INHUMAS;goias;-16.3636;-49.5058;Inhumas;Estádio Zico Brandão;28;15;25;68
-GOYTACAZ;rio_de_janeiro;-21.7627;-41.3275;Campos dos Goytacazes;Estádio Ary de Oliveira e Souza;29;15;23;67
-BATEL;parana;-25.393;-51.495;Guarapuava;Estádio Waldomiro Gelinski;19;19;29;67
-VITÓRIA DAS TABOCAS;pernambuco;-8.1225;-35.2953;Vitória de Santo Antão;Estádio Carneirão;28;15;24;67
-JACIOBÁ;alagoas;-9.7481;-37.4458;Pão de Açúcar;Estádio Municipal Elisão;7;16;44;67
-JARAGUÁ;goias;-15.7564;-49.3356;Jaraguá;Estádio Amintas de Freitas;15;11;41;67
+SALGUEIRO;pernambuco;-8.0753;-39.1214;Salgueiro;Estádio Cornélio de Barros;27;21;20;68
+RIOGRANDENSE;rio_grande_do_sul;-29.6842;-53.8069;Santa Maria;Estádio dos Eucaliptos;24;18;26;68
+INDEPENDENTE TUCURUÍ;para;-3.7667;-49.6725;Tucuruí;Estádio Municipal Antônio Dias;20;20;28;68
+ZUMBI;alagoas;-9.1467;-36.0333;União dos Palmares;Estádio Orlando Gomes de Barros;35;10;23;68
+SÃO BORJA;rio_grande_do_sul;-28.6556;-56.0017;São Borja;Estádio Vicente Goulart;35;17;16;68
+TIMON;piaui;-5.0764;-42.8333;Timon;Estádio Municipal Miguel Lima;20;22;26;68
+COLORADO CAIEIRAS;sao_paulo;-23.3614;-46.7375;Caieiras;Estádio Municipal Carlos Ferracini;24;21;23;68
+PARANAVAÍ;parana;-23.0775;-52.4636;Paranavaí;Estádio Municipal Doutor Waldemiro Wagner;36;15;17;68
+NOVA CIDADE;rio_de_janeiro;-22.8075;-43.4111;Nilópolis;Estádio Joaquim Flores;16;22;30;68
 AMÉRICA;sergipe;-10.2136;-36.8375;Propriá;Estádio Durval Feitosa;23;20;24;67
-CAMETÁ;para;-2.2475;-49.4953;Cametá;Estádio Parque do Bacurau;28;13;25;66
-PSTC;parana;-22.7833;-51.2333;Alvorada do Sul;Estádio Municipal Álvaro Alves;18;16;32;66
+VITÓRIA DAS TABOCAS;pernambuco;-8.1225;-35.2953;Vitória de Santo Antão;Estádio Carneirão;28;15;24;67
+GOYTACAZ;rio_de_janeiro;-21.7627;-41.3275;Campos dos Goytacazes;Estádio Ary de Oliveira e Souza;29;15;23;67
+JARAGUÁ;goias;-15.7564;-49.3356;Jaraguá;Estádio Amintas de Freitas;15;11;41;67
+JACIOBÁ;alagoas;-9.7481;-37.4458;Pão de Açúcar;Estádio Municipal Elisão;7;16;44;67
+BATEL;parana;-25.393;-51.495;Guarapuava;Estádio Waldomiro Gelinski;19;19;29;67
 GUARANY;sergipe;-9.9958;-37.2786;Porto da Folha;Estádio Caio Feitosa;33;19;14;66
-VARGINHA;minas_gerais;-21.56;-45.4325;Varginha;Estádio Municipal Prefeito Dilzon Luiz de Melo;23;21;22;66
+PSTC;parana;-22.7833;-51.2333;Alvorada do Sul;Estádio Municipal Álvaro Alves;18;16;32;66
 ARUKO;parana;-23.421;-51.933;Maringá;Estádio Willie Davids;34;16;16;66
+OLÍMPICO;sergipe;-11.2833;-37.7833;Itabaianinha;Estádio Souzão;41;10;15;66
+VARGINHA;minas_gerais;-21.56;-45.4325;Varginha;Estádio Municipal Prefeito Dilzon Luiz de Melo;23;21;22;66
 ANGRA DOS REIS;rio_de_janeiro;-23.0067;-44.3183;Angra dos Reis;Estádio Municipal Jair Carneiro Toscano de Brito;16;11;39;66
 BATATAIS;sao_paulo;-20.8917;-47.5833;Batatais;Estádio Doutor Oswaldo Scatena;14;17;35;66
-OLÍMPICO;sergipe;-11.2833;-37.7833;Itabaianinha;Estádio Souzão;41;10;15;66
-GUARANI;santa_catarina;-27.646;-48.6704;Palhoça;Estádio Renato Silveira;21;20;24;65
-ASEEV;goias;-16.9458;-50.4667;Paraúna;Estádio José Pereira de Souza;24;7;34;65
-COMERCIAL;mato_grosso_do_sul;-20.4486;-54.6291;Campo Grande;Estádio Universitário Pedro Pedrossian;16;18;31;65
+CAMETÁ;para;-2.2475;-49.4953;Cametá;Estádio Parque do Bacurau;28;13;25;66
 CEO;alagoas;-9.5786;-37.3561;Olho d'Água das Flores;Estádio Edson Matias;15;11;39;65
-BARRA;sergipe;-10.9056;-37.0389;Barra dos Coqueiros;Estádio João Cruz;25;20;20;65
-TUPI;minas_gerais;-21.7645;-43.3496;Juiz de Fora;Estádio Municipal Radialista Mário Helênio;20;17;28;65
-AMÉRICA;sao_paulo;-20.8122;-49.3772;São José do Rio Preto;Estádio Benedito Teixeira;14;20;31;65
-BARRA DA TIJUCA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Moça Bonita;32;21;12;65
+COMERCIAL;mato_grosso_do_sul;-20.4486;-54.6291;Campo Grande;Estádio Universitário Pedro Pedrossian;16;18;31;65
 JATAIENSE;goias;-17.8814;-51.7142;Jataí;Estádio Municipal Nelson Antônio da Silva;21;13;31;65
+ASEEV;goias;-16.9458;-50.4667;Paraúna;Estádio José Pereira de Souza;24;7;34;65
+BARRA;sergipe;-10.9056;-37.0389;Barra dos Coqueiros;Estádio João Cruz;25;20;20;65
+BARRA DA TIJUCA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Moça Bonita;32;21;12;65
+AMÉRICA;sao_paulo;-20.8122;-49.3772;São José do Rio Preto;Estádio Benedito Teixeira;14;20;31;65
+TUPI;minas_gerais;-21.7645;-43.3496;Juiz de Fora;Estádio Municipal Radialista Mário Helênio;20;17;28;65
+GUARANI;santa_catarina;-27.646;-48.6704;Palhoça;Estádio Renato Silveira;21;20;24;65
+SANTOS;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;25;18;21;64
+ANDRAUS;parana;-25.4583;-49.375;Campo Largo;Estádio Atílio Gionédis;26;15;23;64
+PINHEIRO;maranhao;-2.52139;-45.0825;Pinheiro;Estádio Municipal Costa Rodrigues;20;20;24;64
 JEQUIÉ;bahia;-13.8583;-40.0811;Jequié;Estádio Waldomiro Borges;25;16;23;64
 ITABIRITO;minas_gerais;-20.2486;-43.8044;Itabirito;Estádio Coronel Afonso de Moura Castro;25;18;21;64
-PINHEIRO;maranhao;-2.52139;-45.0825;Pinheiro;Estádio Municipal Costa Rodrigues;20;20;24;64
-ANDRAUS;parana;-25.4583;-49.375;Campo Largo;Estádio Atílio Gionédis;26;15;23;64
-SANTOS;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;25;18;21;64
 OLÍMPIA;sao_paulo;-20.7386;-48.9136;Olímpia;Estádio Maria Tereza Breda;10;17;36;63
+FAST CLUBE;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;24;20;19;63
 GAS;roraima;2.8236;-60.6753;Boa Vista;Estádio Flamarion Vasconcelos;36;12;15;63
 FLAMENGO;piaui;-5.08917;-42.80167;Teresina;Estádio Lindolfo Monteiro;11;17;35;63
 ITABUNA;bahia;-14.7892;-39.2797;Itabuna;Estádio Luiz Viana Filho;27;22;14;63
-FAST CLUBE;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;24;20;19;63
 METROPOLITANO;santa_catarina;-26.9194;-49.0661;Blumenau;Estádio Monumental do SESI;19;17;26;62
-ATLÉTICO CATARINENSE;santa_catarina;-27.6133;-48.6258;São José;Estádio Orlando Scarpelli;15;16;31;62
-YPIRANGA;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;21;12;29;62
 MAMORÉ;minas_gerais;-18.5833;-46.5167;Patos de Minas;Estádio Bernardo Rubinger de Queiroz;18;28;16;62
-ELITE CD;rio_grande_do_sul;-28.3015;-54.2636;Santo Ângelo;Estádio Zona Sul;21;12;29;62
-ESPORTIVO;rio_grande_do_sul;-29.1673;-51.5133;Bento Gonçalves;Estádio Montanha dos Vinhedos;16;20;26;62
+YPIRANGA;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;21;12;29;62
 ECUS;sao_paulo;-23.5386;-46.3111;Suzano;Estádio Municipal Francisco Marques Figueira;21;12;29;62
+ELITE CD;rio_grande_do_sul;-28.3015;-54.2636;Santo Ângelo;Estádio Zona Sul;21;12;29;62
 GRAMADENSE;rio_grande_do_sul;-29.3758;-50.8766;Gramado;Estádio Vila Olímpica;34;9;19;62
-ARAUCÁRIA;parana;-25.5944;-49.4075;Araucária;Estádio Municipal Emílio Gunther;19;12;30;61
-GUARANI DE JUAZEIRO;ceara;-7.2139;-39.3139;Juazeiro do Norte;Estádio Mauro Sampaio;20;16;25;61
+ESPORTIVO;rio_grande_do_sul;-29.1673;-51.5133;Bento Gonçalves;Estádio Montanha dos Vinhedos;16;20;26;62
+ATLÉTICO CATARINENSE;santa_catarina;-27.6133;-48.6258;São José;Estádio Orlando Scarpelli;15;16;31;62
+UNI SOUZA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Moça Bonita;31;16;14;61
+PATRIOTAS;parana;-25.4284;-49.2733;Curitiba;Estádio Atílio Gionédis;29;15;17;61
 PACATUBA;ceara;-3.9833;-38.6211;Pacatuba;Estádio Municipal de Pacatuba;16;13;32;61
+ROLÂNDIA;parana;-23.3086;-51.3756;Rolândia;Estádio Erich George;23;9;29;61
+GUARANI DE JUAZEIRO;ceara;-7.2139;-39.3139;Juazeiro do Norte;Estádio Mauro Sampaio;20;16;25;61
+AÇÃO;mato_grosso;-15.6014;-56.0979;Cuiabá;Arena Pantanal;15;13;33;61
+ATLÉTICO CENTRAL;sergipe;-11.2658;-37.4394;Estância;Estádio Augusto Franco;24;9;28;61
 ITUMBIARA;goias;-18.4186;-49.2186;Itumbiara;Estádio Municipal João Martins;13;17;31;61
 CARAVAGGIO;santa_catarina;-28.6275;-49.5036;Nova Veneza;Estádio da Montanha;23;15;23;61
-PATRIOTAS;parana;-25.4284;-49.2733;Curitiba;Estádio Atílio Gionédis;29;15;17;61
-ATLÉTICO CENTRAL;sergipe;-11.2658;-37.4394;Estância;Estádio Augusto Franco;24;9;28;61
-UNI SOUZA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Moça Bonita;31;16;14;61
-AÇÃO;mato_grosso;-15.6014;-56.0979;Cuiabá;Arena Pantanal;15;13;33;61
-ROLÂNDIA;parana;-23.3086;-51.3756;Rolândia;Estádio Erich George;23;9;29;61
-TANABI;sao_paulo;-20.6133;-49.6533;Tanabi;Estádio Alberto Victolo;27;12;21;60
-GEL;espirito_santo;-20.2417;-40.3375;Serra;Estádio Robertão;6;7;47;60
+ARAUCÁRIA;parana;-25.5944;-49.4075;Araucária;Estádio Municipal Emílio Gunther;19;12;30;61
 NÁUTICO;roraima;1.8275;-61.1375;Caracaraí;Estádio Flamarion Vasconcelos;16;12;32;60
-MARANGUAPE;ceara;-3.8867;-38.6717;Maranguape;Estádio Francisco Cardoso de Moraes;24;19;17;60
-REAL ARIQUEMES;rondonia;-9.9053;-63.0325;Ariquemes;Estádio Gentil Valério;24;12;24;60
-PICOS;piaui;-7.0769;-41.4697;Picos;Estádio Municipal Helvídio Nunes de Barros;19;17;24;60
-CTE COLATINA;espirito_santo;-19.5386;-40.6275;Colatina;Estádio Justiniano de Melo e Silva;14;15;31;60
 FLUMINENSE DE FEIRA;bahia;-12.2667;-38.9667;Feira de Santana;Estádio Joia da Princesa;22;19;19;60
-SAPUCAIENSE;rio_grande_do_sul;-29.8275;-51.1517;Sapucaia do Sul;Estádio Arthur Mesquita Dias;24;6;29;59
-SKA BRASIL;sao_paulo;-23.4458;-46.9186;Santana de Parnaíba;Estádio Municipal Prefeito Gabriel Marques da Silva;25;16;18;59
+TANABI;sao_paulo;-20.6133;-49.6533;Tanabi;Estádio Alberto Victolo;27;12;21;60
+REAL ARIQUEMES;rondonia;-9.9053;-63.0325;Ariquemes;Estádio Gentil Valério;24;12;24;60
+MARANGUAPE;ceara;-3.8867;-38.6717;Maranguape;Estádio Francisco Cardoso de Moraes;24;19;17;60
+CTE COLATINA;espirito_santo;-19.5386;-40.6275;Colatina;Estádio Justiniano de Melo e Silva;14;15;31;60
+GEL;espirito_santo;-20.2417;-40.3375;Serra;Estádio Robertão;6;7;47;60
+PICOS;piaui;-7.0769;-41.4697;Picos;Estádio Municipal Helvídio Nunes de Barros;19;17;24;60
 CAMPOS;rio_de_janeiro;-21.7627;-41.3275;Campos dos Goytacazes;Estádio Ary de Oliveira e Souza;15;22;22;59
 ALECRIM;rio_grande_do_norte;-5.7945;-35.211;Natal;Arena das Dunas;24;11;24;59
 INDEPENDENTE;sergipe;-10.7417;-38.1056;Simão Dias;Estádio Albano Franco;16;19;24;59
+SKA BRASIL;sao_paulo;-23.4458;-46.9186;Santana de Parnaíba;Estádio Municipal Prefeito Gabriel Marques da Silva;25;16;18;59
 PRUDENTÓPOLIS;parana;-25.2125;-50.9764;Prudentópolis;Estádio Newton Agibert;19;19;21;59
-IAPE;maranhao;-2.5307;-44.3068;São Luís;Estádio Governador João Castelo;27;12;19;58
-GUARULHOS;sao_paulo;-23.4539;-46.5333;Guarulhos;Estádio Antônio Soares de Oliveira;16;14;28;58
-AMÉRICA DE PEDRINHAS;sergipe;-11.0111;-37.5333;Pedrinhas;Estádio Roberto Silva;17;12;29;58
-UNIÃO MOGI;sao_paulo;-23.5228;-46.1883;Mogi das Cruzes;Estádio Francisco Ribeiro Nogueira;13;16;29;58
-MORRINHOS;goias;-17.7317;-49.1025;Morrinhos;Estádio João Vilela;13;17;28;58
+SAPUCAIENSE;rio_grande_do_sul;-29.8275;-51.1517;Sapucaia do Sul;Estádio Arthur Mesquita Dias;24;6;29;59
 BARRA MANSA;rio_de_janeiro;-22.5417;-44.1736;Barra Mansa;Estádio Leão do Sul;12;16;30;58
+MORRINHOS;goias;-17.7317;-49.1025;Morrinhos;Estádio João Vilela;13;17;28;58
+UNIÃO MOGI;sao_paulo;-23.5228;-46.1883;Mogi das Cruzes;Estádio Francisco Ribeiro Nogueira;13;16;29;58
 LUZIÂNIA;goias;-16.2514;-47.9514;Luziânia;Estádio Municipal Zequinha Roriz;16;13;29;58
-RIO DE JANEIRO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Giulite Coutinho;23;12;22;57
+GUARULHOS;sao_paulo;-23.4539;-46.5333;Guarulhos;Estádio Antônio Soares de Oliveira;16;14;28;58
+IAPE;maranhao;-2.5307;-44.3068;São Luís;Estádio Governador João Castelo;27;12;19;58
+AMÉRICA DE PEDRINHAS;sergipe;-11.0111;-37.5333;Pedrinhas;Estádio Roberto Silva;17;12;29;58
 MARUINENSE;sergipe;-10.7333;-37.1333;Maruim;Estádio Vavazão;21;7;29;57
-SANTA HELENA;goias;-17.8208;-50.5975;Santa Helena de Goiás;Estádio Pedro Romualdo Cabral;19;12;26;57
-GUARANI;minas_gerais;-20.1453;-44.8903;Divinópolis;Estádio Waldemar Teixeira de Faria;27;11;19;57
-BLUMENAU;santa_catarina;-26.9194;-49.0661;Blumenau;Estádio Ervin Blaese;26;14;17;57
-FLUMINENSE DE JOINVILLE;santa_catarina;-26.3044;-48.8464;Joinville;Arena Joinville;17;11;29;57
 APARECIDA;goias;-16.8233;-49.2442;Aparecida de Goiânia;Estádio Annibal Batista de Toledo;14;12;31;57
 SINOP;mato_grosso;-11.8536;-55.5033;Sinop;Estádio Municipal Gigante do Norte;16;6;35;57
+GUARANI;minas_gerais;-20.1453;-44.8903;Divinópolis;Estádio Waldemar Teixeira de Faria;27;11;19;57
+RIO DE JANEIRO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Giulite Coutinho;23;12;22;57
 SANTA CATARINA;santa_catarina;-27.2136;-49.6458;Rio do Sul;Estádio Alfredo João Krieck;30;22;5;57
+SANTA HELENA;goias;-17.8208;-50.5975;Santa Helena de Goiás;Estádio Pedro Romualdo Cabral;19;12;26;57
+BLUMENAU;santa_catarina;-26.9194;-49.0661;Blumenau;Estádio Ervin Blaese;26;14;17;57
+FLUMINENSE DE JOINVILLE;santa_catarina;-26.3044;-48.8464;Joinville;Arena Joinville;17;11;29;57
 UBERABA;minas_gerais;-19.7489;-47.9325;Uberaba;Estádio Municipal Engenheiro João Guido;22;16;19;57
+BARAÚNAS;rio_grande_do_norte;-5.1875;-37.3442;Mossoró;Estádio Leonardo Nogueira;22;9;25;56
+PARANOÁ;distrito_federal;-15.8111;-47.7333;Paranoá;Estádio JK;21;15;20;56
+TIRADENTES;ceara;-3.7172;-38.5433;Fortaleza;Estádio Presidente Vargas;14;15;27;56
+UNIÃO ATLÉTICO;tocantins;-7.1917;-48.2056;Araguaína;Estádio Mirandão;28;16;12;56
+PENEDENSE;alagoas;-10.2919;-36.5908;Penedo;Estádio Alfredo Leahy;17;22;17;56
+SÃO FRANCISCO;para;-2.4431;-54.7083;Santarém;Estádio Colosso do Tapajós;25;6;25;56
+SÃO PAULO;rio_grande_do_sul;-32.035;-52.0986;Rio Grande;Estádio Aldo Dapuzzo;20;13;23;56
 CAETÉ;para;-1.0536;-46.7653;Bragança;Estádio Diogão;20;9;27;56
 MAGEENSE;rio_de_janeiro;-22.6536;-43.0433;Magé;Estádio Municipal de Magé;13;6;37;56
-PARANOÁ;distrito_federal;-15.8111;-47.7333;Paranoá;Estádio JK;21;15;20;56
-PENEDENSE;alagoas;-10.2919;-36.5908;Penedo;Estádio Alfredo Leahy;17;22;17;56
-BARAÚNAS;rio_grande_do_norte;-5.1875;-37.3442;Mossoró;Estádio Leonardo Nogueira;22;9;25;56
-SÃO FRANCISCO;para;-2.4431;-54.7083;Santarém;Estádio Colosso do Tapajós;25;6;25;56
-TIRADENTES;ceara;-3.7172;-38.5433;Fortaleza;Estádio Presidente Vargas;14;15;27;56
-SÃO PAULO;rio_grande_do_sul;-32.035;-52.0986;Rio Grande;Estádio Aldo Dapuzzo;20;13;23;56
-UNIÃO ATLÉTICO;tocantins;-7.1917;-48.2056;Araguaína;Estádio Mirandão;28;16;12;56
-OEIRENSE;piaui;-7.02139;-42.19167;Oeiras;Estádio Gerson Campos;23;16;16;55
-PARATY;rio_de_janeiro;-23.2203;-44.7131;Paraty;Estádio Municipal de Paraty;24;11;20;55
-CAÇADOR;santa_catarina;-26.7747;-51.0189;Caçador;Estádio Carlos Alberto da Costa Neves;17;16;22;55
 PIAUÍ;piaui;-5.08917;-42.80167;Teresina;Estádio Lindolfo Monteiro;18;12;25;55
+PARATY;rio_de_janeiro;-23.2203;-44.7131;Paraty;Estádio Municipal de Paraty;24;11;20;55
 IGUAÇU;parana;-26.2333;-51.0833;União da Vitória;Estádio Municipal Antiocho Pereira;21;16;18;55
+CAÇADOR;santa_catarina;-26.7747;-51.0189;Caçador;Estádio Carlos Alberto da Costa Neves;17;16;22;55
+OEIRENSE;piaui;-7.02139;-42.19167;Oeiras;Estádio Gerson Campos;23;16;16;55
 TUNTUM;maranhao;-5.2533;-44.6597;Tuntum;Estádio Rafael Seabra;18;22;15;55
-BARCELONA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Giulite Coutinho;10;12;32;54
+RIO SÃO PAULO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Eduardo Guinle;14;15;25;54
+SÃO CARLOS;sao_paulo;-22.0175;-47.8861;São Carlos;Estádio Municipal Professor Luís Augusto de Oliveira;13;14;27;54
+CAMBÉ;parana;-23.2797;-51.2819;Cambé;Estádio Municipal José Garbelini;8;12;34;54
 CARIRI;ceara;-7.2297;-39.3225;Juazeiro do Norte;Estádio Mauro Sampaio;19;14;21;54
 GUARANY DE BAGÉ;rio_grande_do_sul;-31.3308;-54.1072;Bagé;Estádio Estrela D'Alva;16;15;23;54
 CAAC BRASIL;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Joaquim Flores;16;6;32;54
-CAMBÉ;parana;-23.2797;-51.2819;Cambé;Estádio Municipal José Garbelini;8;12;34;54
-SÃO CARLOS;sao_paulo;-22.0175;-47.8861;São Carlos;Estádio Municipal Professor Luís Augusto de Oliveira;13;14;27;54
-CORISABBÁ;piaui;-6.7747;-43.0236;Floriano;Estádio Tibério Nunes;13;18;23;54
+BARCELONA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Giulite Coutinho;10;12;32;54
 ACADEMIA;mato_grosso;-16.4677;-54.6351;Rondonópolis;Estádio Municipal Engenheiro Luthero Lopes;15;10;29;54
-RIO SÃO PAULO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Eduardo Guinle;14;15;25;54
+CORISABBÁ;piaui;-6.7747;-43.0236;Floriano;Estádio Tibério Nunes;13;18;23;54
 CENTRO LIMOEIRENSE;pernambuco;-7.8753;-35.4536;Limoeiro;Estádio José Vareda;15;13;25;53
-NORTH ESPORTE CLUBE;minas_gerais;-16.735;-43.8603;Montes Claros;Estádio José Maria de Melo;24;17;12;53
 SANTA ROSA;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;19;11;23;53
+NORTH ESPORTE CLUBE;minas_gerais;-16.735;-43.8603;Montes Claros;Estádio José Maria de Melo;24;17;12;53
 PORTUGUESA LONDRINENSE;parana;-23.3045;-51.1696;Londrina;Estádio do Café;14;9;29;52
 PORTO;pernambuco;-8.285;-35.9747;Caruaru;Estádio Luiz José de Lacerda;13;21;18;52
-SÃO MATEUS;espirito_santo;-18.7153;-39.8589;São Mateus;Estádio Sernamby;9;10;33;52
-DECISÃO;pernambuco;-8.4797;-35.7275;Bonito;Estádio Municipal Arthur Tavares de Melo;20;13;19;52
-CENTRO OESTE;goias;-16.7036;-49.0953;Senador Canedo;Estádio Plínio José de Souza;24;18;10;52
-SÃO CRISTÓVÃO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Figueira de Melo;24;12;16;52
 AVENIDA;rio_grande_do_sul;-29.7175;-52.4353;Santa Cruz do Sul;Estádio dos Eucaliptos;12;18;22;52
+SÃO MATEUS;espirito_santo;-18.7153;-39.8589;São Mateus;Estádio Sernamby;9;10;33;52
+SÃO CRISTÓVÃO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Figueira de Melo;24;12;16;52
+CENTRO OESTE;goias;-16.7036;-49.0953;Senador Canedo;Estádio Plínio José de Souza;24;18;10;52
+DECISÃO;pernambuco;-8.4797;-35.7275;Bonito;Estádio Municipal Arthur Tavares de Melo;20;13;19;52
 SPORT SINOP;mato_grosso;-11.8536;-55.5033;Sinop;Estádio Municipal Gigante do Norte;17;12;22;51
-BÚZIOS;rio_de_janeiro;-22.7475;-41.8833;Armação dos Búzios;Estádio Municipal de Búzios;21;9;21;51
+CEILANDENSE;distrito_federal;-15.8267;-48.1033;Ceilândia;Estádio Maria de Lourdes Abadia;15;11;25;51
 UNIÃO CACOALENSE;rondonia;-11.4367;-61.4475;Cacoal;Estádio Aglair Tonelli Nogueira;22;16;13;51
 RIOPARDENSE;rio_grande_do_sul;-29.9825;-52.3811;Rio Pardo;Estádio Amaro Cassep;8;16;27;51
-CEILANDENSE;distrito_federal;-15.8267;-48.1033;Ceilândia;Estádio Maria de Lourdes Abadia;15;11;25;51
-TOCANTINS MIRACEMA;tocantins;-9.5636;-48.3936;Miracema do Tocantins;Estádio Castanheirão;14;8;28;50
-GURUPI;tocantins;-11.7292;-49.0583;Gurupi;Estádio Municipal Gilberto Resende;17;16;17;50
-INDEPENDÊNCIA;acre;-9.9749;-67.8243;Rio Branco;Estádio Arena da Floresta;22;13;15;50
-CONFIANÇA;paraiba;-7.0917;-35.2333;Sapé;Estádio Municipal Dr. Tadeu Cruz;24;8;18;50
-MONSOON;rio_grande_do_sul;-29.7577;-50.0184;Capão da Canoa;Estádio Francisco Novelletto;24;16;10;50
-BOQUINHENSE;sergipe;-11.2658;-37.4375;Estância;Estádio Augusto Franco;17;13;20;50
+BÚZIOS;rio_de_janeiro;-22.7475;-41.8833;Armação dos Búzios;Estádio Municipal de Búzios;21;9;21;51
 CANAÃ;para;-6.5033;-49.8767;Canaã dos Carajás;Estádio Municipal José Raimundo Roseno Araújo;21;11;18;50
 LARANJA MECÂNICA;parana;-23.4139;-51.4264;Arapongas;Estádio Municipal José Chiappin;20;15;15;50
 CANINDÉ;sergipe;-9.6556;-37.7833;Canindé de São Francisco;Estádio André Avelino;18;6;26;50
+INDEPENDÊNCIA;acre;-9.9749;-67.8243;Rio Branco;Estádio Arena da Floresta;22;13;15;50
+GURUPI;tocantins;-11.7292;-49.0583;Gurupi;Estádio Municipal Gilberto Resende;17;16;17;50
 JACOBINA;bahia;-11.1825;-40.5086;Jacobina;Estádio José Rocha;14;12;24;50
+TOCANTINS MIRACEMA;tocantins;-9.5636;-48.3936;Miracema do Tocantins;Estádio Castanheirão;14;8;28;50
 POTYGUAR SERIDOENSE;rio_grande_do_norte;-6.2575;-36.5136;Currais Novos;Estádio Coronel José Bezerra;18;12;20;50
-PRÓSPERA;santa_catarina;-28.6794;-49.3711;Criciúma;Estádio Mário Balsini;14;9;26;49
-APUCARANA SPORTS;parana;-23.5528;-51.4608;Apucarana;Estádio Olímpico Regional;17;13;19;49
+CONFIANÇA;paraiba;-7.0917;-35.2333;Sapé;Estádio Municipal Dr. Tadeu Cruz;24;8;18;50
+BOQUINHENSE;sergipe;-11.2658;-37.4375;Estância;Estádio Augusto Franco;17;13;20;50
+MONSOON;rio_grande_do_sul;-29.7577;-50.0184;Capão da Canoa;Estádio Francisco Novelletto;24;16;10;50
 TAGUATINGA;distrito_federal;-15.8267;-48.0619;Taguatinga;Estádio Elmo Serejo Farias;19;13;17;49
-GAÚCHO;rio_grande_do_sul;-28.2628;-52.4076;Passo Fundo;Arena BSBios;29;12;8;49
 UNIÃO BELTRÃO;parana;-26.0767;-53.0556;Francisco Beltrão;Estádio Anilado;13;8;28;49
-SERC;mato_grosso_do_sul;-18.7833;-52.6236;Chapadão do Sul;Estádio Municipal da Serrinha;21;8;20;49
 NOVO HORIZONTE;rio_grande_do_sul;-29.8575;-51.1783;Esteio;Estádio Municipal José Cláudio dos Santos;12;11;26;49
-IRATY;parana;-25.475;-50.6583;Irati;Estádio Coronel Emílio Gomes;17;9;22;48
-INDEPENDENTE;amapa;0.0575;-51.1736;Santana;Estádio Milton de Souza Corrêa;24;13;11;48
-GENUS;rondonia;-8.7619;-63.9039;Porto Velho;Estádio Aluízio Ferreira;9;12;27;48
-SOBRADINHO;distrito_federal;-15.6533;-47.7975;Sobradinho;Estádio Augustinho Lima;16;9;23;48
-ATLÉTICO MOGI;sao_paulo;-23.5228;-46.1883;Mogi das Cruzes;Estádio Municipal Francisco Ribeiro Nogueira;4;5;39;48
-ATLÉTICO RORAIMA;roraima;2.8235;-60.6758;Boa Vista;Estádio Flamarion Vasconcelos;13;10;25;48
-PENAROL;amazonas;-3.1431;-58.4442;Itacoatiara;Estádio Floro de Mendonça;17;12;19;48
-OPERÁRIO;amazonas;-3.2964;-60.6214;Manacapuru;Estádio Gilberto Mestrinho;14;14;20;48
-GRAPIÚNA;bahia;-14.7892;-39.2797;Itabuna;Estádio Luiz Viana Filho;14;13;21;48
+PRÓSPERA;santa_catarina;-28.6794;-49.3711;Criciúma;Estádio Mário Balsini;14;9;26;49
+SERC;mato_grosso_do_sul;-18.7833;-52.6236;Chapadão do Sul;Estádio Municipal da Serrinha;21;8;20;49
+APUCARANA SPORTS;parana;-23.5528;-51.4608;Apucarana;Estádio Olímpico Regional;17;13;19;49
+GAÚCHO;rio_grande_do_sul;-28.2628;-52.4076;Passo Fundo;Arena BSBios;29;12;8;49
 TRINDADE;goias;-16.6486;-49.4889;Trindade;Estádio Abrão Manoel da Costa;22;10;16;48
-ARAÇATUBA;sao_paulo;-21.2086;-50.4328;Araçatuba;Estádio Adhemar de Barros;22;8;17;47
-SAMAMBAIA;distrito_federal;-15.8786;-48.0506;Samambaia;Estádio Rorizão;20;8;19;47
-SANTA CRUZ;rio_grande_do_sul;-29.7175;-52.4333;Santa Cruz do Sul;Estádio dos Plátanos;25;11;11;47
-ARRAIAL DO CABO;rio_de_janeiro;-22.9694;-42.0247;Arraial do Cabo;Estádio Hermenegildo Barcelos;21;20;6;47
+GENUS;rondonia;-8.7619;-63.9039;Porto Velho;Estádio Aluízio Ferreira;9;12;27;48
+GRAPIÚNA;bahia;-14.7892;-39.2797;Itabuna;Estádio Luiz Viana Filho;14;13;21;48
+PENAROL;amazonas;-3.1431;-58.4442;Itacoatiara;Estádio Floro de Mendonça;17;12;19;48
+INDEPENDENTE;amapa;0.0575;-51.1736;Santana;Estádio Milton de Souza Corrêa;24;13;11;48
+OPERÁRIO;amazonas;-3.2964;-60.6214;Manacapuru;Estádio Gilberto Mestrinho;14;14;20;48
+ATLÉTICO RORAIMA;roraima;2.8235;-60.6758;Boa Vista;Estádio Flamarion Vasconcelos;13;10;25;48
+SOBRADINHO;distrito_federal;-15.6533;-47.7975;Sobradinho;Estádio Augustinho Lima;16;9;23;48
+IRATY;parana;-25.475;-50.6583;Irati;Estádio Coronel Emílio Gomes;17;9;22;48
+ATLÉTICO MOGI;sao_paulo;-23.5228;-46.1883;Mogi das Cruzes;Estádio Municipal Francisco Ribeiro Nogueira;4;5;39;48
+BARÉ;roraima;2.8235;-60.6758;Boa Vista;Estádio Flamarion Vasconcelos;15;9;23;47
+GUANABARA CITY;goias;-16.6869;-49.2648;Goiânia;Estádio Olímpico Pedro Ludovico;21;7;19;47
 COXIM;mato_grosso_do_sul;-18.5067;-54.7603;Coxim;Estádio André Borges;13;8;26;47
 AMADENSE;sergipe;-11.2636;-37.4389;Estância;Estádio Augusto Franco;14;8;25;47
+SAMAMBAIA;distrito_federal;-15.8786;-48.0506;Samambaia;Estádio Rorizão;20;8;19;47
 RED BULL BRASIL;sao_paulo;-22.9533;-46.5422;Bragança Paulista;Estádio Nabi Abi Chedid;10;13;24;47
-GUANABARA CITY;goias;-16.6869;-49.2648;Goiânia;Estádio Olímpico Pedro Ludovico;21;7;19;47
-BARÉ;roraima;2.8235;-60.6758;Boa Vista;Estádio Flamarion Vasconcelos;15;9;23;47
+AUTO ESPORTE;paraiba;-7.115;-34.8642;João Pessoa;Estádio José Américo de Almeida Filho;17;13;17;47
 PASSO FUNDO;rio_grande_do_sul;-28.2628;-52.4076;Passo Fundo;Estádio Vermelhão da Serra;27;7;13;47
 BELA VISTA;tocantins;-6.4525;-47.6586;Cachoeirinha;Estádio Municipal de Cachoeirinha;18;13;16;47
+ARRAIAL DO CABO;rio_de_janeiro;-22.9694;-42.0247;Arraial do Cabo;Estádio Hermenegildo Barcelos;21;20;6;47
 QUEIMADENSE;paraiba;-7.3639;-35.7256;Queimadas;Estádio Governador Ernani Sátyro;14;11;22;47
-AUTO ESPORTE;paraiba;-7.115;-34.8642;João Pessoa;Estádio José Américo de Almeida Filho;17;13;17;47
+ARAÇATUBA;sao_paulo;-21.2086;-50.4328;Araçatuba;Estádio Adhemar de Barros;22;8;17;47
+SANTA CRUZ;rio_grande_do_sul;-29.7175;-52.4333;Santa Cruz do Sul;Estádio dos Plátanos;25;11;11;47
 BOCA JÚNIOR;sergipe;-10.5358;-37.0953;Carmópolis;Estádio Fernando França;13;9;24;46
-RIO NEGRO;roraima;2.8236;-60.6753;Boa Vista;Estádio Flamarion Vasconcelos;9;7;30;46
-ITUPIRANGA;para;-5.1458;-49.3333;Itupiranga;Estádio Municipal Jaime Sena Pimentel;13;12;21;46
+VALERIODOCE;minas_gerais;-19.6133;-43.2275;Itabira;Estádio Israel Pinheiro;16;18;12;46
 UNIÃO LUZIENSE;minas_gerais;-19.7725;-43.8547;Santa Luzia;Estádio Municipal Victor Andrade de Brito;13;13;20;46
 AMÉRICA T.O;minas_gerais;-17.8583;-41.5056;Teófilo Otoni;Estádio Nassri Mattar;24;10;12;46
-VALERIODOCE;minas_gerais;-19.6133;-43.2275;Itabira;Estádio Israel Pinheiro;16;18;12;46
-CSP;paraiba;-7.115;-34.8642;João Pessoa;Estádio Almeidão;20;7;19;46
-DIMENSÃO SAÚDE;alagoas;-9.4167;-36.05;Capela;Estádio Manoel Moreira;17;4;25;46
-ARAPONGAS;parana;-23.4153;-51.4333;Arapongas;Estádio José Chiappin;18;10;18;46
-SANTANA;amapa;-0.0558;-51.1794;Santana;Estádio Municipal de Santana;8;8;30;46
 PARINTINS;amazonas;-2.6283;-56.7397;Parintins;Estádio Francisco Garcia;20;14;12;46
-VERÊ;parana;-25.9186;-52.8583;Verê;Estádio Vila do Mar;15;13;18;46
+RIO NEGRO;roraima;2.8236;-60.6753;Boa Vista;Estádio Flamarion Vasconcelos;9;7;30;46
+ARAPONGAS;parana;-23.4153;-51.4333;Arapongas;Estádio José Chiappin;18;10;18;46
+ITUPIRANGA;para;-5.1458;-49.3333;Itupiranga;Estádio Municipal Jaime Sena Pimentel;13;12;21;46
 MIGUELENSE;alagoas;-9.7833;-36.1056;São Miguel dos Campos;Estádio Manoel Ferreira;9;4;33;46
-SOCORRENSE;sergipe;-10.8536;-37.1353;Nossa Senhora do Socorro;Estádio Wellington Elias;16;10;19;45
-ARARUAMA;rio_de_janeiro;-22.8756;-42.3422;Araruama;Estádio Municipal de Araruama;10;20;15;45
-TIGRES DO BRASIL;rio_de_janeiro;-22.7833;-43.3111;Duque de Caxias;Estádio Los Larios;13;14;18;45
-AMAZÔNIA INDEPENDENTE;para;-2.4453;-54.7084;Santarém;Estádio Colosso do Tapajós;18;14;13;45
-UNIÃO HARMONIA;rio_grande_do_sul;-29.9191;-51.1892;Canoas;Complexo Esportivo da Ulbra;3;4;38;45
-DESPORTIVA GUARABIRA;paraiba;-6.9856;-35.4936;Guarabira;Estádio Sílvio Porto;14;12;19;45
-SANTA CRUZ RIACHUELO;sergipe;-10.7333;-37.25;Riachuelo;Estádio Francisco Leite;13;5;27;45
-SERRA BRANCA;paraiba;-7.47139;-36.6567;Serra Branca;Estádio Amigão;21;14;10;45
-PLÁCIDO DE CASTRO;acre;-10.2736;-67.1736;Plácido de Castro;Estádio Municipal Aluízio Ferreira;13;8;24;45
-BARCELONA;rondonia;-12.7414;-60.1458;Vilhena;Estádio Portal da Amazônia;15;12;18;45
-CARAJÁS;para;-1.4558;-48.4902;Belém;Estádio Estadual Jornalista Edgar Augusto Proença;7;15;23;45
-PICUIENSE;paraiba;-6.4958;-36.3386;Picuí;Estádio Amauri Sales de Melo;11;9;25;45
-PORTO;santa_catarina;-26.2361;-51.0736;Porto União;Estádio Municipal Antiocho Pereira;7;7;31;45
+SANTANA;amapa;-0.0558;-51.1794;Santana;Estádio Municipal de Santana;8;8;30;46
+VERÊ;parana;-25.9186;-52.8583;Verê;Estádio Vila do Mar;15;13;18;46
+DIMENSÃO SAÚDE;alagoas;-9.4167;-36.05;Capela;Estádio Manoel Moreira;17;4;25;46
+CSP;paraiba;-7.115;-34.8642;João Pessoa;Estádio Almeidão;20;7;19;46
 ZINZA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Luso-Brasileiro;23;14;8;45
-COMERCIAL;piaui;-4.8264;-42.1678;Campo Maior;Estádio Deusdeth de Melo;15;6;23;44
-SORRISO;mato_grosso;-12.5453;-55.7147;Sorriso;Estádio Municipal Egídio José Preima;15;12;17;44
-PARNAMIRIM;rio_grande_do_norte;-5.91083;-35.2608;Parnamirim;Estádio Tenente Luiz Gonzaga;6;3;35;44
-MAGUARY;pernambuco;-8.4797;-35.7275;Bonito;Estádio Municipal Arthur Tavares de Melo;15;17;12;44
-LEMENSE;sao_paulo;-22.1858;-47.3917;Leme;Estádio Municipal Bruno Lazzarini;9;12;23;44
-SÃO RAIMUNDO;para;-2.4431;-54.7083;Santarém;Estádio Colosso do Tapajós;24;10;10;44
-AT. ITAPEMIRIM;espirito_santo;-20.8433;-40.8356;Itapemirim;Estádio José Olívio Soares;15;7;22;44
-TAPAJÓS;para;-2.4431;-54.7083;Santarém;Estádio Colosso do Tapajós;8;12;24;44
-BAGÉ;rio_grande_do_sul;-31.3317;-54.1068;Bagé;Estádio Pedra Moura;21;11;12;44
-SANTA CRUZ;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Giulite Coutinho;19;9;16;44
+SERRA BRANCA;paraiba;-7.47139;-36.6567;Serra Branca;Estádio Amigão;21;14;10;45
+SANTA CRUZ RIACHUELO;sergipe;-10.7333;-37.25;Riachuelo;Estádio Francisco Leite;13;5;27;45
+CARAJÁS;para;-1.4558;-48.4902;Belém;Estádio Estadual Jornalista Edgar Augusto Proença;7;15;23;45
+ARARUAMA;rio_de_janeiro;-22.8756;-42.3422;Araruama;Estádio Municipal de Araruama;10;20;15;45
+SOCORRENSE;sergipe;-10.8536;-37.1353;Nossa Senhora do Socorro;Estádio Wellington Elias;16;10;19;45
+UNIÃO HARMONIA;rio_grande_do_sul;-29.9191;-51.1892;Canoas;Complexo Esportivo da Ulbra;3;4;38;45
+PICUIENSE;paraiba;-6.4958;-36.3386;Picuí;Estádio Amauri Sales de Melo;11;9;25;45
+PLÁCIDO DE CASTRO;acre;-10.2736;-67.1736;Plácido de Castro;Estádio Municipal Aluízio Ferreira;13;8;24;45
+AMAZÔNIA INDEPENDENTE;para;-2.4453;-54.7084;Santarém;Estádio Colosso do Tapajós;18;14;13;45
+PORTO;santa_catarina;-26.2361;-51.0736;Porto União;Estádio Municipal Antiocho Pereira;7;7;31;45
+BARCELONA;rondonia;-12.7414;-60.1458;Vilhena;Estádio Portal da Amazônia;15;12;18;45
+TIGRES DO BRASIL;rio_de_janeiro;-22.7833;-43.3111;Duque de Caxias;Estádio Los Larios;13;14;18;45
+DESPORTIVA GUARABIRA;paraiba;-6.9856;-35.4936;Guarabira;Estádio Sílvio Porto;14;12;19;45
 CAPITÃO POÇO;para;-1.7486;-47.0614;Capitão Poço;Estádio Municipal São Benedito;22;10;12;44
-MINEIROS;goias;-17.5675;-52.5511;Mineiros;Estádio Odilon Flores;22;8;13;43
-SPORT LAGOA SECA;paraiba;-7.17111;-35.8586;Lagoa Seca;Estádio Amigão;10;5;28;43
+LEMENSE;sao_paulo;-22.1858;-47.3917;Leme;Estádio Municipal Bruno Lazzarini;9;12;23;44
+SORRISO;mato_grosso;-12.5453;-55.7147;Sorriso;Estádio Municipal Egídio José Preima;15;12;17;44
+SANTA CRUZ;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Giulite Coutinho;19;9;16;44
+MAGUARY;pernambuco;-8.4797;-35.7275;Bonito;Estádio Municipal Arthur Tavares de Melo;15;17;12;44
+AT. ITAPEMIRIM;espirito_santo;-20.8433;-40.8356;Itapemirim;Estádio José Olívio Soares;15;7;22;44
+COMERCIAL;piaui;-4.8264;-42.1678;Campo Maior;Estádio Deusdeth de Melo;15;6;23;44
+TAPAJÓS;para;-2.4431;-54.7083;Santarém;Estádio Colosso do Tapajós;8;12;24;44
+PARNAMIRIM;rio_grande_do_norte;-5.91083;-35.2608;Parnamirim;Estádio Tenente Luiz Gonzaga;6;3;35;44
+BAGÉ;rio_grande_do_sul;-31.3317;-54.1068;Bagé;Estádio Pedra Moura;21;11;12;44
+SÃO RAIMUNDO;para;-2.4431;-54.7083;Santarém;Estádio Colosso do Tapajós;24;10;10;44
+COLO COLO;bahia;-14.7935;-39.0459;Ilhéus;Estádio Mário Pessoa;14;14;15;43
+FERNANDÓPOLIS;sao_paulo;-20.2819;-50.2586;Fernandópolis;Estádio Municipal Cláudio Rodante;8;8;27;43
 TUPÃ;sao_paulo;-21.9358;-50.5139;Tupã;Estádio Municipal Alonso Carvalho Braga;18;8;17;43
 SANTO ÂNGELO;rio_grande_do_sul;-28.3014;-54.2636;Santo Ângelo;Estádio da Zona Sul;7;6;30;43
-FERNANDÓPOLIS;sao_paulo;-20.2819;-50.2586;Fernandópolis;Estádio Municipal Cláudio Rodante;8;8;27;43
-CARUARU CITY;pernambuco;-8.2828;-35.9742;Caruaru;Estádio Luiz José de Lacerda;11;15;17;43
-VASCO DA GAMA;acre;-9.9747;-67.8076;Rio Branco;Estádio Arena da Floresta;14;6;23;43
+MINEIROS;goias;-17.5675;-52.5511;Mineiros;Estádio Odilon Flores;22;8;13;43
 JUVENTUS;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Luso-Brasileiro;16;9;18;43
-COLO COLO;bahia;-14.7935;-39.0459;Ilhéus;Estádio Mário Pessoa;14;14;15;43
-LAGUNA;rio_grande_do_norte;-5.79448;-35.211;Natal;Arena das Dunas;22;11;9;42
-CERRADO;goias;-16.8225;-49.2436;Aparecida de Goiânia;Estádio Annibal Batista de Toledo;12;13;17;42
-SOCORRO;sergipe;-10.8536;-37.1353;Nossa Senhora do Socorro;Estádio Wellington Elias;10;12;20;42
-SÃO JOSÉ;maranhao;-2.5617;-44.0583;São José de Ribamar;Estádio Municipal Dário Santos;8;10;24;42
-CAMPO MOURÃO;parana;-24.0478;-52.3786;Campo Mourão;Estádio Municipal Roberto Brzezinski;14;12;16;42
+VASCO DA GAMA;acre;-9.9747;-67.8076;Rio Branco;Estádio Arena da Floresta;14;6;23;43
+SPORT LAGOA SECA;paraiba;-7.17111;-35.8586;Lagoa Seca;Estádio Amigão;10;5;28;43
+CARUARU CITY;pernambuco;-8.2828;-35.9742;Caruaru;Estádio Luiz José de Lacerda;11;15;17;43
 FF SPORT;alagoas;-9.6658;-35.7353;Maceió;Estádio Rei Pelé;14;7;21;42
-ASSISENSE;sao_paulo;-22.6625;-50.4133;Assis;Estádio Municipal Tonicão;11;9;22;42
-RIO NEGRO;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;16;9;17;42
-ASSU;rio_grande_do_norte;-5.5814;-36.9133;Assu;Estádio Edgarzão;4;14;24;42
-SANTA MARIA;distrito_federal;-15.9967;-48.0267;Santa Maria;Estádio Serra do Lago;12;6;24;42
 POÇOS DE CALDAS;minas_gerais;-21.7847;-46.5635;Poços de Caldas;Estádio Doutor Ronaldo Junqueira;11;11;20;42
-VERA CRUZ;rio_de_janeiro;-22.7833;-43.3167;Duque de Caxias;Estádio Marrentão;15;9;18;42
+CERRADO;goias;-16.8225;-49.2436;Aparecida de Goiânia;Estádio Annibal Batista de Toledo;12;13;17;42
+RIO NEGRO;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;16;9;17;42
+CAMPO MOURÃO;parana;-24.0478;-52.3786;Campo Mourão;Estádio Municipal Roberto Brzezinski;14;12;16;42
+SÃO JOSÉ;maranhao;-2.5617;-44.0583;São José de Ribamar;Estádio Municipal Dário Santos;8;10;24;42
+SOCORRO;sergipe;-10.8536;-37.1353;Nossa Senhora do Socorro;Estádio Wellington Elias;10;12;20;42
+ASSU;rio_grande_do_norte;-5.5814;-36.9133;Assu;Estádio Edgarzão;4;14;24;42
+LAGUNA;rio_grande_do_norte;-5.79448;-35.211;Natal;Arena das Dunas;22;11;9;42
+SANTA MARIA;distrito_federal;-15.9967;-48.0267;Santa Maria;Estádio Serra do Lago;12;6;24;42
 YPIRANGA;pernambuco;-7.9575;-36.2053;Santa Cruz do Capibaribe;Estádio Otávio Limeira Alves;11;17;14;42
-UNIÃO CENTRAL;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Luso-Brasileiro;14;10;17;41
-GUAPORÉ;rondonia;-11.7256;-61.7736;Rolim de Moura;Estádio Ângelo Cassol;18;10;13;41
-RIOVERDENSE;goias;-17.7919;-50.9244;Rio Verde;Estádio Mozart Veloso do Carmo;7;5;29;41
-CONTAGEM;minas_gerais;-19.9319;-44.0539;Contagem;Estádio Municipal de Contagem;15;12;14;41
-ARAGUAIA;mato_grosso;-15.8917;-52.2594;Barra do Garças;Estádio Municipal José Valeriano Costa;11;6;24;41
+ASSISENSE;sao_paulo;-22.6625;-50.4133;Assis;Estádio Municipal Tonicão;11;9;22;42
+VERA CRUZ;rio_de_janeiro;-22.7833;-43.3167;Duque de Caxias;Estádio Marrentão;15;9;18;42
 ABECAT OUVIDORENSE;goias;-18.1558;-47.8667;Ouvidor;Estádio Luiz Benedito;20;10;11;41
-GALÍCIA;bahia;-12.9714;-38.5014;Salvador;Estádio de Pituaçu;10;19;12;41
 NAVIRAIENSE;mato_grosso_do_sul;-23.0636;-54.1903;Naviraí;Estádio Virotão;21;10;10;41
+UNIÃO CENTRAL;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio Luso-Brasileiro;14;10;17;41
+CONTAGEM;minas_gerais;-19.9319;-44.0539;Contagem;Estádio Municipal de Contagem;15;12;14;41
 IPOJUCA;pernambuco;-8.3975;-35.0653;Ipojuca;Estádio Municipal Nossa Senhora do Ó;15;13;13;41
-PRIMAVERA;mato_grosso;-15.5583;-54.2958;Primavera do Leste;Estádio Municipal Cerradão;12;16;13;41
+RIOVERDENSE;goias;-17.7919;-50.9244;Rio Verde;Estádio Mozart Veloso do Carmo;7;5;29;41
+ARAGUAIA;mato_grosso;-15.8917;-52.2594;Barra do Garças;Estádio Municipal José Valeriano Costa;11;6;24;41
+GALÍCIA;bahia;-12.9714;-38.5014;Salvador;Estádio de Pituaçu;10;19;12;41
 SÃO PAULO;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;10;10;21;41
-IVINHEMA;mato_grosso_do_sul;-22.3017;-53.8156;Ivinhema;Estádio Saraivão;17;8;15;40
-MACAPÁ;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;11;7;22;40
-FARROUPILHA;rio_grande_do_sul;-31.7654;-52.3376;Pelotas;Estádio Nicolau Fico;8;11;21;40
-SETE DE SETEMBRO;pernambuco;-8.8917;-36.4919;Garanhuns;Estádio Gigante do Agreste;10;11;19;40
+GUAPORÉ;rondonia;-11.7256;-61.7736;Rolim de Moura;Estádio Ângelo Cassol;18;10;13;41
+PRIMAVERA;mato_grosso;-15.5583;-54.2958;Primavera do Leste;Estádio Municipal Cerradão;12;16;13;41
+REAL SPORT CLUB;rio_grande_do_sul;-29.7447;-50.0236;Capão da Canoa;Estádio Módulo Esportivo;12;9;19;40
 SETE DE JUNHO;sergipe;-11.1819;-37.9958;Tobias Barreto;Estádio Brejeirão;12;11;17;40
+MACAPÁ;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;11;7;22;40
+FORÇA JOVEM AQUIDABÃ;sergipe;-10.3114;-37.0514;Aquidabã;Estádio Municipal Manoel Anacleto;11;7;22;40
+FARROUPILHA;rio_grande_do_sul;-31.7654;-52.3376;Pelotas;Estádio Nicolau Fico;8;11;21;40
 NÁUAS;acre;-7.6319;-72.6764;Cruzeiro do Sul;Estádio Arena do Juruá;8;5;27;40
+IVINHEMA;mato_grosso_do_sul;-22.3017;-53.8156;Ivinhema;Estádio Saraivão;17;8;15;40
+SETE DE SETEMBRO;pernambuco;-8.8917;-36.4919;Garanhuns;Estádio Gigante do Agreste;10;11;19;40
+PALMEIRA DE GOIANINHA;rio_grande_do_norte;-6.26667;-35.2083;Goianinha;Estádio Nazarenão;10;11;19;40
 GRÊMIO MARINGÁ;parana;-23.421;-51.9331;Maringá;Estádio Regional Willie Davids;16;8;16;40
 GUARANI V. AIRES;rio_grande_do_sul;-29.6083;-52.1817;Venâncio Aires;Estádio Edmundo Feix;28;8;4;40
-FORÇA JOVEM AQUIDABÃ;sergipe;-10.3114;-37.0514;Aquidabã;Estádio Municipal Manoel Anacleto;11;7;22;40
-REAL SPORT CLUB;rio_grande_do_sul;-29.7447;-50.0236;Capão da Canoa;Estádio Módulo Esportivo;12;9;19;40
-PALMEIRA DE GOIANINHA;rio_grande_do_norte;-6.26667;-35.2083;Goianinha;Estádio Nazarenão;10;11;19;40
-PLANALTINA;distrito_federal;-15.6236;-47.6733;Planaltina;Estádio Adonir Guimarães;17;8;14;39
+CLIPER;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;10;11;18;39
 CHAPADINHA;maranhao;-3.7417;-43.3533;Chapadinha;Estádio Lucídio Frazão;13;8;18;39
 SERRANENSE;minas_gerais;-19.8736;-44.9833;Nova Serrana;Arena do Calçado;6;9;24;39
-PINHEIRENSE;para;-1.4558;-48.4902;Belém;Estádio Abelardo Conduru;15;11;13;39
-ORATÓRIO;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;16;9;14;39
-CLIPER;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;10;11;18;39
-NITEROIENSE;rio_de_janeiro;-22.8833;-43.1036;Niterói;Estádio Municipal de Niterói;20;11;8;39
 CORUMBAENSE;mato_grosso_do_sul;-19.0053;-57.6473;Corumbá;Estádio Arthur Marinho;13;11;15;39
+PINHEIRENSE;para;-1.4558;-48.4902;Belém;Estádio Abelardo Conduru;15;11;13;39
+PLANALTINA;distrito_federal;-15.6236;-47.6733;Planaltina;Estádio Adonir Guimarães;17;8;14;39
 CORITIBA;sergipe;-25.4296;-49.2719;Curitiba;Estádio Major Antônio Couto Pereira;9;6;24;39
-ITABORAÍ PROFUTE;rio_de_janeiro;-22.7475;-42.8553;Itaboraí;Estádio Municipal Alziro de Almeida;11;3;24;38
-JAGUAR;pernambuco;-8.1133;-35.0133;Jaboatão dos Guararapes;Estádio Jefferson de Freitas;15;5;18;38
-LEGIÃO;distrito_federal;-15.7939;-47.8828;Brasília;Estádio Nacional de Brasília Mané Garrincha;11;6;21;38
-CERES;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio João Francisco dos Santos;15;9;14;38
+ORATÓRIO;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;16;9;14;39
+NITEROIENSE;rio_de_janeiro;-22.8833;-43.1036;Niterói;Estádio Municipal de Niterói;20;11;8;39
 HOPE INTERNACIONAL;parana;-25.4583;-49.3875;Campo Largo;Estádio Atílio Gionédis;8;10;20;38
-GAVIÃO KYIKATEJÊ;para;-5.3575;-49.1233;Marabá;Estádio Municipal Zinho de Oliveira;8;10;19;37
+JAGUAR;pernambuco;-8.1133;-35.0133;Jaboatão dos Guararapes;Estádio Jefferson de Freitas;15;5;18;38
+CERES;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;Estádio João Francisco dos Santos;15;9;14;38
+LEGIÃO;distrito_federal;-15.7939;-47.8828;Brasília;Estádio Nacional de Brasília Mané Garrincha;11;6;21;38
+ITABORAÍ PROFUTE;rio_de_janeiro;-22.7475;-42.8553;Itaboraí;Estádio Municipal Alziro de Almeida;11;3;24;38
 ATLÉTICO PERNAMBUCANO;pernambuco;-7.8517;-35.2442;Carpina;Estádio Paulo Petribu;10;7;20;37
+ASTER BRASIL;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Kleber Andrade;10;12;15;37
 ANDIRÁ;acre;-9.9749;-67.8243;Rio Branco;Estádio Arena da Floresta;7;4;26;37
 CRATEÚS;ceara;-5.1786;-40.6775;Crateús;Estádio Municipal Helvídio Bezerra de Carvalho;14;11;12;37
-ASTER BRASIL;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Kleber Andrade;10;12;15;37
-MOSSORÓ;rio_grande_do_norte;-5.1875;-37.3442;Mossoró;Estádio Nogueirão;18;5;13;36
+GAVIÃO KYIKATEJÊ;para;-5.3575;-49.1233;Marabá;Estádio Municipal Zinho de Oliveira;8;10;19;37
+ARAGUACEMA;tocantins;-8.8139;-49.5636;Araguacema;Estádio Municipal de Araguacema;12;9;15;36
+AE PARACATU;minas_gerais;-17.2217;-46.8756;Paracatu;Estádio Frei Norberto;12;14;10;36
+UNIÃO;mato_grosso_do_sul;-20.4428;-54.6464;Campo Grande;Estádio Jacques da Luz;7;5;24;36
+AMPARO;sao_paulo;-22.7033;-46.7619;Amparo;Estádio José de Araújo Cintra;13;7;16;36
+UNIÃO PARAENSE;para;-5.3575;-49.1233;Marabá;Estádio Zinho de Oliveira;9;12;15;36
+SANTOS;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;13;9;14;36
+VIANA;maranhao;-3.2233;-45.0019;Viana;Estádio Daniel Filho;11;5;20;36
+DOCE MEL;bahia;-14.1375;-39.7375;Ipiaú;Estádio Pedro Caetano;5;13;18;36
+BATALHÃO;tocantins;-10.2128;-48.3603;Palmas;Estádio Nilton Santos;14;7;15;36
+BOSTON CITY BRASIL;minas_gerais;-20.2639;-42.0353;Manhuaçu;Estádio JK;8;8;20;36
 FERROVIÁRIO DO CABO;pernambuco;-8.2933;-35.0358;Cabo de Santo Agostinho;Estádio Gileno de Carli;6;12;18;36
 NOVOPERÁRIO;mato_grosso_do_sul;-20.4428;-54.6461;Campo Grande;Estádio Jacques da Luz;8;9;19;36
-BOSTON CITY BRASIL;minas_gerais;-20.2639;-42.0353;Manhuaçu;Estádio JK;8;8;20;36
-AMPARO;sao_paulo;-22.7033;-46.7619;Amparo;Estádio José de Araújo Cintra;13;7;16;36
-AE PARACATU;minas_gerais;-17.2217;-46.8756;Paracatu;Estádio Frei Norberto;12;14;10;36
-UNIÃO PARAENSE;para;-5.3575;-49.1233;Marabá;Estádio Zinho de Oliveira;9;12;15;36
-VIANA;maranhao;-3.2233;-45.0019;Viana;Estádio Daniel Filho;11;5;20;36
-UNIÃO;mato_grosso_do_sul;-20.4428;-54.6464;Campo Grande;Estádio Jacques da Luz;7;5;24;36
-BATALHÃO;tocantins;-10.2128;-48.3603;Palmas;Estádio Nilton Santos;14;7;15;36
-SANTOS;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;13;9;14;36
-ARAGUACEMA;tocantins;-8.8139;-49.5636;Araguacema;Estádio Municipal de Araguacema;12;9;15;36
-DOCE MEL;bahia;-14.1375;-39.7375;Ipiaú;Estádio Pedro Caetano;5;13;18;36
+MOSSORÓ;rio_grande_do_norte;-5.1875;-37.3442;Mossoró;Estádio Nogueirão;18;5;13;36
+AMÉRICA;pernambuco;-8.0543;-34.8813;Recife;Estádio Ademir Cunha;18;9;8;35
 POCONÉ;mato_grosso;-16.2567;-56.6228;Poconé;Estádio Municipal Neco Falcão;8;11;16;35
-ATLÉTICO CARIOCA;rio_de_janeiro;-22.8222;-43.0522;São Gonçalo;Estádio Municipal Alziro de Almeida;13;9;13;35
 BARCELONA ESPORTIVO;sao_paulo;-23.5505;-46.6333;São Paulo;Estádio Municipal Giglio Portugal Pichinin;4;9;22;35
-INTER DE MINAS;minas_gerais;-20.0733;-44.5786;Itaúna;Estádio José Flávio de Carvalho;13;11;11;35
 SPARTAX;paraiba;-7.115;-34.8642;João Pessoa;Estádio Almeidão;10;9;16;35
 BRASÍLIA;distrito_federal;-15.7939;-47.8828;Brasília;Estádio Nacional de Brasília Mané Garrincha;17;5;13;35
-AMÉRICA;pernambuco;-8.0543;-34.8813;Recife;Estádio Ademir Cunha;18;9;8;35
+ATLÉTICO CARIOCA;rio_de_janeiro;-22.8222;-43.0522;São Gonçalo;Estádio Municipal Alziro de Almeida;13;9;13;35
 SANTACRUZENSE;sao_paulo;-22.8967;-49.6314;Santa Cruz do Rio Pardo;Estádio Municipal Leônidas Camarinha;5;8;22;35
-AD CARMÓPOLIS;sergipe;-10.5358;-37.0936;Carmópolis;Estádio Fernando França;12;9;13;34
-JC FUTEBOL CLUBE;amazonas;-3.1431;-58.4442;Itacoatiara;Estádio Municipal Floro de Mendonça;6;6;22;34
-NOVA PRATA;rio_grande_do_sul;-28.7811;-51.6089;Nova Prata;Estádio Municipal Mario Cini;4;7;23;34
-TUPY;goias;-15.8653;-50.8753;Jussara;Estádio Geraldo Rodrigues;14;11;9;34
+INTER DE MINAS;minas_gerais;-20.0733;-44.5786;Itaúna;Estádio José Flávio de Carvalho;13;11;11;35
 ATLÉTICO PARAENSE;para;-6.0714;-49.9022;Parauapebas;Estádio Rosenão;18;7;9;34
+JC FUTEBOL CLUBE;amazonas;-3.1431;-58.4442;Itacoatiara;Estádio Municipal Floro de Mendonça;6;6;22;34
+CRUZEIRO;rio_grande_do_sul;-29.9514;-51.0925;Cachoeirinha;Arena Cruzeiro;22;6;6;34
+NOVA PRATA;rio_grande_do_sul;-28.7811;-51.6089;Nova Prata;Estádio Municipal Mario Cini;4;7;23;34
 APAFUT;rio_grande_do_sul;-29.1678;-51.1794;Caxias do Sul;Estádio Centenário;8;12;14;34
 ARACAJU;sergipe;-10.9111;-37.0717;Aracaju;Arena Batistão;9;5;20;34
-CRUZEIRO;rio_grande_do_sul;-29.9514;-51.0925;Cachoeirinha;Arena Cruzeiro;22;6;6;34
-JARAGUÁ;santa_catarina;-26.4847;-49.075;Jaraguá do Sul;Estádio João Marcatto;7;4;22;33
-JACOBINENSE;bahia;-11.1825;-40.5086;Jacobina;Estádio José Rocha;9;6;18;33
-SABUGY;paraiba;-6.86667;-36.9167;Santa Luzia;Estádio Municipal de Santa Luzia;5;4;24;33
-1° DE MAIO;pernambuco;-9.3933;-40.5008;Petrolina;Estádio Paulo de Souza Coelho;6;10;17;33
-UNIRB;bahia;-12.1392;-38.4214;Alagoinhas;Estádio Carneirão;9;16;8;33
+TUPY;goias;-15.8653;-50.8753;Jussara;Estádio Geraldo Rodrigues;14;11;9;34
+AD CARMÓPOLIS;sergipe;-10.5358;-37.0936;Carmópolis;Estádio Fernando França;12;9;13;34
 ESPORTE LIMOEIRO;ceara;-5.1478;-38.0975;Limoeiro do Norte;Estádio Municipal José Bandeira de Lavor;5;8;20;33
-ITZ SPORT;maranhao;-5.5264;-47.4917;Imperatriz;Estádio Frei Epifânio D'Abadia;9;10;14;33
+UNIRB;bahia;-12.1392;-38.4214;Alagoinhas;Estádio Carneirão;9;16;8;33
+1° DE MAIO;pernambuco;-9.3933;-40.5008;Petrolina;Estádio Paulo de Souza Coelho;6;10;17;33
 BELO JARDIM;pernambuco;-8.3386;-36.4136;Belo Jardim;Estádio José Bezerra de Mendonça;9;7;17;33
-MARAU;rio_grande_do_sul;-28.4489;-52.1917;Marau;Estádio Carlos Renato Bebber;0;5;27;32
-RED BULL BRAGANTINO II;sao_paulo;-22.9533;-46.5422;Bragança Paulista;Estádio Nabi Abi Chedid;14;7;11;32
+ITZ SPORT;maranhao;-5.5264;-47.4917;Imperatriz;Estádio Frei Epifânio D'Abadia;9;10;14;33
+JACOBINENSE;bahia;-11.1825;-40.5086;Jacobina;Estádio José Rocha;9;6;18;33
+JARAGUÁ;santa_catarina;-26.4847;-49.075;Jaraguá do Sul;Estádio João Marcatto;7;4;22;33
+SABUGY;paraiba;-6.86667;-36.9167;Santa Luzia;Estádio Municipal de Santa Luzia;5;4;24;33
 IZABELENSE;para;-1.3008;-48.1617;Santa Izabel do Pará;Estádio Edilson Abreu;11;10;11;32
 SPORT ATIBAIA;sao_paulo;-23.1153;-46.5503;Atibaia;Estádio Municipal Salvador Russani;10;13;9;32
-CABENSE;pernambuco;-8.2936;-35.0356;Cabo de Santo Agostinho;Estádio Gileno de Carli;5;9;17;31
-ESMAC;para;-1.3636;-48.3756;Ananindeua;Estádio Francisco Vasques;9;10;12;31
+RED BULL BRAGANTINO II;sao_paulo;-22.9533;-46.5422;Bragança Paulista;Estádio Nabi Abi Chedid;14;7;11;32
+MARAU;rio_grande_do_sul;-28.4489;-52.1917;Marau;Estádio Carlos Renato Bebber;0;5;27;32
 BOTAFOGO;sergipe;-11.4722;-37.7458;Cristinápolis;Estádio Geraldo Oliveira;4;8;19;31
-TARUMÃ;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;9;6;16;31
 ATL. TRÊS CORAÇÕES;minas_gerais;-21.6967;-45.2533;Três Corações;Estádio Municipal Elias Arbex;8;4;19;31
+IRANDUBA;amazonas;-3.2725;-60.1889;Iranduba;Estádio Álvaro Maranhão;4;8;19;31
+OSVALDO CRUZ;sao_paulo;-21.7967;-50.8667;Osvaldo Cruz;Estádio Municipal Breno Ribeiro do Val;9;9;13;31
+TARUMÃ;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;9;6;16;31
+RIO VERDE;goias;-17.7919;-50.9244;Rio Verde;Estádio Mozart Veloso do Carmo;12;10;9;31
+ESMAC;para;-1.3636;-48.3756;Ananindeua;Estádio Francisco Vasques;9;10;12;31
+UNIÃO;ceara;-3.71722;-38.54333;Fortaleza;Estádio Presidente Vargas;8;7;16;31
 PARAENSE;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;10;7;14;31
 TUPAN;maranhao;-2.5307;-44.3068;São Luís;Estádio Governador João Castelo;11;7;13;31
-VISÃO CELESTE;rio_grande_do_norte;-5.9108;-35.2633;Parnamirim;Estádio Tenente Luiz Gonzaga;11;5;15;31
-RIACHÃO;sergipe;-11.05;-37.7333;Riachão do Dantas;Estádio Municipal de Riachão do Dantas;7;12;12;31
-RIO VERDE;goias;-17.7919;-50.9244;Rio Verde;Estádio Mozart Veloso do Carmo;12;10;9;31
-UNIÃO;ceara;-3.71722;-38.54333;Fortaleza;Estádio Presidente Vargas;8;7;16;31
-QUIXADÁ;ceara;-4.9711;-39.0153;Quixadá;Estádio Abilhão;19;6;6;31
-OSVALDO CRUZ;sao_paulo;-21.7967;-50.8667;Osvaldo Cruz;Estádio Municipal Breno Ribeiro do Val;9;9;13;31
 PEDREIRA;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;7;11;13;31
-IRANDUBA;amazonas;-3.2725;-60.1889;Iranduba;Estádio Álvaro Maranhão;4;8;19;31
+CABENSE;pernambuco;-8.2936;-35.0356;Cabo de Santo Agostinho;Estádio Gileno de Carli;5;9;17;31
+VISÃO CELESTE;rio_grande_do_norte;-5.9108;-35.2633;Parnamirim;Estádio Tenente Luiz Gonzaga;11;5;15;31
 VILA RICA;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;8;6;17;31
-ARAGUAÍNA;tocantins;-7.1914;-48.2053;Araguaína;Estádio Municipal José de Oliveira Leal;14;8;8;30
-FONTE NOVA;para;-1.4558;-48.4902;Belém;Estádio Estadual Jornalista Edgar Augusto Proença;10;12;8;30
-12 HORAS;rio_grande_do_sul;-30.0346;-51.2177;Porto Alegre;Estádio Passo d'Areia;7;6;17;30
-POMBAL;paraiba;-6.7675;-37.8028;Pombal;Estádio José Cavalcanti;11;5;14;30
-JAGUARÉ;espirito_santo;-18.9056;-40.0817;Jaguaré;Estádio Conilon;18;8;4;30
-ITARARÉ;sao_paulo;-24.1136;-49.3325;Itararé;Estádio Vergínio Holtz;11;11;8;30
-PROPRIÁ;sergipe;-10.2067;-36.8356;Propriá;Estádio Durval Feitosa;11;9;10;30
-FORTE;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Salvador Costa;10;8;12;30
-ALVORADA;amazonas;-3.119;-60.0217;Manaus;Estádio Carlos Zamith;14;4;12;30
+RIACHÃO;sergipe;-11.05;-37.7333;Riachão do Dantas;Estádio Municipal de Riachão do Dantas;7;12;12;31
+QUIXADÁ;ceara;-4.9711;-39.0153;Quixadá;Estádio Abilhão;19;6;6;31
 VILHENENSE;rondonia;-12.7414;-60.1458;Vilhena;Estádio Portal da Amazônia;8;12;10;30
-GARIBALDI;rio_grande_do_sul;-29.2553;-51.5336;Garibaldi;Estádio Alcides Santa Rosa;12;3;15;30
+12 HORAS;rio_grande_do_sul;-30.0346;-51.2177;Porto Alegre;Estádio Passo d'Areia;7;6;17;30
+ITARARÉ;sao_paulo;-24.1136;-49.3325;Itararé;Estádio Vergínio Holtz;11;11;8;30
+JAGUARÉ;espirito_santo;-18.9056;-40.0817;Jaguaré;Estádio Conilon;18;8;4;30
+ARAGUAÍNA;tocantins;-7.1914;-48.2053;Araguaína;Estádio Municipal José de Oliveira Leal;14;8;8;30
+PROPRIÁ;sergipe;-10.2067;-36.8356;Propriá;Estádio Durval Feitosa;11;9;10;30
+FONTE NOVA;para;-1.4558;-48.4902;Belém;Estádio Estadual Jornalista Edgar Augusto Proença;10;12;8;30
+POMBAL;paraiba;-6.7675;-37.8028;Pombal;Estádio José Cavalcanti;11;5;14;30
+FORTE;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Salvador Costa;10;8;12;30
 ESPORTE;paraiba;-7.0233;-37.2753;Patos;Estádio José Cavalcanti;17;6;7;30
-AMÉRICA;goias;-17.7317;-49.1022;Morrinhos;Estádio João Vilela;6;11;12;29
+ALVORADA;amazonas;-3.119;-60.0217;Manaus;Estádio Carlos Zamith;14;4;12;30
+GARIBALDI;rio_grande_do_sul;-29.2553;-51.5336;Garibaldi;Estádio Alcides Santa Rosa;12;3;15;30
 RIOSTRENSE;rio_de_janeiro;-22.5225;-41.9436;Rio das Ostras;Estádio Municipal Julieta Carvalho Viana;10;3;16;29
-REAL;roraima;0.8167;-60.2167;São Luiz do Anauá;Estádio Flamarion Vasconcelos;10;9;10;29
-TIRADENTES;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;5;4;20;29
-FLAMENGO;sergipe;-10.9167;-37.05;Aracaju;Arena Batistão;12;3;14;29
-UNAÍ;minas_gerais;-16.3575;-46.9058;Unaí;Estádio Urbano Adjuto;9;7;13;29
-IMPÉRIO SERRANO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;;19;7;3;29
-SPORT BELÉM;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;11;2;16;29
 MESQUITA;rio_de_janeiro;-22.7811;-43.4358;Mesquita;Estádio Giulite Coutinho;7;4;18;29
 CÁCERES;mato_grosso;-16.0708;-57.675;Cáceres;Estádio Geraldão;11;8;10;29
-ARAXÁ;minas_gerais;-19.5908;-46.9436;Araxá;Estádio Fausto Alvim;13;10;6;29
 NACIONAL UBERABA;minas_gerais;-19.7489;-47.9333;Uberaba;Estádio Uberabão;10;6;13;29
+SPORT BELÉM;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;11;2;16;29
+IMPÉRIO SERRANO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;;19;7;3;29
+ARAXÁ;minas_gerais;-19.5908;-46.9436;Araxá;Estádio Fausto Alvim;13;10;6;29
+UNAÍ;minas_gerais;-16.3575;-46.9058;Unaí;Estádio Urbano Adjuto;9;7;13;29
+FLAMENGO;sergipe;-10.9167;-37.05;Aracaju;Arena Batistão;12;3;14;29
+AMÉRICA;goias;-17.7317;-49.1022;Morrinhos;Estádio João Vilela;6;11;12;29
+REAL;roraima;0.8167;-60.2167;São Luiz do Anauá;Estádio Flamarion Vasconcelos;10;9;10;29
 CAMPO GRANDE;ceara;-7.2297;-39.3225;Juazeiro do Norte;Estádio Mauro Sampaio;9;5;15;29
-URUAÇU;goias;-14.5225;-49.1417;Uruaçu;Estádio Serra Grande;12;8;8;28
-GRÊMIO PAGUE MENOS;ceara;-3.7319;-38.5267;Fortaleza;Estádio Presidente Vargas;11;9;8;28
-SESP SAMAMBAENSE;distrito_federal;-15.8786;-48.0506;Samambaia;Estádio Rorizão;9;4;15;28
-GUARANY;alagoas;-9.6658;-35.7353;Maceió;Estádio Rei Pelé;15;7;6;28
-BACABAL;maranhao;-4.2264;-44.7819;Bacabal;Estádio José Corrêa;6;6;16;28
+TIRADENTES;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;5;4;20;29
 FLAMENGO;pernambuco;-8.4211;-37.0586;Arcoverde;Estádio Municipal Áureo Bradley;14;1;13;28
 TIROL;ceara;-3.71722;-38.54333;Fortaleza;Estádio Presidente Vargas;13;8;7;28
+GRÊMIO PAGUE MENOS;ceara;-3.7319;-38.5267;Fortaleza;Estádio Presidente Vargas;11;9;8;28
 RONDONIENSE;rondonia;-8.7619;-63.9039;Porto Velho;Estádio Aluízio Ferreira;4;5;19;28
-ADESG;acre;-10.1475;-67.7364;Senador Guiomard;Estádio Naborzão;11;9;8;28
+GUARANY;alagoas;-9.6658;-35.7353;Maceió;Estádio Rei Pelé;15;7;6;28
 IMBITUBA;santa_catarina;-28.2428;-48.671;Imbituba;Estádio Emília Mendes Rodrigues;10;6;12;28
+ADESG;acre;-10.1475;-67.7364;Senador Guiomard;Estádio Naborzão;11;9;8;28
+BACABAL;maranhao;-4.2264;-44.7819;Bacabal;Estádio José Corrêa;6;6;16;28
+SESP SAMAMBAENSE;distrito_federal;-15.8786;-48.0506;Samambaia;Estádio Rorizão;9;4;15;28
+URUAÇU;goias;-14.5225;-49.1417;Uruaçu;Estádio Serra Grande;12;8;8;28
+ATLÉTICO;rio_grande_do_sul;-28.2464;-52.7853;Carazinho;Estádio Paulo Coutinho;6;0;21;27
+CDC DA AMAZÔNIA;amazonas;-3.2958;-60.6214;Manacapuru;Estádio Gilberto Mestrinho;5;6;16;27
 VILHENA;rondonia;-12.7414;-60.1458;Vilhena;Estádio Portal da Amazônia;7;5;15;27
 PARAUAPEBAS;para;-6.0717;-49.9022;Parauapebas;Estádio Rosenão;15;7;5;27
 BELA VISTA;rio_de_janeiro;-22.8214;-43.0511;São Gonçalo;Estádio Alzirão;2;2;23;27
 LUMINENSE;maranhao;-2.53073;-44.3068;São Luís;Estádio Governador João Castelo;9;8;10;27
-CDC DA AMAZÔNIA;amazonas;-3.2958;-60.6214;Manacapuru;Estádio Gilberto Mestrinho;5;6;16;27
-ATLÉTICO;rio_grande_do_sul;-28.2464;-52.7853;Carazinho;Estádio Paulo Coutinho;6;0;21;27
-SUL AMÉRICA;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;8;3;15;26
-SÃO LUÍS;maranhao;-2.5307;-44.3068;São Luís;Estádio Governador João Castelo;10;5;11;26
-GUARAÍ;tocantins;-8.8375;-48.5111;Guaraí;Estádio Municipal Delfino Pereira Lopes;13;7;6;26
 BELA VISTA;goias;-16.9753;-48.9556;Bela Vista de Goiás;Estádio Geraldo Felipe;10;10;6;26
 PIRES DO RIO;goias;-17.2997;-48.2897;Pires do Rio;Estádio Edson Monteiro de Godoy;6;6;14;26
-CASTELO;espirito_santo;-20.6025;-41.1833;Castelo;Estádio Emílio Nemer;10;5;11;26
 PERILIMA;paraiba;-7.2307;-35.8814;Campina Grande;Estádio Governador Ernani Sátyro;6;8;12;26
+SÃO LUÍS;maranhao;-2.5307;-44.3068;São Luís;Estádio Governador João Castelo;10;5;11;26
 SERRANO;paraiba;-7.27583;-35.6556;Serra Redonda;Estádio Amigão;7;2;17;26
 SANTARRITENSE;minas_gerais;-22.2486;-45.7056;Santa Rita do Sapucaí;Estádio Coronel Erasmo Cabral;8;10;8;26
+GUARAÍ;tocantins;-8.8375;-48.5111;Guaraí;Estádio Municipal Delfino Pereira Lopes;13;7;6;26
 QUEIMADOS;rio_de_janeiro;-22.7167;-43.5556;Queimados;Estádio Nivaldo Pereira;5;6;15;26
-GRÊMIO VALPARAÍSO;goias;-16.0636;-47.9753;Valparaíso de Goiás;Estádio Municipal de Valparaíso;9;2;14;25
-TIRADENTES;piaui;-5.0892;-42.8016;Teresina;Estádio Governador Alberto Tavares Silva;7;6;12;25
-CASIMIRO DE ABREU;rio_de_janeiro;-22.4736;-42.2058;Casimiro de Abreu;Estádio Gonçalo Ferreira;8;4;13;25
+SUL AMÉRICA;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;8;3;15;26
+CASTELO;espirito_santo;-20.6025;-41.1833;Castelo;Estádio Emílio Nemer;10;5;11;26
 RIACHO CITY;distrito_federal;-15.8833;-48.0167;Riacho Fundo;Estádio Rorizão;6;1;18;25
-VILLA REAL;minas_gerais;-21.7644;-43.3494;Juiz de Fora;Estádio Municipal Radialista Mário Helênio;10;4;11;25
+CASIMIRO DE ABREU;rio_de_janeiro;-22.4736;-42.2058;Casimiro de Abreu;Estádio Gonçalo Ferreira;8;4;13;25
+TIRADENTES;piaui;-5.0892;-42.8016;Teresina;Estádio Governador Alberto Tavares Silva;7;6;12;25
+GRÊMIO VALPARAÍSO;goias;-16.0636;-47.9753;Valparaíso de Goiás;Estádio Municipal de Valparaíso;9;2;14;25
 ATLÉTICO ITAJAÍ;santa_catarina;-26.9083;-48.6667;Itajaí;Estádio Dr. Hercílio Luz;14;4;7;25
-VÊNUS;para;-1.7217;-48.8803;Abaetetuba;Estádio Humberto Parente;6;5;14;25
 ABD;goias;-16.6869;-49.2648;Goiânia;Estádio Olímpico Pedro Ludovico;14;5;6;25
-GLÓRIA;rio_grande_do_sul;-28.5086;-50.9356;Vacaria;Estádio Altos da Glória;14;2;8;24
-ITAREMA;ceara;-2.9258;-39.9136;Itarema;Estádio Dedezão;5;3;16;24
-FUTEBOL COM VIDA;rio_grande_do_sul;-30.0817;-51.0256;Viamão;Estádio Antônio Vieira Ramos;14;2;8;24
+VÊNUS;para;-1.7217;-48.8803;Abaetetuba;Estádio Humberto Parente;6;5;14;25
+VILLA REAL;minas_gerais;-21.7644;-43.3494;Juiz de Fora;Estádio Municipal Radialista Mário Helênio;10;4;11;25
 LEÔNICO;bahia;-12.9714;-38.5014;Salvador;Estádio de Pituaçu;2;5;17;24
+ITAREMA;ceara;-2.9258;-39.9136;Itarema;Estádio Dedezão;5;3;16;24
+GLÓRIA;rio_grande_do_sul;-28.5086;-50.9356;Vacaria;Estádio Altos da Glória;14;2;8;24
+FUTEBOL COM VIDA;rio_grande_do_sul;-30.0817;-51.0256;Viamão;Estádio Antônio Vieira Ramos;14;2;8;24
 DÍNAMO;alagoas;-9.6658;-35.7353;Maceió;Estádio Rei Pelé;2;3;19;24
+TERRA E MAR;ceara;-3.7172;-38.5433;Fortaleza;Estádio Presidente Vargas;6;4;13;23
 NOVA CONQUISTA;tocantins;-7.1558;-48.7153;Santa Fé do Araguaia;Estádio Municipal de Santa Fé do Araguaia;5;9;9;23
 PROGRESSO;roraima;2.4333;-60.9167;Mucajaí;Estádio Flamarion Vasconcelos;0;3;20;23
-TERRA E MAR;ceara;-3.7172;-38.5433;Fortaleza;Estádio Presidente Vargas;6;4;13;23
 CAIÇARA;piaui;-4.8264;-42.1678;Campo Maior;Estádio Deusdeth de Melo;6;4;13;23
+CACERENSE;mato_grosso;-16.0717;-57.6764;Cáceres;Estádio Geraldão;8;7;7;22
+JUAZEIRO;bahia;-9.4125;-40.5033;Juazeiro;Estádio Adauto Moraes;7;10;5;22
 ATLÉTICO BATISTENSE;santa_catarina;-27.2833;-48.8486;São João Batista;Estádio Municipal Valério Gomes Neto;4;3;15;22
-CRUZEIRO;paraiba;-7.3025;-38.1553;Itaporanga;Estádio José Cavalcanti;9;5;8;22
+VÁRZEA GRANDE;mato_grosso;-15.6533;-56.1336;Várzea Grande;Estádio Dito Souza;8;3;11;22
 SPARTA;tocantins;-7.1931;-48.2053;Araguaína;Estádio Mirandão;8;5;9;22
 PEDRA BRANCA;santa_catarina;-27.6461;-48.6714;Palhoça;Estádio Renato Silveira;8;3;11;22
-JUAZEIRO;bahia;-9.4125;-40.5033;Juazeiro;Estádio Adauto Moraes;7;10;5;22
 PORTO;bahia;-16.4497;-39.0647;Porto Seguro;Estádio Municipal Agnaldo Bento dos Santos;8;7;7;22
-CACERENSE;mato_grosso;-16.0717;-57.6764;Cáceres;Estádio Geraldão;8;7;7;22
 ARUC;distrito_federal;-15.77972;-47.92972;Brasília;Estádio Defelê;8;4;10;22
 NAVEGANTES;santa_catarina;-26.8936;-48.6583;Navegantes;Estádio Municipal Doutor Hercílio Luz;7;1;14;22
-PORTUGUESA;mato_grosso_do_sul;-20.4486;-54.6291;Campo Grande;Estádio Jacques da Luz;10;6;5;21
-INTER SM;rio_grande_do_sul;-29.6842;-53.8069;Santa Maria;Estádio Presidente Vargas;14;2;5;21
-NÁUTICO;mato_grosso_do_sul;-20.4486;-54.6291;Campo Grande;Estádio Jacques da Luz;6;2;13;21
-DESPORTIVA ARACAJU;sergipe;-10.9167;-37.05;Aracaju;Arena Batistão;18;2;1;21
-RB DO NORTE;amazonas;-3.119;-60.0217;Manaus;Estádio Carlos Zamith;6;3;12;21
-SAMPAIO;roraima;2.8236;-60.6753;Boa Vista;Estádio Flamarion Vasconcelos;4;4;13;21
-TRÊS PASSOS;rio_grande_do_sul;-27.4658;-53.9358;Três Passos;Estádio Luiz de Medeiros;7;1;13;21
-FORMOSA;goias;-15.5389;-47.3356;Formosa;Estádio Diogão;7;1;13;21
+CRUZEIRO;paraiba;-7.3025;-38.1553;Itaporanga;Estádio José Cavalcanti;9;5;8;22
 NOVO ESPORTE;minas_gerais;-19.4672;-42.5375;Ipatinga;Estádio Ipatingão;9;5;7;21
+INTER SM;rio_grande_do_sul;-29.6842;-53.8069;Santa Maria;Estádio Presidente Vargas;14;2;5;21
+RB DO NORTE;amazonas;-3.119;-60.0217;Manaus;Estádio Carlos Zamith;6;3;12;21
+DESPORTIVA ARACAJU;sergipe;-10.9167;-37.05;Aracaju;Arena Batistão;18;2;1;21
+SAMPAIO;roraima;2.8236;-60.6753;Boa Vista;Estádio Flamarion Vasconcelos;4;4;13;21
+NÁUTICO;mato_grosso_do_sul;-20.4486;-54.6291;Campo Grande;Estádio Jacques da Luz;6;2;13;21
+TRÊS PASSOS;rio_grande_do_sul;-27.4658;-53.9358;Três Passos;Estádio Luiz de Medeiros;7;1;13;21
+PORTUGUESA;mato_grosso_do_sul;-20.4486;-54.6291;Campo Grande;Estádio Jacques da Luz;10;6;5;21
+FORMOSA;goias;-15.5389;-47.3356;Formosa;Estádio Diogão;7;1;13;21
+FEIRENSE;bahia;-12.2667;-38.9667;Feira de Santana;Estádio Joia da Princesa;3;4;13;20
+ANDRADINA;sao_paulo;-20.8936;-51.3753;Andradina;Estádio Evandro Brembatti Calvoso;6;1;13;20
+IGREJINHA;rio_grande_do_sul;-29.5714;-50.7936;Igrejinha;Estádio Alberto Carlos Schwingel;10;4;6;20
+MOGI MIRIM;sao_paulo;-22.4333;-46.9583;Mogi Mirim;Estádio Vail Chaves;2;6;12;20
 ESSUBE;minas_gerais;-18.9186;-48.2772;Uberlândia;Parque do Sabiá;7;3;10;20
 CRUZEIRO;distrito_federal;-15.7939;-47.9575;Cruzeiro;Estádio Nacional de Brasília Mané Garrincha;6;5;9;20
-FEIRENSE;bahia;-12.2667;-38.9667;Feira de Santana;Estádio Joia da Princesa;3;4;13;20
-MOGI MIRIM;sao_paulo;-22.4333;-46.9583;Mogi Mirim;Estádio Vail Chaves;2;6;12;20
-IGREJINHA;rio_grande_do_sul;-29.5714;-50.7936;Igrejinha;Estádio Alberto Carlos Schwingel;10;4;6;20
-ANDRADINA;sao_paulo;-20.8936;-51.3753;Andradina;Estádio Evandro Brembatti Calvoso;6;1;13;20
 ATLÉTICO AMAZONENSE;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;3;6;10;19
+MARACAJU;mato_grosso_do_sul;-21.6119;-55.1681;Maracaju;Estádio Municipal Luiz Gonzaga Prata Braga;6;8;5;19
 RIACHUELO;rio_grande_do_norte;-5.8256;-35.8256;Riachuelo;Estádio Municipal de Riachuelo;6;1;12;19
 SÃO JOSÉ;tocantins;-10.2128;-48.3606;Palmas;Estádio Nilton Santos;5;4;10;19
-MARACAJU;mato_grosso_do_sul;-21.6119;-55.1681;Maracaju;Estádio Municipal Luiz Gonzaga Prata Braga;6;8;5;19
-CAMPO NOVO;mato_grosso;-13.6736;-57.8864;Campo Novo do Parecis;Estádio Ari Tomazelli;6;1;12;19
 TUPY;espirito_santo;-20.3297;-40.2925;Vila Velha;Estádio Gil Bernardes;5;8;6;19
 MONTE RORAIMA;roraima;2.8236;-60.6753;Boa Vista;Estádio Flamarion Vasconcelos;9;6;4;19
+CAMPO NOVO;mato_grosso;-13.6736;-57.8864;Campo Novo do Parecis;Estádio Ari Tomazelli;6;1;12;19
 BOTAFOGO;bahia;-12.9714;-38.5014;Salvador;Estádio de Pituaçu;8;5;6;19
-ITABERAÍ;goias;-16.0186;-49.8153;Itaberaí;Estádio Rio das Pedras;7;3;8;18
-TORRES BRASIL;pernambuco;-8.05428;-34.8813;Recife;Estádio Ademir Cunha;7;2;9;18
-SÃO GABRIEL;rio_grande_do_sul;-30.3333;-54.3167;São Gabriel;Estádio Sílvio de Faria Corrêa;0;3;15;18
-SSA;bahia;-12.9714;-38.5014;Salvador;Estádio de Pituaçu;5;8;5;18
-BRASILEIRINHO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;;1;1;16;18
-DUQUE CAXIENSE;rio_de_janeiro;-22.7833;-43.3167;Duque de Caxias;Estádio Marrentão;3;3;12;18
-BRAZLÂNDIA;distrito_federal;-15.6736;-48.2036;Brazlândia;Estádio Chapadinha;5;3;10;18
 BETIS;minas_gerais;-20.5167;-43.7028;Ouro Branco;Estádio Municipal José Mapa Filho;1;4;13;18
-BRASIL DE FARROUPILHA;rio_grande_do_sul;-29.2286;-51.3536;Farroupilha;Estádio das Castanheiras;7;4;6;17
-JUVENTUS DE MINAS NOVAS;minas_gerais;-17.2183;-42.5875;Minas Novas;Estádio Municipal Dr. Mário de Oliveira;3;3;11;17
-OPERÁRIO CEOV;mato_grosso;-15.6536;-56.1333;Várzea Grande;Arena Pantanal;8;4;5;17
-BOTAFOGO;goias;-16.7689;-47.6125;Cristalina;Estádio Municipal Salvador Amado;3;2;12;17
-QFC;rio_grande_do_norte;-5.79448;-35.211;Natal;Arena das Dunas;12;4;1;17
+SÃO GABRIEL;rio_grande_do_sul;-30.3333;-54.3167;São Gabriel;Estádio Sílvio de Faria Corrêa;0;3;15;18
+ITABERAÍ;goias;-16.0186;-49.8153;Itaberaí;Estádio Rio das Pedras;7;3;8;18
+BRASILEIRINHO;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;;1;1;16;18
+BRAZLÂNDIA;distrito_federal;-15.6736;-48.2036;Brazlândia;Estádio Chapadinha;5;3;10;18
+SSA;bahia;-12.9714;-38.5014;Salvador;Estádio de Pituaçu;5;8;5;18
+DUQUE CAXIENSE;rio_de_janeiro;-22.7833;-43.3167;Duque de Caxias;Estádio Marrentão;3;3;12;18
+TORRES BRASIL;pernambuco;-8.05428;-34.8813;Recife;Estádio Ademir Cunha;7;2;9;18
 UNIÃO FREDERIQUENSE;rio_grande_do_sul;-27.3553;-53.3964;Frederico Westphalen;Arena União;3;3;11;17
+JUVENTUS DE MINAS NOVAS;minas_gerais;-17.2183;-42.5875;Minas Novas;Estádio Municipal Dr. Mário de Oliveira;3;3;11;17
 ATLÉTICO PIAUIENSE;piaui;-5.0892;-42.8016;Teresina;Estádio Governador Alberto Tavares Silva;8;6;3;17
+QFC;rio_grande_do_norte;-5.79448;-35.211;Natal;Arena das Dunas;12;4;1;17
+BOTAFOGO;goias;-16.7689;-47.6125;Cristalina;Estádio Municipal Salvador Amado;3;2;12;17
 AGRIMAQ JEQUIAENSE;alagoas;-10.1233;-36.1356;Jequiá da Praia;Estádio Municipal José Ferreira de França;8;1;8;17
-RIVER;roraima;2.8236;-60.6753;Boa Vista;Estádio Flamarion Vasconcelos;6;2;8;16
-PESQUEIRA;pernambuco;-8.3586;-36.6953;Pesqueira;Estádio Joaquim de Brito;3;5;8;16
-SÃO GABRIEL;mato_grosso_do_sul;-19.3769;-54.5586;São Gabriel do Oeste;Estádio Municipal de São Gabriel do Oeste;3;3;10;16
+BRASIL DE FARROUPILHA;rio_grande_do_sul;-29.2286;-51.3536;Farroupilha;Estádio das Castanheiras;7;4;6;17
 ALVORADA;tocantins;-12.4817;-49.1236;Alvorada;Estádio Elias Nasser;4;6;6;16
+PRS;rio_grande_do_sul;-28.2628;-52.4076;Passo Fundo;Estádio Vermelhão da Serra;6;4;6;16
 SER CRUZ ALTA;rio_grande_do_sul;-28.6389;-53.6067;Cruz Alta;Estádio Morro dos Ventos;6;2;8;16
-OESTE BRASIL;parana;-24.7253;-53.7378;Toledo;Estádio 14 de Dezembro;5;2;9;16
+PESQUEIRA;pernambuco;-8.3586;-36.6953;Pesqueira;Estádio Joaquim de Brito;3;5;8;16
 PIMENTENSE;rondonia;-11.6725;-61.1936;Pimenta Bueno;Estádio Municipal Luiz Alves de Ataíde;2;4;10;16
 TIANGUÁ;ceara;-3.7333;-40.9722;Tianguá;Estádio Municipal Tancredo Neves;6;3;7;16
-PRS;rio_grande_do_sul;-28.2628;-52.4076;Passo Fundo;Estádio Vermelhão da Serra;6;4;6;16
+OESTE BRASIL;parana;-24.7253;-53.7378;Toledo;Estádio 14 de Dezembro;5;2;9;16
+RIVER;roraima;2.8236;-60.6753;Boa Vista;Estádio Flamarion Vasconcelos;6;2;8;16
+SÃO GABRIEL;mato_grosso_do_sul;-19.3769;-54.5586;São Gabriel do Oeste;Estádio Municipal de São Gabriel do Oeste;3;3;10;16
+PONTAPORANENSE;mato_grosso_do_sul;-22.5375;-55.7256;Ponta Porã;Estádio Aral Moreira;2;2;11;15
+FEMAR;paraiba;-7.115;-34.8642;João Pessoa;Estádio Almeidão;4;4;7;15
+ARAGUARI;minas_gerais;-18.6456;-48.1883;Araguari;Estádio Vasconcelos Montes;0;1;14;15
+BELENENSE;para;-1.4558;-48.4902;Belém;Estádio Francisco Vasques;6;1;8;15
+ATIBAIA;sao_paulo;-23.1156;-46.5503;Atibaia;Estádio Municipal Salvador Russani;6;3;6;15
+CANAÃ;bahia;-11.3039;-41.8553;Irecê;Estádio Municipal de Irecê;2;7;6;15
+FIGUEIRENSE;minas_gerais;-21.1375;-44.2619;São João del-Rei;Estádio Coronel Afonso de Moura Castro;1;5;9;15
 PORTUGUESA;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;8;3;4;15
 TAQUARUSSÚ;tocantins;-10.2128;-48.3606;Palmas;Estádio Nilton Santos;1;1;13;15
-CANAÃ;bahia;-11.3039;-41.8553;Irecê;Estádio Municipal de Irecê;2;7;6;15
-ARAGUARI;minas_gerais;-18.6456;-48.1883;Araguari;Estádio Vasconcelos Montes;0;1;14;15
-FIGUEIRENSE;minas_gerais;-21.1375;-44.2619;São João del-Rei;Estádio Coronel Afonso de Moura Castro;1;5;9;15
-ATIBAIA;sao_paulo;-23.1156;-46.5503;Atibaia;Estádio Municipal Salvador Russani;6;3;6;15
 GRÊMIO OSASCO;sao_paulo;-23.5325;-46.7925;Osasco;Estádio Municipal Prefeito José Liberatti;3;3;9;15
-FEMAR;paraiba;-7.115;-34.8642;João Pessoa;Estádio Almeidão;4;4;7;15
-PONTAPORANENSE;mato_grosso_do_sul;-22.5375;-55.7256;Ponta Porã;Estádio Aral Moreira;2;2;11;15
-BELENENSE;para;-1.4558;-48.4902;Belém;Estádio Francisco Vasques;6;1;8;15
 ROLIM DE MOURA;rondonia;-11.7258;-61.7758;Rolim de Moura;Estádio Ângelo Cassol;3;3;8;14
 CRISTAL;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;7;4;3;14
 UNIÃO DE PALMAS;tocantins;-10.2128;-48.3603;Palmas;Estádio Nilton Santos;3;1;10;14
+ARSENAL;tocantins;-6.3286;-47.4764;Tocantinópolis;Estádio João Ribeiro;1;1;12;14
 CLUBE 1992;rio_grande_do_sul;-29.9514;-51.0925;Cachoeirinha;Arena Cruzeiro;0;8;6;14
+TESLA;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;5;2;7;14
 INDEPENDENTE DE RIO VERDE;goias;-17.7919;-50.9239;Rio Verde;Estádio Mozart Veloso do Carmo;4;2;8;14
 EXPRESSINHO;maranhao;-2.5307;-44.3068;São Luís;Estádio Governador João Castelo;1;0;13;14
-ARSENAL;tocantins;-6.3286;-47.4764;Tocantinópolis;Estádio João Ribeiro;1;1;12;14
-TESLA;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;5;2;7;14
-ARAGUAIA DE PALMAS;tocantins;-10.2128;-48.3606;Palmas;Estádio Nilton Santos;4;2;7;13
-ATLÉTICO CERRADO;tocantins;-10.1764;-48.8714;Paraíso do Tocantins;Estádio Municipal Antônio Pereira Soares;2;2;9;13
 GRECAL;parana;-25.4583;-49.3875;Campo Largo;Estádio Atílio Gionédis;2;2;9;13
-IGACI;alagoas;-9.5433;-36.6386;Igaci;Estádio Zeca Rocha;8;3;2;13
 ALTAMIRA;para;-3.2028;-52.2064;Altamira;Estádio Municipal Esplanada;0;2;11;13
 SETE;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;4;3;6;13
-INDEPENDENTE;rio_de_janeiro;-22.375;-41.785;Macaé;Estádio Cláudio Moacyr de Azevedo;6;3;3;12
-POTENGI;rio_grande_do_norte;-5.79448;-35.211;Natal;Estádio Juvenal Lamartine;3;2;7;12
-CENTRAL PARAÍSO;tocantins;-10.1764;-48.8736;Paraíso do Tocantins;Estádio Municipal Antônio Pereira Soares;4;3;5;12
-BARE;amapa;2.8235;-60.6758;Boa Vista;Estádio Flamarion Vasconcelos;2;1;9;12
-SANTA CRUZ;mato_grosso;-15.0756;-57.1819;Barra do Bugres;Estádio Municipal Lamartine Ribeiro de Sales;4;1;7;12
+IGACI;alagoas;-9.5433;-36.6386;Igaci;Estádio Zeca Rocha;8;3;2;13
+ARAGUAIA DE PALMAS;tocantins;-10.2128;-48.3606;Palmas;Estádio Nilton Santos;4;2;7;13
+ATLÉTICO CERRADO;tocantins;-10.1764;-48.8714;Paraíso do Tocantins;Estádio Municipal Antônio Pereira Soares;2;2;9;13
+ALIANÇA;ceara;-4.1025;-38.5028;Horizonte;Estádio Domingão;4;2;6;12
 PASSOS;minas_gerais;-20.7186;-46.6103;Passos;Estádio Starling Soares;3;5;4;12
 TRÊS LAGOAS;mato_grosso_do_sul;-20.7514;-51.6783;Três Lagoas;Estádio Benedito Soares da Mota;3;2;7;12
-BRÉSCIA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;;3;3;6;12
+CENTRAL PARAÍSO;tocantins;-10.1764;-48.8736;Paraíso do Tocantins;Estádio Municipal Antônio Pereira Soares;4;3;5;12
+INDEPENDENTE;rio_de_janeiro;-22.375;-41.785;Macaé;Estádio Cláudio Moacyr de Azevedo;6;3;3;12
+POTENGI;rio_grande_do_norte;-5.79448;-35.211;Natal;Estádio Juvenal Lamartine;3;2;7;12
+BARE;amapa;2.8235;-60.6758;Boa Vista;Estádio Flamarion Vasconcelos;2;1;9;12
 MANCHESTER FUTEBOL;minas_gerais;-21.7644;-43.3494;Juiz de Fora;Estádio Municipal Radialista Mário Helênio;5;4;3;12
-ALIANÇA;ceara;-4.1025;-38.5028;Horizonte;Estádio Domingão;4;2;6;12
-FLAMENGO DE GUANAMBI;bahia;-14.2239;-42.7811;Guanambi;Estádio 2 de Julho;4;2;5;11
-CAP DE UBERLÂNDIA;minas_gerais;-18.9186;-48.2772;Uberlândia;Parque do Sabiá;3;1;7;11
+BRÉSCIA;rio_de_janeiro;-22.9068;-43.1729;Rio de Janeiro;;3;3;6;12
+SANTA CRUZ;mato_grosso;-15.0756;-57.1819;Barra do Bugres;Estádio Municipal Lamartine Ribeiro de Sales;4;1;7;12
 BOM JESUS;goias;-17.9256;-49.6736;Bom Jesus de Goiás;Estádio Gilmar Alves;9;2;0;11
 LIBRADE;amazonas;-3.119;-60.0217;Manaus;Estádio Ismael Benigno;3;0;8;11
+CAP DE UBERLÂNDIA;minas_gerais;-18.9186;-48.2772;Uberlândia;Parque do Sabiá;3;1;7;11
 PANTANAL;mato_grosso_do_sul;-19.0039;-57.6019;Ladário;Estádio Vicente Fortunato;5;4;2;11
-VILA REAL;ceara;-3.71722;-38.54333;Fortaleza;Estádio Presidente Vargas;3;2;5;10
-SERRANO;pernambuco;-7.9886;-38.2986;Serra Talhada;Estádio Nildo Pereira de Menezes;0;1;9;10
-ARSENAL CARIDADE;ceara;-4.2586;-39.1733;Caridade;Estádio Municipal de Caridade;1;0;9;10
-PARAÍSO;tocantins;-10.1753;-48.8756;Paraíso do Tocantins;Estádio Pereirão;1;3;6;10
-LATITUDE ZERO;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;2;2;6;10
-CR AQUIDAUANA;mato_grosso_do_sul;-20.4733;-55.7833;Aquidauana;Estádio Noroeste;7;2;1;10
-MIRAMAR;paraiba;-6.9814;-34.8361;Cabedelo;Estádio Francisco Figueiredo de Lima;4;3;3;10
+FLAMENGO DE GUANAMBI;bahia;-14.2239;-42.7811;Guanambi;Estádio 2 de Julho;4;2;5;11
 UNIÃO INHUMAS;goias;-16.3658;-49.5067;Inhumas;Estádio Zico Brandão;2;1;7;10
-UNIVAP APODI;rio_grande_do_norte;-5.6625;-37.7975;Apodi;Estádio Antônio Lopes Filho;3;2;5;10
-ATLÉTICO;mato_grosso;-15.6014;-56.0979;Cuiabá;Arena Pantanal;1;1;8;10
-SABIÁ;maranhao;-4.86722;-43.3553;Caxias;Estádio Municipal Duque de Caxias;4;1;5;10
-BATAGUASSU;mato_grosso_do_sul;-21.7175;-52.4236;Bataguassu;Estádio Municipal de Bataguassu;7;2;1;10
+SERRANO;pernambuco;-7.9886;-38.2986;Serra Talhada;Estádio Nildo Pereira de Menezes;0;1;9;10
+LATITUDE ZERO;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;2;2;6;10
+PARAÍSO;tocantins;-10.1753;-48.8756;Paraíso do Tocantins;Estádio Pereirão;1;3;6;10
+ARSENAL CARIDADE;ceara;-4.2586;-39.1733;Caridade;Estádio Municipal de Caridade;1;0;9;10
 RIO GRANDE;rio_grande_do_norte;-5.79448;-35.211;Natal;Estádio Juvenal Lamartine;5;2;3;10
-CRIXÁS;goias;-14.5467;-49.9733;Crixás;Estádio Genervino da Fonseca;6;4;0;10
-CITY LONDON;parana;-23.3103;-51.1628;Londrina;Estádio do Café;3;5;2;10
 AMERICANO;maranhao;-2.5307;-44.3068;São Luís;Estádio Nhozinho Santos;3;2;5;10
+CRIXÁS;goias;-14.5467;-49.9733;Crixás;Estádio Genervino da Fonseca;6;4;0;10
 CRUZEIRO;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;3;2;5;10
-RENOVAÇÃO;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;4;3;3;10
+SABIÁ;maranhao;-4.86722;-43.3553;Caxias;Estádio Municipal Duque de Caxias;4;1;5;10
+VILA REAL;ceara;-3.71722;-38.54333;Fortaleza;Estádio Presidente Vargas;3;2;5;10
+ATLÉTICO;mato_grosso;-15.6014;-56.0979;Cuiabá;Arena Pantanal;1;1;8;10
 TAVEIRÓPOLIS;mato_grosso_do_sul;-20.4428;-54.6464;Campo Grande;Estádio Jacques da Luz;2;0;8;10
-CANOINHAS;santa_catarina;-26.1764;-50.3939;Canoinhas;Estádio Ditão;4;0;5;9
-SANTA CRUZ;acre;-9.9747;-67.8076;Rio Branco;Estádio Arena da Floresta;5;3;1;9
+CITY LONDON;parana;-23.3103;-51.1628;Londrina;Estádio do Café;3;5;2;10
+BATAGUASSU;mato_grosso_do_sul;-21.7175;-52.4236;Bataguassu;Estádio Municipal de Bataguassu;7;2;1;10
+CR AQUIDAUANA;mato_grosso_do_sul;-20.4733;-55.7833;Aquidauana;Estádio Noroeste;7;2;1;10
+UNIVAP APODI;rio_grande_do_norte;-5.6625;-37.7975;Apodi;Estádio Antônio Lopes Filho;3;2;5;10
+RENOVAÇÃO;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;4;3;3;10
+MIRAMAR;paraiba;-6.9814;-34.8361;Cabedelo;Estádio Francisco Figueiredo de Lima;4;3;3;10
 ADEC;amapa;2.5033;-50.9456;Calçoene;Estádio Municipal de Calçoene;2;1;6;9
-PARAÍBA DO SUL;rio_de_janeiro;-22.1583;-43.2936;Paraíba do Sul;Estádio Marcelo Crivella;3;1;5;9
+SANTA CRUZ;acre;-9.9747;-67.8076;Rio Branco;Estádio Arena da Floresta;5;3;1;9
+CANOINHAS;santa_catarina;-26.1764;-50.3939;Canoinhas;Estádio Ditão;4;0;5;9
 CANÁRIO;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;2;2;5;9
-NOVA ANDRADINA;mato_grosso_do_sul;-22.2386;-53.3317;Nova Andradina;Estádio Andradão;0;2;7;9
 LAGOA;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;2;1;6;9
-CALOUROS DO AR;ceara;-3.7319;-38.5267;Fortaleza;Estádio Presidente Vargas;5;0;3;8
-LAGO VERDE;maranhao;-3.58333;-45.1667;Lago Verde;Estádio Municipal de Lago Verde;5;2;1;8
-ÁGUIA DE CUMARU;pernambuco;-7.9861;-35.7536;Cumaru;Estádio Municipal de Cumaru;2;1;5;8
-YPIRANGA;bahia;-12.9714;-38.5014;Salvador;Estádio de Pituaçu;2;4;2;8
-7 DE SETEMBRO;mato_grosso_do_sul;-22.2206;-54.8058;Dourados;Estádio Fredis Saldanha;3;2;3;8
-SOCIAL;minas_gerais;-19.5167;-42.6256;Coronel Fabriciano;Estádio Louis Ensch;0;2;6;8
-ELOSPORT CAPÃO BONITO;sao_paulo;-24.0033;-48.3475;Capão Bonito;Estádio Municipal Dr. José Sidney Cunha;1;2;5;8
-URUMAJÓ;para;-1.0167;-46.65;Augusto Corrêa;Estádio Municipal de Augusto Corrêa;3;3;2;8
-PAULISTANO;mato_grosso;-15.5961;-56.0969;Cuiabá;Arena Pantanal;0;0;8;8
-BRASILIS;sao_paulo;-22.4786;-46.6353;Águas de Lindóia;Estádio Leonardo Barbieri;2;4;2;8
-PIRAPORA;minas_gerais;-17.3536;-44.9367;Pirapora;Estádio Municipal Otaviano Alvim;1;0;7;8
-TERESINA;piaui;-5.0892;-42.8016;Teresina;Estádio Governador Alberto Tavares Silva;3;5;0;8
-CHAPADA;mato_grosso;-15.4606;-55.7497;Chapada dos Guimarães;Estádio Municipal de Chapada dos Guimarães;5;2;1;8
+NOVA ANDRADINA;mato_grosso_do_sul;-22.2386;-53.3317;Nova Andradina;Estádio Andradão;0;2;7;9
+PARAÍBA DO SUL;rio_de_janeiro;-22.1583;-43.2936;Paraíba do Sul;Estádio Marcelo Crivella;3;1;5;9
 ATLÉTICO BACABAL;maranhao;-4.2264;-44.7819;Bacabal;Estádio José Corrêa;3;1;4;8
-FERROVIÁRIO;piaui;-5.08917;-42.80167;Teresina;Estádio Lindolfo Monteiro;3;3;1;7
-GÁLATAS;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Salvador Costa;2;1;4;7
-SÃO JOSÉ;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;5;1;1;7
-COTINGUIBA;sergipe;-10.9167;-37.05;Aracaju;Arena Batistão;1;1;5;7
-INTER SÃO GOTARDO;minas_gerais;-19.3033;-46.0436;São Gotardo;Estádio Olavo Bilac;0;2;5;7
+BRASILIS;sao_paulo;-22.4786;-46.6353;Águas de Lindóia;Estádio Leonardo Barbieri;2;4;2;8
+CALOUROS DO AR;ceara;-3.7319;-38.5267;Fortaleza;Estádio Presidente Vargas;5;0;3;8
+YPIRANGA;bahia;-12.9714;-38.5014;Salvador;Estádio de Pituaçu;2;4;2;8
+ÁGUIA DE CUMARU;pernambuco;-7.9861;-35.7536;Cumaru;Estádio Municipal de Cumaru;2;1;5;8
+URUMAJÓ;para;-1.0167;-46.65;Augusto Corrêa;Estádio Municipal de Augusto Corrêa;3;3;2;8
+7 DE SETEMBRO;mato_grosso_do_sul;-22.2206;-54.8058;Dourados;Estádio Fredis Saldanha;3;2;3;8
+ELOSPORT CAPÃO BONITO;sao_paulo;-24.0033;-48.3475;Capão Bonito;Estádio Municipal Dr. José Sidney Cunha;1;2;5;8
+LAGO VERDE;maranhao;-3.58333;-45.1667;Lago Verde;Estádio Municipal de Lago Verde;5;2;1;8
+CHAPADA;mato_grosso;-15.4606;-55.7497;Chapada dos Guimarães;Estádio Municipal de Chapada dos Guimarães;5;2;1;8
+SOCIAL;minas_gerais;-19.5167;-42.6256;Coronel Fabriciano;Estádio Louis Ensch;0;2;6;8
+PAULISTANO;mato_grosso;-15.5961;-56.0969;Cuiabá;Arena Pantanal;0;0;8;8
+TERESINA;piaui;-5.0892;-42.8016;Teresina;Estádio Governador Alberto Tavares Silva;3;5;0;8
+PIRAPORA;minas_gerais;-17.3536;-44.9367;Pirapora;Estádio Municipal Otaviano Alvim;1;0;7;8
 JUARA;mato_grosso;-11.2619;-57.5358;Juara;Estádio Municipal Danilo Pagot;3;3;1;7
 CANDANGO;distrito_federal;-15.7939;-47.8828;Brasília;Estádio Nacional de Brasília Mané Garrincha;1;0;6;7
+COTINGUIBA;sergipe;-10.9167;-37.05;Aracaju;Arena Batistão;1;1;5;7
 ANJOS DO CÉU;ceara;-3.7319;-38.5267;Fortaleza;Estádio Presidente Vargas;1;2;4;7
-SÃO JOSÉ DE ITAPERUNA;rio_de_janeiro;-21.2058;-41.8886;Itaperuna;Estádio Jair Bittencourt;1;1;4;6
-MISTO;mato_grosso_do_sul;-20.7514;-51.6783;Três Lagoas;Estádio Madrugadão;0;2;4;6
-MIRANORTE;tocantins;-9.5486;-48.3964;Miranorte;Estádio Municipal Zeca Marinho;0;1;5;6
-MONTE CRISTO;goias;-16.6809;-49.2533;Goiânia;Estádio Olímpico Pedro Ludovico;0;0;6;6
-BOLAMENSE;distrito_federal;-15.88583;-48.05389;Samambaia;Estádio Rorizão;0;0;6;6
-MARAJÓ;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;1;1;4;6
-ORLEANS;santa_catarina;-28.3556;-49.2936;Orleans;Estádio Osmundino Matheus;0;0;6;6
-SÃO DOMINGOS;alagoas;-9.6658;-35.7353;Maceió;Estádio Rei Pelé;0;1;5;6
-GUAJARÁ;rondonia;-10.7833;-65.3333;Guajará-Mirim;Estádio João Saldanha;1;1;4;6
-ITACOATIARA;amazonas;-3.1431;-58.4442;Itacoatiara;Estádio Municipal Floro de Mendonça;2;4;0;6
-ROYAL;goias;-16.7036;-49.0953;Senador Canedo;Estádio Plínio José de Souza;0;5;1;6
-RONDONÓPOLIS;mato_grosso;-16.4683;-54.6358;Rondonópolis;Estádio Municipal Engenheiro Luthero Lopes;2;3;1;6
-MORENINHAS;mato_grosso_do_sul;-20.4428;-54.6461;Campo Grande;Estádio Jacques da Luz;2;1;3;6
+FERROVIÁRIO;piaui;-5.08917;-42.80167;Teresina;Estádio Lindolfo Monteiro;3;3;1;7
+INTER SÃO GOTARDO;minas_gerais;-19.3033;-46.0436;São Gotardo;Estádio Olavo Bilac;0;2;5;7
+GÁLATAS;espirito_santo;-20.3155;-40.3128;Vitória;Estádio Salvador Costa;2;1;4;7
+SÃO JOSÉ;amapa;0.0349;-51.0694;Macapá;Estádio Milton de Souza Corrêa;5;1;1;7
 MAZAGÃO;amapa;-0.115;-51.3883;Mazagão;Estádio Milton de Souza Corrêa;4;1;1;6
 PORTELA;bahia;-9.4033;-38.2206;Paulo Afonso;Estádio Álvaro de Carvalho;0;1;5;6
-CHÃ GRANDE;pernambuco;-8.2486;-35.4636;Chã Grande;Estádio Ewerson Simões Barbosa;0;1;4;5
-COMERCIAL DE TRÊS LAGOAS;mato_grosso_do_sul;-20.7514;-51.6783;Três Lagoas;Estádio Benedito Soares da Mota;1;2;2;5
+GUAJARÁ;rondonia;-10.7833;-65.3333;Guajará-Mirim;Estádio João Saldanha;1;1;4;6
+MIRANORTE;tocantins;-9.5486;-48.3964;Miranorte;Estádio Municipal Zeca Marinho;0;1;5;6
+MORENINHAS;mato_grosso_do_sul;-20.4428;-54.6461;Campo Grande;Estádio Jacques da Luz;2;1;3;6
+RONDONÓPOLIS;mato_grosso;-16.4683;-54.6358;Rondonópolis;Estádio Municipal Engenheiro Luthero Lopes;2;3;1;6
+ROYAL;goias;-16.7036;-49.0953;Senador Canedo;Estádio Plínio José de Souza;0;5;1;6
+MARAJÓ;para;-1.4558;-48.4902;Belém;Estádio Olímpico do Pará;1;1;4;6
+ORLEANS;santa_catarina;-28.3556;-49.2936;Orleans;Estádio Osmundino Matheus;0;0;6;6
+ITACOATIARA;amazonas;-3.1431;-58.4442;Itacoatiara;Estádio Municipal Floro de Mendonça;2;4;0;6
+MONTE CRISTO;goias;-16.6809;-49.2533;Goiânia;Estádio Olímpico Pedro Ludovico;0;0;6;6
+BOLAMENSE;distrito_federal;-15.88583;-48.05389;Samambaia;Estádio Rorizão;0;0;6;6
+SÃO JOSÉ DE ITAPERUNA;rio_de_janeiro;-21.2058;-41.8886;Itaperuna;Estádio Jair Bittencourt;1;1;4;6
+MISTO;mato_grosso_do_sul;-20.7514;-51.6783;Três Lagoas;Estádio Madrugadão;0;2;4;6
+SÃO DOMINGOS;alagoas;-9.6658;-35.7353;Maceió;Estádio Rei Pelé;0;1;5;6
 CAMAÇARI;bahia;-12.6975;-38.3247;Camaçari;Estádio Armando Oliveira;0;0;5;5
 CAMAÇARIENSE;bahia;-12.6975;-38.3247;Camaçari;Estádio Armando Oliveira;1;1;3;5
-INTERNACIONAL;paraiba;-7.115;-34.8642;João Pessoa;Estádio Almeidão;1;0;4;5
-GRÊMIO CARAJÁS;para;-6.0725;-49.9025;Parauapebas;Estádio Rosenão;0;0;5;5
+CANAÃ;distrito_federal;-15.7733;-47.7619;Paranoá;Estádio JK;3;0;2;5
 SANTA FÉ;pernambuco;-7.9575;-36.2058;Santa Cruz do Capibaribe;Estádio Municipal Otávio Limeira Alves;0;2;3;5
+GRÊMIO CARAJÁS;para;-6.0725;-49.9025;Parauapebas;Estádio Rosenão;0;0;5;5
 CEART;mato_grosso_do_sul;-22.2206;-54.8058;Dourados;Estádio Fredis Saldanha;0;1;4;5
+INTERNACIONAL;paraiba;-7.115;-34.8642;João Pessoa;Estádio Almeidão;1;0;4;5
 TIMBAÚBA;pernambuco;-7.5069;-35.3167;Timbaúba;Estádio Municipal Ferreira Lima;1;2;2;5
 BARREIROS;pernambuco;-8.8239;-35.5139;Barreiros;Estádio Luiz de Albuquerque;2;1;2;5
-CANAÃ;distrito_federal;-15.7733;-47.7619;Paranoá;Estádio JK;3;0;2;5
-UIRAPURU;mato_grosso;-15.601;-56.0979;Cuiabá;Arena Pantanal;1;0;3;4
+CHÃ GRANDE;pernambuco;-8.2486;-35.4636;Chã Grande;Estádio Ewerson Simões Barbosa;0;1;4;5
+COMERCIAL DE TRÊS LAGOAS;mato_grosso_do_sul;-20.7514;-51.6783;Três Lagoas;Estádio Benedito Soares da Mota;1;2;2;5
 COLINAS;tocantins;-8.0556;-48.4597;Colinas do Tocantins;Estádio Municipal Bigodão;0;0;4;4
 SPORTING MARACANÃ;para;-0.7736;-47.4553;Maracanã;Estádio Fumeirão;0;2;2;4
 BALSAS;maranhao;-7.5333;-46.0333;Balsas;Estádio Cássio Reis;0;1;3;4
+UIRAPURU;mato_grosso;-15.601;-56.0979;Cuiabá;Arena Pantanal;1;0;3;4
 LAJEADENSE;rio_grande_do_sul;-29.4673;-51.9711;Lajeado;Arena Alviazul;1;0;2;3
 ARAIOSES;maranhao;-2.8917;-41.9008;Araioses;Estádio Cardosão;0;0;2;2
 TEIXEIRA DE FREITAS;bahia;-17.5386;-39.7386;Teixeira de Freitas;Estádio Tomatão;0;0;2;2

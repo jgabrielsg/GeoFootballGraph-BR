@@ -53,7 +53,7 @@ def main():
     serie_c_list = []
 
     for c_id in clusters:
-        limit = 24 if c_id == north_cluster_id else 20
+        limit = 60 if c_id == north_cluster_id else 20
         cluster_data = df[df['cluster_k4'] == c_id].sort_values(by='score', ascending=False).head(limit).copy()
         cluster_data['pos'] = range(1, limit + 1)
         cluster_data['is_north'] = (c_id == north_cluster_id)

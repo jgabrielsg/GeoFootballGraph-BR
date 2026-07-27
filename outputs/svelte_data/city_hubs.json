@@ -7891,5 +7891,33 @@
     "hub_aero_lon": -56.116699,
     "dist_ate_aero_km": 2.12,
     "tempo_ate_aero_h": 0.07
+  },
+  "ÁGUIA DE MARABÁ/para": {
+    "clube": "ÁGUIA DE MARABÁ",
+    "estado": "para",
+    "cidade": "Marabá",
+    "lat": -5.3556,
+    "lon": -49.1122,
+    "icao": "SBMA",
+    "hub_aero_nome": "Maraba Airport",
+    "hub_aero_cidade": "Maraba",
+    "hub_aero_lat": -5.3685898781,
+    "hub_aero_lon": -49.1380004883,
+    "dist_ate_aero_km": 5.78,
+    "tempo_ate_aero_h": 0.12
+  },
+  "VÁRZEA GRANDE/mato_grosso": {
+    "clube": "VÁRZEA GRANDE",
+    "estado": "mato_grosso",
+    "cidade": "Várzea Grande",
+    "lat": -15.6533,
+    "lon": -56.1336,
+    "icao": "SBCY",
+    "hub_aero_nome": "Marechal Rondon Airport",
+    "hub_aero_cidade": "Cuiaba",
+    "hub_aero_lat": -15.6528997421,
+    "hub_aero_lon": -56.1166992188,
+    "dist_ate_aero_km": 2.11,
+    "tempo_ate_aero_h": 0.07
   }
 }
